@@ -1,12 +1,12 @@
 # Site settings
-title: Flashcard Generator
+title: DTZ Vorbereitung Notizbuch by vshanbha
 logo: "/assets/logos/logo.svg"
 description: >- # this means to ignore newlines until "baseurl:"
-  A sample site for generating flashcards.
-baseurl: "/flashcard_generator" # the subpath of your site, e.g. /blog
+  Ein Online-Notizbuch, das bei der Vorbereitung auf den Deutschtest für Zuwanderer (DTZ) hilft. Enthält Flashcards, um den deutschen Wortschatz zu erweitern.
+baseurl: "/DTZNotizbuch" # the subpath of your site, e.g. /blog
 url: "https://github.com/vshanbha" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  vshanbha
-repository: "vshanbha/github_jekyll_pages_demo"
+repository: "vshanbha/DTZNotizbuch"
 css_inline: false
 
 # Build settings
@@ -79,11 +79,11 @@ defaults:
       layout: team_member
 
 navigation_header:
-- title: Home
+- title: Hauptseite
   url: /
 - title: Flashcards
   url: /flashcards/
-- title: About
+- title: Über uns
   url: /about/
 - title: Team
   url: /team/

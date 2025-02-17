@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the a generated "About" page.
+Dies ist ein Online-Notizbuch, das bei der Vorbereitung auf den Deutschtest für Zuwanderer (DTZ) hilft. Enthält Flashcards, um den deutschen Wortschatz zu erweitern.
