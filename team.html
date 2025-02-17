@@ -1,0 +1,18 @@
+---
+layout: page
+title: Our Team
+permalink: /team/
+---
+<div class="team-grid">
+  {% for member in site.team %}
+    <div class="team-member-card">
+      <a href="{{ member.url | relative_url }}">
+        {% if member.image %}
+          <img src="{{ member.image | relative_url }}" alt="{{ member.name }}">
+        {% endif %}
+        <h3>{{ member.name }}</h3>
+        <p>{{ member.position }}</p>
+      </a>
+    </div>
+  {% endfor %}
+</div>
