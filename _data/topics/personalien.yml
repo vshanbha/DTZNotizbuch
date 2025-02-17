@@ -7,51 +7,458 @@ categories:
       - id: 1001
         title: "Der Name"
         description: "Wie man jemanden nennt."
+        plural: "Die Namen"
         related_cards: ["Der Vorname", "Der Nachname", "Der Spitzname", "Der Familienname", "Der Mädchenname"]
         examples: ["Mein Name ist Anna.", "Wie ist dein Name?", "Er hat einen ungewöhnlichen Namen."]
       - id: 1002
         title: "Die Adresse"
         description: "Der Ort, an dem jemand wohnt."
+        plural: "Die Adressen"
         related_cards: ["Die Straße", "Die Hausnummer", "Die Postleitzahl", "Der Wohnort", "Das Land"]
         examples: ["Meine Adresse ist Hauptstraße 5.", "Kannst du mir deine Adresse geben?", "Ich habe meine Adresse geändert."]
       - id: 1003
         title: "Das Geburtsdatum"
         description: "Der Tag, an dem jemand geboren wurde."
+        plural: "Die Geburtsdaten"
         related_cards: ["Der Geburtsort", "Das Alter", "Das Geburtsjahr", "Der Geburtstag", "Die Geburtsurkunde"]
         examples: ["Mein Geburtsdatum ist der 1. Januar 1990.", "Was ist dein Geburtsdatum?", "Er hat sein Geburtsdatum vergessen."]
       - id: 1004
         title: "Die Telefonnummer"
         description: "Eine Nummer, die man anruft, um jemanden zu erreichen."
+        plural: "Die Telefonnummern"
         related_cards: ["Die Handynummer", "Die Festnetznummer", "Die Vorwahl", "Der Kontakt", "Der Anruf"]
         examples: ["Meine Telefonnummer ist 123456789.", "Kann ich deine Telefonnummer haben?", "Ich habe seine Telefonnummer verloren."]
       - id: 1005
         title: "Der Beruf"
         description: "Die Arbeit, die jemand macht."
+        plural: "Die Berufe"
         related_cards: ["Der Job", "Die Arbeit", "Die Karriere", "Die Stelle", "Die Beschäftigung"]
         examples: ["Mein Beruf ist Lehrer.", "Was ist dein Beruf?", "Sie hat einen interessanten Beruf."]
       - id: 1006
         title: "Der Vorname"
         description: "Der erste Name einer Person."
+        plural: "Die Vornamen"
         related_cards: ["Der Name", "Der Nachname", "Der Spitzname", "Der Familienname", "Der Mädchenname"]
         examples: ["Mein Vorname ist Anna.", "Wie ist dein Vorname?", "Er hat einen ungewöhnlichen Vornamen."]
       - id: 1007
         title: "Der Nachname"
         description: "Der Familienname einer Person."
+        plural: "Die Nachnamen"
         related_cards: ["Der Name", "Der Vorname", "Der Spitzname", "Der Familienname", "Der Mädchenname"]
         examples: ["Mein Nachname ist Müller.", "Wie ist dein Nachname?", "Sie hat einen langen Nachnamen."]
+      - id: 1008
+        title: "Die Straße"
+        description: "Ein Weg in einer Stadt oder einem Dorf."
+        plural: "Die Straßen"
+        related_cards: ["Die Adresse", "Die Hausnummer", "Der Wohnort", "Das Land"]
+        examples: ["Ich wohne in der Hauptstraße.", "Wie heißt deine Straße?", "Die Straße ist sehr lang."]
+      - id: 1009
+        title: "Die Staatsangehörigkeit"
+        description: "Die Zugehörigkeit zu einem bestimmten Staat."
+        plural: "Die Staatsangehörigkeiten"
+        related_cards: ["Das Land", "Der Pass", "Die Nationalität"]
+        examples: ["Meine Staatsangehörigkeit ist deutsch.", "Welche Staatsangehörigkeit hast du?", "Er hat die Staatsangehörigkeit gewechselt."]
+      - id: 1010
+        title: "Der Platz"
+        description: "Ein freier Raum oder eine Stelle."
+        plural: "Die Plätze"
+        related_cards: ["Der Ort", "Die Stelle", "Der Raum"]
+        examples: ["Ich habe einen Platz im Park gefunden.", "Wo ist dein Platz?", "Der Platz ist besetzt."]
+      - id: 1011
+        title: "Die Hausnummer"
+        description: "Die Nummer eines Hauses in einer Straße."
+        plural: "Die Hausnummern"
+        related_cards: ["Die Adresse", "Die Straße", "Der Wohnort"]
+        examples: ["Meine Hausnummer ist 5.", "Wie ist deine Hausnummer?", "Die Hausnummer ist schwer zu finden."]
+      - id: 1012
+        title: "Die Postleitzahl"
+        description: "Eine Zahl, die ein bestimmtes Gebiet in einem Land kennzeichnet."
+        plural: "Die Postleitzahlen"
+        related_cards: ["Die Adresse", "Die Straße", "Der Wohnort"]
+        examples: ["Meine Postleitzahl ist 12345.", "Wie ist deine Postleitzahl?", "Die Postleitzahl ist falsch."]
+      - id: 1013
+        title: "Die Personalien"
+        description: "Die persönlichen Daten einer Person."
+        related_cards: ["Der Name", "Die Adresse", "Das Geburtsdatum"]
+        examples: ["Ich muss meine Personalien angeben.", "Kannst du deine Personalien bestätigen?", "Die Personalien wurden überprüft."]
+      - id: 1014
+        title: "Der Familienstand"
+        description: "Der rechtliche Status einer Person in Bezug auf die Ehe."
+        related_cards: ["Die Ehe", "Die Scheidung", "Die Heirat"]
+        examples: ["Mein Familienstand ist ledig.", "Wie ist dein Familienstand?", "Der Familienstand hat sich geändert."]
+      - id: 1015
+        title: "Die Familie"
+        description: "Eine Gruppe von Personen, die durch Abstammung oder Heirat miteinander verbunden sind."
+        plural: "Die Familien"
+        related_cards: ["Der Bruder", "Die Schwester", "Die Eltern"]
+        examples: ["Meine Familie ist groß.", "Wie ist deine Familie?", "Er hat eine nette Familie."]
+      - id: 1016
+        title: "Der Bruder"
+        description: "Ein männliches Geschwisterkind."
+        plural: "Die Brüder"
+        related_cards: ["Die Schwester", "Die Eltern", "Die Familie"]
+        examples: ["Mein Bruder ist älter als ich.", "Hast du einen Bruder?", "Er hat zwei Brüder."]
+      - id: 1017
+        title: "Der Schwager"
+        description: "Der Ehemann der Schwester oder der Bruder des Ehepartners."
+        plural: "Die Schwäger"
+        related_cards: ["Die Schwester", "Der Bruder", "Die Familie"]
+        examples: ["Mein Schwager ist sehr nett.", "Wie heißt dein Schwager?", "Er hat einen Schwager."]
+      - id: 1018
+        title: "Der Cousin"
+        description: "Der Sohn des Onkels oder der Tante."
+        plural: "Die Cousins"
+        related_cards: ["Die Cousine", "Der Onkel", "Die Tante"]
+        examples: ["Mein Cousin wohnt in Berlin.", "Hast du einen Cousin?", "Er hat viele Cousins."]
+      - id: 1019
+        title: "Die Freundin"
+        description: "Eine weibliche Person, mit der man eine freundschaftliche oder romantische Beziehung hat."
+        plural: "Die Freundinnen"
+        related_cards: ["Der Freund", "Die Beziehung", "Die Liebe"]
+        examples: ["Meine Freundin ist sehr nett.", "Hast du eine Freundin?", "Er hat eine neue Freundin."]
+      - id: 1020
+        title: "Die Nichte"
+        description: "Die Tochter des Bruders oder der Schwester."
+        plural: "Die Nichten"
+        related_cards: ["Der Neffe", "Der Bruder", "Die Schwester"]
+        examples: ["Meine Nichte ist fünf Jahre alt.", "Hast du eine Nichte?", "Er hat zwei Nichten."]
+      - id: 1021
+        title: "Die Heirat"
+        description: "Der Akt, durch den zwei Personen den Bund der Ehe eingehen."
+        plural: "Die Heiraten"
+        related_cards: ["Die Hochzeit", "Die Ehe", "Die Scheidung"]
+        examples: ["Ihre Heirat war im Sommer.", "Wann ist die Heirat?", "Sie planen ihre Heirat."]
+      - id: 1022
+        title: "Die Hochzeit"
+        description: "Die Feier, bei der zwei Personen heiraten."
+        plural: "Die Hochzeiten"
+        related_cards: ["Die Heirat", "Die Ehe", "Die Scheidung"]
+        examples: ["Die Hochzeit war wunderschön.", "Wann ist die Hochzeit?", "Sie haben eine große Hochzeit gefeiert."]
+      - id: 1023
+        title: "Die Ehe"
+        description: "Der rechtliche und soziale Bund zwischen zwei Personen."
+        plural: "Die Ehen"
+        related_cards: ["Die Heirat", "Die Hochzeit", "Die Scheidung"]
+        examples: ["Ihre Ehe ist glücklich.", "Wie lange dauert die Ehe?", "Sie haben eine gute Ehe."]
+      - id: 1024
+        title: "Die Scheidung"
+        description: "Die rechtliche Auflösung einer Ehe."
+        plural: "Die Scheidungen"
+        related_cards: ["Die Ehe", "Die Heirat", "Die Hochzeit"]
+        examples: ["Die Scheidung war schwierig.", "Wann war die Scheidung?", "Sie haben sich scheiden lassen."]
+      - id: 1025
+        title: "Die Liebe"
+        description: "Ein starkes Gefühl der Zuneigung und Fürsorge."
+        plural: "Die Lieben"
+        related_cards: ["Die Beziehung", "Die Hochzeit", "Die Ehe"]
+        examples: ["Ich liebe dich.", "Was ist Liebe?", "Sie haben sich in Liebe geheiratet."]
+      - id: 1026
+        title: "Die Eltern"
+        description: "Die Mutter und der Vater einer Person."
+        related_cards: ["Die Mutter", "Der Vater", "Die Familie"]
+        examples: ["Meine Eltern sind sehr nett.", "Wie heißen deine Eltern?", "Er lebt bei seinen Eltern."]
+      - id: 1027
+        title: "Der Sohn"
+        description: "Ein männliches Kind."
+        plural: "Die Söhne"
+        related_cards: ["Die Tochter", "Die Eltern", "Die Familie"]
+        examples: ["Mein Sohn ist fünf Jahre alt.", "Hast du einen Sohn?", "Er hat zwei Söhne."]
+      - id: 1028
+        title: "Der Onkel"
+        description: "Der Bruder der Mutter oder des Vaters."
+        plural: "Die Onkel"
+        related_cards: ["Die Tante", "Der Neffe", "Die Nichte"]
+        examples: ["Mein Onkel wohnt in Berlin.", "Hast du einen Onkel?", "Er hat viele Onkel."]
+      - id: 1029
+        title: "Die Tante"
+        description: "Die Schwester der Mutter oder des Vaters."
+        plural: "Die Tanten"
+        related_cards: ["Der Onkel", "Der Neffe", "Die Nichte"]
+        examples: ["Meine Tante ist sehr nett.", "Wie heißt deine Tante?", "Er hat zwei Tanten."]
+      - id: 1030
+        title: "Die Frau"
+        description: "Eine erwachsene weibliche Person."
+        plural: "Die Frauen"
+        related_cards: ["Der Mann", "Die Dame", "Das Mädchen"]
+        examples: ["Die Frau ist Lehrerin.", "Wer ist diese Frau?", "Er hat eine nette Frau kennengelernt."]
+      - id: 1031
+        title: "Der Ehemann"
+        description: "Der Mann, mit dem eine Frau verheiratet ist."
+        plural: "Die Ehemänner"
+        related_cards: ["Die Ehefrau", "Die Heirat", "Die Ehe"]
+        examples: ["Mein Ehemann ist Arzt.", "Wie heißt dein Ehemann?", "Sie hat einen liebevollen Ehemann."]
+      - id: 1032
+        title: "Der Vater"
+        description: "Der männliche Elternteil."
+        plural: "Die Väter"
+        related_cards: ["Die Mutter", "Die Eltern", "Die Familie"]
+        examples: ["Mein Vater ist Ingenieur.", "Wie heißt dein Vater?", "Er hat einen strengen Vater."]
+      - id: 1033
+        title: "Die Mutter"
+        description: "Der weibliche Elternteil."
+        plural: "Die Mütter"
+        related_cards: ["Der Vater", "Die Eltern", "Die Familie"]
+        examples: ["Meine Mutter ist Lehrerin.", "Wie heißt deine Mutter?", "Sie hat eine liebevolle Mutter."]
+      - id: 1034
+        title: "Die Schwägerin"
+        description: "Die Ehefrau des Bruders oder die Schwester des Ehepartners."
+        plural: "Die Schwägerinnen"
+        related_cards: ["Der Schwager", "Der Bruder", "Die Schwester"]
+        examples: ["Meine Schwägerin ist sehr nett.", "Wie heißt deine Schwägerin?", "Er hat eine Schwägerin."]
+      - id: 1035
+        title: "Die Cousine"
+        description: "Die Tochter des Onkels oder der Tante."
+        plural: "Die Cousinen"
+        related_cards: ["Der Cousin", "Der Onkel", "Die Tante"]
+        examples: ["Meine Cousine wohnt in Berlin.", "Hast du eine Cousine?", "Er hat viele Cousinen."]
+      - id: 1036
+        title: "Der Neffe"
+        description: "Der Sohn des Bruders oder der Schwester."
+        plural: "Die Neffen"
+        related_cards: ["Die Nichte", "Der Bruder", "Die Schwester"]
+        examples: ["Mein Neffe ist fünf Jahre alt.", "Hast du einen Neffen?", "Er hat zwei Neffen."]
+      - id: 1037
+        title: "Die Großmutter"
+        description: "Die Mutter des Vaters oder der Mutter."
+        plural: "Die Großmütter"
+        related_cards: ["Der Großvater", "Die Eltern", "Die Familie"]
+        examples: ["Meine Großmutter ist sehr nett.", "Wie heißt deine Großmutter?", "Er hat eine liebevolle Großmutter."]
+      - id: 1038
+        title: "Der Großvater"
+        description: "Der Vater des Vaters oder der Mutter."
+        plural: "Die Großväter"
+        related_cards: ["Die Großmutter", "Die Eltern", "Die Familie"]
+        examples: ["Mein Großvater ist sehr nett.", "Wie heißt dein Großvater?", "Er hat einen liebevollen Großvater."]
+      - id: 1039
+        title: "Das Enkelkind"
+        description: "Das Kind des Sohnes oder der Tochter."
+        plural: "Die Enkelkinder"
+        related_cards: ["Der Enkel", "Die Enkelin", "Die Großeltern"]
+        examples: ["Mein Enkelkind ist fünf Jahre alt.", "Hast du ein Enkelkind?", "Er hat zwei Enkelkinder."]
+      - id: 1040
+        title: "Der Enkel"
+        description: "Der Sohn des Sohnes oder der Tochter."
+        plural: "Die Enkel"
+        related_cards: ["Das Enkelkind", "Die Enkelin", "Die Großeltern"]
+        examples: ["Mein Enkel ist fünf Jahre alt.", "Hast du einen Enkel?", "Er hat zwei Enkel."]
+      - id: 1041
+        title: "Die Enkelin"
+        description: "Die Tochter des Sohnes oder der Tochter."
+        plural: "Die Enkelinnen"
+        related_cards: ["Das Enkelkind", "Der Enkel", "Die Großeltern"]
+        examples: ["Meine Enkelin ist fünf Jahre alt.", "Hast du eine Enkelin?", "Er hat zwei Enkelinnen."]
+      - id: 1042
+        title: "Das Mädchen"
+        description: "Ein weibliches Kind."
+        plural: "Die Mädchen"
+        related_cards: ["Der Junge", "Die Tochter", "Die Schwester"]
+        examples: ["Das Mädchen spielt im Park.", "Wie heißt das Mädchen?", "Sie hat ein fröhliches Mädchen."]
+      - id: 1043
+        title: "Die Tochter"
+        description: "Ein weibliches Kind."
+        plural: "Die Töchter"
+        related_cards: ["Der Sohn", "Die Eltern", "Die Familie"]
+        examples: ["Meine Tochter ist fünf Jahre alt.", "Hast du eine Tochter?", "Er hat zwei Töchter."]
+      - id: 1044
+        title: "Die Schwester"
+        description: "Ein weibliches Geschwisterkind."
+        plural: "Die Schwestern"
+        related_cards: ["Der Bruder", "Die Eltern", "Die Familie"]
+        examples: ["Meine Schwester ist älter als ich.", "Hast du eine Schwester?", "Er hat zwei Schwestern."]
+      - id: 1045
+        title: "Die Beziehung"
+        description: "Eine Verbindung zwischen zwei oder mehr Personen."
+        plural: "Die Beziehungen"
+        related_cards: ["Die Liebe", "Die Freundschaft", "Die Partnerschaft"]
+        examples: ["Ihre Beziehung ist sehr stark.", "Wie ist deine Beziehung zu ihm?", "Sie haben eine gute Beziehung."]
+      - id: 1046
+        title: "Der Freund"
+        description: "Eine männliche Person, mit der man eine freundschaftliche oder romantische Beziehung hat."
+        plural: "Die Freunde"
+        related_cards: ["Die Freundin", "Die Beziehung", "Die Liebe"]
+        examples: ["Mein Freund ist sehr nett.", "Hast du einen Freund?", "Er hat einen neuen Freund."]
+      - id: 1047
+        title: "Die Freundin"
+        description: "Eine weibliche Person, mit der man eine freundschaftliche oder romantische Beziehung hat."
+        plural: "Die Freundinnen"
+        related_cards: ["Der Freund", "Die Beziehung", "Die Liebe"]
+        examples: ["Meine Freundin ist sehr nett.", "Hast du eine Freundin?", "Er hat eine neue Freundin."]
+      - id: 1048
+        title: "Die Geschwister"
+        description: "Brüder und Schwestern einer Person."
+        related_cards: ["Der Bruder", "Die Schwester", "Die Familie"]
+        examples: ["Meine Geschwister sind älter als ich.", "Hast du Geschwister?", "Er hat drei Geschwister."]
+      - id: 1049
+        title: "Die Ehefrau"
+        description: "Die Frau, mit der ein Mann verheiratet ist."
+        plural: "Die Ehefrauen"
+        related_cards: ["Der Ehemann", "Die Heirat", "Die Ehe"]
+        examples: ["Meine Ehefrau ist Ärztin.", "Wie heißt deine Ehefrau?", "Er hat eine liebevolle Ehefrau."]
+      - id: 1050
+        title: "Der Spitzname"
+        description: "Ein informeller Name, der oft anstelle des richtigen Namens verwendet wird."
+        plural: "Die Spitznamen"
+        related_cards: ["Der Name", "Der Vorname", "Der Nachname", "Der Familienname", "Der Mädchenname"]
+        examples: ["Mein Spitzname ist Tom.", "Hast du einen Spitznamen?", "Er hat viele Spitznamen."]
+      - id: 1051
+        title: "Der Familienname"
+        description: "Der Nachname, der von den Eltern an die Kinder weitergegeben wird."
+        plural: "Die Familiennamen"
+        related_cards: ["Der Name", "Der Vorname", "Der Nachname", "Der Spitzname", "Der Mädchenname"]
+        examples: ["Mein Familienname ist Schmidt.", "Wie ist dein Familienname?", "Sie hat einen bekannten Familiennamen."]
+      - id: 1052
+        title: "Der Mädchenname"
+        description: "Der Nachname einer Frau vor ihrer Heirat."
+        plural: "Die Mädchennamen"
+        related_cards: ["Der Name", "Der Vorname", "Der Nachname", "Der Spitzname", "Der Familienname"]
+        examples: ["Ihr Mädchenname ist Meier.", "Wie ist dein Mädchenname?", "Sie hat ihren Mädchennamen behalten."]
   - name: Verbs
     value: "Verben"
     cards:
       - id: 2001
         title: "heißen"
-        description: "Den Namen einer Person oder Sache angeben."
+        description: |
+          Den Namen einer Person oder Sache angeben.
+        konjugation: ich heiße, du heißt, er/sie/es heißt, wir heißen, ihr heißt, sie/Sie heißen
+        zeiten: Präsens, Präteritum (hieß), Perfekt (hat geheißen)
         related_cards: ["Der Name", "Der Vorname", "Der Nachname", "Der Spitzname", "Der Familienname"]
         examples: ["Ich heiße Anna.", "Wie heißt du?", "Er heißt Peter."]
       - id: 2002
         title: "wohnen"
-        description: "An einem bestimmten Ort leben."
+        description: |
+          An einem bestimmten Ort leben.
+        konjugation: ich wohne, du wohnst, er/sie/es wohnt, wir wohnen, ihr wohnt, sie/Sie wohnen
+        zeiten: Präsens, Präteritum (wohnte), Perfekt (hat gewohnt)
         related_cards: ["Die Adresse", "Die Straße", "Die Hausnummer", "Der Wohnort", "Das Land"]
         examples: ["Ich wohne in Berlin.", "Wo wohnst du?", "Sie wohnt in einer kleinen Stadt."]
+      - id: 2003
+        title: "arbeiten"
+        description: |
+          Eine Tätigkeit ausführen, um Geld zu verdienen.
+        konjugation: ich arbeite, du arbeitest, er/sie/es arbeitet, wir arbeiten, ihr arbeitet, sie/Sie arbeiten
+        zeiten: Präsens, Präteritum (arbeitete), Perfekt (hat gearbeitet)
+        related_cards: ["Der Beruf", "Die Arbeit", "Die Stelle", "Die Beschäftigung"]
+        examples: ["Ich arbeite als Lehrer.", "Wo arbeitest du?", "Sie arbeitet in einem Büro."]
+      - id: 2004
+        title: "finden"
+        description: |
+          Etwas entdecken oder auf etwas stoßen.
+        konjugation: ich finde, du findest, er/sie/es findet, wir finden, ihr findet, sie/Sie finden
+        zeiten: Präsens, Präteritum (fand), Perfekt (hat gefunden)
+        related_cards: ["Der Fund", "Die Entdeckung", "Das Ergebnis"]
+        examples: ["Ich finde meinen Schlüssel nicht.", "Hast du deinen Hund gefunden?", "Er findet immer einen Weg."]
+      - id: 2005
+        title: "kommen"
+        description: |
+          Sich an einen bestimmten Ort begeben.
+        konjugation: ich komme, du kommst, er/sie/es kommt, wir kommen, ihr kommt, sie/Sie kommen
+        zeiten: Präsens, Präteritum (kam), Perfekt (ist gekommen)
+        related_cards: ["Die Ankunft", "Der Besuch", "Das Ziel"]
+        examples: ["Ich komme aus Deutschland.", "Wann kommst du?", "Sie kommt morgen."]
+      - id: 2006
+        title: "besuchen"
+        description: |
+          Zu jemandem oder an einen Ort gehen, um dort Zeit zu verbringen.
+        konjugation: ich besuche, du besuchst, er/sie/es besucht, wir besuchen, ihr besucht, sie/Sie besuchen
+        zeiten: Präsens, Präteritum (besuchte), Perfekt (hat besucht)
+        related_cards: ["Der Besuch", "Die Ankunft", "Das Treffen"]
+        examples: ["Ich besuche meine Großeltern.", "Wann besuchst du uns?", "Sie besucht eine Ausstellung."]
+      - id: 2007
+        title: "umziehen"
+        description: |
+          Den Wohnort wechseln.
+        konjugation: ich ziehe um, du ziehst um, er/sie/es zieht um, wir ziehen um, ihr zieht um, sie/Sie ziehen um
+        zeiten: Präsens, Präteritum (zog um), Perfekt (ist umgezogen)
+        related_cards: ["Der Umzug", "Die Wohnung", "Das Haus"]
+        examples: ["Ich ziehe nächste Woche um.", "Wann ziehst du um?", "Sie sind nach Berlin umgezogen."]
+      - id: 2008
+        title: "lernen"
+        description: |
+          Sich Wissen oder Fähigkeiten aneignen.
+        konjugation: ich lerne, du lernst, er/sie/es lernt, wir lernen, ihr lernt, sie/Sie lernen
+        zeiten: Präsens, Präteritum (lernte), Perfekt (hat gelernt)
+        related_cards: ["Die Schule", "Der Unterricht", "Die Bildung"]
+        examples: ["Ich lerne Deutsch.", "Was lernst du?", "Sie lernt für die Prüfung."]
+      - id: 2009
+        title: "gezogen"
+        description: |
+          Sich an einen anderen Ort begeben oder etwas an einen anderen Ort bringen.
+        konjugation: ich ziehe, du ziehst, er/sie/es zieht, wir ziehen, ihr zieht, sie/Sie ziehen
+        zeiten: Präsens, Präteritum (zog), Perfekt (hat gezogen)
+        related_cards: ["Der Umzug", "Die Bewegung", "Das Ziehen"]
+        examples: ["Ich habe den Wagen gezogen.", "Er zog an der Tür.", "Sie sind in eine neue Stadt gezogen."]
+      - id: 2010
+        title: "vorstellen"
+        description: |
+          Jemanden oder etwas bekannt machen.
+        konjugation: ich stelle vor, du stellst vor, er/sie/es stellt vor, wir stellen vor, ihr stellt vor, sie/Sie stellen vor
+        zeiten: Präsens, Präteritum (stellte vor), Perfekt (hat vorgestellt)
+        related_cards: ["Die Vorstellung", "Das Treffen", "Der Name"]
+        examples: ["Ich stelle dir meinen Freund vor.", "Kannst du dich vorstellen?", "Sie hat uns ihren Chef vorgestellt."]
+      - id: 2011
+        title: "sehen"
+        description: |
+          Mit den Augen wahrnehmen.
+        konjugation: ich sehe, du siehst, er/sie/es sieht, wir sehen, ihr seht, sie/Sie sehen
+        zeiten: Präsens, Präteritum (sah), Perfekt (hat gesehen)
+        related_cards: ["Der Blick", "Das Auge", "Die Sicht"]
+        examples: ["Ich sehe den Sonnenuntergang.", "Was siehst du?", "Er hat einen Film gesehen."]
+      - id: 2012
+        title: "bleiben"
+        description: |
+          An einem Ort verweilen.
+        konjugation: ich bleibe, du bleibst, er/sie/es bleibt, wir bleiben, ihr bleibt, sie/Sie bleiben
+        zeiten: Präsens, Präteritum (blieb), Perfekt (ist geblieben)
+        related_cards: ["Der Aufenthalt", "Die Dauer", "Das Verweilen"]
+        examples: ["Ich bleibe zu Hause.", "Wie lange bleibst du?", "Sie ist über Nacht geblieben."]
+      - id: 2013
+        title: "wünschen"
+        description: |
+          Etwas erhoffen oder verlangen.
+        konjugation: ich wünsche, du wünschst, er/sie/es wünscht, wir wünschen, ihr wünscht, sie/Sie wünschen
+        zeiten: Präsens, Präteritum (wünschte), Perfekt (hat gewünscht)
+        related_cards: ["Der Wunsch", "Die Hoffnung", "Das Verlangen"]
+        examples: ["Ich wünsche dir alles Gute.", "Was wünschst du dir?", "Er hat sich ein neues Auto gewünscht."]
+      - id: 2014
+        title: "leben"
+        description: |
+          Am Leben sein oder existieren.
+        konjugation: ich lebe, du lebst, er/sie/es lebt, wir leben, ihr lebt, sie/Sie leben
+        zeiten: Präsens, Präteritum (lebte), Perfekt (hat gelebt)
+        related_cards: ["Das Leben", "Die Existenz", "Der Tod"]
+        examples: ["Ich lebe in Deutschland.", "Wo lebst du?", "Sie lebt ein glückliches Leben."]
+      - id: 2015
+        title: "geboren"
+        description: |
+          Zur Welt kommen.
+        konjugation: ich werde geboren, du wirst geboren, er/sie/es wird geboren, wir werden geboren, ihr werdet geboren, sie/Sie werden geboren
+        zeiten: Präsens, Präteritum (wurde geboren), Perfekt (ist geboren worden)
+        related_cards: ["Die Geburt", "Das Geburtsdatum", "Der Geburtsort"]
+        examples: ["Ich wurde in Berlin geboren.", "Wann wurdest du geboren?", "Sie ist in einem Krankenhaus geboren worden."]
+      - id: 2016
+        title: "verheiraten"
+        description: |
+          Den Bund der Ehe eingehen.
+        konjugation: ich verheirate, du verheiratest, er/sie/es verheiratet, wir verheiraten, ihr verheiratet, sie/Sie verheiraten
+        zeiten: Präsens, Präteritum (verheiratete), Perfekt (hat verheiratet)
+        related_cards: ["Die Hochzeit", "Der Ehemann", "Die Ehefrau"]
+        examples: ["Ich habe mich letztes Jahr verheiratet.", "Wann verheiratest du dich?", "Sie haben sich im Sommer verheiratet."]
+      - id: 2017
+        title: "haben"
+        description: |
+          Etwas besitzen oder in seinem Besitz haben.
+        konjugation: ich habe, du hast, er/sie/es hat, wir haben, ihr habt, sie/Sie haben
+        zeiten: Präsens, Präteritum (hatte), Perfekt (hat gehabt)
+        related_cards: ["Der Besitz", "Das Eigentum", "Die Sache"]
+        examples: ["Ich habe ein Auto.", "Hast du einen Hund?", "Er hat viele Bücher."]
+      - id: 2018
+        title: "sein"
+        description: |
+          Existieren oder sich in einem Zustand befinden.
+        konjugation: ich bin, du bist, er/sie/es ist, wir sind, ihr seid, sie/Sie sind
+        zeiten: Präsens, Präteritum (war), Perfekt (ist gewesen)
+        related_cards: ["Das Sein", "Die Existenz", "Der Zustand"]
+        examples: ["Ich bin müde.", "Bist du krank?", "Er ist glücklich."]
   - name: Pronouns
     value: "Pronomen"
     cards:
@@ -65,3 +472,33 @@ categories:
         description: "Die zweite Person Singular."
         related_cards: ["ich", "er", "sie", "es"]
         examples: ["Du bist nett.", "Wie heißt du?", "Sie und du sind"]
+      - id: 3003
+        title: "er"
+        description: "Die dritte Person Singular (männlich)."
+        related_cards: ["ich", "du", "sie", "es"]
+        examples: ["Er ist groß.", "Wie alt ist er?", "Sie und er sind"]
+      - id: 3004
+        title: "sie"
+        description: "Die dritte Person Singular (weiblich)."
+        related_cards: ["ich", "du", "er", "es"]
+        examples: ["Sie ist klein.", "Wie alt ist sie?", "Er und sie sind"]
+      - id: 3005
+        title: "es"
+        description: "Die dritte Person Singular (sächlich)."
+        related_cards: ["ich", "du", "er", "sie"]
+        examples: ["Es ist kalt.", "Wie alt ist es?", "Er und es sind"]
+      - id: 3006
+        title: "wir"
+        description: "Die erste Person Plural."
+        related_cards: ["ihr", "sie/Sie"]
+        examples: ["Wir sind Freunde.", "Wie geht es euch?", "Sie und wir sind"]
+      - id: 3007 
+        title: "ihr"
+        description: "Die zweite Person Plural."
+        related_cards: ["wir", "sie/Sie"]
+        examples: ["Ihr seid nett.", "Wie heißt ihr?", "Sie und ihr sind"]
+      - id: 3008
+        title: "sie/Sie"
+        description: "Die dritte Person Plural."
+        related_cards: ["ich", "du", "er", "sie", "es"]
+        examples: ["Sie sind groß.", "Wie alt sind sie?", "Er und sie sind"]
