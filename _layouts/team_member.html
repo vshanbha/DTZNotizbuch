@@ -8,12 +8,13 @@ layout: page
   
   <h2>{{ page.name }}</h2>
   <h2>{{ page.position }}</h2>
-  
+  {% if page.linkedin %}
+    <a href="{{ page.linkedin }}" target="_blank">{% include icon.html id="linkedin" title="LinkedIn" %}</a>
+  {% endif %}
+  {% if page.github %}
+    <a href="{{ page.github }}" target="_blank">{% include icon.html id="github" title="GitHub" %}</a>
+  {% endif %}  
   <div class="team-member-bio">
     {{ content }}
   </div>
-  
-  {% if page.linkedin %}
-    <a href="{{ page.linkedin }}" class="social-link linkedin" target="_blank">LinkedIn Profile</a>
-  {% endif %}
 </div>
