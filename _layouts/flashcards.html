@@ -127,12 +127,23 @@ layout: page
       }
       const category = categories[category_index];
       const card = category.cards[index];
+      var description = card.description;
+      if (card.plural) {
+        description += `<br><strong>Plural:</strong> ${card.plural}`;
+      }
+      if (card.konjugation) {
+        description += `<br><strong>Konjugation:</strong> ${card.konjugation}`;
+      }
+      if (card.zeiten) {
+        description += `<br><strong>Zeiten:</strong> ${card.zeiten}`;
+      }
+
       document.getElementById('flashcard-container').innerHTML = `
         <div class="card" onclick="this.classList.toggle('flipped')">
           <div class="card-inner">
             <div class="card-front">${card.title}</div>
             <div class="card-back">
-              <p><strong>Description:</strong> ${card.description}</p>
+              <p><strong>Description:</strong> ${description}</p>
               <p><strong>Examples:</strong> ${card.examples?.join('<br>') || 'N/A'}</p>
             </div>
           </div>
