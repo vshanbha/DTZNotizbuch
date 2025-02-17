@@ -1,0 +1,54 @@
+title: Wohnen Flashcards
+topic: wohnen
+categories:
+  - name: Nouns
+    value: "Nomen"
+    cards:
+      - id: 1001
+        title: "Der Name"
+        description: "Wie man jemanden nennt."
+        related_cards: ["Der Vorname", "Der Nachname", "Der Spitzname", "Der Familienname", "Der Mädchenname"]
+        examples: ["Mein Name ist Anna.", "Wie ist dein Name?", "Er hat einen ungewöhnlichen Namen."]
+      - id: 1002
+        title: "Die Adresse"
+        description: "Der Ort, an dem jemand wohnt."
+        related_cards: ["Die Straße", "Die Hausnummer", "Die Postleitzahl", "Der Wohnort", "Das Land"]
+        examples: ["Meine Adresse ist Hauptstraße 5.", "Kannst du mir deine Adresse geben?", "Ich habe meine Adresse geändert."]
+      - id: 1003
+        title: "Das Geburtsdatum"
+        description: "Der Tag, an dem jemand geboren wurde."
+        related_cards: ["Der Geburtsort", "Das Alter", "Das Geburtsjahr", "Der Geburtstag", "Die Geburtsurkunde"]
+        examples: ["Mein Geburtsdatum ist der 1. Januar 1990.", "Was ist dein Geburtsdatum?", "Er hat sein Geburtsdatum vergessen."]
+      - id: 1004
+        title: "Die Telefonnummer"
+        description: "Eine Nummer, die man anruft, um jemanden zu erreichen."
+        related_cards: ["Die Handynummer", "Die Festnetznummer", "Die Vorwahl", "Der Kontakt", "Der Anruf"]
+        examples: ["Meine Telefonnummer ist 123456789.", "Kann ich deine Telefonnummer haben?", "Ich habe seine Telefonnummer verloren."]
+      - id: 1005
+        title: "Der Beruf"
+        description: "Die Arbeit, die jemand macht."
+        related_cards: ["Der Job", "Die Arbeit", "Die Karriere", "Die Stelle", "Die Beschäftigung"]
+        examples: ["Mein Beruf ist Lehrer.", "Was ist dein Beruf?", "Sie hat einen interessanten Beruf."]
+      - id: 1006
+        title: "Der Vorname"
+        description: "Der erste Name einer Person."
+        related_cards: ["Der Name", "Der Nachname", "Der Spitzname", "Der Familienname", "Der Mädchenname"]
+        examples: ["Mein Vorname ist Anna.", "Wie ist dein Vorname?", "Er hat einen ungewöhnlichen Vornamen."]
+      - id: 1007
+        title: "Der Nachname"
+        description: "Der Familienname einer Person."
+        related_cards: ["Der Name", "Der Vorname", "Der Spitzname", "Der Familienname", "Der Mädchenname"]
+        examples: ["Mein Nachname ist Müller.", "Wie ist dein Nachname?", "Sie hat einen langen Nachnamen."]
+  - name: Verbs
+    value: "Verben"
+    cards:
+      - id: 2001
+        title: "heißen"
+        description: "Den Namen einer Person oder Sache angeben."
+        related_cards: ["Der Name", "Der Vorname", "Der Nachname", "Der Spitzname", "Der Familienname"]
+        examples: ["Ich heiße Anna.", "Wie heißt du?", "Er heißt Peter."]
+      - id: 2002
+        title: "wohnen"
+        description: "An einem bestimmten Ort leben."
+        related_cards: ["Die Adresse", "Die Straße", "Die Hausnummer", "Der Wohnort", "Das Land"]
+        examples: ["Ich wohne in Berlin.", "Wo wohnst du?", "Sie wohnt in einer kleinen Stadt."]

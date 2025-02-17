@@ -1,0 +1,19 @@
+---
+layout: page
+---
+<div class="team-member">
+  {% if page.image %}
+    <img src="{{ page.image | relative_url }}" alt="{{ page.name }}" class="team-member-image">
+  {% endif %}
+  
+  <h2>{{ page.name }}</h2>
+  <h2>{{ page.position }}</h2>
+  
+  <div class="team-member-bio">
+    {{ content }}
+  </div>
+  
+  {% if page.linkedin %}
+    <a href="{{ page.linkedin }}" class="social-link linkedin" target="_blank">LinkedIn Profile</a>
+  {% endif %}
+</div>

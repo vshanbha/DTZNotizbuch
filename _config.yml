@@ -1,0 +1,104 @@
+# Site settings
+title: Flashcard Generator
+logo: "/assets/logos/logo.svg"
+description: >- # this means to ignore newlines until "baseurl:"
+  A sample site for generating flashcards.
+baseurl: "/flashcard_generator" # the subpath of your site, e.g. /blog
+url: "https://github.com/vshanbha" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  vshanbha
+repository: "vshanbha/github_jekyll_pages_demo"
+css_inline: false
+
+# Build settings
+# remote_theme: "mmistakes/jekyll-theme-basically-basic"
+theme: "alembic-jekyll-theme"
+plugins:
+  - jekyll-sitemap
+  - jekyll-mentions
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-redirect-from
+  - jekyll-feed
+  - jekyll-commonmark
+  - jekyll-include-cache
+  - jemoji
+
+# Gem Settings
+paginate: 10 # jekyll-paginate > items per page
+paginate_path: blog/page:num # jekyll-paginate > blog page
+
+# Jekyll Settings
+sass:
+  style: compressed # Style compression
+permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
+excerpt_separator: <!-- more --> 
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - CODE_OF_CONDUCT.md
+  - CONTRIBUTING.md
+  - LICENSE
+  - CNAME
+  - screenshot.png
+  - alembic-jekyll-theme.gemspec
+
+# General Configuration
+defaults:
+  # _posts
+  - 
+    scope:
+      path: ""
+      type: posts
+    values:
+      read_time: true
+      layout: post
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: page
+  - 
+    scope:
+      path: ""
+      type: "team"
+    values:
+      layout: team_member
+
+navigation_header:
+- title: Home
+  url: /
+- title: Flashcards
+  url: /flashcards/
+- title: About
+  url: /about/
+- title: Team
+  url: /team/
+
+
+# Theme specific Configuration
+      
+collections:
+  team:
+    output: true
+    permalink: /team/:path/
+  flashcards:
+    output: false
+  pages:
+    output: true
+    permalink: /:path/
+
+data_dir: _data 
