@@ -440,7 +440,7 @@ categories:
         konjugation: "ich bin, du bist, er/sie/es ist, wir sind, ihr seid, sie/Sie sind"
         zeiten: "Präsens, Präteritum (war), Perfekt (ist gewesen)"
         related_cards: ["Das Sein", "Die Existenz", "Der Zustand"]
-        examples: ["Ich bin müde.", "Bist du krank?", "Er ist glücklich."]   cards:
+        examples: ["Ich bin müde.", "Bist du krank?", "Er ist glücklich."]
   - name: Pronouns
     value: "Pronomen"
     cards:
