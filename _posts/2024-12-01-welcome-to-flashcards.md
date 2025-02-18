@@ -1,11 +1,11 @@
 ---
-title:  "Welcome to Flashcard generator"
+title:  "Introducing Flashcards"
 date:   2025-02-14 00:22:00 +0100
 categories: 
 ---
 ## Introduction
-This is an online notebook to help you prepare for the German Test for Immigrants (DTZ). Contains flashcards to expand your German vocabulary.
-The Flashcards page is available [here]( {% link flashcards.markdown %}).
+This is an online notebook to help you prepare for the German Test for Immigrants better known as ["Deutsch-Test für Zuwanderer" (DTZ)](https://www.bamf.de/DE/Themen/Integration/ZugewanderteTeilnehmende/Integrationskurse/Abschlusspruefung/abschlusspruefung-node.html). 
+This site contains flashcards to help expand your German vocabulary. The Flashcards page is available [here]( {% link flashcards.md %} ).
 The flashcards page lists a set of "topics" and each Topic has several tabs of categories.
 Each category has one or more flashcards. 
 

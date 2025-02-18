@@ -12,3 +12,4 @@ permalink: /flashcards/
     {% endif %}
 {% endfor %}
 </ul>
+
