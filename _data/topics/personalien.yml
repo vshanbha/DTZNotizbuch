@@ -317,148 +317,130 @@ categories:
     cards:
       - id: "heißen"
         title: "heißen"
-        description: |
-          Den Namen einer Person oder Sache angeben.
-        konjugation: ich heiße, du heißt, er/sie/es heißt, wir heißen, ihr heißt, sie/Sie heißen
-        zeiten: Präsens, Präteritum (hieß), Perfekt (hat geheißen)
+        description: "Den Namen einer Person oder Sache angeben."
+        konjugation: "ich heiße, du heißt, er/sie/es heißt, wir heißen, ihr heißt, sie/Sie heißen"
+        zeiten: "Präsens, Präteritum (hieß), Perfekt (hat geheißen)"
         related_cards: ["Der Name", "Der Vorname", "Der Nachname", "Der Spitzname", "Der Familienname"]
         examples: ["Ich heiße Anna.", "Wie heißt du?", "Er heißt Peter."]
       - id: "wohnen"
         title: "wohnen"
-        description: |
-          An einem bestimmten Ort leben.
-        konjugation: ich wohne, du wohnst, er/sie/es wohnt, wir wohnen, ihr wohnt, sie/Sie wohnen
-        zeiten: Präsens, Präteritum (wohnte), Perfekt (hat gewohnt)
+        description: "An einem bestimmten Ort leben."
+        konjugation: "ich wohne, du wohnst, er/sie/es wohnt, wir wohnen, ihr wohnt, sie/Sie wohnen"
+        zeiten: "Präsens, Präteritum (wohnte), Perfekt (hat gewohnt)"
         related_cards: ["Die Adresse", "Die Straße", "Die Hausnummer", "Der Wohnort", "Das Land"]
         examples: ["Ich wohne in Berlin.", "Wo wohnst du?", "Sie wohnt in einer kleinen Stadt."]
       - id: "arbeiten"
         title: "arbeiten"
-        description: |
-          Eine Tätigkeit ausführen, um Geld zu verdienen.
-        konjugation: ich arbeite, du arbeitest, er/sie/es arbeitet, wir arbeiten, ihr arbeitet, sie/Sie arbeiten
-        zeiten: Präsens, Präteritum (arbeitete), Perfekt (hat gearbeitet)
+        description: "Eine Tätigkeit ausführen, um Geld zu verdienen."
+        konjugation: "ich arbeite, du arbeitest, er/sie/es arbeitet, wir arbeiten, ihr arbeitet, sie/Sie arbeiten"
+        zeiten: "Präsens, Präteritum (arbeitete), Perfekt (hat gearbeitet)"
         related_cards: ["Der Beruf", "Die Arbeit", "Die Stelle", "Die Beschäftigung"]
         examples: ["Ich arbeite als Lehrer.", "Wo arbeitest du?", "Sie arbeitet in einem Büro."]
       - id: "finden"
         title: "finden"
-        description: |
-          Etwas entdecken oder auf etwas stoßen.
-        konjugation: ich finde, du findest, er/sie/es findet, wir finden, ihr findet, sie/Sie finden
-        zeiten: Präsens, Präteritum (fand), Perfekt (hat gefunden)
+        description: "Etwas entdecken oder auf etwas stoßen."
+        konjugation: "ich finde, du findest, er/sie/es findet, wir finden, ihr findet, sie/Sie finden"
+        zeiten: "Präsens, Präteritum (fand), Perfekt (hat gefunden)"
         related_cards: ["Der Fund", "Die Entdeckung", "Das Ergebnis"]
         examples: ["Ich finde meinen Schlüssel nicht.", "Hast du deinen Hund gefunden?", "Er findet immer einen Weg."]
       - id: "kommen"
         title: "kommen"
-        description: |
-          Sich an einen bestimmten Ort begeben.
-        konjugation: ich komme, du kommst, er/sie/es kommt, wir kommen, ihr kommt, sie/Sie kommen
-        zeiten: Präsens, Präteritum (kam), Perfekt (ist gekommen)
+        description: "Sich an einen bestimmten Ort begeben."
+        konjugation: "ich komme, du kommst, er/sie/es kommt, wir kommen, ihr kommt, sie/Sie kommen"
+        zeiten: "Präsens, Präteritum (kam), Perfekt (ist gekommen)"
         related_cards: ["Die Ankunft", "Der Besuch", "Das Ziel"]
         examples: ["Ich komme aus Deutschland.", "Wann kommst du?", "Sie kommt morgen."]
       - id: "besuchen"
         title: "besuchen"
-        description: |
-          Zu jemandem oder an einen Ort gehen, um dort Zeit zu verbringen.
-        konjugation: ich besuche, du besuchst, er/sie/es besucht, wir besuchen, ihr besucht, sie/Sie besuchen
-        zeiten: Präsens, Präteritum (besuchte), Perfekt (hat besucht)
+        description: "Zu jemandem oder an einen Ort gehen, um dort Zeit zu verbringen."
+        konjugation: "ich besuche, du besuchst, er/sie/es besucht, wir besuchen, ihr besucht, sie/Sie besuchen"
+        zeiten: "Präsens, Präteritum (besuchte), Perfekt (hat besucht)"
         related_cards: ["Der Besuch", "Die Ankunft", "Das Treffen"]
         examples: ["Ich besuche meine Großeltern.", "Wann besuchst du uns?", "Sie besucht eine Ausstellung."]
       - id: "umziehen"
         title: "umziehen"
-        description: |
-          Den Wohnort wechseln.
-        konjugation: ich ziehe um, du ziehst um, er/sie/es zieht um, wir ziehen um, ihr zieht um, sie/Sie ziehen um
-        zeiten: Präsens, Präteritum (zog um), Perfekt (ist umgezogen)
+        description: "Den Wohnort wechseln."
+        konjugation: "ich ziehe um, du ziehst um, er/sie/es zieht um, wir ziehen um, ihr zieht um, sie/Sie ziehen um"
+        zeiten: "Präsens, Präteritum (zog um), Perfekt (ist umgezogen)"
         related_cards: ["Der Umzug", "Die Wohnung", "Das Haus"]
         examples: ["Ich ziehe nächste Woche um.", "Wann ziehst du um?", "Sie sind nach Berlin umgezogen."]
       - id: "lernen"
         title: "lernen"
-        description: |
-          Sich Wissen oder Fähigkeiten aneignen.
-        konjugation: ich lerne, du lernst, er/sie/es lernt, wir lernen, ihr lernt, sie/Sie lernen
-        zeiten: Präsens, Präteritum (lernte), Perfekt (hat gelernt)
+        description: "Sich Wissen oder Fähigkeiten aneignen."
+        konjugation: "ich lerne, du lernst, er/sie/es lernt, wir lernen, ihr lernt, sie/Sie lernen"
+        zeiten: "Präsens, Präteritum (lernte), Perfekt (hat gelernt)"
         related_cards: ["Die Schule", "Der Unterricht", "Die Bildung"]
         examples: ["Ich lerne Deutsch.", "Was lernst du?", "Sie lernt für die Prüfung."]
       - id: "gezogen"
         title: "gezogen"
-        description: |
-          Sich an einen anderen Ort begeben oder etwas an einen anderen Ort bringen.
-        konjugation: ich ziehe, du ziehst, er/sie/es zieht, wir ziehen, ihr zieht, sie/Sie ziehen
-        zeiten: Präsens, Präteritum (zog), Perfekt (hat gezogen)
+        description: "Sich an einen anderen Ort begeben oder etwas an einen anderen Ort bringen."
+        konjugation: "ich ziehe, du ziehst, er/sie/es zieht, wir ziehen, ihr zieht, sie/Sie ziehen"
+        zeiten: "Präsens, Präteritum (zog), Perfekt (hat gezogen)"
         related_cards: ["Der Umzug", "Die Bewegung", "Das Ziehen"]
         examples: ["Ich habe den Wagen gezogen.", "Er zog an der Tür.", "Sie sind in eine neue Stadt gezogen."]
       - id: "vorstellen"
         title: "vorstellen"
-        description: |
-          Jemanden oder etwas bekannt machen.
-        konjugation: ich stelle vor, du stellst vor, er/sie/es stellt vor, wir stellen vor, ihr stellt vor, sie/Sie stellen vor
-        zeiten: Präsens, Präteritum (stellte vor), Perfekt (hat vorgestellt)
+        description: "Jemanden oder etwas bekannt machen."
+        konjugation: "ich stelle vor, du stellst vor, er/sie/es stellt vor, wir stellen vor, ihr stellt vor, sie/Sie stellen vor"
+        zeiten: "Präsens, Präteritum (stellte vor), Perfekt (hat vorgestellt)"
         related_cards: ["Die Vorstellung", "Das Treffen", "Der Name"]
         examples: ["Ich stelle dir meinen Freund vor.", "Kannst du dich vorstellen?", "Sie hat uns ihren Chef vorgestellt."]
       - id: "sehen"
         title: "sehen"
-        description: |
-          Mit den Augen wahrnehmen.
-        konjugation: ich sehe, du siehst, er/sie/es sieht, wir sehen, ihr seht, sie/Sie sehen
-        zeiten: Präsens, Präteritum (sah), Perfekt (hat gesehen)
+        description: "Mit den Augen wahrnehmen."
+        konjugation: "ich sehe, du siehst, er/sie/es sieht, wir sehen, ihr seht, sie/Sie sehen"
+        zeiten: "Präsens, Präteritum (sah), Perfekt (hat gesehen)"
         related_cards: ["Der Blick", "Das Auge", "Die Sicht"]
         examples: ["Ich sehe den Sonnenuntergang.", "Was siehst du?", "Er hat einen Film gesehen."]
       - id: "bleiben"
         title: "bleiben"
-        description: |
-          An einem Ort verweilen.
-        konjugation: ich bleibe, du bleibst, er/sie/es bleibt, wir bleiben, ihr bleibt, sie/Sie bleiben
-        zeiten: Präsens, Präteritum (blieb), Perfekt (ist geblieben)
+        description: "An einem Ort verweilen."
+        konjugation: "ich bleibe, du bleibst, er/sie/es bleibt, wir bleiben, ihr bleibt, sie/Sie bleiben"
+        zeiten: "Präsens, Präteritum (blieb), Perfekt (ist geblieben)"
         related_cards: ["Der Aufenthalt", "Die Dauer", "Das Verweilen"]
         examples: ["Ich bleibe zu Hause.", "Wie lange bleibst du?", "Sie ist über Nacht geblieben."]
       - id: "wünschen"
         title: "wünschen"
-        description: |
-          Etwas erhoffen oder verlangen.
-        konjugation: ich wünsche, du wünschst, er/sie/es wünscht, wir wünschen, ihr wünscht, sie/Sie wünschen
-        zeiten: Präsens, Präteritum (wünschte), Perfekt (hat gewünscht)
+        description: "Etwas erhoffen oder verlangen."
+        konjugation: "ich wünsche, du wünschst, er/sie/es wünscht, wir wünschen, ihr wünscht, sie/Sie wünschen"
+        zeiten: "Präsens, Präteritum (wünschte), Perfekt (hat gewünscht)"
         related_cards: ["Der Wunsch", "Die Hoffnung", "Das Verlangen"]
         examples: ["Ich wünsche dir alles Gute.", "Was wünschst du dir?", "Er hat sich ein neues Auto gewünscht."]
       - id: "leben"
         title: "leben"
-        description: |
-          Am Leben sein oder existieren.
-        konjugation: ich lebe, du lebst, er/sie/es lebt, wir leben, ihr lebt, sie/Sie leben
-        zeiten: Präsens, Präteritum (lebte), Perfekt (hat gelebt)
+        description: "Am Leben sein oder existieren."
+        konjugation: "ich lebe, du lebst, er/sie/es lebt, wir leben, ihr lebt, sie/Sie leben"
+        zeiten: "Präsens, Präteritum (lebte), Perfekt (hat gelebt)"
         related_cards: ["Das Leben", "Die Existenz", "Der Tod"]
         examples: ["Ich lebe in Deutschland.", "Wo lebst du?", "Sie lebt ein glückliches Leben."]
       - id: "geboren"
         title: "geboren"
-        description: |
-          Zur Welt kommen.
-        konjugation: ich werde geboren, du wirst geboren, er/sie/es wird geboren, wir werden geboren, ihr werdet geboren, sie/Sie werden geboren
-        zeiten: Präsens, Präteritum (wurde geboren), Perfekt (ist geboren worden)
+        description: "Zur Welt kommen."
+        konjugation: "ich werde geboren, du wirst geboren, er/sie/es wird geboren, wir werden geboren, ihr werdet geboren, sie/Sie werden geboren"
+        zeiten: "Präsens, Präteritum (wurde geboren), Perfekt (ist geboren worden)"
         related_cards: ["Die Geburt", "Das Geburtsdatum", "Der Geburtsort"]
         examples: ["Ich wurde in Berlin geboren.", "Wann wurdest du geboren?", "Sie ist in einem Krankenhaus geboren worden."]
       - id: "verheiraten"
         title: "verheiraten"
-        description: |
-          Den Bund der Ehe eingehen.
-        konjugation: ich verheirate, du verheiratest, er/sie/es verheiratet, wir verheiraten, ihr verheiratet, sie/Sie verheiraten
-        zeiten: Präsens, Präteritum (verheiratete), Perfekt (hat verheiratet)
+        description: "Den Bund der Ehe eingehen."
+        konjugation: "ich verheirate, du verheiratest, er/sie/es verheiratet, wir verheiraten, ihr verheiratet, sie/Sie verheiraten"
+        zeiten: "Präsens, Präteritum (verheiratete), Perfekt (hat verheiratet)"
         related_cards: ["Die Hochzeit", "Der Ehemann", "Die Ehefrau"]
         examples: ["Ich habe mich letztes Jahr verheiratet.", "Wann verheiratest du dich?", "Sie haben sich im Sommer verheiratet."]
       - id: "haben"
         title: "haben"
-        description: |
-          Etwas besitzen oder in seinem Besitz haben.
-        konjugation: ich habe, du hast, er/sie/es hat, wir haben, ihr habt, sie/Sie haben
-        zeiten: Präsens, Präteritum (hatte), Perfekt (hat gehabt)
+        description: "Etwas besitzen oder in seinem Besitz haben."
+        konjugation: "ich habe, du hast, er/sie/es hat, wir haben, ihr habt, sie/Sie haben"
+        zeiten: "Präsens, Präteritum (hatte), Perfekt (hat gehabt)"
         related_cards: ["Der Besitz", "Das Eigentum", "Die Sache"]
         examples: ["Ich habe ein Auto.", "Hast du einen Hund?", "Er hat viele Bücher."]
       - id: "sein"
         title: "sein"
-        description: |
-          Existieren oder sich in einem Zustand befinden.
-        konjugation: ich bin, du bist, er/sie/es ist, wir sind, ihr seid, sie/Sie sind
-        zeiten: Präsens, Präteritum (war), Perfekt (ist gewesen)
+        description: "Existieren oder sich in einem Zustand befinden."
+        konjugation: "ich bin, du bist, er/sie/es ist, wir sind, ihr seid, sie/Sie sind"
+        zeiten: "Präsens, Präteritum (war), Perfekt (ist gewesen)"
         related_cards: ["Das Sein", "Die Existenz", "Der Zustand"]
-        examples: ["Ich bin müde.", "Bist du krank?", "Er ist glücklich."]
+        examples: ["Ich bin müde.", "Bist du krank?", "Er ist glücklich."]   cards:
   - name: Pronouns
     value: "Pronomen"
     cards:
