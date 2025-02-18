@@ -88,7 +88,27 @@ navigation_header:
 - title: Team
   url: /team/
 
+navigation_footer:
+- title: About
+  ur: /about/
+- title: Home
+  url: /
 
+favicons:
+  16: '/assets/logos/logo@16px.png'
+  32: '/assets/logos/logo@32px.png'
+  96: '/assets/logos/logo@96px.png'
+  120: '/assets/logos/logo@120px.png'
+  144: '/assets/logos/logo@144px.png'
+  180: '/assets/logos/logo@180px.png'
+  192: '/assets/logos/logo@192px.png'  
+  512: '/assets/logos/logo@512px.png'
+  1024: '/assets/logos/logo@1024px.png'
+
+sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
+  Twitter: "#0d94e7"
+  facebook: "#3B5998"
+  Email: true
 # Theme specific Configuration
       
 collections:
