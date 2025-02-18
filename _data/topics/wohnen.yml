@@ -4,51 +4,226 @@ categories:
   - name: Nouns
     value: "Nomen"
     cards:
-      - id: 1001
-        title: "Der Name"
-        description: "Wie man jemanden nennt."
-        related_cards: ["Der Vorname", "Der Nachname", "Der Spitzname", "Der Familienname", "Der Mädchenname"]
-        examples: ["Mein Name ist Anna.", "Wie ist dein Name?", "Er hat einen ungewöhnlichen Namen."]
-      - id: 1002
-        title: "Die Adresse"
-        description: "Der Ort, an dem jemand wohnt."
-        related_cards: ["Die Straße", "Die Hausnummer", "Die Postleitzahl", "Der Wohnort", "Das Land"]
-        examples: ["Meine Adresse ist Hauptstraße 5.", "Kannst du mir deine Adresse geben?", "Ich habe meine Adresse geändert."]
-      - id: 1003
-        title: "Das Geburtsdatum"
-        description: "Der Tag, an dem jemand geboren wurde."
-        related_cards: ["Der Geburtsort", "Das Alter", "Das Geburtsjahr", "Der Geburtstag", "Die Geburtsurkunde"]
-        examples: ["Mein Geburtsdatum ist der 1. Januar 1990.", "Was ist dein Geburtsdatum?", "Er hat sein Geburtsdatum vergessen."]
-      - id: 1004
-        title: "Die Telefonnummer"
-        description: "Eine Nummer, die man anruft, um jemanden zu erreichen."
-        related_cards: ["Die Handynummer", "Die Festnetznummer", "Die Vorwahl", "Der Kontakt", "Der Anruf"]
-        examples: ["Meine Telefonnummer ist 123456789.", "Kann ich deine Telefonnummer haben?", "Ich habe seine Telefonnummer verloren."]
-      - id: 1005
-        title: "Der Beruf"
-        description: "Die Arbeit, die jemand macht."
-        related_cards: ["Der Job", "Die Arbeit", "Die Karriere", "Die Stelle", "Die Beschäftigung"]
-        examples: ["Mein Beruf ist Lehrer.", "Was ist dein Beruf?", "Sie hat einen interessanten Beruf."]
-      - id: 1006
-        title: "Der Vorname"
-        description: "Der erste Name einer Person."
-        related_cards: ["Der Name", "Der Nachname", "Der Spitzname", "Der Familienname", "Der Mädchenname"]
-        examples: ["Mein Vorname ist Anna.", "Wie ist dein Vorname?", "Er hat einen ungewöhnlichen Vornamen."]
-      - id: 1007
-        title: "Der Nachname"
-        description: "Der Familienname einer Person."
-        related_cards: ["Der Name", "Der Vorname", "Der Spitzname", "Der Familienname", "Der Mädchenname"]
-        examples: ["Mein Nachname ist Müller.", "Wie ist dein Nachname?", "Sie hat einen langen Nachnamen."]
+      - id: "badewanne"
+        title: "Die Badewanne"
+        description: "Ein großes, fest installiertes Behältnis zum Baden."
+        related_cards: ["Das Badezimmer", "Das Wasser", "Die Dusche"]
+        examples: ["Ich entspanne mich in der Badewanne.", "Die Badewanne ist voll mit Wasser.", "Er hat eine neue Badewanne gekauft."]
+      - id: "bett"
+        title: "Das Bett"
+        description: "Ein Möbelstück zum Schlafen."
+        related_cards: ["Das Schlafzimmer", "Die Matratze", "Das Kissen", "Die Decke"]
+        examples: ["Ich gehe ins Bett.", "Das Bett ist sehr bequem.", "Sie hat ein neues Bett."]
+      - id: "bücheregal"
+        title: "Das Bücherregal"
+        description: "Ein Regal zur Aufbewahrung von Büchern."
+        related_cards: ["Das Buch", "Das Regal", "Das Wohnzimmer"]
+        examples: ["Das Bücherregal ist voll.", "Ich stelle das Buch ins Bücherregal.", "Er hat ein großes Bücherregal."]
+      - id: "regal"
+        title: "Das Regal"
+        description: "Ein Möbelstück mit offenen Fächern zur Aufbewahrung."
+        related_cards: ["Das Wohnzimmer", "Das Bücherregal", "Das Zimmer"]
+        examples: ["Das Regal ist leer.", "Ich brauche ein neues Regal.", "Sie hat das Regal selbst gebaut."]
+      - id: "couch"
+        title: "Die Couch"
+        description: "Ein bequemes Sitzmöbel für mehrere Personen."
+        related_cards: ["Das Wohnzimmer", "Der Sessel", "Das Sofa"]
+        examples: ["Die Couch ist sehr bequem.", "Wir sitzen auf der Couch.", "Er hat eine neue Couch gekauft."]
+      - id: "düsche"
+        title: "Die Dusche"
+        description: "Eine Vorrichtung zum Duschen."
+        related_cards: ["Das Badezimmer", "Die Badewanne", "Das Wasser"]
+        examples: ["Ich nehme eine Dusche.", "Die Dusche ist kaputt.", "Sie hat eine neue Dusche."]
+      - id: "fernseher"
+        title: "Der Fernseher"
+        description: "Ein Gerät zum Empfangen und Anzeigen von Fernsehprogrammen."
+        related_cards: ["Das Wohnzimmer", "Der Bildschirm", "Die Fernbedienung"]
+        examples: ["Der Fernseher ist an.", "Ich schaue Fernsehen.", "Er hat einen neuen Fernseher."]
+      - id: "geschirr"
+        title: "Das Geschirr"
+        description: "Teller, Tassen, Gläser und Besteck."
+        related_cards: ["Die Küche", "Der Teller", "Das Besteck"]
+        examples: ["Das Geschirr ist schmutzig.", "Ich spüle das Geschirr.", "Sie hat schönes Geschirr."]
+      - id: "herd"
+        title: "Der Herd"
+        description: "Ein Gerät zum Kochen und Backen."
+        related_cards: ["Die Küche", "Der Ofen", "Der Topf"]
+        examples: ["Der Herd ist heiß.", "Ich koche auf dem Herd.", "Er hat einen neuen Herd."]
+      - id: "kaffeemachine"
+        title: "Die Kaffeemaschine"
+        description: "Ein Gerät zur Zubereitung von Kaffee."
+        related_cards: ["Die Küche", "Der Kaffee", "Die Tasse"]
+        examples: ["Die Kaffeemaschine ist kaputt.", "Ich mache Kaffee mit der Kaffeemaschine.", "Sie hat eine neue Kaffeemaschine."]
+      - id: "schrank"
+        title: "Der Schrank"
+        description: "Ein Möbelstück mit Türen zur Aufbewahrung."
+        related_cards: ["Das Zimmer", "Der Kleiderschrank", "Das Regal"]
+        examples: ["Der Schrank ist voll.", "Ich öffne den Schrank.", "Sie hat einen großen Schrank."]
+      - id: "kleiderschrank"
+        title: "Der Kleiderschrank"
+        description: "Ein Schrank zur Aufbewahrung von Kleidung."
+        related_cards: ["Das Schlafzimmer", "Die Kleidung", "Der Schrank"]
+        examples: ["Der Kleiderschrank ist voll.", "Ich hänge meine Kleidung in den Kleiderschrank.", "Sie hat einen neuen Kleiderschrank."]
+      - id: "kühlschrank"
+        title: "Der Kühlschrank"
+        description: "Ein Gerät zur Aufbewahrung von Lebensmitteln bei niedrigen Temperaturen."
+        related_cards: ["Die Küche", "Das Essen", "Der Gefrierschrank"]
+        examples: ["Der Kühlschrank ist leer.", "Ich stelle die Milch in den Kühlschrank.", "Er hat einen neuen Kühlschrank."]
+      - id: "stuhl"
+        title: "Der Stuhl"
+        description: "Ein Möbelstück zum Sitzen."
+        related_cards: ["Der Tisch", "Das Zimmer", "Der Sessel"]
+        examples: ["Der Stuhl ist kaputt.", "Ich sitze auf dem Stuhl.", "Sie hat einen neuen Stuhl."]
+      - id: "mikrowelle"
+        title: "Die Mikrowelle"
+        description: "Ein Gerät zum schnellen Erhitzen von Speisen."
+        related_cards: ["Die Küche", "Der Herd", "Das Essen"]
+        examples: ["Die Mikrowelle ist an.", "Ich wärme das Essen in der Mikrowelle auf.", "Er hat eine neue Mikrowelle."]
+      - id: "sofa"
+        title: "Das Sofa"
+        description: "Ein bequemes Sitzmöbel für mehrere Personen."
+        related_cards: ["Das Wohnzimmer", "Die Couch", "Der Sessel"]
+        examples: ["Das Sofa ist sehr bequem.", "Wir sitzen auf dem Sofa.", "Sie hat ein neues Sofa."]
+      - id: "tisch"
+        title: "Der Tisch"
+        description: "Ein Möbelstück mit einer flachen Oberfläche, an dem man sitzt und arbeitet oder isst."
+        related_cards: ["Der Stuhl", "Das Zimmer", "Der Schreibtisch"]
+        examples: ["Der Tisch ist gedeckt.", "Ich sitze am Tisch.", "Er hat einen neuen Tisch."]
+      - id: "sessel"
+        title: "Der Sessel"
+        description: "Ein bequemes Sitzmöbel für eine Person."
+        related_cards: ["Das Wohnzimmer", "Die Couch", "Das Sofa"]
+        examples: ["Der Sessel ist sehr bequem.", "Ich sitze im Sessel.", "Sie hat einen neuen Sessel."]
+      - id: "spiegel"
+        title: "Der Spiegel"
+        description: "Eine reflektierende Oberfläche, in der man sich betrachten kann."
+        related_cards: ["Das Badezimmer", "Das Glas", "Der Rahmen"]
+        examples: ["Der Spiegel ist sauber.", "Ich sehe mich im Spiegel an.", "Er hat einen großen Spiegel."]
+      - id: "waschbecken"
+        title: "Das Waschbecken"
+        description: "Ein Becken mit Wasserhahn zum Waschen."
+        related_cards: ["Das Badezimmer", "Das Wasser", "Der Wasserhahn"]
+        examples: ["Das Waschbecken ist voll.", "Ich wasche meine Hände im Waschbecken.", "Sie hat ein neues Waschbecken."]
+      - id: "waschmachine"
+        title: "Die Waschmaschine"
+        description: "Ein Gerät zum Waschen von Kleidung."
+        related_cards: ["Die Wäsche", "Das Waschmittel", "Der Trockner"]
+        examples: ["Die Waschmaschine ist an.", "Ich wasche die Kleidung in der Waschmaschine.", "Er hat eine neue Waschmaschine."]
+      - id: "zimmer"
+        title: "Das Zimmer"
+        description: "Ein Raum in einem Gebäude."
+        related_cards: ["Das Haus", "Das Wohnzimmer", "Das Schlafzimmer"]
+        examples: ["Das Zimmer ist groß.", "Ich bin in meinem Zimmer.", "Sie hat ein neues Zimmer."]
+      - id: "wohnzimmer"
+        title: "Das Wohnzimmer"
+        description: "Ein Raum zum Entspannen und für gemeinsame Aktivitäten."
+        related_cards: ["Das Zimmer", "Die Couch", "Der Fernseher"]
+        examples: ["Das Wohnzimmer ist gemütlich.", "Wir sitzen im Wohnzimmer.", "Er hat ein großes Wohnzimmer."]
+      - id: "schlafzimmer"
+        title: "Das Schlafzimmer"
+        description: "Ein Raum zum Schlafen."
+        related_cards: ["Das Bett", "Der Kleiderschrank", "Das Zimmer"]
+        examples: ["Das Schlafzimmer ist ruhig.", "Ich gehe ins Schlafzimmer.", "Sie hat ein neues Schlafzimmer."]
+      - id: "küche"
+        title: "Die Küche"
+        description: "Ein Raum zum Kochen und Zubereiten von Speisen."
+        related_cards: ["Der Herd", "Der Kühlschrank", "Das Geschirr"]
+        examples: ["Die Küche ist sauber.", "Ich koche in der Küche.", "Er hat eine moderne Küche."]
+      - id: "bad"
+        title: "Das Bad"
+        description: "Ein Raum zum Baden und Duschen."
+        related_cards: ["Die Dusche", "Die Badewanne", "Das Waschbecken"]
+        examples: ["Das Bad ist groß.", "Ich gehe ins Bad.", "Sie hat ein neues Bad."]
+      - id: "steckdose"
+        title: "Die Steckdose"
+        description: "Eine Vorrichtung zum Anschließen elektrischer Geräte."
+        related_cards: ["Der Stecker", "Das Kabel", "Der Strom"]
+        examples: ["Die Steckdose ist kaputt.", "Ich stecke den Stecker in die Steckdose.", "Er hat eine neue Steckdose."]
+      - id: "boden"
+        title: "Der Boden"
+        description: "Die untere Fläche eines Raumes."
+        related_cards: ["Der Teppich", "Der Fußboden", "Der Raum"]
+        examples: ["Der Boden ist sauber.", "Ich wische den Boden.", "Sie hat einen neuen Boden."]
+      - id: "blume"
+        title: "Die Blume"
+        description: "Eine Pflanze mit bunten Blüten."
+        related_cards: ["Der Garten", "Die Vase", "Der Strauß"]
+        examples: ["Die Blume ist schön.", "Ich gieße die Blume.", "Er hat ihr eine Blume geschenkt."]
+      - id: "lampe"
+        title: "Die Lampe"
+        description: "Ein Gerät zur Beleuchtung."
+        related_cards: ["Das Licht", "Die Glühbirne", "Der Schalter"]
+        examples: ["Die Lampe ist an.", "Ich schalte die Lampe ein.", "Sie hat eine neue Lampe."]
+      - id: "bild"
+        title: "Das Bild"
+        description: "Eine Darstellung auf Papier oder Leinwand."
+        related_cards: ["Der Rahmen", "Die Wand", "Das Foto"]
+        examples: ["Das Bild ist schön.", "Ich hänge das Bild an die Wand.", "Er hat ein neues Bild gemalt."]
+      - id: "haus"
+        title: "Das Haus"
+        description: "Ein Gebäude zum Wohnen."
+        related_cards: ["Das Zimmer", "Der Garten", "Die Tür"]
+        examples: ["Das Haus ist groß.", "Ich wohne in einem Haus.", "Sie hat ein neues Haus gekauft."]
+      - id: "baum"
+        title: "Der Baum"
+        description: "Eine große Pflanze mit einem Stamm und Ästen."
+        related_cards: ["Der Wald", "Das Blatt", "Der Ast"]
+        examples: ["Der Baum ist hoch.", "Ich klettere auf den Baum.", "Er hat einen Baum gepflanzt."]
+      - id: "decke"
+        title: "Die Decke"
+        description: "Die obere Begrenzung eines Raumes."
+        related_cards: ["Der Raum", "Die Lampe", "Das Licht"]
+        examples: ["Die Decke ist hoch.", "Ich streiche die Decke.", "Sie hat eine neue Decke."]
   - name: Verbs
     value: "Verben"
     cards:
-      - id: 2001
-        title: "heißen"
-        description: "Den Namen einer Person oder Sache angeben."
-        related_cards: ["Der Name", "Der Vorname", "Der Nachname", "Der Spitzname", "Der Familienname"]
-        examples: ["Ich heiße Anna.", "Wie heißt du?", "Er heißt Peter."]
-      - id: 2002
+      - id: "wohnen"
         title: "wohnen"
         description: "An einem bestimmten Ort leben."
         related_cards: ["Die Adresse", "Die Straße", "Die Hausnummer", "Der Wohnort", "Das Land"]
         examples: ["Ich wohne in Berlin.", "Wo wohnst du?", "Sie wohnt in einer kleinen Stadt."]
+      - id: "zahlen"
+        title: "zahlen"
+        description: "Geld für etwas geben."
+        related_cards: ["Das Geld", "Die Rechnung", "Der Preis"]
+        examples: ["Ich zahle die Rechnung.", "Er zahlt bar.", "Sie hat für das Essen gezahlt."]
+      - id: "vergessen"
+        title: "vergessen"
+        description: "Sich nicht mehr an etwas erinnern."
+        related_cards: ["Das Gedächtnis", "Die Erinnerung", "Der Termin"]
+        examples: ["Ich habe den Termin vergessen.", "Er vergisst oft seine Schlüssel.", "Sie hat den Namen vergessen."]
+      - id: "stecken"
+        title: "stecken"
+        description: "Etwas in etwas anderes hinein tun."
+        related_cards: ["Der Stecker", "Die Steckdose", "Das Loch"]
+        examples: ["Ich stecke den Schlüssel ins Schloss.", "Er steckt das Buch in die Tasche.", "Sie hat den Stecker in die Steckdose gesteckt."]
+      - id: "legen"
+        title: "legen"
+        description: "Etwas in eine waagerechte Position bringen."
+        related_cards: ["Der Tisch", "Das Bett", "Der Boden"]
+        examples: ["Ich lege das Buch auf den Tisch.", "Er legt sich ins Bett.", "Sie hat den Teppich auf den Boden gelegt."]
+      - id: "machen"
+        title: "machen"
+        description: "Etwas tun oder herstellen."
+        related_cards: ["Die Arbeit", "Das Projekt", "Die Aufgabe"]
+        examples: ["Ich mache meine Hausaufgaben.", "Er macht das Abendessen.", "Sie hat ein Bild gemacht."]
+      - id: "hängen"
+        title: "hängen"
+        description: "Etwas an einem höheren Punkt befestigen."
+        related_cards: ["Das Bild", "Die Wand", "Der Haken"]
+        examples: ["Ich hänge das Bild an die Wand.", "Er hängt die Jacke an den Haken.", "Sie hat die Lampe aufgehängt."]
+      - id: "stellen"
+        title: "stellen"
+        description: "Etwas in eine aufrechte Position bringen."
+        related_cards: ["Der Tisch", "Der Stuhl", "Das Regal"]
+        examples: ["Ich stelle die Vase auf den Tisch.", "Er stellt den Stuhl an den Tisch.", "Sie hat das Regal an die Wand gestellt."]
+      - id: "stehen"
+        title: "stehen"
+        description: "In einer aufrechten Position sein."
+        related_cards: ["Der Tisch", "Der Stuhl", "Das Regal"]
+        examples: ["Der Tisch steht im Wohnzimmer.", "Er steht vor der Tür.", "Sie hat lange in der Schlange gestanden."]
+      - id: "gehören"
+        title: "gehören"
+        description: "Zu jemandem oder etwas gehören."
+        related_cards: ["Der Besitzer", "Das Eigentum", "Die Zugehörigkeit"]
+        examples: ["Das Buch gehört mir.", "Er gehört zu unserer Gruppe.", "Sie hat das Haus geerbt."]
