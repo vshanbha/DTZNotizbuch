@@ -7,6 +7,15 @@ layout: page
 <head>
   <title>{{ page.title }}</title>
   <style>
+    .popover-container a {
+      font-size: 24px;
+      align-items: center;
+    }
+
+    .popover-container svg {
+      margin-left: 5px;
+    }
+
     .card {
       width: 100%;
       height: 400px;
@@ -188,6 +197,15 @@ layout: page
 </head>
 
 <body>
+  <div class="popover-container">
+    <a href="{% link flashcards.md %}">All Themes</a><a href="{% link _pages/flashcard_help.md %}">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="20" height="20">
+          <path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm0 22C6.486 22 2 17.514 2 12S6.486 2 12 2s10 4.486 10 10-4.486 10-10 10zm-1-17h2v2h-2zm2 4h-2v10h2z"/>
+      </svg>
+    </a>
+
+  </div>
+
   <div id="tabs-container" class="tabs"></div>
   <div id="flashcard-container"></div>
   <div style="margin-top: 20px; text-align: center;">
@@ -267,3 +285,4 @@ layout: page
 </body>
 
 </html>
+
