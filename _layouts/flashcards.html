@@ -201,8 +201,8 @@ layout: page
     let touchendX = 0;
 
     function handleGesture() {
-      if (touchendX < touchstartX) nextCard();
-      if (touchendX > touchstartX) prevCard();
+      if (touchendX < touchstartX - 100) nextCard();
+      if (touchendX > touchstartX + 100) prevCard();
     }
     let container = document.getElementById('flashcard-container');
     container.addEventListener('touchstart', function (event) {

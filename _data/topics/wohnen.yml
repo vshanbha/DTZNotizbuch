@@ -207,7 +207,7 @@ categories:
         description: "Die obere Begrenzung eines Raumes."
         plural: "Die Decken"
         related_cards: ["Der Raum", "Die Lampe", "Das Licht"]
-        examples: ["Die Decke ist hoch.", "Ich streiche die Decke.", "Sie hat eine neue Decke."]   cards:
+        examples: ["Die Decke ist hoch.", "Ich streiche die Decke.", "Sie hat eine neue Decke."]
   - name: Verbs
     value: "Verben"
     cards:

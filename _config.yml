@@ -89,10 +89,10 @@ navigation_header:
   url: /team/
 
 navigation_footer:
-- title: About
-  ur: /about/
 - title: Home
   url: /
+- title: About
+  ur: /about/
 
 favicons:
   16: '/assets/logos/logo@16px.png'
