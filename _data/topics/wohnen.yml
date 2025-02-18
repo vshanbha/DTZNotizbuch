@@ -208,6 +208,180 @@ categories:
         plural: "Die Decken"
         related_cards: ["Der Raum", "Die Lampe", "Das Licht"]
         examples: ["Die Decke ist hoch.", "Ich streiche die Decke.", "Sie hat eine neue Decke."]
+      - id: "miete"
+        title: "Die Miete"
+        description: "Geldbetrag, den man regelmäßig für die Nutzung einer Wohnung oder eines Hauses zahlt."
+        plural: "Die Mieten"
+        related_cards: ["Der Mietvertrag", "Die Wohnung", "Das Haus"]
+        examples: ["Die Miete ist fällig.", "Ich zahle die Miete pünktlich.", "Er hat die Miete erhöht."]
+      - id: "heizung"
+        title: "Die Heizung"
+        description: "Ein System oder Gerät zur Erwärmung von Räumen."
+        plural: "Die Heizungen"
+        related_cards: ["Der Heizkörper", "Die Wärme", "Das Thermostat"]
+        examples: ["Die Heizung ist an.", "Ich stelle die Heizung höher.", "Sie hat eine neue Heizung."]
+      - id: "stecker"
+        title: "Der Stecker"
+        description: "Ein Gerät zum Verbinden eines elektrischen Geräts mit einer Steckdose."
+        plural: "Die Stecker"
+        related_cards: ["Die Steckdose", "Das Kabel", "Der Strom"]
+        examples: ["Der Stecker ist kaputt.", "Ich stecke den Stecker in die Steckdose.", "Er hat einen neuen Stecker."]
+      - id: "teppich"
+        title: "Der Teppich"
+        description: "Ein Bodenbelag aus Textilmaterial."
+        plural: "Die Teppiche"
+        related_cards: ["Der Boden", "Der Raum", "Die Decke"]
+        examples: ["Der Teppich ist sauber.", "Ich lege den Teppich auf den Boden.", "Sie hat einen neuen Teppich."]
+      - id: "vase"
+        title: "Die Vase"
+        description: "Ein Behälter für Blumen."
+        plural: "Die Vasen"
+        related_cards: ["Die Blume", "Der Tisch", "Das Wasser"]
+        examples: ["Die Vase ist schön.", "Ich stelle die Blumen in die Vase.", "Er hat eine neue Vase gekauft."]
+      - id: "treppen"
+        title: "Die Treppen"
+        description: "Eine Konstruktion mit Stufen, die verschiedene Ebenen verbindet."
+        plural: "Die Treppen"
+        related_cards: ["Das Treppenhaus", "Der Aufzug", "Die Stufe"]
+        examples: ["Die Treppen sind steil.", "Ich gehe die Treppen hinauf.", "Sie hat die Treppen geputzt."]
+      - id: "treppenhaus"
+        title: "Das Treppenhaus"
+        description: "Ein Bereich in einem Gebäude, in dem sich die Treppen befinden."
+        plural: "Die Treppenhäuser"
+        related_cards: ["Die Treppen", "Der Aufzug", "Das Gebäude"]
+        examples: ["Das Treppenhaus ist sauber.", "Ich gehe durch das Treppenhaus.", "Er hat das Treppenhaus gestrichen."]
+      - id: "garage"
+        title: "Die Garage"
+        description: "Ein Raum oder Gebäude zum Abstellen von Fahrzeugen."
+        plural: "Die Garagen"
+        related_cards: ["Das Auto", "Das Haus", "Der Parkplatz"]
+        examples: ["Die Garage ist groß.", "Ich parke das Auto in der Garage.", "Sie hat eine neue Garage."]
+      - id: "wand"
+        title: "Die Wand"
+        description: "Eine vertikale Begrenzung eines Raumes."
+        plural: "Die Wände"
+        related_cards: ["Das Zimmer", "Das Bild", "Die Tür"]
+        examples: ["Die Wand ist weiß.", "Ich hänge das Bild an die Wand.", "Er hat die Wand gestrichen."]
+      - id: "garden"
+        title: "Der Garten"
+        description: "Ein Bereich im Freien, in dem Pflanzen angebaut werden."
+        plural: "Die Gärten"
+        related_cards: ["Die Blume", "Der Baum", "Das Haus"]
+        examples: ["Der Garten ist schön.", "Ich arbeite im Garten.", "Sie hat einen großen Garten."]
+      - id: "mietvertrag"
+        title: "Der Mietvertrag"
+        description: "Ein Vertrag über die Vermietung einer Wohnung oder eines Hauses."
+        plural: "Die Mietverträge"
+        related_cards: ["Die Miete", "Die Wohnung", "Das Haus"]
+        examples: ["Der Mietvertrag ist unterschrieben.", "Ich lese den Mietvertrag.", "Er hat den Mietvertrag gekündigt."]
+      - id: "dachboden"
+        title: "Der Dachboden"
+        description: "Ein Raum direkt unter dem Dach eines Hauses."
+        plural: "Die Dachböden"
+        related_cards: ["Das Dach", "Das Haus", "Der Raum"]
+        examples: ["Der Dachboden ist groß.", "Ich gehe auf den Dachboden.", "Sie hat den Dachboden aufgeräumt."]
+      - id: "kinderzimmer"
+        title: "Das Kinderzimmer"
+        description: "Ein Zimmer für Kinder."
+        plural: "Die Kinderzimmer"
+        related_cards: ["Das Zimmer", "Das Bett", "Das Spielzeug"]
+        examples: ["Das Kinderzimmer ist bunt.", "Ich richte das Kinderzimmer ein.", "Sie hat ein neues Kinderzimmer."]
+      - id: "hausmeister"
+        title: "Der Hausmeister"
+        description: "Eine Person, die für die Instandhaltung eines Gebäudes verantwortlich ist."
+        plural: "Die Hausmeister"
+        related_cards: ["Das Gebäude", "Die Reparatur", "Der Hausverwalter"]
+        examples: ["Der Hausmeister ist freundlich.", "Ich rufe den Hausmeister.", "Er hat den Hausmeister informiert."]
+      - id: "mülltonne"
+        title: "Die Mülltonne"
+        description: "Ein Behälter für Abfall."
+        plural: "Die Mülltonnen"
+        related_cards: ["Der Müll", "Der Abfall", "Die Tonne"]
+        examples: ["Die Mülltonne ist voll.", "Ich stelle die Mülltonne raus.", "Sie hat eine neue Mülltonne."]
+      - id: "einbauküche"
+        title: "Die Einbauküche"
+        description: "Eine fest installierte Küche mit integrierten Geräten."
+        plural: "Die Einbauküchen"
+        related_cards: ["Die Küche", "Der Herd", "Der Kühlschrank"]
+        examples: ["Die Einbauküche ist modern.", "Ich koche in der Einbauküche.", "Sie hat eine neue Einbauküche."]
+      - id: "erdgeschoss"
+        title: "Das Erdgeschoss"
+        description: "Die unterste Etage eines Gebäudes."
+        plural: "Die Erdgeschosse"
+        related_cards: ["Das Gebäude", "Die Etage", "Der Eingang"]
+        examples: ["Das Erdgeschoss ist leicht zugänglich.", "Ich wohne im Erdgeschoss.", "Sie hat das Erdgeschoss renoviert."]
+      - id: "monatsmiete"
+        title: "Die Monatsmiete"
+        description: "Der Betrag, der monatlich für die Miete gezahlt wird."
+        plural: "Die Monatsmieten"
+        related_cards: ["Die Miete", "Der Mietvertrag", "Die Wohnung"]
+        examples: ["Die Monatsmiete ist hoch.", "Ich zahle die Monatsmiete pünktlich.", "Er hat die Monatsmiete überwiesen."]
+      - id: "quadratmeter"
+        title: "Der Quadratmeter"
+        description: "Eine Maßeinheit für Fläche."
+        plural: "Die Quadratmeter"
+        related_cards: ["Die Fläche", "Das Zimmer", "Das Haus"]
+        examples: ["Die Wohnung hat 50 Quadratmeter.", "Ich messe die Fläche in Quadratmetern.", "Sie hat 100 Quadratmeter Wohnfläche."]
+      - id: "nebenkosten"
+        title: "Die Nebenkosten"
+        description: "Zusätzliche Kosten neben der Miete."
+        plural: "Die Nebenkosten"
+        related_cards: ["Die Miete", "Die Kosten", "Die Wohnung"]
+        examples: ["Die Nebenkosten sind hoch.", "Ich zahle die Nebenkosten monatlich.", "Er hat die Nebenkosten berechnet."]
+      - id: "balkon"
+        title: "Der Balkon"
+        description: "Eine Plattform, die aus einem Gebäude herausragt."
+        plural: "Die Balkone"
+        related_cards: ["Die Wohnung", "Das Haus", "Der Garten"]
+        examples: ["Der Balkon ist groß.", "Ich sitze auf dem Balkon.", "Sie hat Blumen auf dem Balkon."]
+      - id: "wohnfläche"
+        title: "Die Wohnfläche"
+        description: "Die Fläche, die zum Wohnen genutzt wird."
+        plural: "Die Wohnflächen"
+        related_cards: ["Die Wohnung", "Das Haus", "Der Quadratmeter"]
+        examples: ["Die Wohnfläche beträgt 80 Quadratmeter.", "Ich messe die Wohnfläche.", "Sie hat eine große Wohnfläche."]
+      - id: "wohnungssuche"
+        title: "Die Wohnungssuche"
+        description: "Die Suche nach einer Wohnung."
+        plural: "Die Wohnungssuchen"
+        related_cards: ["Die Wohnung", "Die Anzeige", "Der Mietvertrag"]
+        examples: ["Die Wohnungssuche ist schwierig.", "Ich bin auf Wohnungssuche.", "Sie hat die Wohnungssuche erfolgreich abgeschlossen."]
+      - id: "abkürzung"
+        title: "Die Abkürzung"
+        description: "Eine verkürzte Form eines Wortes oder einer Phrase."
+        plural: "Die Abkürzungen"
+        related_cards: ["Das Wort", "Die Phrase", "Die Sprache"]
+        examples: ["Die Abkürzung ist leicht zu merken.", "Ich benutze oft Abkürzungen.", "Er hat eine neue Abkürzung gelernt."]
+      - id: "anzeige"
+        title: "Die Anzeige"
+        description: "Eine öffentliche Bekanntmachung oder Werbung."
+        plural: "Die Anzeigen"
+        related_cards: ["Die Zeitung", "Das Internet", "Die Werbung"]
+        examples: ["Die Anzeige ist interessant.", "Ich lese die Anzeige in der Zeitung.", "Sie hat eine Anzeige aufgegeben."]
+      - id: "wohnungsbesichtigung"
+        title: "Die Wohnungsbesichtigung"
+        description: "Ein Termin zur Besichtigung einer Wohnung."
+        plural: "Die Wohnungsbesichtigungen"
+        related_cards: ["Die Wohnung", "Die Besichtigung", "Der Mietvertrag"]
+        examples: ["Die Wohnungsbesichtigung ist morgen.", "Ich habe eine Wohnungsbesichtigung vereinbart.", "Sie hat die Wohnungsbesichtigung durchgeführt."]
+      - id: "wohnung"
+        title: "Die Wohnung"
+        description: "Ein Raum oder eine Gruppe von Räumen zum Wohnen."
+        plural: "Die Wohnungen"
+        related_cards: ["Das Haus", "Das Zimmer", "Der Mietvertrag"]
+        examples: ["Die Wohnung ist groß.", "Ich wohne in einer Wohnung.", "Sie hat eine neue Wohnung gefunden."]
+      - id: "möbel"
+        title: "Die Möbel"
+        description: "Gegenstände, die in einem Raum zur Einrichtung dienen."
+        plural: "Die Möbel"
+        related_cards: ["Das Zimmer", "Das Haus", "Die Einrichtung"]
+        examples: ["Die Möbel sind modern.", "Ich kaufe neue Möbel.", "Sie hat die Möbel umgestellt."]
+      - id: "wohnungsanzeige"
+        title: "Die Wohnungsanzeige"
+        description: "Eine Anzeige zur Vermietung oder zum Verkauf einer Wohnung."
+        plural: "Die Wohnungsanzeigen"
+        related_cards: ["Die Wohnung", "Die Anzeige", "Der Mietvertrag"]
+        examples: ["Die Wohnungsanzeige ist online.", "Ich lese die Wohnungsanzeige.", "Sie hat eine Wohnungsanzeige aufgegeben."]
   - name: Verbs
     value: "Verben"
     cards:
@@ -281,3 +455,157 @@ categories:
         zeiten: "Präsens, Präteritum (gehörte), Perfekt (hat gehört)"
         related_cards: ["Der Besitzer", "Das Eigentum", "Die Zugehörigkeit"]
         examples: ["Das Buch gehört mir.", "Er gehört zu unserer Gruppe.", "Sie hat das Haus geerbt."]
+      - id: "schreiben"
+        title: "schreiben"
+        description: "Text oder Informationen auf Papier oder ein anderes Medium bringen."
+        konjugation: "ich schreibe, du schreibst, er/sie/es schreibt, wir schreiben, ihr schreibt, sie/Sie schreiben"
+        zeiten: "Präsens, Präteritum (schrieb), Perfekt (hat geschrieben)"
+        related_cards: ["Der Brief", "Das Buch", "Der Stift"]
+        examples: ["Ich schreibe einen Brief.", "Er schreibt ein Buch.", "Sie hat eine Nachricht geschrieben."]
+      - id: "anrufen"
+        title: "anrufen"
+        description: "Mit jemandem telefonisch Kontakt aufnehmen."
+        konjugation: "ich rufe an, du rufst an, er/sie/es ruft an, wir rufen an, ihr ruft an, sie/Sie rufen an"
+        zeiten: "Präsens, Präteritum (rief an), Perfekt (hat angerufen)"
+        related_cards: ["Das Telefon", "Der Anruf", "Die Nummer"]
+        examples: ["Ich rufe dich später an.", "Er ruft seine Mutter an.", "Sie hat mich gestern angerufen."]
+      - id: "einrichten"
+        title: "einrichten"
+        description: "Einen Raum oder eine Wohnung mit Möbeln und Dekorationen ausstatten."
+        konjugation: "ich richte ein, du richtest ein, er/sie/es richtet ein, wir richten ein, ihr richtet ein, sie/Sie richten ein"
+        zeiten: "Präsens, Präteritum (richtete ein), Perfekt (hat eingerichtet)"
+        related_cards: ["Die Wohnung", "Das Zimmer", "Die Möbel"]
+        examples: ["Ich richte mein neues Zimmer ein.", "Er richtet die Wohnung ein.", "Sie hat das Büro eingerichtet."]
+      - id: "kündigen"
+        title: "kündigen"
+        description: "Einen Vertrag oder eine Vereinbarung beenden."
+        konjugation: "ich kündige, du kündigst, er/sie/es kündigt, wir kündigen, ihr kündigt, sie/Sie kündigen"
+        zeiten: "Präsens, Präteritum (kündigte), Perfekt (hat gekündigt)"
+        related_cards: ["Der Vertrag", "Die Arbeit", "Die Wohnung"]
+        examples: ["Ich kündige meinen Job.", "Er kündigt den Mietvertrag.", "Sie hat das Abonnement gekündigt."]
+      - id: "einschalten"
+        title: "einschalten"
+        description: "Ein Gerät oder eine Maschine in Betrieb setzen."
+        konjugation: "ich schalte ein, du schaltest ein, er/sie/es schaltet ein, wir schalten ein, ihr schaltet ein, sie/Sie schalten ein"
+        zeiten: "Präsens, Präteritum (schaltete ein), Perfekt (hat eingeschaltet)"
+        related_cards: ["Das Gerät", "Der Schalter", "Der Strom"]
+        examples: ["Ich schalte den Fernseher ein.", "Er schaltet das Licht ein.", "Sie hat den Computer eingeschaltet."]
+      - id: "ausschalten"
+        title: "ausschalten"
+        description: "Ein Gerät oder eine Maschine außer Betrieb setzen."
+        konjugation: "ich schalte aus, du schaltest aus, er/sie/es schaltet aus, wir schalten aus, ihr schaltet aus, sie/Sie schalten aus"
+        zeiten: "Präsens, Präteritum (schaltete aus), Perfekt (hat ausgeschaltet)"
+        related_cards: ["Das Gerät", "Der Schalter", "Der Strom"]
+        examples: ["Ich schalte den Fernseher aus.", "Er schaltet das Licht aus.", "Sie hat den Computer ausgeschaltet."]
+      - id: "anmachen"
+        title: "anmachen"
+        description: "Ein Gerät oder eine Maschine in Betrieb setzen."
+        konjugation: "ich mache an, du machst an, er/sie/es macht an, wir machen an, ihr macht an, sie/Sie machen an"
+        zeiten: "Präsens, Präteritum (machte an), Perfekt (hat angemacht)"
+        related_cards: ["Das Gerät", "Der Schalter", "Der Strom"]
+        examples: ["Ich mache das Radio an.", "Er macht das Licht an.", "Sie hat den Ofen angemacht."]
+      - id: "zumachen"
+        title: "zumachen"
+        description: "Etwas schließen."
+        konjugation: "ich mache zu, du machst zu, er/sie/es macht zu, wir machen zu, ihr macht zu, sie/Sie machen zu"
+        zeiten: "Präsens, Präteritum (machte zu), Perfekt (hat zugemacht)"
+        related_cards: ["Die Tür", "Das Fenster", "Der Laden"]
+        examples: ["Ich mache die Tür zu.", "Er macht das Fenster zu.", "Sie hat den Laden zugemacht."]
+      - id: "ausmachen"
+        title: "ausmachen"
+        description: "Ein Gerät oder eine Maschine außer Betrieb setzen."
+        konjugation: "ich mache aus, du machst aus, er/sie/es macht aus, wir machen aus, ihr macht aus, sie/Sie machen aus"
+        zeiten: "Präsens, Präteritum (machte aus), Perfekt (hat ausgemacht)"
+        related_cards: ["Das Gerät", "Der Schalter", "Der Strom"]
+        examples: ["Ich mache das Radio aus.", "Er macht das Licht aus.", "Sie hat den Ofen ausgemacht."]
+      - id: "einziehen"
+        title: "einziehen"
+        description: "In eine neue Wohnung oder ein neues Haus ziehen."
+        konjugation: "ich ziehe ein, du ziehst ein, er/sie/es zieht ein, wir ziehen ein, ihr zieht ein, sie/Sie ziehen ein"
+        zeiten: "Präsens, Präteritum (zog ein), Perfekt (ist eingezogen)"
+        related_cards: ["Die Wohnung", "Das Haus", "Der Umzug"]
+        examples: ["Ich ziehe nächste Woche ein.", "Er zieht in die neue Wohnung ein.", "Sie ist gestern eingezogen."]
+      - id: "umziehen"
+        title: "umziehen"
+        description: "Von einem Ort zu einem anderen ziehen."
+        konjugation: "ich ziehe um, du ziehst um, er/sie/es zieht um, wir ziehen um, ihr zieht um, sie/Sie ziehen um"
+        zeiten: "Präsens, Präteritum (zog um), Perfekt (ist umgezogen)"
+        related_cards: ["Die Wohnung", "Das Haus", "Der Umzug"]
+        examples: ["Ich ziehe nach Berlin um.", "Er zieht in eine neue Stadt um.", "Sie ist vor kurzem umgezogen."]
+      - id: "öffnen"
+        title: "öffnen"
+        description: "Etwas aufmachen."
+        konjugation: "ich öffne, du öffnest, er/sie/es öffnet, wir öffnen, ihr öffnet, sie/Sie öffnen"
+        zeiten: "Präsens, Präteritum (öffnete), Perfekt (hat geöffnet)"
+        related_cards: ["Die Tür", "Das Fenster", "Das Geschäft"]
+        examples: ["Ich öffne die Tür.", "Er öffnet das Fenster.", "Sie hat das Geschäft geöffnet."]
+      - id: "eröffnen"
+        title: "eröffnen"
+        description: "Etwas neu aufmachen oder beginnen."
+        konjugation: "ich eröffne, du eröffnest, er/sie/es eröffnet, wir eröffnen, ihr eröffnet, sie/Sie eröffnen"
+        zeiten: "Präsens, Präteritum (eröffnete), Perfekt (hat eröffnet)"
+        related_cards: ["Das Geschäft", "Die Ausstellung", "Die Veranstaltung"]
+        examples: ["Ich eröffne ein neues Geschäft.", "Er eröffnet die Ausstellung.", "Sie hat die Veranstaltung eröffnet."]
+      - id: "besichtigen"
+        title: "besichtigen"
+        description: "Einen Ort oder ein Gebäude ansehen."
+        konjugation: "ich besichtige, du besichtigst, er/sie/es besichtigt, wir besichtigen, ihr besichtigt, sie/Sie besichtigen"
+        zeiten: "Präsens, Präteritum (besichtigte), Perfekt (hat besichtigt)"
+        related_cards: ["Die Wohnung", "Das Haus", "Die Stadt"]
+        examples: ["Ich besichtige die Wohnung.", "Er besichtigt das Haus.", "Sie hat die Stadt besichtigt."]
+      - id: "erreichen"
+        title: "erreichen"
+        description: "An ein Ziel gelangen oder jemanden kontaktieren."
+        konjugation: "ich erreiche, du erreichst, er/sie/es erreicht, wir erreichen, ihr erreicht, sie/Sie erreichen"
+        zeiten: "Präsens, Präteritum (erreichte), Perfekt (hat erreicht)"
+        related_cards: ["Das Ziel", "Der Erfolg", "Die Telefonnummer"]
+        examples: ["Ich erreiche mein Ziel.", "Er erreicht den Bahnhof.", "Sie hat mich telefonisch erreicht."]
+      - id: "mieten"
+        title: "mieten"
+        description: "Etwas gegen Bezahlung für eine bestimmte Zeit nutzen."
+        konjugation: "ich miete, du mietest, er/sie/es mietet, wir mieten, ihr mietet, sie/Sie mieten"
+        zeiten: "Präsens, Präteritum (mietete), Perfekt (hat gemietet)"
+        related_cards: ["Die Wohnung", "Das Haus", "Der Mietvertrag"]
+        examples: ["Ich miete eine Wohnung.", "Er mietet ein Auto.", "Sie hat ein Haus gemietet."]
+      - id: "renovieren"
+        title: "renovieren"
+        description: "Etwas erneuern oder instand setzen."
+        konjugation: "ich renoviere, du renovierst, er/sie/es renoviert, wir renovieren, ihr renoviert, sie/Sie renovieren"
+        zeiten: "Präsens, Präteritum (renovierte), Perfekt (hat renoviert)"
+        related_cards: ["Die Wohnung", "Das Haus", "Die Renovierung"]
+        examples: ["Ich renoviere mein Zimmer.", "Er renoviert das Haus.", "Sie hat die Küche renoviert."]
+      - id: "umgestalten"
+        title: "umgestalten"
+        description: "Etwas neu gestalten oder verändern."
+        konjugation: "ich gestalte um, du gestaltest um, er/sie/es gestaltet um, wir gestalten um, ihr gestaltet um, sie/Sie gestalten um"
+        zeiten: "Präsens, Präteritum (gestaltete um), Perfekt (hat umgestaltet)"
+        related_cards: ["Die Wohnung", "Das Haus", "Die Umgestaltung"]
+        examples: ["Ich gestalte mein Wohnzimmer um.", "Er gestaltet den Garten um.", "Sie hat das Schlafzimmer umgestaltet."]
+      - id: "vermieten"
+        title: "vermieten"
+        description: "Etwas gegen Bezahlung für eine bestimmte Zeit zur Nutzung überlassen."
+        konjugation: "ich vermiete, du vermietest, er/sie/es vermietet, wir vermieten, ihr vermietet, sie/Sie vermieten"
+        zeiten: "Präsens, Präteritum (vermietete), Perfekt (hat vermietet)"
+        related_cards: ["Die Wohnung", "Das Haus", "Der Mietvertrag"]
+        examples: ["Ich vermiete meine Wohnung.", "Er vermietet sein Auto.", "Sie hat ihr Haus vermietet."]
+      - id: "putzen"
+        title: "putzen"
+        description: "Etwas sauber machen."
+        konjugation: "ich putze, du putzt, er/sie/es putzt, wir putzen, ihr putzt, sie/Sie putzen"
+        zeiten: "Präsens, Präteritum (putzte), Perfekt (hat geputzt)"
+        related_cards: ["Das Haus", "Die Wohnung", "Der Raum"]
+        examples: ["Ich putze das Badezimmer.", "Er putzt die Fenster.", "Sie hat die Küche geputzt."]
+      - id: "reparieren"
+        title: "reparieren"
+        description: "Etwas, das kaputt ist, wieder in Ordnung bringen."
+        konjugation: "ich repariere, du reparierst, er/sie/es repariert, wir reparieren, ihr repariert, sie/Sie reparieren"
+        zeiten: "Präsens, Präteritum (reparierte), Perfekt (hat repariert)"
+        related_cards: ["Das Gerät", "Der Schaden", "Die Reparatur"]
+        examples: ["Ich repariere den Fernseher.", "Er repariert das Auto.", "Sie hat die Waschmaschine repariert."]
+      - id: "ausziehen"
+        title: "ausziehen"
+        description: "Eine Wohnung oder ein Haus verlassen."
+        konjugation: "ich ziehe aus, du ziehst aus, er/sie/es zieht aus, wir ziehen aus, ihr zieht aus, sie/Sie ziehen aus"
+        zeiten: "Präsens, Präteritum (zog aus), Perfekt (ist ausgezogen)"
+        related_cards: ["Die Wohnung", "Das Haus", "Der Umzug"]
+        examples: ["Ich ziehe nächste Woche aus.", "Er zieht aus der Wohnung aus.", "Sie ist gestern ausgezogen."]

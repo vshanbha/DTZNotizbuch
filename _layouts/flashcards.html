@@ -264,6 +264,14 @@ layout: page
       renderCard(current_index);
       closeDrawer();
     }
+    document.addEventListener('click', function(event) {
+      const drawer = document.getElementById('all-words');
+      const openDrawerBtn = document.getElementById('openDrawerBtn');
+      if (drawer.style.width === '250px' && !drawer.contains(event.target) && event.target !== openDrawerBtn) {
+        closeDrawer();
+      }
+    });
+    
   </script>
 
   <div id="all-words" class="drawer">
