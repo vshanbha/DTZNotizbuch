@@ -5,3 +5,7 @@
 layout: blog
 author_profile: true
 ---
+## DTZ Notizbuch
+
+zu den Flashcards
+{% include_relative flashcards.md  title=title %}

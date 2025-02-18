@@ -150,7 +150,9 @@ layout: page
       document.getElementById('flashcard-container').innerHTML = `
         <div class="card" onclick="this.classList.toggle('flipped')">
           <div class="card-inner">
-            <div class="card-front">${card.title}</div>
+            <div class="card-front">${card.title}
+              <p style="position: absolute; bottom: 10px; right: 10px; font-size: 14px;">${index + 1} / ${categories[getCategoryIndexByValue(current_category_value)].cards.length}</p>
+            </div>
             <div class="card-back">
               <p><strong>Description:</strong> ${description}</p>
               <p><strong>Examples:</strong> ${card.examples?.join('<br>') || 'N/A'}</p>
@@ -293,4 +295,3 @@ layout: page
 </body>
 
 </html>
-
