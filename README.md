@@ -5,9 +5,15 @@ permalink: /readme/
 ---
 
 ## Introduction
-This repository is meant to help create a quick start / Hello world version of a website using Jekyll and Markdown as a way of creating a website from plain text.
+This repository is meant to be an online notebook to help with preparation for Deutschtest für Zuwanderer (DTZ). Includes Flashcards to help develop German Vocabulary. 
+If you have any feedback or face any issues [open an issue](https://github.com/vshanbha/DTZNotizbuch/issues/new?template=issue_template.md).
 
-This page covers developer instructions to work with this repository. 
+## Einführung
+Dieses Repository soll ein Online-Notizbuch sein, um bei der Vorbereitung auf den Deutschtest für Zuwanderer (DTZ) zu helfen. Es enthält Karteikarten, um den deutschen Wortschatz zu entwickeln.
+Wenn Sie Feedback haben oder auf Probleme stoßen, [öffnen Sie ein Issue](https://github.com/vshanbha/DTZNotizbuch/issues/new?template=issue_template.md).
+
+The rest of the page covers developer instructions to work with this repository. 
+
 
 ## Usage Pre-Requisites
 This repository is meant to be a template repository for a Blog or a Website and uses [Jekyll](https://jekyllrb.com/docs/){:target="_blank"} to transform markdown files into HTML. It has necessary setup to be deployed on to GitHub pages.

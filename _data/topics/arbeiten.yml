@@ -1,0 +1,587 @@
+title: Wohnen Flashcards
+topic: wohnen
+categories:
+  - name: Nouns
+    value: "Nomen (Beruf)"
+    cards:
+      - id: "arzt"
+        title: "Der Arzt"
+        description: "Ein medizinischer Fachmann, der Krankheiten diagnostiziert und behandelt."
+        plural: "Die Ärzte"
+        related_cards: ["Die Ärztin", "Das Krankenhaus", "Die Praxis"]
+        examples: ["Der Arzt untersucht den Patienten.", "Sie hat einen Termin beim Arzt.", "Der Arzt verschreibt Medikamente."]
+      - id: "ärztin"
+        title: "Die Ärztin"
+        description: "Eine medizinische Fachfrau, die Krankheiten diagnostiziert und behandelt."
+        plural: "Die Ärztinnen"
+        related_cards: ["Der Arzt", "Das Krankenhaus", "Die Praxis"]
+        examples: ["Die Ärztin untersucht den Patienten.", "Sie hat einen Termin bei der Ärztin.", "Die Ärztin verschreibt Medikamente."]
+      - id: "lehrer"
+        title: "Der Lehrer"
+        description: "Eine Person, die Schüler unterrichtet."
+        plural: "Die Lehrer"
+        related_cards: ["Die Lehrerin", "Die Schule", "Der Unterricht"]
+        examples: ["Der Lehrer erklärt die Aufgabe.", "Er ist ein sehr guter Lehrer.", "Die Lehrer bereiten den Unterricht vor."]
+      - id: "lehrerin"
+        title: "Die Lehrerin"
+        description: "Eine Person, die Schüler unterrichtet."
+        plural: "Die Lehrerinnen"
+        related_cards: ["Der Lehrer", "Die Schule", "Der Unterricht"]
+        examples: ["Die Lehrerin erklärt die Aufgabe.", "Sie ist eine sehr gute Lehrerin.", "Die Lehrerinnen bereiten den Unterricht vor."]
+      - id: "sekretärin"
+        title: "Die Sekretärin"
+        description: "Eine Person, die administrative Aufgaben in einem Büro erledigt."
+        plural: "Die Sekretärinnen"
+        related_cards: ["Das Büro", "Der Chef", "Die Verwaltung"]
+        examples: ["Die Sekretärin organisiert die Termine.", "Sie arbeitet als Sekretärin.", "Die Sekretärin beantwortet die Anrufe."]
+      - id: "taxifahrer"
+        title: "Der Taxifahrer"
+        description: "Eine Person, die ein Taxi fährt."
+        plural: "Die Taxifahrer"
+        related_cards: ["Das Taxi", "Die Fahrt", "Der Fahrgast"]
+        examples: ["Der Taxifahrer kennt die Stadt gut.", "Er arbeitet als Taxifahrer.", "Die Taxifahrer warten am Bahnhof."]
+      - id: "handwerker"
+        title: "Der Handwerker"
+        description: "Eine Person, die handwerkliche Arbeiten ausführt."
+        plural: "Die Handwerker"
+        related_cards: ["Die Handwerkerin", "Das Werkzeug", "Die Baustelle"]
+        examples: ["Der Handwerker repariert das Dach.", "Er ist ein erfahrener Handwerker.", "Die Handwerker arbeiten schnell."]
+      - id: "handwerkerin"
+        title: "Die Handwerkerin"
+        description: "Eine Person, die handwerkliche Arbeiten ausführt."
+        plural: "Die Handwerkerinnen"
+        related_cards: ["Der Handwerker", "Das Werkzeug", "Die Baustelle"]
+        examples: ["Die Handwerkerin repariert das Dach.", "Sie ist eine erfahrene Handwerkerin.", "Die Handwerkerinnen arbeiten schnell."]
+      - id: "verkäufer"
+        title: "Der Verkäufer"
+        description: "Eine Person, die Waren verkauft."
+        plural: "Die Verkäufer"
+        related_cards: ["Die Verkäuferin", "Das Geschäft", "Der Kunde"]
+        examples: ["Der Verkäufer hilft den Kunden.", "Er arbeitet als Verkäufer.", "Die Verkäufer sind freundlich."]
+      - id: "verkäuferin"
+        title: "Die Verkäuferin"
+        description: "Eine Person, die Waren verkauft."
+        plural: "Die Verkäuferinnen"
+        related_cards: ["Der Verkäufer", "Das Geschäft", "Der Kunde"]
+        examples: ["Die Verkäuferin hilft den Kunden.", "Sie arbeitet als Verkäuferin.", "Die Verkäuferinnen sind freundlich."]
+      - id: "informatiker"
+        title: "Der Informatiker"
+        description: "Eine Person, die im Bereich der Informatik arbeitet."
+        plural: "Die Informatiker"
+        related_cards: ["Die Informatikerin", "Der Computer", "Das Programm"]
+        examples: ["Der Informatiker entwickelt Software.", "Er ist ein erfahrener Informatiker.", "Die Informatiker arbeiten an einem neuen Projekt."]
+      - id: "informatikerin"
+        title: "Die Informatikerin"
+        description: "Eine Person, die im Bereich der Informatik arbeitet."
+        plural: "Die Informatikerinnen"
+        related_cards: ["Der Informatiker", "Der Computer", "Das Programm"]
+        examples: ["Die Informatikerin entwickelt Software.", "Sie ist eine erfahrene Informatikerin.", "Die Informatikerinnen arbeiten an einem neuen Projekt."]
+      - id: "kellner"
+        title: "Der Kellner"
+        description: "Eine Person, die in einem Restaurant oder Café bedient."
+        plural: "Die Kellner"
+        related_cards: ["Die Kellnerin", "Das Restaurant", "Das Café"]
+        examples: ["Der Kellner bringt das Essen.", "Er arbeitet als Kellner.", "Die Kellner sind freundlich."]
+      - id: "kellnerin"
+        title: "Die Kellnerin"
+        description: "Eine Person, die in einem Restaurant oder Café bedient."
+        plural: "Die Kellnerinnen"
+        related_cards: ["Der Kellner", "Das Restaurant", "Das Café"]
+        examples: ["Die Kellnerin bringt das Essen.", "Sie arbeitet als Kellnerin.", "Die Kellnerinnen sind freundlich."]
+      - id: "friseur"
+        title: "Der Friseur"
+        description: "Eine Person, die Haare schneidet und stylt."
+        plural: "Die Friseure"
+        related_cards: ["Die Friseurin", "Der Haarschnitt", "Der Salon"]
+        examples: ["Der Friseur schneidet die Haare.", "Er ist ein erfahrener Friseur.", "Die Friseure arbeiten im Salon."]
+      - id: "friseurin"
+        title: "Die Friseurin"
+        description: "Eine Person, die Haare schneidet und stylt."
+        plural: "Die Friseurinnen"
+        related_cards: ["Der Friseur", "Der Haarschnitt", "Der Salon"]
+        examples: ["Die Friseurin schneidet die Haare.", "Sie ist eine erfahrene Friseurin.", "Die Friseurinnen arbeiten im Salon."]
+      - id: "automechaniker"
+        title: "Der Automechaniker"
+        description: "Eine Person, die Autos repariert."
+        plural: "Die Automechaniker"
+        related_cards: ["Die Automechanikerin", "Das Auto", "Die Werkstatt"]
+        examples: ["Der Automechaniker repariert das Auto.", "Er ist ein erfahrener Automechaniker.", "Die Automechaniker arbeiten in der Werkstatt."]
+      - id: "automechanikerin"
+        title: "Die Automechanikerin"
+        description: "Eine Person, die Autos repariert."
+        plural: "Die Automechanikerinnen"
+        related_cards: ["Der Automechaniker", "Das Auto", "Die Werkstatt"]
+        examples: ["Die Automechanikerin repariert das Auto.", "Sie ist eine erfahrene Automechanikerin.", "Die Automechanikerinnen arbeiten in der Werkstatt."]
+      - id: "kioskbesitzer"
+        title: "Der Kioskbesitzer"
+        description: "Eine Person, die einen Kiosk besitzt und betreibt."
+        plural: "Die Kioskbesitzer"
+        related_cards: ["Der Kiosk", "Der Verkäufer", "Der Kunde"]
+        examples: ["Der Kioskbesitzer verkauft Zeitungen.", "Er ist der Kioskbesitzer.", "Die Kioskbesitzer arbeiten lange Stunden."]
+      - id: "reinigungskraft"
+        title: "Die Reinigungskraft"
+        description: "Eine Person, die für die Sauberkeit von Gebäuden sorgt."
+        plural: "Die Reinigungskräfte"
+        related_cards: ["Die Putzfrau", "Der Putzmann", "Das Reinigungsmittel"]
+        examples: ["Die Reinigungskraft putzt das Büro.", "Sie arbeitet als Reinigungskraft.", "Die Reinigungskräfte sind fleißig."]
+      - id: "krankenschwester"
+        title: "Die Krankenschwester"
+        description: "Eine Person, die Patienten in einem Krankenhaus pflegt."
+        plural: "Die Krankenschwestern"
+        related_cards: ["Der Krankenpfleger", "Das Krankenhaus", "Der Patient"]
+        examples: ["Die Krankenschwester kümmert sich um die Patienten.", "Sie ist eine erfahrene Krankenschwester.", "Die Krankenschwestern arbeiten im Schichtdienst."]
+      - id: "krankenpfleger"
+        title: "Der Krankenpfleger"
+        description: "Eine Person, die Patienten in einem Krankenhaus pflegt."
+        plural: "Die Krankenpfleger"
+        related_cards: ["Die Krankenschwester", "Das Krankenhaus", "Der Patient"]
+        examples: ["Der Krankenpfleger kümmert sich um die Patienten.", "Er ist ein erfahrener Krankenpfleger.", "Die Krankenpfleger arbeiten im Schichtdienst."]
+      - id: "koch"
+        title: "Der Koch"
+        description: "Eine Person, die beruflich kocht."
+        plural: "Die Köche"
+        related_cards: ["Die Köchin", "Das Restaurant", "Das Rezept"]
+        examples: ["Der Koch bereitet das Essen zu.", "Er ist ein erfahrener Koch.", "Die Köche arbeiten in der Küche."]
+      - id: "kochin"
+        title: "Die Köchin"
+        description: "Eine Person, die beruflich kocht."
+        plural: "Die Köchinnen"
+        related_cards: ["Der Koch", "Das Restaurant", "Das Rezept"]
+        examples: ["Die Köchin bereitet das Essen zu.", "Sie ist eine erfahrene Köchin.", "Die Köchinnen arbeiten in der Küche."]
+      - id: "bankkaufmann"
+        title: "Der Bankkaufmann"
+        description: "Eine Person, die in einer Bank arbeitet und Kunden berät."
+        plural: "Die Bankkaufmänner"
+        related_cards: ["Die Bankkauffrau", "Die Bank", "Der Kunde"]
+        examples: ["Der Bankkaufmann berät die Kunden.", "Er arbeitet als Bankkaufmann.", "Die Bankkaufmänner sind kompetent."]
+      - id: "bankkauffrau"
+        title: "Die Bankkauffrau"
+        description: "Eine Person, die in einer Bank arbeitet und Kunden berät."
+        plural: "Die Bankkauffrauen"
+        related_cards: ["Der Bankkaufmann", "Die Bank", "Der Kunde"]
+        examples: ["Die Bankkauffrau berät die Kunden.", "Sie arbeitet als Bankkauffrau.", "Die Bankkauffrauen sind kompetent."]
+      - id: "polizist"
+        title: "Der Polizist"
+        description: "Eine Person, die für die öffentliche Sicherheit sorgt."
+        plural: "Die Polizisten"
+        related_cards: ["Die Polizistin", "Die Polizei", "Der Einsatz"]
+        examples: ["Der Polizist hilft den Bürgern.", "Er arbeitet als Polizist.", "Die Polizisten sind im Einsatz."]
+      - id: "polizistin"
+        title: "Die Polizistin"
+        description: "Eine Person, die für die öffentliche Sicherheit sorgt."
+        plural: "Die Polizistinnen"
+        related_cards: ["Der Polizist", "Die Polizei", "Der Einsatz"]
+        examples: ["Die Polizistin hilft den Bürgern.", "Sie arbeitet als Polizistin.", "Die Polizistinnen sind im Einsatz."]
+      - id: "anwalt"
+        title: "Der Anwalt"
+        description: "Eine Person, die rechtlichen Beistand leistet."
+        plural: "Die Anwälte"
+        related_cards: ["Die Anwältin", "Das Gericht", "Der Fall"]
+        examples: ["Der Anwalt vertritt seinen Mandanten.", "Er arbeitet als Anwalt.", "Die Anwälte sind gut vorbereitet."]
+      - id: "anwältin"
+        title: "Die Anwältin"
+        description: "Eine Person, die rechtlichen Beistand leistet."
+        plural: "Die Anwältinnen"
+        related_cards: ["Der Anwalt", "Das Gericht", "Der Fall"]
+        examples: ["Die Anwältin vertritt ihren Mandanten.", "Sie arbeitet als Anwältin.", "Die Anwältinnen sind gut vorbereitet."]
+      - id: "kanzler"
+        title: "Der Kanzler"
+        description: "Der Regierungschef eines Landes."
+        plural: "Die Kanzler"
+        related_cards: ["Die Kanzlerin", "Die Regierung", "Das Parlament"]
+        examples: ["Der Kanzler hält eine Rede.", "Er ist der Kanzler von Deutschland.", "Die Kanzler treffen sich zum Gipfel."]
+      - id: "kanzlerin"
+        title: "Die Kanzlerin"
+        description: "Die Regierungschefin eines Landes."
+        plural: "Die Kanzlerinnen"
+        related_cards: ["Der Kanzler", "Die Regierung", "Das Parlament"]
+        examples: ["Die Kanzlerin hält eine Rede.", "Sie ist die Kanzlerin von Deutschland.", "Die Kanzlerinnen treffen sich zum Gipfel."]
+      - id: "trainer"
+        title: "Der Trainer"
+        description: "Eine Person, die eine Sportmannschaft trainiert."
+        plural: "Die Trainer"
+        related_cards: ["Die Trainerin", "Das Training", "Die Mannschaft"]
+        examples: ["Der Trainer leitet das Training.", "Er ist ein erfahrener Trainer.", "Die Trainer bereiten die Mannschaft vor."]
+      - id: "professor"
+        title: "Der Professor"
+        description: "Eine Person, die an einer Universität lehrt."
+        plural: "Die Professoren"
+        related_cards: ["Die Professorin", "Die Universität", "Die Vorlesung"]
+        examples: ["Der Professor hält eine Vorlesung.", "Er ist ein angesehener Professor.", "Die Professoren forschen und lehren."]
+      - id: "manager"
+        title: "Der Manager"
+        description: "Eine Person, die ein Unternehmen oder eine Abteilung leitet."
+        plural: "Die Manager"
+        related_cards: ["Die Managerin", "Das Unternehmen", "Die Abteilung"]
+        examples: ["Der Manager trifft wichtige Entscheidungen.", "Er arbeitet als Manager.", "Die Manager sind verantwortlich für den Erfolg."]
+      - id: "managerin"
+        title: "Die Managerin"
+        description: "Eine Person, die ein Unternehmen oder eine Abteilung leitet."
+        plural: "Die Managerinnen"
+        related_cards: ["Der Manager", "Das Unternehmen", "Die Abteilung"]
+        examples: ["Die Managerin trifft wichtige Entscheidungen.", "Sie arbeitet als Managerin.", "Die Managerinnen sind verantwortlich für den Erfolg."]
+      - id: "chef"
+        title: "Der Chef"
+        description: "Eine Person, die eine Gruppe von Mitarbeitern leitet."
+        plural: "Die Chefs"
+        related_cards: ["Die Chefin", "Der Mitarbeiter", "Das Büro"]
+        examples: ["Der Chef gibt Anweisungen.", "Er ist der Chef der Abteilung.", "Die Chefs sind verantwortlich für das Team."]
+      - id: "chefin"
+        title: "Die Chefin"
+        description: "Eine Person, die eine Gruppe von Mitarbeitern leitet."
+        plural: "Die Chefinnen"
+        related_cards: ["Der Chef", "Der Mitarbeiter", "Das Büro"]
+        examples: ["Die Chefin gibt Anweisungen.", "Sie ist die Chefin der Abteilung.", "Die Chefinnen sind verantwortlich für das Team."]
+      - id: "schulleiter"
+        title: "Der Schulleiter"
+        description: "Eine Person, die eine Schule leitet."
+        plural: "Die Schulleiter"
+        related_cards: ["Der Schuldirektor", "Die Schule", "Der Lehrer"]
+        examples: ["Der Schulleiter organisiert den Schulbetrieb.", "Er ist der Schulleiter der Schule.", "Die Schulleiter treffen sich zur Konferenz."]
+      - id: "schuldirektor"
+        title: "Der Schuldirektor"
+        description: "Eine Person, die eine Schule leitet."
+        plural: "Die Schuldirektoren"
+        related_cards: ["Der Schulleiter", "Die Schule", "Der Lehrer"]
+        examples: ["Der Schuldirektor organisiert den Schulbetrieb.", "Er ist der Schuldirektor der Schule.", "Die Schuldirektoren treffen sich zur Konferenz."]
+      - id: "busfahrer"
+        title: "Der Busfahrer"
+        description: "Eine Person, die einen Bus fährt."
+        plural: "Die Busfahrer"
+        related_cards: ["Der Bus", "Die Fahrt", "Der Fahrgast"]
+        examples: ["Der Busfahrer fährt die Route.", "Er arbeitet als Busfahrer.", "Die Busfahrer sind pünktlich."]
+      - id: "reisefuhrer"
+        title: "Der Reiseführer"
+        description: "Eine Person, die Touristen führt und informiert."
+        plural: "Die Reiseführer"
+        related_cards: ["Die Reise", "Der Tourist", "Die Sehenswürdigkeit"]
+        examples: ["Der Reiseführer zeigt die Stadt.", "Er arbeitet als Reiseführer.", "Die Reiseführer kennen die Geschichte."]
+      - id: "beamter"
+        title: "Der Beamte"
+        description: "Eine Person, die im öffentlichen Dienst arbeitet."
+        plural: "Die Beamten"
+        related_cards: ["Die Beamtin", "Das Amt", "Der Dienst"]
+        examples: ["Der Beamte bearbeitet die Anträge.", "Er ist ein Beamter.", "Die Beamten sind zuverlässig."]
+      - id: "beamtin"
+        title: "Die Beamtin"
+        description: "Eine Person, die im öffentlichen Dienst arbeitet."
+        plural: "Die Beamtinnen"
+        related_cards: ["Der Beamte", "Das Amt", "Der Dienst"]
+        examples: ["Die Beamtin bearbeitet die Anträge.", "Sie ist eine Beamtin.", "Die Beamtinnen sind zuverlässig."]
+  - name: Nouns
+    value: "Nomen (andere)"
+    cards:
+      - id: "verkehr"
+        title: "Der Verkehr"
+        description: "Die Bewegung von Fahrzeugen und Personen auf Straßen und Wegen."
+        plural: "Die Verkehre"
+        related_cards: ["Das Auto", "Der Bus", "Die Straße"]
+        examples: ["Der Verkehr ist heute sehr dicht.", "Es gibt viel Verkehr auf der Autobahn.", "Der Verkehr wird durch Ampeln geregelt."]
+      - id: "gesundheit"
+        title: "Die Gesundheit"
+        description: "Der Zustand des körperlichen und geistigen Wohlbefindens."
+        plural: "Die Gesundheiten"
+        related_cards: ["Der Arzt", "Das Krankenhaus", "Die Pflege"]
+        examples: ["Gesundheit ist das wichtigste Gut.", "Er achtet sehr auf seine Gesundheit.", "Die Gesundheit der Patienten steht an erster Stelle."]
+      - id: "hotel"
+        title: "Das Hotel"
+        description: "Ein Gebäude, in dem Gäste übernachten können."
+        plural: "Die Hotels"
+        related_cards: ["Das Zimmer", "Der Gast", "Die Rezeption"]
+        examples: ["Wir übernachten in einem Hotel.", "Das Hotel bietet viele Annehmlichkeiten.", "Sie hat ein Zimmer im Hotel gebucht."]
+      - id: "gaststätten"
+        title: "Die Gaststätte"
+        description: "Ein Ort, an dem Speisen und Getränke serviert werden."
+        plural: "Die Gaststätten"
+        related_cards: ["Das Restaurant", "Der Kellner", "Das Essen"]
+        examples: ["Wir essen in einer gemütlichen Gaststätte.", "Die Gaststätte ist sehr beliebt.", "Er arbeitet in einer Gaststätte."]
+      - id: "erziehung"
+        title: "Die Erziehung"
+        description: "Die Betreuung und Bildung von Kindern."
+        plural: "Die Erziehungen"
+        related_cards: ["Die Schule", "Der Lehrer", "Das Kind"]
+        examples: ["Die Erziehung der Kinder ist sehr wichtig.", "Sie legt großen Wert auf eine gute Erziehung.", "Er hat eine strenge Erziehung genossen."]
+      - id: "ausbildung"
+        title: "Die Ausbildung"
+        description: "Die berufliche Qualifizierung und Schulung."
+        plural: "Die Ausbildungen"
+        related_cards: ["Der Beruf", "Die Schule", "Der Lehrer"]
+        examples: ["Er macht eine Ausbildung zum Mechaniker.", "Die Ausbildung dauert drei Jahre.", "Sie hat ihre Ausbildung erfolgreich abgeschlossen."]
+      - id: "dienstleistung"
+        title: "Die Dienstleistung"
+        description: "Eine Tätigkeit, die für andere erbracht wird."
+        plural: "Die Dienstleistungen"
+        related_cards: ["Der Service", "Der Kunde", "Das Unternehmen"]
+        examples: ["Die Dienstleistung ist sehr gut.", "Er bietet verschiedene Dienstleistungen an.", "Sie arbeitet im Bereich der Dienstleistungen."]
+      - id: "handel"
+        title: "Der Handel"
+        description: "Der Austausch von Waren und Dienstleistungen."
+        plural: "Die Händel"
+        related_cards: ["Der Verkäufer", "Das Geschäft", "Die Ware"]
+        examples: ["Der Handel mit Lebensmitteln boomt.", "Er arbeitet im Handel.", "Der internationale Handel ist wichtig."]
+      - id: "büro"
+        title: "Das Büro"
+        description: "Ein Raum, in dem administrative Arbeiten erledigt werden."
+        plural: "Die Büros"
+        related_cards: ["Der Schreibtisch", "Der Computer", "Der Mitarbeiter"]
+        examples: ["Ich arbeite in einem Büro.", "Das Büro ist modern eingerichtet.", "Sie hat ein eigenes Büro."]
+      - id: "gehalt"
+        title: "Das Gehalt"
+        description: "Das Geld, das man für seine Arbeit bekommt."
+        plural: "Die Gehälter"
+        related_cards: ["Der Lohn", "Die Arbeit", "Der Beruf"]
+        examples: ["Er bekommt ein gutes Gehalt.", "Das Gehalt wird monatlich ausgezahlt.", "Sie ist mit ihrem Gehalt zufrieden."]
+      - id: "betrieb"
+        title: "Der Betrieb"
+        description: "Ein Unternehmen oder eine Firma."
+        plural: "Die Betriebe"
+        related_cards: ["Das Unternehmen", "Die Firma", "Der Chef"]
+        examples: ["Der Betrieb stellt viele Produkte her.", "Er arbeitet in einem großen Betrieb.", "Der Betrieb hat viele Mitarbeiter."]
+      - id: "fabrik"
+        title: "Die Fabrik"
+        description: "Ein Gebäude, in dem Waren hergestellt werden."
+        plural: "Die Fabriken"
+        related_cards: ["Der Betrieb", "Die Produktion", "Das Produkt"]
+        examples: ["Die Fabrik produziert Autos.", "Er arbeitet in einer Fabrik.", "Die Fabrik ist sehr groß."]
+      - id: "team"
+        title: "Das Team"
+        description: "Eine Gruppe von Personen, die zusammenarbeiten."
+        plural: "Die Teams"
+        related_cards: ["Der Kollege", "Die Zusammenarbeit", "Das Projekt"]
+        examples: ["Das Team arbeitet gut zusammen.", "Er ist Teil eines großen Teams.", "Das Team hat das Projekt erfolgreich abgeschlossen."]
+      - id: "pflegeberuf"
+        title: "Der Pflegeberuf"
+        description: "Ein Beruf, der sich um die Betreuung und Pflege von Menschen kümmert."
+        plural: "Die Pflegeberufe"
+        related_cards: ["Die Krankenschwester", "Der Krankenpfleger", "Das Krankenhaus"]
+        examples: ["Der Pflegeberuf erfordert viel Geduld.", "Sie arbeitet in einem Pflegeberuf.", "Der Pflegeberuf ist sehr wichtig."]
+      - id: "beruf"
+        title: "Der Beruf"
+        description: "Eine Tätigkeit, die man regelmäßig ausübt und mit der man seinen Lebensunterhalt verdient."
+        plural: "Die Berufe"
+        related_cards: ["Die Arbeit", "Der Job", "Die Karriere"]
+        examples: ["Er hat einen interessanten Beruf.", "Sie liebt ihren Beruf.", "Der Beruf erfordert viel Wissen."]
+      - id: "auto"
+        title: "Das Auto"
+        description: "Ein Fahrzeug mit vier Rädern, das von einem Motor angetrieben wird."
+        plural: "Die Autos"
+        related_cards: ["Der Fahrer", "Die Straße", "Der Verkehr"]
+        examples: ["Er fährt ein neues Auto.", "Das Auto ist sehr schnell.", "Sie hat ein rotes Auto."]
+      - id: "autoreifen"
+        title: "Der Autoreifen"
+        description: "Ein runder Gummiring, der auf die Räder eines Autos montiert wird."
+        plural: "Die Autoreifen"
+        related_cards: ["Das Auto", "Das Rad", "Die Werkstatt"]
+        examples: ["Der Autoreifen ist platt.", "Er wechselt die Autoreifen.", "Die Autoreifen sind neu."]
+      - id: "reifen"
+        title: "Der Reifen"
+        description: "Ein runder Gummiring, der auf die Räder eines Fahrzeugs montiert wird."
+        plural: "Die Reifen"
+        related_cards: ["Das Auto", "Das Fahrrad", "Die Werkstatt"]
+        examples: ["Der Reifen ist platt.", "Er wechselt die Reifen.", "Die Reifen sind neu."]
+      - id: "schichtdienst"
+        title: "Der Schichtdienst"
+        description: "Eine Arbeitszeit, die in verschiedenen Schichten organisiert ist."
+        plural: "Die Schichtdienste"
+        related_cards: ["Die Arbeit", "Der Dienstplan", "Der Kollege"]
+        examples: ["Er arbeitet im Schichtdienst.", "Der Schichtdienst ist anstrengend.", "Sie hat heute Nachtschicht."]
+      - id: "menschen"
+        title: "Die Menschen"
+        description: "Plural von Mensch, bezieht sich auf Personen im Allgemeinen."
+        plural: "Die Menschen"
+        related_cards: ["Die Person", "Der Mensch", "Die Leute"]
+        examples: ["Viele Menschen sind hier.", "Die Menschen sind freundlich.", "Er mag es, mit Menschen zu arbeiten."]
+      - id: "arbeitszeiten"
+        title: "Die Arbeitszeiten"
+        description: "Die festgelegten Zeiten, in denen man arbeitet."
+        plural: "Die Arbeitszeiten"
+        related_cards: ["Die Arbeit", "Der Dienstplan", "Der Job"]
+        examples: ["Die Arbeitszeiten sind flexibel.", "Er hat feste Arbeitszeiten.", "Die Arbeitszeiten sind lang."]
+      - id: "gebäude"
+        title: "Das Gebäude"
+        description: "Eine Konstruktion aus Wänden und einem Dach, in der Menschen leben oder arbeiten."
+        plural: "Die Gebäude"
+        related_cards: ["Das Haus", "Das Büro", "Die Schule"]
+        examples: ["Das Gebäude ist sehr hoch.", "Er arbeitet in einem modernen Gebäude.", "Die Gebäude in der Stadt sind alt."]
+      - id: "ware"
+        title: "Die Ware"
+        description: "Ein Produkt, das verkauft wird."
+        plural: "Die Waren"
+        related_cards: ["Der Verkäufer", "Das Geschäft", "Der Kunde"]
+        examples: ["Die Ware ist von guter Qualität.", "Er verkauft verschiedene Waren.", "Die Waren sind im Angebot."]
+      - id: "zeitschriften"
+        title: "Die Zeitschrift"
+        description: "Ein regelmäßig erscheinendes Druckerzeugnis mit verschiedenen Artikeln."
+        plural: "Die Zeitschriften"
+        related_cards: ["Das Magazin", "Der Artikel", "Die Zeitung"]
+        examples: ["Er liest gerne Zeitschriften.", "Die Zeitschrift erscheint monatlich.", "Sie hat eine interessante Zeitschrift gekauft."]
+      - id: "rechnung"
+        title: "Die Rechnung"
+        description: "Ein Dokument, das den Preis von Waren oder Dienstleistungen angibt."
+        plural: "Die Rechnungen"
+        related_cards: ["Der Preis", "Die Zahlung", "Der Kunde"]
+        examples: ["Er hat die Rechnung bezahlt.", "Die Rechnung ist sehr hoch.", "Sie hat die Rechnung verloren."]
+  - name: Verbs
+    value: "Verben"
+    cards:
+      - id: "arbeiten"
+        title: "arbeiten"
+        description: "Eine Tätigkeit ausüben, um Geld zu verdienen."
+        konjugation: "ich arbeite, du arbeitest, er/sie/es arbeitet, wir arbeiten, ihr arbeitet, sie/Sie arbeiten"
+        zeiten: "Präsens, Präteritum (arbeitete), Perfekt (hat gearbeitet)"
+        related_cards: ["Der Beruf", "Der Arbeitsplatz", "Die Arbeit", "Der Kollege"]
+        examples: ["Ich arbeite in einem Büro.", "Wo arbeitest du?", "Sie arbeitet als Lehrerin."]
+      - id: "verkaufen"
+        title: "verkaufen"
+        description: "Waren oder Dienstleistungen gegen Geld anbieten."
+        konjugation: "ich verkaufe, du verkaufst, er/sie/es verkauft, wir verkaufen, ihr verkauft, sie/Sie verkaufen"
+        zeiten: "Präsens, Präteritum (verkaufte), Perfekt (hat verkauft)"
+        related_cards: ["Der Verkäufer", "Die Ware", "Der Kunde"]
+        examples: ["Ich verkaufe mein Auto.", "Er verkauft Obst auf dem Markt.", "Sie hat ihr Haus verkauft."]
+      - id: "entwickeln"
+        title: "entwickeln"
+        description: "Etwas Neues schaffen oder verbessern."
+        konjugation: "ich entwickle, du entwickelst, er/sie/es entwickelt, wir entwickeln, ihr entwickelt, sie/Sie entwickeln"
+        zeiten: "Präsens, Präteritum (entwickelte), Perfekt (hat entwickelt)"
+        related_cards: ["Der Entwickler", "Die Entwicklung", "Das Projekt"]
+        examples: ["Ich entwickle eine neue Software.", "Sie entwickelt innovative Lösungen.", "Er hat ein neues Produkt entwickelt."]
+      - id: "unterrichten"
+        title: "unterrichten"
+        description: "Wissen an Schüler oder Studenten vermitteln."
+        konjugation: "ich unterrichte, du unterrichtest, er/sie/es unterrichtet, wir unterrichten, ihr unterrichtet, sie/Sie unterrichten"
+        zeiten: "Präsens, Präteritum (unterrichtete), Perfekt (hat unterrichtet)"
+        related_cards: ["Der Lehrer", "Die Schule", "Der Unterricht"]
+        examples: ["Ich unterrichte Mathematik.", "Sie unterrichtet an einer Grundschule.", "Er hat viele Jahre unterrichtet."]
+      - id: "putzen"
+        title: "putzen"
+        description: "Etwas sauber machen."
+        konjugation: "ich putze, du putzt, er/sie/es putzt, wir putzen, ihr putzt, sie/Sie putzen"
+        zeiten: "Präsens, Präteritum (putzte), Perfekt (hat geputzt)"
+        related_cards: ["Die Reinigungskraft", "Das Reinigungsmittel", "Der Schmutz"]
+        examples: ["Ich putze das Fenster.", "Sie putzt jeden Tag das Haus.", "Er hat das Auto geputzt."]
+      - id: "bedienen"
+        title: "bedienen"
+        description: "Kunden in einem Restaurant oder Geschäft betreuen."
+        konjugation: "ich bediene, du bedienst, er/sie/es bedient, wir bedienen, ihr bedient, sie/Sie bedienen"
+        zeiten: "Präsens, Präteritum (bediente), Perfekt (hat bedient)"
+        related_cards: ["Der Kellner", "Das Restaurant", "Der Kunde"]
+        examples: ["Ich bediene die Gäste.", "Sie bedient die Kunden freundlich.", "Er hat viele Jahre als Kellner bedient."]
+      - id: "reparieren"
+        title: "reparieren"
+        description: "Etwas, das kaputt ist, wieder in Ordnung bringen."
+        konjugation: "ich repariere, du reparierst, er/sie/es repariert, wir reparieren, ihr repariert, sie/Sie reparieren"
+        zeiten: "Präsens, Präteritum (reparierte), Perfekt (hat repariert)"
+        related_cards: ["Der Mechaniker", "Die Reparatur", "Das Werkzeug"]
+        examples: ["Ich repariere das Auto.", "Er repariert den Computer.", "Sie hat das Fahrrad repariert."]
+      - id: "schreiben"
+        title: "schreiben"
+        description: "Wörter oder Sätze auf Papier oder ein anderes Medium setzen."
+        konjugation: "ich schreibe, du schreibst, er/sie/es schreibt, wir schreiben, ihr schreibt, sie/Sie schreiben"
+        zeiten: "Präsens, Präteritum (schrieb), Perfekt (hat geschrieben)"
+        related_cards: ["Der Schriftsteller", "Der Brief", "Der Text"]
+        examples: ["Ich schreibe einen Brief.", "Sie schreibt ein Buch.", "Er hat einen Artikel geschrieben."]
+      - id: "untersuchen"
+        title: "untersuchen"
+        description: "Etwas genau betrachten oder prüfen."
+        konjugation: "ich untersuche, du untersuchst, er/sie/es untersucht, wir untersuchen, ihr untersucht, sie/Sie untersuchen"
+        zeiten: "Präsens, Präteritum (untersuchte), Perfekt (hat untersucht)"
+        related_cards: ["Der Arzt", "Die Untersuchung", "Das Problem"]
+        examples: ["Ich untersuche den Fall.", "Der Arzt untersucht den Patienten.", "Sie hat das Problem untersucht."]
+      - id: "pflegen"
+        title: "pflegen"
+        description: "Sich um jemanden oder etwas kümmern."
+        konjugation: "ich pflege, du pflegst, er/sie/es pflegt, wir pflegen, ihr pflegt, sie/Sie pflegen"
+        zeiten: "Präsens, Präteritum (pflegte), Perfekt (hat gepflegt)"
+        related_cards: ["Die Krankenschwester", "Die Pflege", "Der Patient"]
+        examples: ["Ich pflege meine Großmutter.", "Sie pflegt die Pflanzen.", "Er hat den Garten gepflegt."]
+      - id: "fahren"
+        title: "fahren"
+        description: "Ein Fahrzeug lenken oder sich mit einem Fahrzeug fortbewegen."
+        konjugation: "ich fahre, du fährst, er/sie/es fährt, wir fahren, ihr fahrt, sie/Sie fahren"
+        zeiten: "Präsens, Präteritum (fuhr), Perfekt (ist gefahren)"
+        related_cards: ["Der Fahrer", "Das Auto", "Die Fahrt"]
+        examples: ["Ich fahre zur Arbeit.", "Er fährt ein neues Auto.", "Sie ist nach Berlin gefahren."]
+      - id: "schneiden"
+        title: "schneiden"
+        description: "Etwas mit einem scharfen Werkzeug teilen oder kürzen."
+        konjugation: "ich schneide, du schneidest, er/sie/es schneidet, wir schneiden, ihr schneidet, sie/Sie schneiden"
+        zeiten: "Präsens, Präteritum (schnitt), Perfekt (hat geschnitten)"
+        related_cards: ["Der Friseur", "Das Messer", "Die Schere"]
+        examples: ["Ich schneide das Papier.", "Sie schneidet das Gemüse.", "Er hat sich in den Finger geschnitten."]
+      - id: "produzieren"
+        title: "produzieren"
+        description: "Etwas herstellen oder erzeugen."
+        konjugation: "ich produziere, du produzierst, er/sie/es produziert, wir produzieren, ihr produziert, sie/Sie produzieren"
+        zeiten: "Präsens, Präteritum (produzierte), Perfekt (hat produziert)"
+        related_cards: ["Die Produktion", "Das Produkt", "Der Hersteller"]
+        examples: ["Ich produziere ein Video.", "Sie produziert Musik.", "Er hat viele Filme produziert."]
+      - id: "organisieren"
+        title: "organisieren"
+        description: "Etwas planen und strukturieren."
+        konjugation: "ich organisiere, du organisierst, er/sie/es organisiert, wir organisieren, ihr organisiert, sie/Sie organisieren"
+        zeiten: "Präsens, Präteritum (organisierte), Perfekt (hat organisiert)"
+        related_cards: ["Die Organisation", "Der Plan", "Das Event"]
+        examples: ["Ich organisiere eine Party.", "Sie organisiert das Büro.", "Er hat die Konferenz organisiert."]
+      - id: "verdienen"
+        title: "verdienen"
+        description: "Geld für geleistete Arbeit erhalten."
+        konjugation: "ich verdiene, du verdienst, er/sie/es verdient, wir verdienen, ihr verdient, sie/Sie verdienen"
+        zeiten: "Präsens, Präteritum (verdiente), Perfekt (hat verdient)"
+        related_cards: ["Das Gehalt", "Der Lohn", "Die Arbeit"]
+        examples: ["Ich verdiene gut.", "Sie verdient mehr als er.", "Er hat viel Geld verdient."]
+      - id: "bekommen"
+        title: "bekommen"
+        description: "Etwas erhalten oder empfangen."
+        konjugation: "ich bekomme, du bekommst, er/sie/es bekommt, wir bekommen, ihr bekommt, sie/Sie bekommen"
+        zeiten: "Präsens, Präteritum (bekam), Perfekt (hat bekommen)"
+        related_cards: ["Das Geschenk", "Die Nachricht", "Der Brief"]
+        examples: ["Ich bekomme ein Geschenk.", "Sie bekommt eine Nachricht.", "Er hat einen Brief bekommen."]
+      - id: "verlieren"
+        title: "verlieren"
+        description: "Etwas nicht mehr besitzen oder finden können."
+        konjugation: "ich verliere, du verlierst, er/sie/es verliert, wir verlieren, ihr verliert, sie/Sie verlieren"
+        zeiten: "Präsens, Präteritum (verlor), Perfekt (hat verloren)"
+        related_cards: ["Der Verlust", "Das Spiel", "Der Schlüssel"]
+        examples: ["Ich verliere oft meine Schlüssel.", "Sie verliert das Spiel.", "Er hat sein Handy verloren."]
+      - id: "erfüllen"
+        title: "erfüllen"
+        description: "Etwas vollständig ausführen oder realisieren."
+        konjugation: "ich erfülle, du erfüllst, er/sie/es erfüllt, wir erfüllen, ihr erfüllt, sie/Sie erfüllen"
+        zeiten: "Präsens, Präteritum (erfüllte), Perfekt (hat erfüllt)"
+        related_cards: ["Der Wunsch", "Die Aufgabe", "Das Versprechen"]
+        examples: ["Ich erfülle meinen Traum.", "Sie erfüllt ihre Aufgaben.", "Er hat sein Versprechen erfüllt."]
+      - id: "helfen"
+        title: "helfen"
+        description: "Jemandem Unterstützung oder Beistand leisten."
+        konjugation: "ich helfe, du hilfst, er/sie/es hilft, wir helfen, ihr helft, sie/Sie helfen"
+        zeiten: "Präsens, Präteritum (half), Perfekt (hat geholfen)"
+        related_cards: ["Die Hilfe", "Der Helfer", "Die Unterstützung"]
+        examples: ["Ich helfe dir gerne.", "Sie hilft ihrer Mutter.", "Er hat mir sehr geholfen."]
+      - id: "kaufen"
+        title: "kaufen"
+        description: "Etwas gegen Geld erwerben."
+        konjugation: "ich kaufe, du kaufst, er/sie/es kauft, wir kaufen, ihr kauft, sie/Sie kaufen"
+        zeiten: "Präsens, Präteritum (kaufte), Perfekt (hat gekauft)"
+        related_cards: ["Der Kauf", "Der Käufer", "Das Geschäft"]
+        examples: ["Ich kaufe ein neues Auto.", "Sie kauft gerne online.", "Er hat ein Haus gekauft."]
+      - id: "laufen"
+        title: "laufen"
+        description: "Sich zu Fuß fortbewegen."
+        konjugation: "ich laufe, du läufst, er/sie/es läuft, wir laufen, ihr lauft, sie/Sie laufen"
+        zeiten: "Präsens, Präteritum (lief), Perfekt (ist gelaufen)"
+        related_cards: ["Der Lauf", "Der Läufer", "Der Weg"]
+        examples: ["Ich laufe jeden Morgen.", "Sie läuft sehr schnell.", "Er ist nach Hause gelaufen."]
+      - id: "anbieten"
+        title: "anbieten"
+        description: "Etwas zur Verfügung stellen oder vorschlagen."
+        konjugation: "ich biete an, du bietest an, er/sie/es bietet an, wir bieten an, ihr bietet an, sie/Sie bieten an"
+        zeiten: "Präsens, Präteritum (bot an), Perfekt (hat angeboten)"
+        related_cards: ["Das Angebot", "Der Vorschlag", "Der Anbieter"]
+        examples: ["Ich biete meine Hilfe an.", "Sie bietet ihm einen Job an.", "Er hat mir einen Kaffee angeboten."]
+      - id: "erfahren"
+        title: "erfahren"
+        description: "Etwas Neues lernen oder herausfinden."
+        konjugation: "ich erfahre, du erfährst, er/sie/es erfährt, wir erfahren, ihr erfahrt, sie/Sie erfahren"
+        zeiten: "Präsens, Präteritum (erfuhr), Perfekt (hat erfahren)"
+        related_cards: ["Die Erfahrung", "Der Bericht", "Die Information"]
+        examples: ["Ich erfahre die Neuigkeiten.", "Sie erfährt von dem Unfall.", "Er hat die Wahrheit erfahren."]
