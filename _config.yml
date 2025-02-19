@@ -53,6 +53,7 @@ exclude:
   - CONTRIBUTING.md
   - LICENSE
   - CNAME
+  - PULL_REQUEST_TEMPLATE.md
   - screenshot.png
   - alembic-jekyll-theme.gemspec
 
@@ -88,6 +89,8 @@ navigation_header:
   url: /about/
 - title: Team
   url: /team/
+- title: Readme
+  url: /readme/
 
 navigation_footer:
 - title: Home
