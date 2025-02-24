@@ -1,0 +1,138 @@
+title: Präpositionen Flashcards
+topic: präpositionen
+categories:
+  - name: Präpositionen
+    value: "Präpositionen"
+    cards:
+      - id: "ab"
+        title: "ab"
+        description: "Gibt einen Startpunkt in der Zeit oder im Raum an, oft übersetzt als 'ab'. Wird mit Dativ verwendet."
+        examples: ["Ab morgen werde ich joggen.", "Der Zug fährt ab dem Bahnhof."]
+      - id: "an"
+        title: "an"
+        description: "Gibt eine Position oder Zeit an, oft übersetzt als 'an' oder 'bei'. Wird mit Dativ oder Akkusativ verwendet."
+        examples: ["Ich warte an der Haltestelle.", "Das Bild hängt an der Wand.", "Wir treffen uns an Weihnachten."]
+      - id: "auf"
+        title: "auf"
+        description: "Gibt eine Position oder Richtung an, oft übersetzt als 'auf' oder 'zu'. Wird mit Dativ oder Akkusativ verwendet."
+        examples: ["Das Buch liegt auf dem Tisch.", "Ich gehe auf den Markt.", "Er freut sich auf das Wochenende."]
+      - id: "aus"
+        title: "aus"
+        description: "Gibt eine Herkunft oder einen Ursprung an, oft übersetzt als 'aus'. Wird mit Dativ verwendet."
+        examples: ["Er kommt aus Deutschland.", "Ich trinke aus der Flasche.", "Das Buch ist aus Papier."]
+      - id: "außer"
+        title: "außer"
+        description: "Gibt eine Ausnahme an, oft übersetzt als 'außer'. Wird mit Dativ verwendet."
+        examples: ["Außer dir war niemand da.", "Wir haben außer dem Hund alle Tiere gesehen."]
+      - id: "außerhalb"
+        title: "außerhalb"
+        description: "Gibt eine Position außerhalb eines Bereichs an, oft übersetzt als 'außerhalb'. Wird mit Genitiv verwendet."
+        examples: ["Außerhalb der Stadt ist es ruhig.", "Außerhalb der Öffnungszeiten ist das Geschäft geschlossen."]
+      - id: "bei"
+        title: "bei"
+        description: "Gibt Nähe oder Zugehörigkeit an, oft übersetzt als 'bei' oder 'an'. Wird mit Dativ verwendet."
+        examples: ["Ich wohne bei meinen Eltern.", "Er arbeitet bei der Firma.", "Wir treffen uns bei dir."]
+      - id: "bis"
+        title: "bis"
+        description: "Gibt einen Endpunkt in der Zeit oder im Raum an, oft übersetzt als 'bis'. Wird mit Akkusativ verwendet."
+        examples: ["Ich arbeite bis 18 Uhr.", "Der Zug fährt bis München.", "Warte bis morgen."]
+      - id: "durch"
+        title: "durch"
+        description: "Gibt eine Bewegung durch einen Raum oder eine Ursache an, oft übersetzt als 'durch'. Wird mit Akkusativ verwendet."
+        examples: ["Wir gehen durch den Park.", "Er lernt durch Übung.", "Das Licht scheint durch das Fenster."]
+      - id: "entlang"
+        title: "entlang"
+        description: "Gibt eine Richtung oder Position an, oft übersetzt als 'entlang'. Wird mit Akkusativ verwendet."
+        examples: ["Wir gehen den Fluss entlang.", "Die Bäume stehen entlang der Straße."]
+      - id: "exklusive"
+        title: "exklusive"
+        description: "Gibt eine Ausschließung an, oft übersetzt als 'exklusive'. Wird mit Genitiv verwendet."
+        examples: ["Der Preis ist exklusive Steuern.", "Exklusive der Getränke."]
+      - id: "für"
+        title: "für"
+        description: "Gibt einen Zweck oder eine Bestimmung an, oft übersetzt als 'für'. Wird mit Akkusativ verwendet."
+        examples: ["Das Geschenk ist für dich.", "Ich arbeite für die Firma.", "Er kämpft für die Freiheit."]
+      - id: "gegen"
+        title: "gegen"
+        description: "Gibt eine Opposition oder eine ungefähre Zeit an, oft übersetzt als 'gegen'. Wird mit Akkusativ verwendet."
+        examples: ["Wir sind gegen die Entscheidung.", "Das Auto fährt gegen die Wand.", "Er kommt gegen 18 Uhr."]
+      - id: "hinter"
+        title: "hinter"
+        description: "Gibt eine Position an, oft übersetzt als 'hinter'. Wird mit Dativ oder Akkusativ verwendet."
+        examples: ["Der Garten ist hinter dem Haus.", "Er versteckt sich hinter dem Baum.", "Das Auto parkt hinter dem Gebäude."]
+      - id: "in"
+        title: "in"
+        description: "Gibt eine Position oder Zeit an, oft übersetzt als 'in' oder 'nach'. Wird mit Dativ oder Akkusativ verwendet."
+        examples: ["Ich bin in der Stadt.", "Wir gehen in das Kino.", "Er kommt in einer Stunde."]
+      - id: "inklusive"
+        title: "inklusive"
+        description: "Gibt eine Einschließung an, oft übersetzt als 'inklusive'. Wird mit Genitiv verwendet."
+        examples: ["Der Preis ist inklusive Steuern.", "Inklusive der Getränke."]
+      - id: "innerhalb"
+        title: "innerhalb"
+        description: "Gibt eine Position innerhalb eines Bereichs an, oft übersetzt als 'innerhalb'. Wird mit Genitiv verwendet."
+        examples: ["Innerhalb des Hauses ist es warm.", "Innerhalb einer Woche werde ich fertig sein."]
+      - id: "mit"
+        title: "mit"
+        description: "Gibt Begleitung oder Mittel an, oft übersetzt als 'mit'. Wird mit Dativ verwendet."
+        examples: ["Ich gehe mit meinem Freund.", "Sie fährt mit dem Auto.", "Wir sprechen mit dem Lehrer."]
+      - id: "nach"
+        title: "nach"
+        description: "Gibt Richtung oder Zeit an, oft übersetzt als 'nach' oder 'zu'. Wird mit Dativ verwendet."
+        examples: ["Wir fahren nach Berlin.", "Nach dem Essen gehen wir spazieren.", "Er fragt nach dem Weg."]
+      - id: "nahe"
+        title: "nahe"
+        description: "Gibt eine Nähe an, oft übersetzt als 'nahe'. Wird mit Dativ oder Genitiv verwendet."
+        examples: ["Das Hotel ist nahe dem Bahnhof.", "Nahe der Stadt gibt es einen See."]
+      - id: "neben"
+        title: "neben"
+        description: "Gibt eine Position an, oft übersetzt als 'neben'. Wird mit Dativ oder Akkusativ verwendet."
+        examples: ["Das Kino ist neben dem Restaurant.", "Er sitzt neben mir.", "Stell das Buch neben die Lampe."]
+      - id: "ohne"
+        title: "ohne"
+        description: "Gibt das Fehlen von etwas an, oft übersetzt als 'ohne'. Wird mit Akkusativ verwendet."
+        examples: ["Ich trinke Kaffee ohne Zucker.", "Er geht ohne Jacke.", "Wir können nicht ohne dich."]
+      - id: "seit"
+        title: "seit"
+        description: "Gibt einen Zeitraum an, oft übersetzt als 'seit'. Wird mit Dativ verwendet."
+        examples: ["Ich wohne hier seit einem Jahr.", "Seit dem Unfall fährt er nicht mehr Auto."]
+      - id: "trotz"
+        title: "trotz"
+        description: "Gibt eine Gegensätzlichkeit an, oft übersetzt als 'trotz'. Wird mit Genitiv verwendet."
+        examples: ["Trotz des Regens gingen wir spazieren.", "Er kam trotz der Warnungen."]
+      - id: "über"
+        title: "über"
+        description: "Gibt eine Position oder ein Thema an, oft übersetzt als 'über' oder 'um'. Wird mit Dativ oder Akkusativ verwendet."
+        examples: ["Das Flugzeug fliegt über die Stadt.", "Wir sprechen über das Buch.", "Er hängt das Bild über das Sofa."]
+      - id: "um"
+        title: "um"
+        description: "Gibt eine genaue Zeit oder eine Bewegung um etwas herum an, oft übersetzt als 'um'. Wird mit Akkusativ verwendet."
+        examples: ["Wir treffen uns um 8 Uhr.", "Er geht um das Haus.", "Die Kinder spielen um den Baum."]
+      - id: "unter"
+        title: "unter"
+        description: "Gibt eine Position oder Bedingung an, oft übersetzt als 'unter' oder 'zwischen'. Wird mit Dativ oder Akkusativ verwendet."
+        examples: ["Der Hund liegt unter dem Tisch.", "Unter den Gästen war auch der Bürgermeister.", "Er arbeitet unter Druck."]
+      - id: "von"
+        title: "von"
+        description: "Gibt eine Herkunft oder Zugehörigkeit an, oft übersetzt als 'von'. Wird mit Dativ verwendet."
+        examples: ["Das Geschenk ist von meiner Mutter.", "Er kommt von der Arbeit.", "Das Buch ist von einem berühmten Autor."]
+      - id: "vor"
+        title: "vor"
+        description: "Gibt eine Position oder Zeit an, oft übersetzt als 'vor' oder 'bevor'. Wird mit Dativ oder Akkusativ verwendet."
+        examples: ["Das Auto steht vor dem Haus.", "Vor dem Essen waschen wir uns die Hände.", "Er hat Angst vor Hunden."]
+      - id: "während"
+        title: "während"
+        description: "Gibt eine Zeitspanne an, oft übersetzt als 'während'. Wird mit Genitiv verwendet."
+        examples: ["Während des Films war es still.", "Während der Pause tranken wir Kaffee."]
+      - id: "wegen"
+        title: "wegen"
+        description: "Gibt einen Grund an, oft übersetzt als 'wegen'. Wird mit Genitiv verwendet."
+        examples: ["Wegen des Staus kam er zu spät.", "Sie blieb wegen der Krankheit zu Hause."]
+      - id: "zu"
+        title: "zu"
+        description: "Gibt Richtung oder Zweck an, oft übersetzt als 'zu' oder 'für'. Wird mit Dativ verwendet."
+        examples: ["Ich gehe zu meinem Freund.", "Wir fahren zu der Schule.", "Er kommt zu spät."]
+      - id: "zwischen"
+        title: "zwischen"
+        description: "Gibt eine Position oder Zeitspanne an, oft übersetzt als 'zwischen'. Wird mit Dativ oder Akkusativ verwendet."
+        examples: ["Das Haus steht zwischen den Bäumen.", "Wir treffen uns zwischen 3 und 4 Uhr."]
