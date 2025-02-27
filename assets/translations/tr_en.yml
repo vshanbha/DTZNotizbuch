@@ -1,0 +1,514 @@
+ich:
+  description: "The first person singular."
+du:
+  description: "The second person singular."
+er:
+  description: "The third person singular (male)."
+sie:
+  description: "The third person singular (female)."
+es:
+  description: "The third person singular (neuter)."
+wir:
+  description: "The first person plural."
+ihr:
+  description: "The second person plural."
+sie/Sie:
+  description: "The third person plural."
+arzt:
+  description: "A medical professional who diagnoses and treats illnesses."
+ärztin:
+  description: "A medical professional who diagnoses and treats illnesses."
+lehrer:
+  description: "A person who teaches students."
+lehrerin:
+  description: "A person who teaches students."
+sekretärin:
+  description: "A person who performs administrative tasks in an office."
+taxifahrer:
+  description: "A person who drives a taxi."
+handwerker:
+  description: "A person who performs manual work."
+handwerkerin:
+  description: "A person who performs manual work."
+verkäufer:
+  description: "A person who sells goods."
+verkäuferin:
+  description: "A person who sells goods."
+informatiker:
+  description: "A person who works in the field of computer science."
+informatikerin:
+  description: "A person who works in the field of computer science."
+kellner:
+  description: "A person who serves in a restaurant or café."
+kellnerin:
+  description: "A person who serves in a restaurant or café."
+friseur:
+  description: "A person who cuts and styles hair."
+friseurin:
+  description: "A person who cuts and styles hair."
+automechaniker:
+  description: "A person who repairs cars."
+automechanikerin:
+  description: "A person who repairs cars."
+kioskbesitzer:
+  description: "A person who owns and operates a kiosk."
+reinigungskraft:
+  description: "A person who ensures the cleanliness of buildings."
+krankenschwester:
+  description: "A person who cares for patients in a hospital."
+krankenpfleger:
+  description: "A person who cares for patients in a hospital."
+koch:
+  description: "A person who cooks professionally."
+kochin:
+  description: "A person who cooks professionally."
+bankkaufmann:
+  description: "A person who works in a bank and advises customers."
+bankkauffrau:
+  description: "A person who works in a bank and advises customers."
+polizist:
+  description: "A person who ensures public safety."
+polizistin:
+  description: "A person who ensures public safety."
+anwalt:
+  description: "A person who provides legal assistance."
+anwältin:
+  description: "A person who provides legal assistance."
+kanzler:
+  description: "The head of government of a country."
+kanzlerin:
+  description: "The head of government of a country."
+trainer:
+  description: "A person who trains a sports team."
+professor:
+  description: "A person who teaches at a university."
+manager:
+  description: "A person who manages a company or department."
+managerin:
+  description: "A person who manages a company or department."
+chef:
+  description: "A person who leads a group of employees."
+chefin:
+  description: "A person who leads a group of employees."
+schulleiter:
+  description: "A person who leads a school."
+schuldirektor:
+  description: "A person who leads a school."
+busfahrer:
+  description: "A person who drives a bus."
+reisefuhrer:
+  description: "A person who guides and informs tourists."
+beamter:
+  description: "A person who works in public service."
+beamtin:
+  description: "A person who works in public service."
+verkehr:
+  description: "The movement of vehicles and people on roads and paths."
+gesundheit:
+  description: "The state of physical and mental well-being."
+hotel:
+  description: "A building where guests can stay overnight."
+gaststätten:
+  description: "A place where food and drinks are served."
+erziehung:
+  description: "The care and education of children."
+ausbildung:
+  description: "Vocational training and education."
+dienstleistung:
+  description: "A service provided for others."
+handel:
+  description: "The exchange of goods and services."
+büro:
+  description: "A room where administrative work is done."
+gehalt:
+  description: "The money one receives for their work."
+betrieb:
+  description: "A company or firm."
+fabrik:
+  description: "A building where goods are produced."
+team:
+  description: "A group of people working together."
+pflegeberuf:
+  description: "A profession that involves caring for people."
+beruf:
+  description: "A regular activity one does to earn a living."
+auto:
+  description: "A vehicle with four wheels powered by an engine."
+autoreifen:
+  description: "A round rubber ring mounted on the wheels of a car."
+reifen:
+  description: "A round rubber ring mounted on the wheels of a vehicle."
+schichtdienst:
+  description: "A work schedule organized in different shifts."
+menschen:
+  description: "Plural of person, referring to people in general."
+arbeitszeiten:
+  description: "The set times during which one works."
+gebäude:
+  description: "A structure with walls and a roof where people live or work."
+ware:
+  description: "A product that is sold."
+zeitschriften:
+  description: "A regularly published print product with various articles."
+rechnung:
+  description: "A document indicating the price of goods or services."  
+arbeiten:
+  description: "To perform a task to earn money."
+verkaufen:
+  description: "To offer goods or services for money."
+entwickeln:
+  description: "To create or improve something new."
+unterrichten:
+  description: "To impart knowledge to students."
+bedienen:
+  description: "To serve customers in a restaurant or store."
+reparieren:
+  description: "To fix something that is broken."
+schreiben:
+  description: "To put words or sentences on paper or another medium."
+untersuchen:
+  description: "To examine or inspect something closely."
+pflegen:
+  description: "To take care of someone or something."
+fahren:
+  description: "To drive a vehicle or move with a vehicle."
+schneiden:
+  description: "To cut or trim something with a sharp tool."
+produzieren:
+  description: "To manufacture or create something."
+organisieren:
+  description: "To plan and structure something."
+verdienen:
+  description: "To receive money for work done."
+bekommen:
+  description: "To receive or obtain something."
+verlieren:
+  description: "To no longer possess or be able to find something."
+erfüllen:
+  description: "To fully execute or realize something."
+helfen:
+  description: "To provide support or assistance to someone."
+kaufen:
+  description: "To acquire something for money."
+laufen:
+  description: "To move on foot."
+anbieten:
+  description: "To offer or propose something."
+erfahren:
+  description: "To learn or find out something new."
+name:
+  description: "What someone is called."
+adresse:
+  description: "The place where someone lives."
+geburtsdatum:
+  description: "The day someone was born."
+telefonnummer:
+  description: "A number you call to reach someone."
+vorname:
+  description: "The first name of a person."
+nachname:
+  description: "The family name of a person."
+straße:
+  description: "A way in a city or village."
+staatsangehörigkeit:
+  description: "The affiliation to a specific state."
+platz:
+  description: "A free space or spot."
+hausnummer:
+  description: "The number of a house on a street."
+postleitzahl:
+  description: "A number that designates a specific area in a country."
+personalien:
+  description: "The personal data of a person."
+familienstand:
+  description: "The legal status of a person in relation to marriage."
+familie:
+  description: "A group of people connected by descent or marriage."
+bruder:
+  description: "A male sibling."
+schwager:
+  description: "The husband of the sister or the brother of the spouse."
+cousin:
+  description: "The son of the uncle or aunt."
+nichte:
+  description: "The daughter of the brother or sister."
+heirat:
+  description: "The act by which two people enter into marriage."
+hochzeit:
+  description: "The celebration where two people get married."
+ehe:
+  description: "The legal and social bond between two people."
+scheidung:
+  description: "The legal dissolution of a marriage."
+liebe:
+  description: "A strong feeling of affection and care."
+eltern:
+  description: "The mother and father of a person."
+sohn:
+  description: "A male child."
+onkel:
+  description: "The brother of the mother or father."
+tante:
+  description: "The sister of the mother or father."
+frau:
+  description: "An adult female person."
+ehemann:
+  description: "The man to whom a woman is married."
+vater:
+  description: "The male parent."
+mutter:
+  description: "The female parent."
+schwägerin:
+  description: "The wife of the brother or the sister of the spouse."
+cousine:
+  description: "The daughter of the uncle or aunt."
+neffe:
+  description: "The son of the brother or sister."
+großmutter:
+  description: "The mother of the father or mother."
+großvater:
+  description: "The father of the father or mother."
+enkelkind:
+  description: "The child of the son or daughter."
+enkel:
+  description: "The son of the son or daughter."
+enkelin:
+  description: "The daughter of the son or daughter."
+mädchen:
+  description: "A female child."
+tochter:
+  description: "A female child."
+schwester:
+  description: "A female sibling."
+beziehung:
+  description: "A connection between two or more people."
+freund:
+  description: "A male person with whom one has a friendly or romantic relationship."
+freundin:
+  description: "A female person with whom one has a friendly or romantic relationship."
+geschwister:
+  description: "Brothers and sisters of a person."
+ehefrau:
+  description: "The woman to whom a man is married."
+spitzname:
+  description: "An informal name often used instead of the real name."
+familienname:
+  description: "The last name passed from parents to children."
+mädchenname:
+  description: "The last name of a woman before her marriage."
+heißen:
+  description: "To state the name of a person or thing."
+finden:
+  description: "To discover or come across something."
+kommen:
+  description: "To go to a specific place."
+besuchen:
+  description: "To go to someone or a place to spend time there."
+lernen:
+  description: "To acquire knowledge or skills."
+gezogen:
+  description: "To move to another place or bring something to another place."
+vorstellen:
+  description: "To introduce someone or something."
+sehen:
+  description: "To perceive with the eyes."
+bleiben:
+  description: "To stay at a place."
+wünschen:
+  description: "To hope for or desire something."
+leben:
+  description: "To be alive or exist."
+geboren:
+  description: "To be born."
+verheiraten:
+  description: "To enter into the bond of marriage."
+haben:
+  description: "To possess or own something."
+sein:
+  description: "To exist or be in a state."
+badewanne:
+  description: "A large, fixed container for bathing."
+bett:
+  description: "A piece of furniture for sleeping."
+bücheregal:
+  description: "A shelf for storing books."
+regal:
+  description: "A piece of furniture with open shelves for storage."
+couch:
+  description: "A comfortable seating furniture for multiple people."
+düsche:
+  description: "A device for showering."
+fernseher:
+  description: "A device for receiving and displaying television programs."
+geschirr:
+  description: "Plates, cups, glasses, and cutlery."
+herd:
+  description: "A device for cooking and baking."
+kaffeemachine:
+  description: "A device for making coffee."
+schrank:
+  description: "A piece of furniture with doors for storage."
+kleiderschrank:
+  description: "A wardrobe for storing clothes."
+kühlschrank:
+  description: "A device for storing food at low temperatures."
+stuhl:
+  description: "A piece of furniture for sitting."
+mikrowelle:
+  description: "A device for quickly heating food."
+sofa:
+  description: "A comfortable seating furniture for multiple people."
+tisch:
+  description: "A piece of furniture with a flat surface for sitting and working or eating."
+sessel:
+  description: "A comfortable seating furniture for one person."
+spiegel:
+  description: "A reflective surface in which one can see oneself."
+waschbecken:
+  description: "A basin with a faucet for washing."
+waschmachine:
+  description: "A device for washing clothes."
+zimmer:
+  description: "A room in a building."
+wohnzimmer:
+  description: "A room for relaxing and communal activities."
+schlafzimmer:
+  description: "A room for sleeping."
+küche:
+  description: "A room for cooking and preparing food."
+bad:
+  description: "A room for bathing and showering."
+steckdose:
+  description: "A device for connecting electrical appliances."
+boden:
+  description: "The lower surface of a room."
+blume:
+  description: "A plant with colorful flowers."
+lampe:
+  description: "A device for lighting."
+bild:
+  description: "A representation on paper or canvas."
+haus:
+  description: "A building for living."
+baum:
+  description: "A large plant with a trunk and branches."
+decke:
+  description: "The upper boundary of a room."
+miete:
+  description: "The amount of money regularly paid for the use of an apartment or house."
+heizung:
+  description: "A system or device for heating rooms."
+stecker:
+  description: "A device for connecting an electrical appliance to a socket."
+teppich:
+  description: "A floor covering made of textile material."
+vase:
+  description: "A container for flowers."
+treppen:
+  description: "A structure with steps connecting different levels."
+treppenhaus:
+  description: "An area in a building where the stairs are located."
+garage:
+  description: "A room or building for parking vehicles."
+wand:
+  description: "A vertical boundary of a room."
+garden:
+  description: "An outdoor area where plants are grown."
+mietvertrag:
+  description: "A contract for renting an apartment or house."
+dachboden:
+  description: "A room directly under the roof of a house."
+kinderzimmer:
+  description: "A room for children."
+hausmeister:
+  description: "A person responsible for the maintenance of a building."
+mülltonne:
+  description: "A container for waste."
+einbauküche:
+  description: "A built-in kitchen with integrated appliances."
+erdgeschoss:
+  description: "The lowest floor of a building."
+monatsmiete:
+  description: "The amount paid monthly for rent."
+quadratmeter:
+  description: "A unit of measurement for area."
+nebenkosten:
+  description: "Additional costs besides the rent."
+balkon:
+  description: "A platform projecting from a building."
+wohnfläche:
+  description: "The area used for living."
+wohnungssuche:
+  description: "The search for an apartment."
+abkürzung:
+  description: "A shortened form of a word or phrase."
+anzeige:
+  description: "A public announcement or advertisement."
+wohnungsbesichtigung:
+  description: "An appointment to view an apartment."
+wohnung:
+  description: "A room or group of rooms for living."
+möbel:
+  description: "Items used to furnish a room."
+wohnungsanzeige:
+  description: "An advertisement for renting or selling an apartment."        
+wohnen:
+  description: "To live at a specific place."
+zahlen:
+  description: "To give money for something."
+vergessen:
+  description: "To not remember something."
+stecken:
+  description: "To put something into something else."
+legen:
+  description: "To place something in a horizontal position."
+machen:
+  description: "To do or create something."
+hängen:
+  description: "To attach something at a higher point."
+stellen:
+  description: "To place something in an upright position."
+stehen:
+  description: "To be in an upright position."
+gehören:
+  description: "To belong to someone or something."
+anrufen:
+  description: "To contact someone by phone."
+einrichten:
+  description: "To furnish and decorate a room or apartment."
+kündigen:
+  description: "To terminate a contract or agreement."
+einschalten:
+  description: "To turn on a device or machine."
+ausschalten:
+  description: "To turn off a device or machine."
+anmachen:
+  description: "To turn on a device or machine."
+zumachen:
+  description: "To close something."
+ausmachen:
+  description: "To turn off a device or machine."
+einziehen:
+  description: "To move into a new apartment or house."
+umziehen:
+  description: "To move from one place to another."
+öffnen:
+  description: "To open something."
+eröffnen:
+  description: "To open or start something new."
+besichtigen:
+  description: "To view a place or building."
+erreichen:
+  description: "To reach a goal or contact someone."
+mieten:
+  description: "To use something for a certain time for payment."
+renovieren:
+  description: "To renew or repair something."
+umgestalten:
+  description: "To redesign or change something."
+vermieten:
+  description: "To rent out something for a certain time for payment."
+putzen:
+  description: "To clean something."
+ausziehen:
+  description: "To leave an apartment or house."

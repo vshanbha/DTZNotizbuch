@@ -1,0 +1,20 @@
+<select id="languageSelector" onchange="changeLanguage()" style="width: auto;">
+    <option value="" selected >Select Language / Sprache wählen</option>    
+    <option value="de">Deutsch</option>
+    <option value="en">English</option>
+    <option value="hi">हिन्दी</option>
+    <option value="mr">मराठी</option>
+</select>
+
+<script>
+    function changeLanguage() {
+        const selectedLanguage = document.getElementById('languageSelector').value;
+        localStorage.setItem('preferredLanguage', selectedLanguage);
+        location.reload();
+    }
+
+    document.addEventListener('DOMContentLoaded', () => {
+        const preferredLanguage = localStorage.getItem('preferredLanguage');
+        document.getElementById('languageSelector').value = preferredLanguage;
+    });
+</script>
