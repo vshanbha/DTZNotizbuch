@@ -1,0 +1,514 @@
+ich:
+  description: "पहिला व्यक्ती एकवचन."
+du:
+  description: "दुसरा व्यक्ती एकवचन."
+er:
+  description: "तिसरा व्यक्ती एकवचन (पुरुष)."
+sie:
+  description: "तिसरा व्यक्ती एकवचन (महिला)."
+es:
+  description: "तिसरा व्यक्ती एकवचन (नपुंसक)."
+wir:
+  description: "पहिला व्यक्ती बहुवचन."
+ihr:
+  description: "दुसरा व्यक्ती बहुवचन."
+sie/Sie:
+  description: "तिसरा व्यक्ती बहुवचन."
+arzt:
+  description: "एक वैद्यकीय व्यावसायिक जो आजारांचे निदान आणि उपचार करतो."
+ärztin:
+  description: "एक वैद्यकीय व्यावसायिक जो आजारांचे निदान आणि उपचार करतो."
+lehrer:
+  description: "एक व्यक्ती जो विद्यार्थ्यांना शिकवतो."
+lehrerin:
+  description: "एक व्यक्ती जो विद्यार्थ्यांना शिकवतो."
+sekretärin:
+  description: "एक व्यक्ती जो कार्यालयात प्रशासकीय कामे करतो."
+taxifahrer:
+  description: "एक व्यक्ती जो टॅक्सी चालवतो."
+handwerker:
+  description: "एक व्यक्ती जो हाताने काम करतो."
+handwerkerin:
+  description: "एक व्यक्ती जो हाताने काम करतो."
+verkäufer:
+  description: "एक व्यक्ती जो वस्तू विकतो."
+verkäuferin:
+  description: "एक व्यक्ती जो वस्तू विकतो."
+informatiker:
+  description: "एक व्यक्ती जो संगणक विज्ञानाच्या क्षेत्रात काम करतो."
+informatikerin:
+  description: "एक व्यक्ती जो संगणक विज्ञानाच्या क्षेत्रात काम करतो."
+kellner:
+  description: "एक व्यक्ती जो रेस्टॉरंट किंवा कॅफेमध्ये सेवा करतो."
+kellnerin:
+  description: "एक व्यक्ती जो रेस्टॉरंट किंवा कॅफेमध्ये सेवा करतो."
+friseur:
+  description: "एक व्यक्ती जो केस कापतो आणि स्टाइल करतो."
+friseurin:
+  description: "एक व्यक्ती जो केस कापतो आणि स्टाइल करतो."
+automechaniker:
+  description: "एक व्यक्ती जो गाड्यांची दुरुस्ती करतो."
+automechanikerin:
+  description: "एक व्यक्ती जो गाड्यांची दुरुस्ती करतो."
+kioskbesitzer:
+  description: "एक व्यक्ती जो एक किओस्कचा मालक आणि संचालन करतो."
+reinigungskraft:
+  description: "एक व्यक्ती जो इमारतींची स्वच्छता सुनिश्चित करतो."
+krankenschwester:
+  description: "एक व्यक्ती जो रुग्णालयात रुग्णांची काळजी घेतो."
+krankenpfleger:
+  description: "एक व्यक्ती जो रुग्णालयात रुग्णांची काळजी घेतो."
+koch:
+  description: "एक व्यक्ती जो व्यावसायिकरित्या स्वयंपाक करतो."
+kochin:
+  description: "एक व्यक्ती जो व्यावसायिकरित्या स्वयंपाक करतो."
+bankkaufmann:
+  description: "एक व्यक्ती जो बँकेत काम करतो आणि ग्राहकांना सल्ला देतो."
+bankkauffrau:
+  description: "एक व्यक्ती जो बँकेत काम करतो आणि ग्राहकांना सल्ला देतो."
+polizist:
+  description: "एक व्यक्ती जो सार्वजनिक सुरक्षा सुनिश्चित करतो."
+polizistin:
+  description: "एक व्यक्ती जो सार्वजनिक सुरक्षा सुनिश्चित करतो."
+anwalt:
+  description: "एक व्यक्ती जो कायदेशीर सहाय्य प्रदान करतो."
+anwältin:
+  description: "एक व्यक्ती जो कायदेशीर सहाय्य प्रदान करतो."
+kanzler:
+  description: "एका देशाचा सरकार प्रमुख."
+kanzlerin:
+  description: "एका देशाचा सरकार प्रमुख."
+trainer:
+  description: "एक व्यक्ती जो एक खेळ संघ प्रशिक्षित करतो."
+professor:
+  description: "एक व्यक्ती जो विद्यापीठात शिकवतो."
+manager:
+  description: "एक व्यक्ती जो एक कंपनी किंवा विभागाचे व्यवस्थापन करतो."
+managerin:
+  description: "एक व्यक्ती जो एक कंपनी किंवा विभागाचे व्यवस्थापन करतो."
+chef:
+  description: "एक व्यक्ती जो कर्मचार्यांच्या गटाचे नेतृत्व करतो."
+chefin:
+  description: "एक व्यक्ती जो कर्मचार्यांच्या गटाचे नेतृत्व करतो."
+schulleiter:
+  description: "एक व्यक्ती जो एक शाळेचे नेतृत्व करतो."
+schuldirektor:
+  description: "एक व्यक्ती जो एक शाळेचे नेतृत्व करतो."
+busfahrer:
+  description: "एक व्यक्ती जो बस चालवतो."
+reisefuhrer:
+  description: "एक व्यक्ती जो पर्यटकांना मार्गदर्शन आणि माहिती देतो."
+beamter:
+  description: "एक व्यक्ती जो सार्वजनिक सेवेत काम करतो."
+beamtin:
+  description: "एक व्यक्ती जो सार्वजनिक सेवेत काम करतो."
+verkehr:
+  description: "रस्ते आणि मार्गांवर वाहनांची आणि लोकांची हालचाल."
+gesundheit:
+  description: "शारीरिक आणि मानसिक कल्याणाची स्थिती."
+hotel:
+  description: "एक इमारत जिथे पाहुणे रात्री राहू शकतात."
+gaststätten:
+  description: "एक ठिकाण जिथे अन्न आणि पेये दिली जातात."
+erziehung:
+  description: "मुलांची काळजी आणि शिक्षण."
+ausbildung:
+  description: "व्यावसायिक प्रशिक्षण आणि शिक्षण."
+dienstleistung:
+  description: "इतरांसाठी प्रदान केलेली सेवा."
+handel:
+  description: "वस्तू आणि सेवांचा विनिमय."
+büro:
+  description: "एक खोली जिथे प्रशासकीय कामे केली जातात."
+gehalt:
+  description: "ते पैसे जे एखाद्याला त्यांच्या कामासाठी मिळतात."
+betrieb:
+  description: "एक कंपनी किंवा फर्म."
+fabrik:
+  description: "एक इमारत जिथे वस्तूंचे उत्पादन होते."
+team:
+  description: "लोकांचा एक गट जो एकत्र काम करतो."
+pflegeberuf:
+  description: "एक व्यवसाय ज्यामध्ये लोकांची काळजी घेणे समाविष्ट आहे."
+beruf:
+  description: "एक नियमित क्रियाकलाप जो कोणी आपली उपजीविका कमवण्यासाठी करतो."
+auto:
+  description: "चार चाकांचे वाहन जे इंजिनद्वारे चालवले जाते."
+autoreifen:
+  description: "एक गोल रबरची अंगठी जी कारच्या चाकांवर बसवली जाते."
+reifen:
+  description: "एक गोल रबरची अंगठी जी वाहनाच्या चाकांवर बसवली जाते."
+schichtdienst:
+  description: "विविध शिफ्टमध्ये आयोजित कामाचे वेळापत्रक."
+menschen:
+  description: "व्यक्तीचा बहुवचन, सामान्यतः लोकांना संदर्भित करतो."
+arbeitszeiten:
+  description: "ठरवलेले वेळ जे दरम्यान कोणी काम करतो."
+gebäude:
+  description: "भिंती आणि छत असलेली एक रचना जिथे लोक राहतात किंवा काम करतात."
+ware:
+  description: "एक उत्पादन जे विकले जाते."
+zeitschriften:
+  description: "विविध लेखांसह नियमितपणे प्रकाशित मुद्रित उत्पादन."
+rechnung:
+  description: "एक दस्तऐवज जो वस्तू किंवा सेवांच्या किंमतीचे संकेत देतो."
+verkaufen:
+  description: "पैसेसाठी वस्त्रे किंवा सेवा देणे."
+entwickeln:
+  description: "काही नवीन तयार करणे किंवा सुधारणा करणे."
+unterrichten:
+  description: "विद्यार्थ्यांना ज्ञान देणे."
+bedienen:
+  description: "रेस्टॉरंट किंवा दुकानात ग्राहकांची सेवा करणे."
+untersuchen:
+  description: "काही काळजीपूर्वक पाहणे किंवा तपासणे."
+pflegen:
+  description: "कुणाची काळजी घेणे."
+fahren:
+  description: "वाहन चालवणे किंवा वाहनासह जाणे."
+schneiden:
+  description: "काहीतरी धारदार साधनाने कापणे किंवा छाटणे."
+produzieren:
+  description: "काही तयार करणे किंवा निर्माण करणे."
+organisieren:
+  description: "काही योजना बनवणे आणि संरचना करणे."
+verdienen:
+  description: "केलेल्या कामासाठी पैसे मिळवणे."
+bekommen:
+  description: "काही प्राप्त करणे."
+verlieren:
+  description: "काही गमावणे किंवा सापडू न शकणे."
+erfüllen:
+  description: "काही पूर्णपणे करणे किंवा साकार करणे."
+helfen:
+  description: "कुणाला मदत किंवा समर्थन देणे."
+kaufen:
+  description: "पैसेसाठी काही मिळवणे."
+laufen:
+  description: "पायी चालणे."
+anbieten:
+  description: "काही प्रदान करणे किंवा प्रस्तावित करणे."
+erfahren:
+  description: "काही नवीन शिकणे किंवा शोधणे."
+name:
+  description: "कोणाला काय म्हणतात."
+adresse:
+  description: "जिथे कोणी राहतो ते ठिकाण."
+geburtsdatum:
+  description: "ज्या दिवशी कोणी जन्माला आला."
+telefonnummer:
+  description: "कोणाला संपर्क साधण्यासाठी कॉल करायचा नंबर."
+vorname:
+  description: "कोणाच्या व्यक्तीचे पहिले नाव."
+nachname:
+  description: "कोणाच्या व्यक्तीचे कुटुंबाचे नाव."
+straße:
+  description: "शहर किंवा गावातील एक मार्ग."
+staatsangehörigkeit:
+  description: "विशिष्ट राज्याशी संबंधित असणे."
+platz:
+  description: "एक मोकळे स्थान किंवा जागा."
+hausnummer:
+  description: "रस्त्यावरच्या घराची संख्या."
+postleitzahl:
+  description: "एक संख्या जी देशातील विशिष्ट क्षेत्राला निर्दिष्ट करते."
+personalien:
+  description: "कोणाच्या व्यक्तीचे वैयक्तिक डेटा."
+familienstand:
+  description: "विवाहाच्या संदर्भात कोणाच्या व्यक्तीची कायदेशीर स्थिती."
+familie:
+  description: "वंश किंवा विवाहाने जोडलेल्या लोकांचा समूह."
+bruder:
+  description: "एक पुरुष भाऊ."
+schwager:
+  description: "बहिणीचा पती किंवा पतीचा भाऊ."
+cousin:
+  description: "काका किंवा काकूचा मुलगा."
+nichte:
+  description: "भाऊ किंवा बहिणीची मुलगी."
+heirat:
+  description: "तो कृत्य ज्याद्वारे दोन लोक विवाहात प्रवेश करतात."
+hochzeit:
+  description: "तो उत्सव ज्यामध्ये दोन लोक लग्न करतात."
+ehe:
+  description: "दोन लोकांमधील कायदेशीर आणि सामाजिक बंधन."
+scheidung:
+  description: "विवाहाचे कायदेशीर विघटन."
+liebe:
+  description: "स्नेह आणि काळजीची एक मजबूत भावना."
+eltern:
+  description: "कोणाच्या व्यक्तीची आई आणि वडील."
+sohn:
+  description: "एक पुरुष मुलगा."
+onkel:
+  description: "आई किंवा वडिलांचा भाऊ."
+tante:
+  description: "आई किंवा वडिलांची बहीण."
+frau:
+  description: "एक प्रौढ महिला व्यक्ती."
+ehemann:
+  description: "तो माणूस ज्याच्याशी एक महिला लग्न करते."
+vater:
+  description: "पुरुष पालक."
+mutter:
+  description: "महिला पालक."
+schwägerin:
+  description: "भावाची पत्नी किंवा पतीची बहीण."
+cousine:
+  description: "काका किंवा काकूची मुलगी."
+neffe:
+  description: "भाऊ किंवा बहिणीचा मुलगा."
+großmutter:
+  description: "वडील किंवा आईची आई."
+großvater:
+  description: "वडील किंवा आईचे वडील."
+enkelkind:
+  description: "मुलगा किंवा मुलीचे मूल."
+enkel:
+  description: "मुलगा किंवा मुलीचा मुलगा."
+enkelin:
+  description: "मुलगा किंवा मुलीची मुलगी."
+mädchen:
+  description: "एक महिला मुलगी."
+tochter:
+  description: "एक महिला मुलगी."
+schwester:
+  description: "एक महिला भाऊ."
+beziehung:
+  description: "दोन किंवा अधिक लोकांमधील एक संबंध."
+freund:
+  description: "एक पुरुष व्यक्ती ज्याच्याशी कोणाचे मैत्रीपूर्ण किंवा रोमँटिक संबंध आहेत."
+freundin:
+  description: "एक महिला व्यक्ती ज्याच्याशी कोणाचे मैत्रीपूर्ण किंवा रोमँटिक संबंध आहेत."
+geschwister:
+  description: "कोणाच्या व्यक्तीचे भाऊ आणि बहिणी."
+ehefrau:
+  description: "ती महिला ज्याच्याशी एक पुरुष लग्न करतो."
+spitzname:
+  description: "एक अनौपचारिक नाव जो अनेकदा खऱ्या नावाऐवजी वापरला जातो."
+familienname:
+  description: "तो अंतिम नाव जो पालकांकडून मुलांना दिला जातो."
+mädchenname:
+  description: "एका महिलेचे अंतिम नाव तिच्या लग्नापूर्वी."
+heißen:
+  description: "एखाद्या व्यक्तीचे किंवा वस्तूचे नाव सांगणे."
+arbeiten:
+  description: "पैसे कमवण्यासाठी काम करणे."
+finden:
+  description: "काहीतरी शोधणे किंवा सापडणे."
+kommen:
+  description: "विशिष्ट ठिकाणी जाणे."
+besuchen:
+  description: "कोणाकडे किंवा ठिकाणी वेळ घालवण्यासाठी जाणे."
+lernen:
+  description: "ज्ञान किंवा कौशल्य प्राप्त करणे."
+gezogen:
+  description: "दुसऱ्या ठिकाणी जाणे किंवा काहीतरी दुसऱ्या ठिकाणी नेणे."
+vorstellen:
+  description: "कोणाला किंवा काहीतरी परिचित करणे."
+sehen:
+  description: "डोळ्यांनी पाहणे."
+bleiben:
+  description: "ठिकाणी राहणे."
+wünschen:
+  description: "काहीतरी आशा किंवा इच्छा करणे."
+leben:
+  description: "जिवंत राहणे किंवा अस्तित्वात असणे."
+geboren:
+  description: "जन्म घेणे."
+verheiraten:
+  description: "विवाहाच्या बंधनात बांधणे."
+haben:
+  description: "काहीतरी मालकी किंवा ताब्यात असणे."
+sein:
+  description: "अस्तित्वात असणे किंवा स्थितीत असणे."  
+badewanne:
+  description: "स्नानासाठी एक मोठा, स्थिर कंटेनर."
+bett:
+  description: "झोपण्यासाठी एक फर्नीचर."
+bücheregal:
+  description: "पुस्तके ठेवण्यासाठी एक शेल्फ."
+regal:
+  description: "साठवणुकीसाठी खुले शेल्फ असलेले एक फर्नीचर."
+couch:
+  description: "अनेक लोकांसाठी आरामदायक बसण्याचे फर्नीचर."
+düsche:
+  description: "शॉवर घेण्यासाठी एक उपकरण."
+fernseher:
+  description: "टीव्ही कार्यक्रम प्राप्त आणि प्रदर्शित करण्यासाठी एक उपकरण."
+geschirr:
+  description: "प्लेट्स, कप, ग्लास आणि कटलरी."
+herd:
+  description: "स्वयंपाक आणि बेक करण्यासाठी एक उपकरण."
+kaffeemachine:
+  description: "कॉफी बनवण्यासाठी एक उपकरण."
+schrank:
+  description: "साठवणुकीसाठी दरवाजे असलेले एक फर्नीचर."
+kleiderschrank:
+  description: "कपडे ठेवण्यासाठी एक अलमारी."
+kühlschrank:
+  description: "अन्नपदार्थ कमी तापमानात ठेवण्यासाठी एक उपकरण."
+stuhl:
+  description: "बसण्यासाठी एक फर्नीचर."
+mikrowelle:
+  description: "अन्न पटकन गरम करण्यासाठी एक उपकरण."
+sofa:
+  description: "अनेक लोकांसाठी आरामदायक बसण्याचे फर्नीचर."
+tisch:
+  description: "बसण्यासाठी आणि काम करण्यासाठी किंवा खाण्यासाठी सपाट पृष्ठभाग असलेले एक फर्नीचर."
+sessel:
+  description: "एका व्यक्तीसाठी आरामदायक बसण्याचे फर्नीचर."
+spiegel:
+  description: "एक परावर्तक पृष्ठभाग ज्यामध्ये कोणी स्वतःला पाहू शकतो."
+waschbecken:
+  description: "धुण्यासाठी नळ असलेले एक बेसिन."
+waschmachine:
+  description: "कपडे धुण्यासाठी एक उपकरण."
+zimmer:
+  description: "एका इमारतीतील एक खोली."
+wohnzimmer:
+  description: "आराम करण्यासाठी आणि सामूहिक क्रियाकलापांसाठी एक खोली."
+schlafzimmer:
+  description: "झोपण्यासाठी एक खोली."
+küche:
+  description: "स्वयंपाक आणि अन्न तयार करण्यासाठी एक खोली."
+bad:
+  description: "स्नान आणि शॉवर घेण्यासाठी एक खोली."
+steckdose:
+  description: "विद्युत उपकरणे जोडण्यासाठी एक उपकरण."
+boden:
+  description: "एका खोलीची खालची पृष्ठभाग."
+blume:
+  description: "रंगीत फुलांचे एक वनस्पती."
+lampe:
+  description: "प्रकाशासाठी एक उपकरण."
+bild:
+  description: "कागद किंवा कॅनव्हासवर एक चित्रण."
+haus:
+  description: "रहाण्यासाठी एक इमारत."
+baum:
+  description: "एक खोड आणि शाखा असलेले मोठे वनस्पती."
+decke:
+  description: "एका खोलीची वरची सीमा."
+miete:
+  description: "एका अपार्टमेंट किंवा घराच्या वापरासाठी नियमितपणे दिली जाणारी रक्कम."
+heizung:
+  description: "खोल्या गरम करण्यासाठी एक प्रणाली किंवा उपकरण."
+stecker:
+  description: "एक विद्युत उपकरण सॉकेटशी जोडण्यासाठी एक उपकरण."
+teppich:
+  description: "कपड्याच्या सामग्रीपासून बनवलेले एक फर्श कवरिंग."
+vase:
+  description: "फुलांसाठी एक कंटेनर."
+treppen:
+  description: "विविध स्तरांना जोडणारी पायऱ्यांची रचना."
+treppenhaus:
+  description: "एका इमारतीतील एक क्षेत्र जिथे पायऱ्या असतात."
+garage:
+  description: "वाहने पार्क करण्यासाठी एक खोली किंवा इमारत."
+wand:
+  description: "एका खोलीची उर्ध्वाधर सीमा."
+garden:
+  description: "एक बाह्य क्षेत्र जिथे वनस्पती उगवतात."
+mietvertrag:
+  description: "एका अपार्टमेंट किंवा घराच्या भाड्याचा करार."
+dachboden:
+  description: "एका घराच्या छताच्या खालील खोली."
+kinderzimmer:
+  description: "मुलांसाठी एक खोली."
+hausmeister:
+  description: "एका इमारतीच्या देखभालीसाठी जबाबदार असलेली व्यक्ती."
+mülltonne:
+  description: "कचऱ्यासाठी एक कंटेनर."
+einbauküche:
+  description: "एकीकृत उपकरणांसह एक निर्मित स्वयंपाकघर."
+erdgeschoss:
+  description: "एका इमारतीची सर्वात खालची मजला."
+monatsmiete:
+  description: "मासिक भाड्यासाठी दिली जाणारी रक्कम."
+quadratmeter:
+  description: "क्षेत्रासाठी एक मापन एकक."
+nebenkosten:
+  description: "भाड्याच्या व्यतिरिक्त अतिरिक्त खर्च."
+balkon:
+  description: "एका इमारतीतून बाहेर आलेली एक प्लॅटफॉर्म."
+wohnfläche:
+  description: "रहाण्यासाठी वापरली जाणारी जागा."
+wohnungssuche:
+  description: "एका अपार्टमेंटची शोध."
+abkürzung:
+  description: "एका शब्द किंवा वाक्यांशाचा संक्षिप्त रूप."
+anzeige:
+  description: "एक सार्वजनिक घोषणा किंवा जाहिरात."
+wohnungsbesichtigung:
+  description: "एका अपार्टमेंट पाहण्यासाठी एक नियुक्ती."
+wohnung:
+  description: "रहाण्यासाठी एक खोली किंवा खोल्यांचा समूह."
+möbel:
+  description: "एका खोलीला सजवण्यासाठी वापरल्या जाणाऱ्या वस्तू."
+wohnungsanzeige:
+  description: "एका अपार्टमेंटच्या भाड्याच्या किंवा विक्रीसाठी एक जाहिरात."
+wohnen:
+  description: "विशिष्ट ठिकाणी राहणे."
+zahlen:
+  description: "काहीतरीसाठी पैसे देणे."
+vergessen:
+  description: "काहीतरी विसरणे."
+stecken:
+  description: "काहीतरी दुसऱ्या गोष्टीत ठेवणे."
+legen:
+  description: "काहीतरी आडव्या स्थितीत ठेवणे."
+machen:
+  description: "काहीतरी करणे किंवा तयार करणे."
+hängen:
+  description: "काहीतरी उंच बिंदूवर लटकवणे."
+stellen:
+  description: "काहीतरी उभ्या स्थितीत ठेवणे."
+stehen:
+  description: "उभ्या स्थितीत असणे."
+gehören:
+  description: "कुणाच्या तरी किंवा काहीतरीशी संबंधित असणे."
+schreiben:
+  description: "कागदावर किंवा दुसऱ्या माध्यमावर मजकूर किंवा माहिती लिहिणे."
+anrufen:
+  description: "कोणाशी फोनवर संपर्क साधणे."
+einrichten:
+  description: "एका खोलीला किंवा अपार्टमेंटला फर्निचर आणि सजावटांनी सजवणे."
+kündigen:
+  description: "एखादा करार किंवा समझोता समाप्त करणे."
+einschalten:
+  description: "एखादे उपकरण किंवा मशीन चालू करणे."
+ausschalten:
+  description: "एखादे उपकरण किंवा मशीन बंद करणे."
+anmachen:
+  description: "एखादे उपकरण किंवा मशीन चालू करणे."
+zumachen:
+  description: "काहीतरी बंद करणे."
+ausmachen:
+  description: "एखादे उपकरण किंवा मशीन बंद करणे."
+einziehen:
+  description: "नवीन अपार्टमेंट किंवा घरात जाणे."
+umziehen:
+  description: "एका ठिकाणाहून दुसऱ्या ठिकाणी जाणे."
+öffnen:
+  description: "काहीतरी उघडणे."
+eröffnen:
+  description: "काहीतरी नवीन उघडणे किंवा सुरू करणे."
+besichtigen:
+  description: "एखाद्या ठिकाणाला किंवा इमारतीला पाहणे."
+erreichen:
+  description: "एखाद्या लक्ष्यापर्यंत पोहोचणे किंवा कोणाशी संपर्क साधणे."
+mieten:
+  description: "काहीतरी निश्चित वेळेसाठी भाड्याने घेणे."
+renovieren:
+  description: "काहीतरी नवीन करणे किंवा दुरुस्ती करणे."
+umgestalten:
+  description: "काहीतरी नवीन रूप देणे किंवा बदलणे."
+vermieten:
+  description: "काहीतरी निश्चित वेळेसाठी भाड्याने देणे."
+putzen:
+  description: "काहीतरी स्वच्छ करणे."
+reparieren:
+  description: "तुटलेली गोष्ट दुरुस्त करणे."
+ausziehen:
+  description: "एखाद्या अपार्टमेंट किंवा घरातून बाहेर जाणे."     
