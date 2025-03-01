@@ -514,8 +514,8 @@ ausziehen:
   description: "एखाद्या अपार्टमेंट किंवा घरातून बाहेर जाणे."     
 zeitungen:
   description: "वृत्तपत्रे."
-verfausstelle:
-  description: "एक ठिकाण जिथे काहीतरी उत्पादित किंवा तयार केले जाते."
+verkaufsstelle:
+  description: "अशी जागा जिथे माल विकला जातो."
 erlaubnis:
   description: "काहीतरी करण्याची परवानगी."
 wochenend:
@@ -542,21 +542,59 @@ landwirt:
   description: "शेतकरी."  
 herstellen:
   description: "काहीतरी तयार करणे किंवा निर्माण करणे."
-Betrieb:
-  description: "एक कंपनी किंवा फर्म."
-Gehalt:
-  description: "ते पैसे जे एखाद्याला त्यांच्या कामासाठी मिळतात."
-Bezahlung:
+bezahlung:
   description: "केलेल्या कामासाठी दिलेले पैसे."
-Solidarzuschlag:
+solidarzuschlag:
   description: "एकजुटता अधिभार कर."
-Kirchensteuer:
+kirchensteuer:
   description: "चर्च कर."
-Lohnsteuer:
+lohnsteuer:
   description: "वेतनातून कापलेला आयकर."
-Sozialversicherung:
+sozialversicherung:
   description: "सामाजिक सुरक्षा."
-Bruttogehalt:
+bruttogehalt:
   description: "सकल वेतन."
-Rentenversicherung:
+rentenversicherung:
   description: "पेन्शन विमा."  
+nebenjob:
+  description: "अर्धवेळ नोकरी किंवा साइड जॉब."
+zeitarbeitsfirma:
+  description: "एक तात्पुरती रोजगार एजन्सी."
+urlaubvertretung:
+  description: "सुट्टीच्या दरम्यान एक प्रतिस्थापन."
+stelle:
+  description: "एक पद किंवा नोकरी."
+vertretung:
+  description: "एक प्रतिस्थापन."
+gespräch:
+  description: "एक संभाषण किंवा चर्चा."
+stundenlohn:
+  description: "तासाचे वेतन."
+stellenanzeigen:
+  description: "नोकरीच्या जाहिराती."
+halbtagsstelle:
+  description: "एक अर्धवेळ नोकरी."
+berufserfahrung:
+  description: "व्यावसायिक अनुभव."
+vorstellungsgespräch:
+  description: "एक नोकरीची मुलाखत."
+lebenslauf:
+  description: "एक रिज्यूमे किंवा जीवनचरित्र (सीवी)."
+vorstellung:
+  description: "एक परिचय किंवा सादरीकरण."
+bewerbungen:
+  description: "नोकरीचे अर्ज."
+jobcenter:
+  description: "एक नोकरी केंद्र किंवा रोजगार एजन्सी."
+arbeitszeit:
+  description: "कामाचे वेळ."
+nachtschicht:
+  description: "रात्रीची शिफ्ट."
+fachkenntnisse:
+  description: "विशेष ज्ञान किंवा कौशल्य."
+versuchen:
+  description: "प्रयत्न करणे."
+austragen:
+  description: "वितरण करणे (उदा., वृत्तपत्रे)."
+schauen:
+  description: "पाहणे."  

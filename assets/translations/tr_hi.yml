@@ -514,8 +514,8 @@ ausziehen:
   description: "किसी अपार्टमेंट या घर को छोड़ना।"    
 zeitungen:
   description: "समाचार पत्र।"
-verfausstelle:
-  description: "एक स्थान जहां कुछ उत्पादित या बनाया जाता है।"
+verkaufsstelle:
+  description: "वह स्थान जहाँ माल बेचा जाता है।"
 erlaubnis:
   description: "कुछ करने की अनुमति।"
 wochenend:
@@ -542,21 +542,59 @@ landwirt:
   description: "किसान।"  
 herstellen:
   description: "कुछ बनाना या उत्पन्न करना।"
-Betrieb:
-  description: "एक कंपनी या फर्म।"
-Gehalt:
-  description: "वह पैसा जो किसी को उनके काम के लिए मिलता है।"
-Bezahlung:
+bezahlung:
   description: "किए गए काम के लिए भुगतान।"
-Solidarzuschlag:
+solidarzuschlag:
   description: "एकजुटता अधिभार कर।"
-Kirchensteuer:
+kirchensteuer:
   description: "चर्च कर।"
-Lohnsteuer:
+lohnsteuer:
   description: "वेतन से काटा गया आयकर।"
-Sozialversicherung:
+sozialversicherung:
   description: "सामाजिक सुरक्षा।"
-Bruttogehalt:
+bruttogehalt:
   description: "सकल वेतन।"
-Rentenversicherung:
+rentenversicherung:
   description: "पेंशन बीमा।"
+nebenjob:
+  description: "अंशकालिक नौकरी या साइड जॉब।"
+zeitarbeitsfirma:
+  description: "एक अस्थायी रोजगार एजेंसी।"
+urlaubvertretung:
+  description: "छुट्टी के दौरान एक प्रतिस्थापन।"
+stelle:
+  description: "एक पद या नौकरी।"
+vertretung:
+  description: "एक प्रतिस्थापन।"
+gespräch:
+  description: "एक बातचीत या चर्चा।"
+stundenlohn:
+  description: "घंटे का वेतन।"
+stellenanzeigen:
+  description: "नौकरी के विज्ञापन।"
+halbtagsstelle:
+  description: "एक अंशकालिक नौकरी।"
+berufserfahrung:
+  description: "पेशेवर अनुभव।"
+vorstellungsgespräch:
+  description: "एक नौकरी का साक्षात्कार।"
+lebenslauf:
+  description: "एक रिज्यूमे या पाठ्यक्रम जीवन (सीवी)।"
+vorstellung:
+  description: "एक परिचय या प्रस्तुति।"
+bewerbungen:
+  description: "नौकरी के आवेदन।"
+jobcenter:
+  description: "एक नौकरी केंद्र या रोजगार एजेंसी।"
+arbeitszeit:
+  description: "काम करने का समय।"
+nachtschicht:
+  description: "रात की शिफ्ट।"
+fachkenntnisse:
+  description: "विशेषज्ञता या विशेषज्ञ ज्ञान।"
+versuchen:
+  description: "कोशिश करना या प्रयास करना।"
+austragen:
+  description: "वितरित करना (जैसे, समाचार पत्र)।"
+schauen:
+  description: "देखना या देखना।"  

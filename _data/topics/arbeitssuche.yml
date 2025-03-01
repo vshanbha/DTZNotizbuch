@@ -1,0 +1,165 @@
+title: Arbeitssuche Flashcards
+topic: arbeitssuche
+categories:
+  - name: Nouns
+    value: "Nomen"
+    cards:
+      - id: "nebenjob"
+        title: "Der Nebenjob"
+        description: "Eine zusätzliche Arbeit neben der Hauptbeschäftigung."
+        plural: "Die Nebenjobs"
+        related_cards: ["Der Job", "Die Arbeit", "Der Beruf"]
+        examples: ["Er hat einen Nebenjob als Kellner.", "Sie sucht einen Nebenjob.", "Die Nebenjobs sind oft flexibel."]
+      - id: "zeitarbeitsfirma"
+        title: "Die Zeitarbeitsfirma"
+        description: "Ein Unternehmen, das Arbeitskräfte zeitlich befristet vermittelt."
+        plural: "Die Zeitarbeitsfirmen"
+        related_cards: ["Die Firma", "Die Arbeit", "Der Vertrag"]
+        examples: ["Er arbeitet für eine Zeitarbeitsfirma.", "Die Zeitarbeitsfirma vermittelt viele Jobs.", "Sie hat einen Vertrag mit einer Zeitarbeitsfirma."]
+      - id: "urlaubvertretung"
+        title: "Die Urlaubsvertretung"
+        description: "Eine Person, die während des Urlaubs eines Mitarbeiters dessen Aufgaben übernimmt."
+        plural: "Die Urlaubsvertretungen"
+        related_cards: ["Der Urlaub", "Die Vertretung", "Der Mitarbeiter"]
+        examples: ["Er übernimmt die Urlaubsvertretung für seinen Kollegen.", "Die Urlaubsvertretung ist gut organisiert.", "Sie arbeitet als Urlaubsvertretung."]
+      - id: "stelle"
+        title: "Die Stelle"
+        description: "Ein Arbeitsplatz oder eine Position in einem Unternehmen."
+        plural: "Die Stellen"
+        related_cards: ["Der Job", "Die Arbeit", "Der Beruf"]
+        examples: ["Er hat eine neue Stelle gefunden.", "Die Stelle ist gut bezahlt.", "Sie bewirbt sich um eine Stelle."]
+      - id: "vertretung"
+        title: "Die Vertretung"
+        description: "Eine Person, die vorübergehend die Aufgaben einer anderen Person übernimmt."
+        plural: "Die Vertretungen"
+        related_cards: ["Die Stelle", "Der Mitarbeiter", "Der Ersatz"]
+        examples: ["Er übernimmt die Vertretung für seinen Kollegen.", "Die Vertretung ist gut organisiert.", "Sie arbeitet als Vertretung."]
+      - id: "gespräch"
+        title: "Das Gespräch"
+        description: "Ein Austausch von Informationen zwischen zwei oder mehr Personen."
+        plural: "Die Gespräche"
+        related_cards: ["Das Interview", "Die Kommunikation", "Das Meeting"]
+        examples: ["Er führt ein Gespräch mit seinem Chef.", "Das Gespräch war erfolgreich.", "Sie hat ein Gespräch mit dem Kunden."]
+      - id: "stundenlohn"
+        title: "Der Stundenlohn"
+        description: "Der Lohn, der pro Arbeitsstunde gezahlt wird."
+        plural: "Die Stundenlöhne"
+        related_cards: ["Der Lohn", "Das Gehalt", "Die Bezahlung"]
+        examples: ["Er bekommt einen hohen Stundenlohn.", "Der Stundenlohn wird monatlich ausgezahlt.", "Sie ist mit ihrem Stundenlohn zufrieden."]
+      - id: "stellenanzeigen"
+        title: "Die Stellenanzeige"
+        description: "Eine Anzeige, in der ein Arbeitsplatz angeboten wird."
+        plural: "Die Stellenanzeigen"
+        related_cards: ["Die Stelle", "Der Job", "Die Bewerbung"]
+        examples: ["Er liest die Stellenanzeigen in der Zeitung.", "Die Stellenanzeige ist interessant.", "Sie bewirbt sich auf eine Stellenanzeige."]
+      - id: "halbtagsstelle"
+        title: "Die Halbtagsstelle"
+        description: "Ein Arbeitsplatz, bei dem nur halbtags gearbeitet wird."
+        plural: "Die Halbtagsstellen"
+        related_cards: ["Die Stelle", "Der Job", "Die Arbeit"]
+        examples: ["Er hat eine Halbtagsstelle gefunden.", "Die Halbtagsstelle ist gut bezahlt.", "Sie arbeitet in einer Halbtagsstelle."]
+      - id: "berufserfahrung"
+        title: "Die Berufserfahrung"
+        description: "Die Erfahrung, die man in einem Beruf gesammelt hat."
+        plural: "Die Berufserfahrungen"
+        related_cards: ["Der Beruf", "Die Arbeit", "Die Karriere"]
+        examples: ["Er hat viel Berufserfahrung.", "Die Berufserfahrung ist wichtig für den Job.", "Sie hat ihre Berufserfahrung im Lebenslauf angegeben."]
+      - id: "vorstellungsgespräch"
+        title: "Das Vorstellungsgespräch"
+        description: "Ein Gespräch, bei dem sich ein Bewerber bei einem potenziellen Arbeitgeber vorstellt."
+        plural: "Die Vorstellungsgespräche"
+        related_cards: ["Die Bewerbung", "Das Interview", "Der Job"]
+        examples: ["Er hat ein Vorstellungsgespräch bei einer großen Firma.", "Das Vorstellungsgespräch war erfolgreich.", "Sie bereitet sich auf das Vorstellungsgespräch vor."]
+      - id: "lebenslauf"
+        title: "Der Lebenslauf"
+        description: "Ein Dokument, das die berufliche Laufbahn und Qualifikationen einer Person darstellt."
+        plural: "Die Lebensläufe"
+        related_cards: ["Die Bewerbung", "Das Vorstellungsgespräch", "Die Qualifikation"]
+        examples: ["Er hat seinen Lebenslauf aktualisiert.", "Der Lebenslauf ist gut strukturiert.", "Sie hat ihren Lebenslauf eingereicht."]
+      - id: "vorstellung"
+        title: "Die Vorstellung"
+        description: "Die Präsentation oder Einführung einer Person oder eines Themas."
+        plural: "Die Vorstellungen"
+        related_cards: ["Das Vorstellungsgespräch", "Die Präsentation", "Die Einführung"]
+        examples: ["Er hat eine gute Vorstellung gegeben.", "Die Vorstellung war beeindruckend.", "Sie bereitet ihre Vorstellung vor."]
+      - id: "bewerbungen"
+        title: "Die Bewerbung"
+        description: "Ein Schreiben, mit dem man sich um eine Stelle bewirbt."
+        plural: "Die Bewerbungen"
+        related_cards: ["Der Lebenslauf", "Das Vorstellungsgespräch", "Der Job"]
+        examples: ["Er hat viele Bewerbungen geschrieben.", "Die Bewerbung ist gut formuliert.", "Sie hat ihre Bewerbung eingereicht."]
+      - id: "jobcenter"
+        title: "Das Jobcenter"
+        description: "Eine Behörde, die bei der Arbeitssuche und Arbeitsvermittlung unterstützt."
+        plural: "Die Jobcenter"
+        related_cards: ["Die Arbeit", "Die Vermittlung", "Der Job"]
+        examples: ["Er hat einen Termin im Jobcenter.", "Das Jobcenter hilft bei der Jobsuche.", "Sie hat sich beim Jobcenter gemeldet."]
+      - id: "anzeige"
+        title: "Die Anzeige"
+        description: "Eine öffentliche Bekanntmachung oder Werbung."
+        plural: "Die Anzeigen"
+        related_cards: ["Die Stellenanzeige", "Die Werbung", "Die Bekanntmachung"]
+        examples: ["Er hat eine Anzeige in der Zeitung gelesen.", "Die Anzeige ist interessant.", "Sie hat eine Anzeige geschaltet."]
+      - id: "arbeitszeit"
+        title: "Die Arbeitszeit"
+        description: "Die Zeit, die man für die Arbeit aufwendet."
+        plural: "Die Arbeitszeiten"
+        related_cards: ["Die Arbeitsstunden", "Der Dienstplan", "Die Schicht"]
+        examples: ["Die Arbeitszeit beträgt acht Stunden pro Tag.", "Er hat flexible Arbeitszeiten.", "Die Arbeitszeiten sind lang."]
+      - id: "nachtschicht"
+        title: "Die Nachtschicht"
+        description: "Eine Arbeitsschicht, die nachts stattfindet."
+        plural: "Die Nachtschichten"
+        related_cards: ["Die Schicht", "Der Dienst", "Die Arbeitszeit"]
+        examples: ["Er arbeitet in der Nachtschicht.", "Die Nachtschicht ist anstrengend.", "Sie hat heute Nachtschicht."]
+      - id: "fachkenntnisse"
+        title: "Die Fachkenntnisse"
+        description: "Spezifisches Wissen und Fähigkeiten in einem bestimmten Bereich."
+        plural: "Die Fachkenntnisse"
+        related_cards: ["Die Kenntnisse", "Die Fähigkeiten", "Das Wissen"]
+        examples: ["Er hat gute Fachkenntnisse in Informatik.", "Die Fachkenntnisse sind wichtig für den Job.", "Sie hat ihre Fachkenntnisse erweitert."]        
+  - name: Verbs
+    value: "Verben"
+    cards:
+      - id: "arbeiten"
+        title: "arbeiten"
+        description: "Eine Tätigkeit ausüben, um Geld zu verdienen."
+        konjugation: "ich arbeite, du arbeitest, er/sie/es arbeitet, wir arbeiten, ihr arbeitet, sie/Sie arbeiten"
+        zeiten: "Präsens, Präteritum (arbeitete), Perfekt (hat gearbeitet)"
+        related_cards: ["Der Beruf", "Der Arbeitsplatz", "Die Arbeit", "Der Kollege"]
+        examples: ["Ich arbeite in einem Büro.", "Wo arbeitest du?", "Sie arbeitet als Lehrerin."]
+      - id: "versuchen"
+        title: "versuchen"
+        description: "Etwas probieren oder sich bemühen, etwas zu tun."
+        konjugation: "ich versuche, du versuchst, er/sie/es versucht, wir versuchen, ihr versucht, sie/Sie versuchen"
+        zeiten: "Präsens, Präteritum (versuchte), Perfekt (hat versucht)"
+        related_cards: ["Der Versuch", "Die Bemühung", "Das Ziel"]
+        examples: ["Ich versuche, das Problem zu lösen.", "Er versucht, pünktlich zu sein.", "Sie hat es versucht."]
+      - id: "verdienen"
+        title: "verdienen"
+        description: "Geld für geleistete Arbeit erhalten."
+        konjugation: "ich verdiene, du verdienst, er/sie/es verdient, wir verdienen, ihr verdient, sie/Sie verdienen"
+        zeiten: "Präsens, Präteritum (verdiente), Perfekt (hat verdient)"
+        related_cards: ["Der Lohn", "Das Gehalt", "Die Bezahlung"]
+        examples: ["Ich verdiene genug Geld.", "Er verdient gut.", "Sie hat viel Geld verdient."]
+      - id: "austragen"
+        title: "austragen"
+        description: "Etwas verteilen oder zustellen."
+        konjugation: "ich trage aus, du trägst aus, er/sie/es trägt aus, wir tragen aus, ihr tragt aus, sie/Sie tragen aus"
+        zeiten: "Präsens, Präteritum (trug aus), Perfekt (hat ausgetragen)"
+        related_cards: ["Die Zustellung", "Die Verteilung", "Der Bote"]
+        examples: ["Ich trage Zeitungen aus.", "Er trägt die Post aus.", "Sie hat die Briefe ausgetragen."]
+      - id: "schreiben"
+        title: "schreiben"
+        description: "Text oder Informationen auf Papier oder ein anderes Medium bringen."
+        konjugation: "ich schreibe, du schreibst, er/sie/es schreibt, wir schreiben, ihr schreibt, sie/Sie schreiben"
+        zeiten: "Präsens, Präteritum (schrieb), Perfekt (hat geschrieben)"
+        related_cards: ["Der Text", "Der Brief", "Das Dokument"]
+        examples: ["Ich schreibe einen Brief.", "Er schreibt einen Bericht.", "Sie hat ein Buch geschrieben."]
+      - id: "schauen"
+        title: "schauen"
+        description: "Etwas ansehen oder betrachten."
+        konjugation: "ich schaue, du schaust, er/sie/es schaut, wir schauen, ihr schaut, sie/Sie schauen"
+        zeiten: "Präsens, Präteritum (schaute), Perfekt (hat geschaut)"
+        related_cards: ["Der Blick", "Das Sehen", "Die Betrachtung"]
+        examples: ["Ich schaue einen Film.", "Er schaut aus dem Fenster.", "Sie hat auf die Uhr geschaut."]        
