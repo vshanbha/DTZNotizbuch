@@ -512,3 +512,51 @@ putzen:
   description: "किसी चीज़ को साफ करना।"
 ausziehen:
   description: "किसी अपार्टमेंट या घर को छोड़ना।"    
+zeitungen:
+  description: "समाचार पत्र।"
+verfausstelle:
+  description: "एक स्थान जहां कुछ उत्पादित या बनाया जाता है।"
+erlaubnis:
+  description: "कुछ करने की अनुमति।"
+wochenend:
+  description: "सप्ताह का अंत, आमतौर पर शनिवार और रविवार।"
+problem:
+  description: "एक ऐसी स्थिति जिसे अवांछनीय या हानिकारक माना जाता है।"
+konkurrenz:
+  description: "प्रतिस्पर्धा।"
+angst:
+  description: "डर या चिंता।"
+genehmigungen:
+  description: "अनुमतियाँ या स्वीकृतियाँ।"
+stadtverwaltung:
+  description: "शहर प्रशासन।"
+verwaltung:
+  description: "प्रशासन या प्रबंधन।"
+speisen:
+  description: "खाद्य पदार्थ या व्यंजन।"
+kiosk:
+  description: "एक छोटा खुला-आमने-सामने का झोपड़ी या कक्ष जहां समाचार पत्र, ताज़गी, टिकट आदि बेचे जाते हैं।"
+lohn:
+  description: "वेतन या मजदूरी।"
+landwirt:
+  description: "किसान।"  
+herstellen:
+  description: "कुछ बनाना या उत्पन्न करना।"
+Betrieb:
+  description: "एक कंपनी या फर्म।"
+Gehalt:
+  description: "वह पैसा जो किसी को उनके काम के लिए मिलता है।"
+Bezahlung:
+  description: "किए गए काम के लिए भुगतान।"
+Solidarzuschlag:
+  description: "एकजुटता अधिभार कर।"
+Kirchensteuer:
+  description: "चर्च कर।"
+Lohnsteuer:
+  description: "वेतन से काटा गया आयकर।"
+Sozialversicherung:
+  description: "सामाजिक सुरक्षा।"
+Bruttogehalt:
+  description: "सकल वेतन।"
+Rentenversicherung:
+  description: "पेंशन बीमा।"

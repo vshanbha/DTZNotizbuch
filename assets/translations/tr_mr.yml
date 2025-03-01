@@ -512,3 +512,51 @@ reparieren:
   description: "तुटलेली गोष्ट दुरुस्त करणे."
 ausziehen:
   description: "एखाद्या अपार्टमेंट किंवा घरातून बाहेर जाणे."     
+zeitungen:
+  description: "वृत्तपत्रे."
+verfausstelle:
+  description: "एक ठिकाण जिथे काहीतरी उत्पादित किंवा तयार केले जाते."
+erlaubnis:
+  description: "काहीतरी करण्याची परवानगी."
+wochenend:
+  description: "आठवड्याचा शेवट, सामान्यतः शनिवार आणि रविवार."
+problem:
+  description: "एक अशी स्थिती जी अवांछनीय किंवा हानिकारक मानली जाते."
+konkurrenz:
+  description: "स्पर्धा."
+angst:
+  description: "भीती किंवा चिंता."
+genehmigungen:
+  description: "परवानग्या किंवा मंजुरी."
+stadtverwaltung:
+  description: "शहर प्रशासन."
+verwaltung:
+  description: "प्रशासन किंवा व्यवस्थापन."
+speisen:
+  description: "अन्नपदार्थ किंवा व्यंजन."
+kiosk:
+  description: "एक लहान उघड-समोर असलेली झोपडी किंवा कक्ष जिथे वृत्तपत्रे, ताजगी, तिकीट इत्यादी विकले जातात."
+lohn:
+  description: "वेतन किंवा मजुरी."
+landwirt:
+  description: "शेतकरी."  
+herstellen:
+  description: "काहीतरी तयार करणे किंवा निर्माण करणे."
+Betrieb:
+  description: "एक कंपनी किंवा फर्म."
+Gehalt:
+  description: "ते पैसे जे एखाद्याला त्यांच्या कामासाठी मिळतात."
+Bezahlung:
+  description: "केलेल्या कामासाठी दिलेले पैसे."
+Solidarzuschlag:
+  description: "एकजुटता अधिभार कर."
+Kirchensteuer:
+  description: "चर्च कर."
+Lohnsteuer:
+  description: "वेतनातून कापलेला आयकर."
+Sozialversicherung:
+  description: "सामाजिक सुरक्षा."
+Bruttogehalt:
+  description: "सकल वेतन."
+Rentenversicherung:
+  description: "पेन्शन विमा."  
