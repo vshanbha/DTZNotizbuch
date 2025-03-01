@@ -122,8 +122,8 @@ layout: multilingual_page
   <script src="https://cdnjs.cloudflare.com/ajax/libs/js-yaml/4.1.0/js-yaml.min.js"></script>
   <script>
     // Script sectio to deal with favourite cards
-    const favoriteItemName = 'favourites';
     const theme = '{{page.topic}}';
+    const favoriteItemName = 'favourites';
     let favorites = JSON.parse(localStorage.getItem(favoriteItemName)) || [];
 
     function getCardById(cardId) {
@@ -137,15 +137,15 @@ layout: multilingual_page
       return null;
     }
 
-    function toggleFavorite(cardId, event) {
+    function toggleFavorite(cardId, theme, event) {
       event.stopPropagation();
       const card = getCardById(cardId);
       const favorite = { theme, cardId, card };
-      const index = favorites.findIndex(fav => fav.cardId === cardId && fav.theme === theme);
-      if (index === -1) {
-        favorites.push(favorite);
-      } else {
+      const index = favorites.findIndex(fav => fav.cardId === cardId);
+      if (index !== -1) {
         favorites.splice(index, 1);
+      } else {
+        favorites.push(favorite);
       }
       localStorage.setItem(favoriteItemName, JSON.stringify(favorites));
       renderCard(current_index);
@@ -204,8 +204,9 @@ layout: multilingual_page
       }
       const category = categories[category_index];
       const card = category.cards[index];
-      const isFavorite = favorites.some(fav => fav.cardId === card.id && fav.theme === theme);
+      const isFavorite = favorites.some(fav => fav.cardId === card.id);
       //      var description = card.description;
+      if (!card) return;
       var description = card.description;
       if (preferredLanguage !== 'de') {
         description = translations[card.id]?.description || card.description;
@@ -225,7 +226,7 @@ layout: multilingual_page
           <div class="card-inner">
             <div class="card-front">${card.title}
               <p style="position: absolute; bottom: 10px; right: 10px; font-size: 14px;">${index + 1} / ${categories[getCategoryIndexByValue(current_category_value)].cards.length}</p>
-              <span class="star" onclick="toggleFavorite('${card.id}', event)">${isFavorite ? '⭐' : '☆'}</span>
+              <span class="star" onclick="toggleFavorite('${card.id}','${theme}', event)">${isFavorite ? '⭐' : '☆'}</span>
             </div>
             <div class="card-back">
               <p><strong>Beschreibung:</strong> ${description}</p>
