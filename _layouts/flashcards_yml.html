@@ -1,0 +1,361 @@
+---
+layout: multilingual_page
+---
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>{{ page.title }}</title>
+  <style>
+    .popover-container a {
+      font-size: 24px;
+      align-items: center;
+    }
+
+    .popover-container svg {
+      margin-left: 5px;
+    }
+
+    .card {
+      width: 100%;
+      height: 400px;
+      perspective: 1000px;
+      cursor: pointer;
+    }
+
+    .card-inner {
+      width: 100%;
+      height: 100%;
+      transition: transform 0.5s;
+      transform-style: preserve-3d;
+    }
+
+    .card.flipped .card-inner {
+      transform: rotateY(180deg);
+    }
+
+    .card-front,
+    .card-back {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      backface-visibility: hidden;
+      display: flex;
+      flex-direction: column;
+      font-size: 20px;
+      border: 1px solid #ccc;
+      border-radius: 12px;
+      box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+      padding: 10px;
+    }
+
+    .card-front {
+      align-items: center;
+      justify-content: center;
+    }
+
+    .card-back {
+      transform: rotateY(180deg);
+      background-color: #f8f8f8;
+      align-items: left;
+      justify-content: left;
+    }
+
+    .tabs {
+      display: flex;
+      cursor: pointer;
+      margin-bottom: 10px;
+    }
+
+    .tab {
+      padding: 10px 20px;
+      border: 1px solid #ccc;
+      border-bottom: none;
+    }
+
+    .tab.active {
+      background-color: #f8f8f8;
+    }
+
+    .drawer {
+      height: 100%;
+      width: 0;
+      position: fixed;
+      z-index: 1;
+      top: 0;
+      left: 0;
+      background-color: #f8f8f8;
+      overflow-x: hidden;
+      transition: 0.5s;
+      padding-top: 60px;
+    }
+
+    .drawer a {
+      padding: 8px 8px 8px 32px;
+      text-decoration: none;
+      font-size: 12px;
+      color: #818181;
+      display: block;
+      transition: 0.3s;
+    }
+
+    .drawer a:hover {
+      color: #000;
+    }
+
+    .drawer .closebtn {
+      position: absolute;
+      top: 0;
+      right: 25px;
+      font-size: 36px;
+      margin-left: 50px;
+    }
+
+    .star {
+      position: absolute;
+      top: 10px;
+      font-size: 24px;
+      right: 10px;
+      cursor: pointer;
+    }
+  </style>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/js-yaml/4.1.0/js-yaml.min.js"></script>
+  <script>
+    // Script sectio to deal with favourite cards
+    const favoriteItemName = 'favourites';
+    const theme = '{{page.topic}}';
+    let favorites = JSON.parse(localStorage.getItem(favoriteItemName)) || [];
+
+    function getCardById(cardId) {
+      for (let i = 0; i < categories.length; i++) {
+        const category = categories[i];
+        const card = category.cards.find(card => card.id === cardId);
+        if (card) {
+          return card;
+        }
+      }
+      return null;
+    }
+
+    function toggleFavorite(cardId, event) {
+      event.stopPropagation();
+      const card = getCardById(cardId);
+      const favorite = { theme, cardId, card };
+      const index = favorites.findIndex(fav => fav.cardId === cardId && fav.theme === theme);
+      if (index === -1) {
+        favorites.push(favorite);
+      } else {
+        favorites.splice(index, 1);
+      }
+      localStorage.setItem(favoriteItemName, JSON.stringify(favorites));
+      renderCard(current_index);
+    }
+
+    function renderCardById(cardId) {
+      for (let i = 0; i < categories.length; i++) {
+        const category = categories[i];
+        const cardIndex = category.cards.findIndex(card => card.id === cardId);
+        if (cardIndex !== -1) {
+          current_category_value = category.value;
+          current_index = cardIndex;
+          openCard(current_category_value, current_index);
+          return;
+        }
+      }
+      console.error('Card not found');
+    }
+  </script>
+  <script>
+    // Script sectio to load language translations
+    const preferredLanguage = localStorage.getItem('preferredLanguage') || 'de';
+    let translations = {};
+
+    // Load translations based on the preferred language
+    fetch(`{{ site.baseurl }}/assets/translations/tr_${preferredLanguage}.yml`)
+      .then(response => response.text())
+      .then(data => {
+        translations = jsyaml.load(data);
+        afterLoad();
+      })
+      .catch(error => {
+        console.error('Error loading translations:', error);
+        afterLoad();
+      });
+  </script>
+  <script>
+    // Script section to load path tokens
+    const pathToken = {
+      relPath: decodeURIComponent(window.location.pathname)
+    };
+    const parts = pathToken.relPath.split('/');
+    const title = parts[3];
+    let startCardId = parts.length > 4 ? parts[4] : null;
+  </script>
+  <script>
+    function getCategoryIndexByValue(value) {
+      return categories.findIndex(category => category.value === value);
+    }
+
+    function renderCard(index) {
+      const category_index = getCategoryIndexByValue(current_category_value);
+      if (category_index === -1) {
+        console.error('Category not found');
+        return;
+      }
+      const category = categories[category_index];
+      const card = category.cards[index];
+      const isFavorite = favorites.some(fav => fav.cardId === card.id && fav.theme === theme);
+      //      var description = card.description;
+      var description = card.description;
+      if (preferredLanguage !== 'de') {
+        description = translations[card.id]?.description || card.description;
+      }
+      if (card.plural) {
+        description += `<br><strong>Plural:</strong> ${card.plural}`;
+      }
+      if (card.konjugation) {
+        description += `<br><strong>Konjugation:</strong> ${card.konjugation}`;
+      }
+      if (card.zeiten) {
+        description += `<br><strong>Zeiten:</strong> ${card.zeiten}`;
+      }
+
+      document.getElementById('flashcard-container').innerHTML = `
+        <div class="card" onclick="this.classList.toggle('flipped')">
+          <div class="card-inner">
+            <div class="card-front">${card.title}
+              <p style="position: absolute; bottom: 10px; right: 10px; font-size: 14px;">${index + 1} / ${categories[getCategoryIndexByValue(current_category_value)].cards.length}</p>
+              <span class="star" onclick="toggleFavorite('${card.id}', event)">${isFavorite ? '⭐' : '☆'}</span>
+            </div>
+            <div class="card-back">
+              <p><strong>Beschreibung:</strong> ${description}</p>
+              <p><strong>z.B.:</strong> ${card.examples?.join('<br>') || 'N/A'}</p>
+            </div>
+          </div>
+        </div>`;
+    }
+
+    function renderTabs() {
+      const tabsContainer = document.getElementById('tabs-container');
+      tabsContainer.innerHTML = '';
+      categories.forEach(category => {
+        const tab = document.createElement('div');
+        tab.className = 'tab';
+        tab.innerText = category.value;
+        tab.onclick = () => {
+          current_category_value = category.value;
+          document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+          tab.classList.add('active');
+          current_index = 0;
+          renderCard(current_index);
+        };
+        tabsContainer.appendChild(tab);
+      });
+      // Activate the first tab by default
+      if (tabsContainer.firstChild) {
+        tabsContainer.firstChild.click();
+      }
+    }
+
+    afterLoad = () => {
+      renderTabs();
+      if (startCardId) {
+        renderCardById(startCardId);
+      }
+    };
+
+    function openDrawer() {
+      document.getElementById("all-words").style.width = "250px";
+    }
+
+    function closeDrawer() {
+      document.getElementById("all-words").style.width = "0";
+    }
+
+  </script>
+</head>
+
+<body>
+  <div class="popover-container">
+    <a href="{% link flashcards.md %}">All Themes</a><a href="{% link _pages/flashcard_help.md %}">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="20" height="20">
+        <path
+          d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm0 22C6.486 22 2 17.514 2 12S6.486 2 12 2s10 4.486 10 10-4.486 10-10 10zm-1-17h2v2h-2zm2 4h-2v10h2z" />
+      </svg>
+    </a>
+
+  </div>
+
+  <div id="tabs-container" class="tabs"></div>
+  <div id="flashcard-container"></div>
+  <div style="margin-top: 20px; text-align: center;">
+    <button onclick="prevCard()">&lt;</button>
+    <button style="width: 120px;" onclick="randomCard()">Random</button>
+    <button id="openDrawerBtn" onclick="openDrawer()">Alle</button>
+    <button onclick="nextCard()">&gt;</button>
+  </div>
+  <script>
+    let touchstartX = 0;
+    let touchendX = 0;
+
+    function handleGesture() {
+      if (touchendX < touchstartX - 100) nextCard();
+      if (touchendX > touchstartX + 100) prevCard();
+    }
+    let container = document.getElementById('flashcard-container');
+    container.addEventListener('touchstart', function (event) {
+      touchstartX = event.changedTouches[0].screenX;
+    }, false);
+
+    container.addEventListener('touchend', function (event) {
+      touchendX = event.changedTouches[0].screenX;
+      handleGesture();
+    }, false);
+    function nextCard() {
+      current_index = (current_index + 1) % categories[getCategoryIndexByValue(current_category_value)].cards.length;
+      renderCard(current_index);
+    }
+    function prevCard() {
+      if (current_index > 0) {
+        current_index--;
+        renderCard(current_index);
+      }
+    }
+    function randomCard() {
+      const category_index = getCategoryIndexByValue(current_category_value);
+      if (category_index === -1) {
+        console.error('Category not found');
+        return;
+      }
+      const category = categories[category_index];
+      current_index = Math.floor(Math.random() * category.cards.length);
+      renderCard(current_index);
+    }
+    function openCard(categoryValue, cardIndex) {
+      current_category_value = categoryValue;
+      document.querySelectorAll('.tab').forEach(t => {
+        if (t.innerText === categoryValue) {
+          t.classList.add('active');
+        } else {
+          t.classList.remove('active');
+        }
+      });
+      current_index = cardIndex;
+      renderCard(current_index);
+      closeDrawer();
+    }
+
+    document.addEventListener('click', function (event) {
+      const drawer = document.getElementById('all-words');
+      const openDrawerBtn = document.getElementById('openDrawerBtn');
+      if (drawer.style.width === '250px' && !drawer.contains(event.target) && event.target !== openDrawerBtn) {
+        closeDrawer();
+      }
+    });
+
+  </script>
+
+</body>
+
+</html>
+{{content}}

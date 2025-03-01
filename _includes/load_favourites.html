@@ -1,0 +1,78 @@
+<script>
+    const favoriteItem = 'favourites';
+    // script section to load cards from local storage
+    let favFromStore = JSON.parse(localStorage.getItem(favoriteItem)) || [];
+
+    let topics = [];
+    topics.push(['title', 'Favourites']);
+    topics.push(['topic', 'favourites']);
+    var category = [];
+    category.push('categories');
+    var cards = [];
+    for (let i = 0; i < favFromStore.length; i++) {
+        let favorite = favFromStore[i];
+        let card = favorite.card;
+        cards.push(card);
+    }
+
+    category.push({ name: 'favourites', value: 'Lieblings Wörter', cards: cards });
+    topics.push(category);
+    let categories = [topics[2][1]];
+    console.log(categories);
+    let current_index = 0;
+    let current_category_value = '';
+</script>
+<style>
+    .favorite-card {
+        padding: 10px;
+        border: 1px solid #ccc;
+        margin-bottom: 10px;
+        cursor: pointer;
+    }
+
+    .favorite-card:hover {
+        background-color: #e0e0e0;
+    }
+</style>
+
+<body>
+    <div id="favorites-container">
+        <h3>zum Thema</h3>
+    </div>
+    <div id="all-words" class="drawer">
+        <a href="javascript:void(0)" class="closebtn" onclick="closeDrawer()">&times;</a>
+        <h2>Alle Wörter</h2>
+    </div>
+</body>
+<script>
+    let div = document.querySelector('#all-words');
+    ul = document.createElement('ul');
+    categories.forEach(category => {
+        category.cards.forEach((card, index) => {
+            let li = document.createElement('li');
+            let a = document.createElement('a');
+            a.href = "javascript:void(0);";
+            a.onclick = function () { openCard(category.value, index); };
+            a.textContent = card.title;
+            li.appendChild(a);
+            ul.appendChild(li);
+        });
+    });
+    div.appendChild(ul);
+
+    document.addEventListener('DOMContentLoaded', function () {
+        const favorites = JSON.parse(localStorage.getItem(favoriteItemName)) || [];
+        const favoritesContainer = document.getElementById('favorites-container');
+        favorites.forEach(favorite => {
+            const cardElement = document.createElement('div');
+            cardElement.className = 'favorite-card';
+            cardElement.innerText = `${favorite.cardId}`;
+            cardElement.onclick = () => goToCard(favorite.theme, favorite.cardId);
+            favoritesContainer.appendChild(cardElement);
+        });
+    });
+
+    function goToCard(theme, cardId) {
+        window.location.href = `{{site.baseurl}}/themes/${theme}/${cardId}`;
+    }
+</script>

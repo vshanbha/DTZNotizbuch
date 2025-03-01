@@ -1,0 +1,31 @@
+<script>
+    // script section to load cards from yml
+    {% assign page_topic = page.topic %}
+    let topics = [];
+    {% for topic_file in site.data.topics[page_topic] %}
+    topics.push({{ topic_file | jsonify }});
+    {% endfor %}
+
+    console.log(topics); // Data from JSON will load here.    
+    let categories = topics[2][1];
+    let current_index = 0;
+    let current_category_value = '';
+</script>
+<body>
+  <div id="all-words" class="drawer">
+    <a href="javascript:void(0)" class="closebtn" onclick="closeDrawer()">&times;</a>
+    <h2>Alle Wörter</h2>
+    <ul>
+      {% for topic_file in site.data.topics[page_topic] %}
+      {% assign categories = topic_file[1] %}
+      {% for category in categories %}
+      {% assign cards = category.cards %}
+      {% for card in cards %}
+      <li><a href="javascript:void(0);" onclick="openCard('{{ category.value }}', {{ forloop.index0 }})">{{
+          card.title }}</a></li>
+      {% endfor %}
+      {% endfor %}
+      {% endfor %}
+    </ul>
+  </div>
+</body>
