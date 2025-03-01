@@ -514,8 +514,8 @@ ausziehen:
   description: "To leave an apartment or house."
 zeitungen:
   description: "Newspapers."
-verfausstelle:
-  description: "A place where something is produced or created."
+verkaufsstelle:
+  description: "A place where goods are sold."
 erlaubnis:
   description: "Permission to do something."
 wochenend:
@@ -542,21 +542,59 @@ landwirt:
   description: "Farmer."  
 herstellen:
   description: "To manufacture or produce something."
-Betrieb:
-  description: "A company or firm."
-Gehalt:
-  description: "The money one receives for their work."
-Bezahlung:
+bezahlung:
   description: "Payment for work done."
-Solidarzuschlag:
+solidarzuschlag:
   description: "A solidarity surcharge tax."
-Kirchensteuer:
+kirchensteuer:
   description: "Church tax."
-Lohnsteuer:
+lohnsteuer:
   description: "Income tax deducted from wages."
-Sozialversicherung:
+sozialversicherung:
   description: "Social security."
-Bruttogehalt:
+bruttogehalt:
   description: "Gross salary."
-Rentenversicherung:
+rentenversicherung:
   description: "Pension insurance."
+nebenjob:
+  description: "A part-time job or side job."
+zeitarbeitsfirma:
+  description: "A temporary employment agency."
+urlaubvertretung:
+  description: "A substitute or replacement during vacation."
+stelle:
+  description: "A position or job."
+vertretung:
+  description: "A substitute or replacement."
+gespräch:
+  description: "A conversation or discussion."
+stundenlohn:
+  description: "Hourly wage."
+stellenanzeigen:
+  description: "Job advertisements."
+halbtagsstelle:
+  description: "A part-time job."
+berufserfahrung:
+  description: "Professional experience."
+vorstellungsgespräch:
+  description: "A job interview."
+lebenslauf:
+  description: "A resume or curriculum vitae (CV)."
+vorstellung:
+  description: "An introduction or presentation."
+bewerbungen:
+  description: "Job applications."
+jobcenter:
+  description: "A job center or employment agency."
+arbeitszeit:
+  description: "Working hours."
+nachtschicht:
+  description: "Night shift."
+fachkenntnisse:
+  description: "Specialized knowledge or expertise."
+versuchen:
+  description: "To try or attempt."
+austragen:
+  description: "To deliver (e.g., newspapers)."
+schauen:
+  description: "To look or watch."  
