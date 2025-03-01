@@ -3,20 +3,21 @@ layout: page
 title: Flashcards
 permalink: /flashcards/
 ---
-<div><button id="themeSelectorButton" onclick="toggleDropdown()">Select Theme</button>
-<div id="themeDropdown" style="display:none"></div>
+<div>
+    <button id="themeSelectorButton" onclick="toggleDropdown()">Thema wählen</button>
+    <button id="favouritesButton" onclick="window.location.href='{{site.baseurl}}/favourites/'">Lieblings Wörter</button>
+    <div id="themeDropdown" style="display:none"></div>
 </div>
 <ul>
 {% for post in site.pages %}
-    {% if post.layout == "flashcards" %}
-        
+    {% if post.layout == "flashcards" %}        
         <li><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
     {% endif %}
 {% endfor %}
 </ul>
 
 <style>
-    #themeSelectorButton {
+    #themeSelectorButton, #favouritesButton {
         margin-bottom: 0px;
     }
     
