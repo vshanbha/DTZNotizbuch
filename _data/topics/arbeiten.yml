@@ -274,7 +274,18 @@ categories:
         plural: "Die Landwirte"
         related_cards: ["Die Landwirtschaft", "Der Bauer", "Der Traktor"]
         examples: ["Der Landwirt pflanzt Getreide an.", "Er ist ein erfahrener Landwirt.", "Die Landwirte arbeiten auf dem Feld."]
-
+      - id: "koordinator"
+        title: "Der Koordinator"
+        description: "Eine Person, die Aktivitäten oder Veranstaltungen organisiert und verwaltet."
+        plural: "Die Koordinatoren"
+        related_cards: ["Die Organisation", "Das Event", "Der Plan"]
+        examples: ["Der Koordinator plant die Veranstaltung.", "Sie ist der Koordinator des Projekts.", "Die Koordinatoren arbeiten eng mit dem Team zusammen."]
+      - id: "maler"
+        title: "Der Maler"
+        description: "Eine Person, die malt oder streicht."
+        plural: "Die Maler"
+        related_cards: ["Die Farbe", "Der Pinsel", "Die Wand"]
+        examples: ["Der Maler streicht die Wände.", "Sie ist eine talentierte Malerin.", "Die Maler arbeiten schnell."]
   - name: Nouns
     value: "Nomen (andere)"
     cards:
@@ -554,6 +565,55 @@ categories:
         plural: "Die Rentenversicherungen"
         related_cards: ["Die Sozialversicherung", "Die Altersvorsorge", "Die Rente"]
         examples: ["Die Rentenversicherung ist Teil der Sozialversicherung.", "Er zahlt in die Rentenversicherung ein.", "Die Rentenversicherungen sichern das Alter ab."]        
+      - id: "zeitarbeit"
+        title: "Die Zeitarbeit"
+        description: "Eine vorübergehende Beschäftigung."
+        plural: "Die Zeitarbeiten"
+        related_cards: ["Der Job", "Die Arbeit", "Der Vertrag"]
+        examples: ["Er arbeitet in der Zeitarbeit.", "Die Zeitarbeit bietet Flexibilität.", "Sie hat einen Zeitarbeitsvertrag."]
+      - id: "festanstellung"
+        title: "Die Festanstellung"
+        description: "Eine dauerhafte Beschäftigung."
+        plural: "Die Festanstellungen"
+        related_cards: ["Der Job", "Die Arbeit", "Der Vertrag"]
+        examples: ["Sie hat eine Festanstellung gefunden.", "Die Festanstellung bietet Sicherheit.", "Er ist auf der Suche nach einer Festanstellung."]
+      - id: "übergehen"
+        title: "übergehen"
+        description: "Zu etwas anderem wechseln oder überleiten."
+        konjugation: "ich übergehe, du übergehst, er/sie/es übergeht, wir übergehen, ihr übergeht, sie/Sie übergehen"
+        zeiten: "Präsens, Präteritum (übergang), Perfekt (hat übergangen)"
+        related_cards: ["Der Wechsel", "Die Veränderung", "Der Übergang"]
+        examples: ["Ich übergehe zu einem neuen Thema.", "Sie übergeht die alten Regeln.", "Er hat den Plan übergangen."]
+      - id: "bereich"
+        title: "Der Bereich"
+        description: "Ein Gebiet oder Feld der Tätigkeit."
+        plural: "Die Bereiche"
+        related_cards: ["Das Feld", "Die Abteilung", "Die Branche"]
+        examples: ["Er arbeitet im Bereich der Informatik.", "Der Bereich ist sehr groß.", "Sie ist Expertin in diesem Bereich."]
+      - id: "branche"
+        title: "Die Branche"
+        description: "Ein Industriezweig oder Sektor."
+        plural: "Die Branchen"
+        related_cards: ["Der Sektor", "Das Feld", "Der Bereich"]
+        examples: ["Die IT-Branche wächst schnell.", "Er arbeitet in der Automobilbranche.", "Die Branchen sind vielfältig."]
+      - id: "fahrdienst"
+        title: "Der Fahrdienst"
+        description: "Ein Transportservice."
+        plural: "Die Fahrdienste"
+        related_cards: ["Das Auto", "Der Fahrer", "Der Transport"]
+        examples: ["Der Fahrdienst bringt die Gäste zum Hotel.", "Sie arbeitet im Fahrdienst.", "Die Fahrdienste sind zuverlässig."]
+      - id: "kundenberater"
+        title: "Der Kundenberater"
+        description: "Eine Person, die Kunden berät."
+        plural: "Die Kundenberater"
+        related_cards: ["Der Kunde", "Die Beratung", "Der Service"]
+        examples: ["Der Kundenberater hilft bei Fragen.", "Sie ist eine erfahrene Kundenberaterin.", "Die Kundenberater sind freundlich."]
+      - id: "abteilung"
+        title: "Die Abteilung"
+        description: "Ein Bereich innerhalb einer Organisation."
+        plural: "Die Abteilungen"
+        related_cards: ["Das Büro", "Der Bereich", "Die Organisation"]
+        examples: ["Er arbeitet in der IT-Abteilung.", "Die Abteilung ist sehr groß.", "Sie leitet die Marketing-Abteilung."]
 
   - name: Verbs
     value: "Verben"

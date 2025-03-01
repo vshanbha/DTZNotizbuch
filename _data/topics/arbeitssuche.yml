@@ -117,7 +117,13 @@ categories:
         description: "Spezifisches Wissen und Fähigkeiten in einem bestimmten Bereich."
         plural: "Die Fachkenntnisse"
         related_cards: ["Die Kenntnisse", "Die Fähigkeiten", "Das Wissen"]
-        examples: ["Er hat gute Fachkenntnisse in Informatik.", "Die Fachkenntnisse sind wichtig für den Job.", "Sie hat ihre Fachkenntnisse erweitert."]        
+        examples: ["Er hat gute Fachkenntnisse in Informatik.", "Die Fachkenntnisse sind wichtig für den Job.", "Sie hat ihre Fachkenntnisse erweitert."]
+      - id: "auftrag"
+        title: "Der Auftrag"
+        description: "Eine Aufgabe oder Bestellung, die jemandem gegeben wird."
+        plural: "Die Aufträge"
+        related_cards: ["Die Aufgabe", "Die Bestellung", "Der Job"]
+        examples: ["Er hat einen neuen Auftrag erhalten.", "Der Auftrag muss bis morgen erledigt sein.", "Sie arbeitet an einem wichtigen Auftrag."]                        
   - name: Verbs
     value: "Verben"
     cards:
@@ -163,3 +169,10 @@ categories:
         zeiten: "Präsens, Präteritum (schaute), Perfekt (hat geschaut)"
         related_cards: ["Der Blick", "Das Sehen", "Die Betrachtung"]
         examples: ["Ich schaue einen Film.", "Er schaut aus dem Fenster.", "Sie hat auf die Uhr geschaut."]        
+      - id: "unterstützen"
+        title: "unterstützen"
+        description: "Jemandem Hilfe oder Unterstützung bieten."
+        konjugation: "ich unterstütze, du unterstützt, er/sie/es unterstützt, wir unterstützen, ihr unterstützt, sie/Sie unterstützen"
+        zeiten: "Präsens, Präteritum (unterstützte), Perfekt (hat unterstützt)"
+        related_cards: ["Die Hilfe", "Die Unterstützung", "Der Beistand"]
+        examples: ["Ich unterstütze meine Kollegen.", "Er unterstützt seine Familie.", "Sie hat das Projekt unterstützt."]

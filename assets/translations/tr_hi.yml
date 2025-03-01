@@ -598,3 +598,27 @@ austragen:
   description: "वितरित करना (जैसे, समाचार पत्र)।"
 schauen:
   description: "देखना या देखना।"  
+koordinator:
+  description: "एक व्यक्ति जो गतिविधियों या घटनाओं का आयोजन और प्रबंधन करता है।"
+zeitarbeit:
+  description: "अस्थायी रोजगार।"
+festanstellung:
+  description: "स्थायी रोजगार।"
+übergehen:
+  description: "किसी और चीज़ पर जाना या स्थानांतरित करना।"
+bereich:
+  description: "गतिविधि का एक क्षेत्र या क्षेत्र।"
+branche:
+  description: "एक उद्योग या क्षेत्र।"
+fahrdienst:
+  description: "एक परिवहन सेवा।"
+kundenberater:
+  description: "एक ग्राहक सलाहकार।"
+abteilung:
+  description: "एक संगठन के भीतर एक विभाग या प्रभाग।"
+maler:
+  description: "एक चित्रकार।"  
+unterstützen:
+  description: "किसी को सहायता या समर्थन प्रदान करना।"
+auftrag:
+  description: "किसी को दिया गया एक कार्य या आदेश।"  
