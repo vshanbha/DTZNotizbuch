@@ -1,5 +1,5 @@
-title: Wohnen Flashcards
-topic: wohnen
+title: Arbeiten Flashcards
+topic: arbeiten
 categories:
   - name: Nouns
     value: "Nomen (Beruf)"
@@ -268,6 +268,13 @@ categories:
         plural: "Die Beamtinnen"
         related_cards: ["Der Beamte", "Das Amt", "Der Dienst"]
         examples: ["Die Beamtin bearbeitet die Anträge.", "Sie ist eine Beamtin.", "Die Beamtinnen sind zuverlässig."]
+      - id: "landwirt"
+        title: "Der Landwirt"
+        description: "Eine Person, die in der Landwirtschaft arbeitet."
+        plural: "Die Landwirte"
+        related_cards: ["Die Landwirtschaft", "Der Bauer", "Der Traktor"]
+        examples: ["Der Landwirt pflanzt Getreide an.", "Er ist ein erfahrener Landwirt.", "Die Landwirte arbeiten auf dem Feld."]
+
   - name: Nouns
     value: "Nomen (andere)"
     cards:
@@ -421,6 +428,132 @@ categories:
         plural: "Die Rechnungen"
         related_cards: ["Der Preis", "Die Zahlung", "Der Kunde"]
         examples: ["Er hat die Rechnung bezahlt.", "Die Rechnung ist sehr hoch.", "Sie hat die Rechnung verloren."]
+      - id: "zeitungen"
+        title: "Die Zeitung"
+        description: "Ein regelmäßig erscheinendes Druckerzeugnis mit Nachrichten und Artikeln."
+        plural: "Die Zeitungen"
+        related_cards: ["Das Magazin", "Der Artikel", "Die Zeitschrift"]
+        examples: ["Er liest jeden Morgen die Zeitung.", "Die Zeitung berichtet über aktuelle Ereignisse.", "Sie hat eine interessante Zeitung gekauft."]
+      - id: "verkaufsstelle"
+        title: "Die Verkaufsstelle"
+        description: "Ein Ort, an dem Waren verkauft werden."
+        plural: "Die Verkaufsstellen"
+        related_cards: ["Der Verkäufer", "Das Geschäft", "Die Ware"]
+        examples: ["Die Verkaufsstelle ist gut besucht.", "Er arbeitet in einer Verkaufsstelle.", "Die Verkaufsstellen bieten viele Produkte an."]
+      - id: "erlaubnis"
+        title: "Die Erlaubnis"
+        description: "Die Zustimmung, etwas zu tun."
+        plural: "Die Erlaubnisse"
+        related_cards: ["Die Genehmigung", "Die Zustimmung", "Die Berechtigung"]
+        examples: ["Er hat die Erlaubnis erhalten, das Gebäude zu betreten.", "Sie braucht eine Erlaubnis für die Arbeit.", "Die Erlaubnisse werden von der Behörde erteilt."]
+      - id: "wochenende"
+        title: "Das Wochenende"
+        description: "Die Tage am Ende der Woche, an denen die meisten Menschen nicht arbeiten."
+        plural: "Die Wochenenden"
+        related_cards: ["Der Samstag", "Der Sonntag", "Der Urlaub"]
+        examples: ["Am Wochenende habe ich frei.", "Sie plant einen Ausflug am Wochenende.", "Die Wochenenden sind zum Entspannen da."]
+      - id: "problem"
+        title: "Das Problem"
+        description: "Eine schwierige oder unangenehme Situation, die gelöst werden muss."
+        plural: "Die Probleme"
+        related_cards: ["Die Lösung", "Die Herausforderung", "Das Hindernis"]
+        examples: ["Er hat ein Problem mit seinem Computer.", "Sie löst das Problem schnell.", "Die Probleme müssen besprochen werden."]
+      - id: "konkurrenz"
+        title: "Die Konkurrenz"
+        description: "Andere Personen oder Unternehmen, die um das gleiche Ziel kämpfen."
+        plural: "Die Konkurrenzen"
+        related_cards: ["Der Wettbewerb", "Der Mitbewerber", "Der Rivale"]
+        examples: ["Die Konkurrenz ist groß.", "Er hat Angst vor der Konkurrenz.", "Die Konkurrenzen kämpfen um den Marktanteil."]
+      - id: "angst"
+        title: "Die Angst"
+        description: "Ein Gefühl der Sorge oder Furcht."
+        plural: "Die Ängste"
+        related_cards: ["Die Furcht", "Die Sorge", "Das Unbehagen"]
+        examples: ["Er hat Angst vor Prüfungen.", "Sie überwindet ihre Angst.", "Die Ängste sind unbegründet."]
+      - id: "genehmigungen"
+        title: "Die Genehmigung"
+        description: "Die offizielle Erlaubnis, etwas zu tun."
+        plural: "Die Genehmigungen"
+        related_cards: ["Die Erlaubnis", "Die Zustimmung", "Die Berechtigung"]
+        examples: ["Er hat die Genehmigung für den Bau erhalten.", "Sie braucht eine Genehmigung für das Projekt.", "Die Genehmigungen werden von der Behörde erteilt."]
+      - id: "stadtverwaltung"
+        title: "Die Stadtverwaltung"
+        description: "Die Behörde, die die Verwaltung einer Stadt übernimmt."
+        plural: "Die Stadtverwaltungen"
+        related_cards: ["Die Verwaltung", "Das Rathaus", "Der Bürgermeister"]
+        examples: ["Die Stadtverwaltung kümmert sich um die Bürger.", "Er arbeitet bei der Stadtverwaltung.", "Die Stadtverwaltungen sind für viele Aufgaben zuständig."]
+      - id: "verwaltung"
+        title: "Die Verwaltung"
+        description: "Die Organisation und Leitung von Aufgaben und Abläufen."
+        plural: "Die Verwaltungen"
+        related_cards: ["Die Stadtverwaltung", "Das Büro", "Die Behörde"]
+        examples: ["Die Verwaltung des Unternehmens ist effizient.", "Er arbeitet in der Verwaltung.", "Die Verwaltungen sind gut organisiert."]
+      - id: "speisen"
+        title: "Die Speise"
+        description: "Ein zubereitetes Gericht zum Essen."
+        plural: "Die Speisen"
+        related_cards: ["Das Essen", "Das Gericht", "Das Menü"]
+        examples: ["Die Speisen im Restaurant sind lecker.", "Er bereitet die Speisen zu.", "Die Speisen werden serviert."]
+      - id: "kiosk"
+        title: "Der Kiosk"
+        description: "Ein kleiner Laden, der Zeitungen, Getränke und Snacks verkauft."
+        plural: "Die Kioske"
+        related_cards: ["Der Verkäufer", "Die Verkaufsstelle", "Die Ware"]
+        examples: ["Er kauft eine Zeitung am Kiosk.", "Der Kiosk ist rund um die Uhr geöffnet.", "Die Kioske sind in der Stadt verteilt."]
+      - id: "lohn"
+        title: "Der Lohn"
+        description: "Das Geld, das man für seine Arbeit bekommt."
+        plural: "Die Löhne"
+        related_cards: ["Das Gehalt", "Die Bezahlung", "Der Verdienst"]
+        examples: ["Er bekommt einen guten Lohn.", "Der Lohn wird monatlich ausgezahlt.", "Sie ist mit ihrem Lohn zufrieden."]
+      - id: "gehalt"
+        title: "Das Gehalt"
+        description: "Das Geld, das man für seine Arbeit bekommt."
+        plural: "Die Gehälter"
+        related_cards: ["Der Lohn", "Die Bezahlung", "Der Verdienst"]
+        examples: ["Er bekommt ein gutes Gehalt.", "Das Gehalt wird monatlich ausgezahlt.", "Sie ist mit ihrem Gehalt zufrieden."]
+      - id: "bezahlung"
+        title: "Die Bezahlung"
+        description: "Die Vergütung für geleistete Arbeit."
+        plural: "Die Bezahlungen"
+        related_cards: ["Das Gehalt", "Der Lohn", "Der Verdienst"]
+        examples: ["Die Bezahlung erfolgt am Monatsende.", "Er ist mit der Bezahlung zufrieden.", "Die Bezahlungen sind pünktlich."]
+      - id: "solidarzuschlag"
+        title: "Der Solidaritätszuschlag"
+        description: "Eine Steuer, die zur Finanzierung der deutschen Einheit erhoben wird."
+        plural: "Die Solidaritätszuschläge"
+        related_cards: ["Die Steuer", "Die Abgabe", "Der Beitrag"]
+        examples: ["Der Solidaritätszuschlag wird vom Gehalt abgezogen.", "Er zahlt den Solidaritätszuschlag.", "Die Solidaritätszuschläge sind umstritten."]
+      - id: "kirchensteuer"
+        title: "Die Kirchensteuer"
+        description: "Eine Steuer, die von Mitgliedern der Kirche gezahlt wird."
+        plural: "Die Kirchensteuern"
+        related_cards: ["Die Steuer", "Die Abgabe", "Der Beitrag"]
+        examples: ["Die Kirchensteuer wird vom Gehalt abgezogen.", "Er zahlt die Kirchensteuer.", "Die Kirchensteuern finanzieren kirchliche Einrichtungen."]
+      - id: "lohnsteuer"
+        title: "Die Lohnsteuer"
+        description: "Eine Steuer auf das Einkommen aus nichtselbständiger Arbeit."
+        plural: "Die Lohnsteuern"
+        related_cards: ["Die Steuer", "Das Gehalt", "Der Lohn"]
+        examples: ["Die Lohnsteuer wird direkt vom Gehalt abgezogen.", "Er zahlt die Lohnsteuer.", "Die Lohnsteuern sind unterschiedlich hoch."]
+      - id: "sozialversicherung"
+        title: "Die Sozialversicherung"
+        description: "Ein System zur Absicherung gegen soziale Risiken."
+        plural: "Die Sozialversicherungen"
+        related_cards: ["Die Krankenversicherung", "Die Rentenversicherung", "Die Arbeitslosenversicherung"]
+        examples: ["Die Sozialversicherung ist verpflichtend.", "Er ist in der Sozialversicherung versichert.", "Die Sozialversicherungen bieten Schutz."]
+      - id: "bruttogehalt"
+        title: "Das Bruttogehalt"
+        description: "Das Gehalt vor Abzug von Steuern und Sozialabgaben."
+        plural: "Die Bruttogehälter"
+        related_cards: ["Das Nettogehalt", "Das Gehalt", "Die Abzüge"]
+        examples: ["Das Bruttogehalt ist höher als das Nettogehalt.", "Er kennt sein Bruttogehalt.", "Die Bruttogehälter variieren je nach Beruf."]
+      - id: "rentenversicherung"
+        title: "Die Rentenversicherung"
+        description: "Eine Versicherung, die im Alter eine Rente zahlt."
+        plural: "Die Rentenversicherungen"
+        related_cards: ["Die Sozialversicherung", "Die Altersvorsorge", "Die Rente"]
+        examples: ["Die Rentenversicherung ist Teil der Sozialversicherung.", "Er zahlt in die Rentenversicherung ein.", "Die Rentenversicherungen sichern das Alter ab."]        
   - name: Verbs
     value: "Verben"
     cards:

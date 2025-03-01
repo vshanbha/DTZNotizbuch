@@ -512,3 +512,51 @@ putzen:
   description: "To clean something."
 ausziehen:
   description: "To leave an apartment or house."
+zeitungen:
+  description: "Newspapers."
+verfausstelle:
+  description: "A place where something is produced or created."
+erlaubnis:
+  description: "Permission to do something."
+wochenend:
+  description: "The end of the week, typically Saturday and Sunday."
+problem:
+  description: "A matter or situation regarded as unwelcome or harmful."
+konkurrenz:
+  description: "Competition."
+angst:
+  description: "Fear or anxiety."
+genehmigungen:
+  description: "Permissions or approvals."
+stadtverwaltung:
+  description: "City administration."
+verwaltung:
+  description: "Administration or management."
+speisen:
+  description: "Foods or dishes."
+kiosk:
+  description: "A small open-fronted hut or cubicle from which newspapers, refreshments, tickets, etc., are sold."
+lohn:
+  description: "Wage or salary."
+landwirt:
+  description: "Farmer."  
+herstellen:
+  description: "To manufacture or produce something."
+Betrieb:
+  description: "A company or firm."
+Gehalt:
+  description: "The money one receives for their work."
+Bezahlung:
+  description: "Payment for work done."
+Solidarzuschlag:
+  description: "A solidarity surcharge tax."
+Kirchensteuer:
+  description: "Church tax."
+Lohnsteuer:
+  description: "Income tax deducted from wages."
+Sozialversicherung:
+  description: "Social security."
+Bruttogehalt:
+  description: "Gross salary."
+Rentenversicherung:
+  description: "Pension insurance."
