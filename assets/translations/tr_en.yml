@@ -598,3 +598,27 @@ austragen:
   description: "To deliver (e.g., newspapers)."
 schauen:
   description: "To look or watch."  
+koordinator:
+  description: "A person who organizes and manages activities or events."
+zeitarbeit:
+  description: "Temporary employment."
+festanstellung:
+  description: "Permanent employment."
+übergehen:
+  description: "To transition or move to something else."
+bereich:
+  description: "An area or field of activity."
+branche:
+  description: "An industry or sector."
+fahrdienst:
+  description: "A transportation service."
+kundenberater:
+  description: "A customer advisor."
+abteilung:
+  description: "A department or division within an organization."
+maler:
+  description: "A painter."
+unterstützen:
+  description: "To provide support or assistance to someone."
+auftrag:
+  description: "A task or order given to someone."  
