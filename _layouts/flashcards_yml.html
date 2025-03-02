@@ -369,9 +369,9 @@ layout: multilingual_page
     function speakText(cardId, event) {
       event.stopPropagation();
       const card = getCardById(cardId);
-      const text = `${card.title}. ${card.description}. ${card.examples.join('. ')}`;
+      const text = `${card.title}. ${card.description}. zum Beispiel: ${card.examples.join('. ')}`;
       const utterance = new SpeechSynthesisUtterance(text);
-      utterance.rate = 0.5;
+      utterance.rate = 0.6;
       utterance.lang = 'de-DE';
       // Select a specific voice
       const voices = speechSynthesis.getVoices();

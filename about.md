@@ -4,4 +4,5 @@ title: About
 permalink: /about/
 ---
 
-Dies ist ein Online-Notizbuch, das bei der Vorbereitung auf den Deutschtest für Zuwanderer (DTZ) hilft. Enthält Flashcards, um den deutschen Wortschatz zu erweitern.
+Dies ist ein Online-Notizbuch, das bei der Vorbereitung auf den Deutschtest für Zuwanderer (DTZ) hilft. Enthält Flashcards, um den deutschen Wortschatz zu erweitern. Die Seite Flashcards ist [hier]( {% link flashcards.md %} ) verfügbar.
+Wenn Sie Feedback haben oder auf Probleme stoßen, öffnen Sie ein Issue. Der Rest der Seite enthält technische Anweisungen für Entwickler dieses Repositorys. Die technische Dokumentation ist derzeit nur auf Englisch verfügbar.

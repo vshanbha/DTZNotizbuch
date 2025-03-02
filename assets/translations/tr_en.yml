@@ -622,3 +622,87 @@ unterstützen:
   description: "To provide support or assistance to someone."
 auftrag:
   description: "A task or order given to someone."  
+fernsehprogramm:
+  description: "A schedule of television programs."
+sendungen:
+  description: "Television broadcasts or shows."
+krimi:
+  description: "A crime or detective story."
+dokumentarfilm:
+  description: "A documentary film."
+nachrichten:
+  description: "News broadcasts."
+serie:
+  description: "A television series."
+talkshow:
+  description: "A television program where guests discuss various topics."
+computer:
+  description: "An electronic device for processing data."
+bildschrim:
+  description: "A screen for displaying images."
+maus:
+  description: "A device used to control the cursor on a computer screen."
+tastatur:
+  description: "A set of keys used to input data into a computer."
+drucker:
+  description: "A device that prints documents."
+kabel:
+  description: "A wire used to connect electronic devices."
+scanner:
+  description: "A device that converts physical documents into digital format."
+lautsprecher:
+  description: "A device that produces sound."
+cd-rom-laufwerk:
+  description: "A drive that reads CD-ROMs."
+laufwerk:
+  description: "A device that reads and writes data on a disk."
+datei:
+  description: "A digital document or file."
+sms:
+  description: "A short message service for sending text messages."
+speichern:
+  description: "To save data or information."
+drucken:
+  description: "To produce a physical copy of a document."
+umtauschen:
+  description: "To exchange or replace something."
+verbinden:
+  description: "To connect or link devices."
+hören:
+  description: "To perceive sound with the ears."
+beantworten:
+  description: "To reply to a message or question."
+senden:
+  description: "To transmit a message or data."
+surfen:
+  description: "To browse the internet."
+abschalten:
+  description: "To turn off a device."
+meinung:
+  description: "A personal view or opinion."
+vergleichen:
+  description: "To examine the similarities and differences."
+bestellen:
+  description: "To request something to be made, supplied, or served."
+internet:
+  description: "A global network connecting millions of computers."
+informieren:
+  description: "Having or showing knowledge of a particular subject."
+radio:
+  description: "A device for receiving and transmitting radio broadcasts."
+tageszeitung:
+  description: "A daily newspaper."
+zeitung:
+  description: "A publication containing news and other articles."
+buch:
+  description: "A set of written or printed pages bound together."
+fernsehen:
+  description: "To watch television."
+auswählen:
+  description: "To choose or select something."
+benutzen:
+  description: "To use something for a purpose."
+nutzen:
+  description: "To make use of something."
+nutzer:
+  description: "A person who uses a service or device."

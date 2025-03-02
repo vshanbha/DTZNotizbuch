@@ -622,3 +622,87 @@ unterstützen:
   description: "कोणाला मदत किंवा समर्थन देणे."
 auftrag:
   description: "कोणाला दिलेली एक काम किंवा आदेश."  
+fernsehprogramm:
+  description: "टीव्हीवर प्रसारित होणाऱ्या कार्यक्रमांची यादी."
+sendungen:
+  description: "टीव्ही किंवा रेडिओवर प्रसारित होणारे कार्यक्रम."
+krimi:
+  description: "गुन्हेगारी कथा किंवा कार्यक्रम."
+dokumentarfilm:
+  description: "वास्तविक घटनांवर आधारित माहितीपट."
+nachrichten:
+  description: "सध्याच्या घटनांवरील माहिती."
+serie:
+  description: "टीव्हीवर नियमितपणे प्रसारित होणारी कथा."
+talkshow:
+  description: "चर्चा आणि मुलाखतींचा कार्यक्रम."
+computer:
+  description: "डेटा प्रक्रिया आणि संचयनासाठी एक इलेक्ट्रॉनिक उपकरण."
+bildschrim:
+  description: "दृश्य माहिती प्रदर्शित करण्यासाठी एक उपकरण."
+maus:
+  description: "कंप्युटर नियंत्रित करण्यासाठी एक उपकरण."
+tastatur:
+  description: "कंप्युटरवर टाइप करण्यासाठी एक उपकरण."
+drucker:
+  description: "कागदावर दस्तऐवज मुद्रित करण्यासाठी एक उपकरण."
+kabel:
+  description: "विद्युत किंवा डेटा सिग्नल्ससाठी एक वायर."
+scanner:
+  description: "दस्तऐवज किंवा प्रतिमा डिजिटल स्वरूपात रूपांतरित करण्यासाठी एक उपकरण."
+lautsprecher:
+  description: "ध्वनी उत्पन्न करण्यासाठी एक उपकरण."
+cd-rom-laufwerk:
+  description: "सीडी-रोम वाचण्यासाठी एक उपकरण."
+laufwerk:
+  description: "डेटा संचयनासाठी एक उपकरण."
+datei:
+  description: "डिजिटल स्वरूपात माहितीचा संच."
+sms:
+  description: "लघु संदेश सेवा."
+speichern:
+  description: "माहिती साठवणे."
+drucken:
+  description: "कागदावर दस्तऐवज मुद्रित करणे."
+umtauschen:
+  description: "काहीतरी बदलणे."
+verbinden:
+  description: "काहीतरी जोडणे."
+hören:
+  description: "कानांनी ऐकणे."
+beantworten:
+  description: "प्रश्नाचे उत्तर देणे."
+senden:
+  description: "काहीतरी पाठवणे."
+surfen:
+  description: "इंटरनेटवर माहिती शोधणे."
+abschalten:
+  description: "एखादे उपकरण बंद करणे."
+meinung:
+  description: "एखाद्या विषयावर व्यक्त केलेले विचार."
+vergleichen:
+  description: "दोन किंवा अधिक गोष्टींची तुलना करणे."
+bestellen:
+  description: "काहीतरी मागवणे."
+internet:
+  description: "जगभरातील संगणक नेटवर्क."
+informieren:
+  description: "माहिती दिलेली."
+radio:
+  description: "ध्वनी प्रसारणासाठी एक उपकरण."
+tageszeitung:
+  description: "दैनिक वृत्तपत्र."
+zeitung:
+  description: "वृत्तपत्र."
+buch:
+  description: "पृष्ठे असलेले एक मुद्रित किंवा डिजिटल काम."
+fernsehen:
+  description: "टीव्ही कार्यक्रम पाहणे."
+auswählen:
+  description: "काहीतरी निवडणे."
+benutzen:
+  description: "काहीतरी वापरणे."
+nutzen:
+  description: "काहीतरी वापरणे."
+nutzer:
+  description: "काहीतरी वापरणारी व्यक्ती."
