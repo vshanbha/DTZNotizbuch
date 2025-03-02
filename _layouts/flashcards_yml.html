@@ -187,9 +187,11 @@ layout: multilingual_page
     const pathToken = {
       relPath: decodeURIComponent(window.location.pathname)
     };
+    const urlParams = new URLSearchParams(window.location.search);
+    let startCardId = urlParams.get('word');
     const parts = pathToken.relPath.split('/');
     const title = parts[3];
-    let startCardId = parts.length > 4 ? parts[4] : null;
+//    let startCardId = parts.length > 4 ? parts[4] : null;
   </script>
   <script>
     function getCategoryIndexByValue(value) {
