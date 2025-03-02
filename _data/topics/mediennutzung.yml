@@ -1,0 +1,337 @@
+title: Mediennutzung Flashcards
+topic: mediennutzung
+categories:
+  - name: Nouns
+    value: "Nomen (Medien)"
+    cards:
+      - id: "fernseher"
+        title: "Der Fernseher"
+        description: "Ein Gerät, das Bilder und Töne empfängt und wiedergibt."
+        plural: "Die Fernseher"
+        related_cards: ["Das Fernsehprogramm", "Die Sendung", "Der Bildschirm"]
+        examples: ["Der Fernseher steht im Wohnzimmer.", "Sie schaut gerne Filme im Fernseher.", "Die Fernseher sind heutzutage sehr flach."]
+      - id: "fernsehprogramm"
+        title: "Das Fernsehprogramm"
+        description: "Eine Übersicht der Sendungen, die im Fernsehen gezeigt werden."
+        plural: "Die Fernsehprogramme"
+        related_cards: ["Der Fernseher", "Die Sendung", "Die Serie"]
+        examples: ["Das Fernsehprogramm ist sehr vielfältig.", "Er schaut das Fernsehprogramm jeden Abend.", "Die Fernsehprogramme bieten viele Optionen."]
+      - id: "sendungen"
+        title: "Die Sendung"
+        description: "Ein Programm, das im Fernsehen oder Radio ausgestrahlt wird."
+        plural: "Die Sendungen"
+        related_cards: ["Der Fernseher", "Das Fernsehprogramm", "Die Serie"]
+        examples: ["Die Sendung beginnt um 20 Uhr.", "Er mag informative Sendungen.", "Die Sendungen sind sehr unterhaltsam."]
+      - id: "krimi"
+        title: "Der Krimi"
+        description: "Ein Film oder eine Serie, die sich mit Verbrechen und deren Aufklärung beschäftigt."
+        plural: "Die Krimis"
+        related_cards: ["Der Fernseher", "Die Serie", "Der Dokumentarfilm"]
+        examples: ["Er schaut gerne Krimis.", "Der Krimi war sehr spannend.", "Die Krimis sind oft sehr fesselnd."]
+      - id: "dokumentarfilm"
+        title: "Der Dokumentarfilm"
+        description: "Ein Film, der reale Ereignisse und Themen dokumentiert."
+        plural: "Die Dokumentarfilme"
+        related_cards: ["Der Fernseher", "Die Sendung", "Der Krimi"]
+        examples: ["Der Dokumentarfilm war sehr informativ.", "Sie schaut gerne Dokumentarfilme.", "Die Dokumentarfilme sind oft lehrreich."]
+      - id: "nachrichten"
+        title: "Die Nachrichten"
+        description: "Aktuelle Informationen über Ereignisse in der Welt."
+        plural: "Die Nachrichten"
+        related_cards: ["Der Fernseher", "Die Sendung", "Der Dokumentarfilm"]
+        examples: ["Er schaut jeden Abend die Nachrichten.", "Die Nachrichten sind sehr wichtig.", "Die Nachrichten informieren über aktuelle Ereignisse."]
+      - id: "serie"
+        title: "Die Serie"
+        description: "Eine Reihe von zusammenhängenden Fernsehsendungen."
+        plural: "Die Serien"
+        related_cards: ["Der Fernseher", "Die Sendung", "Der Krimi"]
+        examples: ["Sie schaut gerne Serien.", "Die Serie hat viele Staffeln.", "Die Serien sind oft sehr spannend."]
+      - id: "talkshow"
+        title: "Die Talkshow"
+        description: "Eine Fernsehsendung, in der Gäste zu verschiedenen Themen sprechen."
+        plural: "Die Talkshows"
+        related_cards: ["Der Fernseher", "Die Sendung", "Die Nachrichten"]
+        examples: ["Er schaut gerne Talkshows.", "Die Talkshow war sehr interessant.", "Die Talkshows behandeln viele Themen."]
+      - id: "computer"
+        title: "Der Computer"
+        description: "Ein elektronisches Gerät zur Verarbeitung von Daten."
+        plural: "Die Computer"
+        related_cards: ["Der Bildschirm", "Die Maus", "Die Tastatur"]
+        examples: ["Er arbeitet am Computer.", "Der Computer ist sehr schnell.", "Die Computer sind heutzutage sehr leistungsfähig."]
+      - id: "bildschirm"
+        title: "Der Bildschirm"
+        description: "Ein Gerät, das visuelle Informationen anzeigt."
+        plural: "Die Bildschirme"
+        related_cards: ["Der Computer", "Der Fernseher", "Das Bild"]
+        examples: ["Der Bildschirm ist sehr groß.", "Sie schaut Filme auf dem Bildschirm.", "Die Bildschirme sind sehr klar."]
+      - id: "bild"
+        title: "Das Bild"
+        description: "Eine visuelle Darstellung von etwas."
+        plural: "Die Bilder"
+        related_cards: ["Der Bildschirm", "Der Fernseher", "Der Computer"]
+        examples: ["Das Bild ist sehr schön.", "Er hat viele Bilder auf seinem Computer.", "Die Bilder sind sehr klar."]
+      - id: "maus"
+        title: "Die Maus"
+        description: "Ein Eingabegerät für den Computer."
+        plural: "Die Mäuse"
+        related_cards: ["Der Computer", "Die Tastatur", "Der Bildschirm"]
+        examples: ["Er benutzt die Maus, um den Computer zu steuern.", "Die Maus ist sehr ergonomisch.", "Die Mäuse sind kabellos."]
+      - id: "tastatur"
+        title: "Die Tastatur"
+        description: "Ein Eingabegerät mit Tasten für den Computer."
+        plural: "Die Tastaturen"
+        related_cards: ["Der Computer", "Die Maus", "Der Bildschirm"]
+        examples: ["Er tippt auf der Tastatur.", "Die Tastatur ist sehr bequem.", "Die Tastaturen sind oft beleuchtet."]
+      - id: "drucker"
+        title: "Der Drucker"
+        description: "Ein Gerät, das digitale Dokumente auf Papier ausdruckt."
+        plural: "Die Drucker"
+        related_cards: ["Der Computer", "Das Kabel", "Der Scanner"]
+        examples: ["Er druckt das Dokument mit dem Drucker.", "Der Drucker ist sehr schnell.", "Die Drucker sind heutzutage sehr kompakt."]
+      - id: "kabel"
+        title: "Das Kabel"
+        description: "Ein Draht oder eine Gruppe von Drähten, die elektrische Signale übertragen."
+        plural: "Die Kabel"
+        related_cards: ["Der Computer", "Der Drucker", "Der Bildschirm"]
+        examples: ["Das Kabel verbindet den Computer mit dem Drucker.", "Die Kabel sind sehr lang.", "Er hat viele Kabel auf seinem Schreibtisch."]
+      - id: "scanner"
+        title: "Der Scanner"
+        description: "Ein Gerät, das Dokumente digitalisiert."
+        plural: "Die Scanner"
+        related_cards: ["Der Computer", "Der Drucker", "Das Kabel"]
+        examples: ["Er scannt das Dokument mit dem Scanner.", "Der Scanner ist sehr schnell.", "Die Scanner sind heutzutage sehr präzise."]
+      - id: "lautsprecher"
+        title: "Der Lautsprecher"
+        description: "Ein Gerät, das Töne wiedergibt."
+        plural: "Die Lautsprecher"
+        related_cards: ["Der Computer", "Der Fernseher", "Das Kabel"]
+        examples: ["Der Lautsprecher ist sehr laut.", "Er hört Musik über die Lautsprecher.", "Die Lautsprecher sind sehr klar."]
+      - id: "cd-rom-laufwerk"
+        title: "Das CD-ROM-Laufwerk"
+        description: "Ein Gerät, das CDs liest."
+        plural: "Die CD-ROM-Laufwerke"
+        related_cards: ["Der Computer", "Das Laufwerk", "Die Datei"]
+        examples: ["Er benutzt das CD-ROM-Laufwerk, um die CD zu lesen.", "Das CD-ROM-Laufwerk ist sehr schnell.", "Die CD-ROM-Laufwerke sind heutzutage selten."]
+      - id: "laufwerk"
+        title: "Das Laufwerk"
+        description: "Ein Gerät, das Daten speichert und liest."
+        plural: "Die Laufwerke"
+        related_cards: ["Der Computer", "Das CD-ROM-Laufwerk", "Die Datei"]
+        examples: ["Das Laufwerk speichert viele Daten.", "Er hat ein externes Laufwerk.", "Die Laufwerke sind sehr schnell."]
+      - id: "datei"
+        title: "Die Datei"
+        description: "Eine Sammlung von Daten, die auf einem Computer gespeichert sind."
+        plural: "Die Dateien"
+        related_cards: ["Der Computer", "Das Laufwerk", "Das CD-ROM-Laufwerk"]
+        examples: ["Er speichert die Datei auf dem Computer.", "Die Datei ist sehr groß.", "Er hat viele Dateien auf seinem Computer."]
+      - id: "sms"
+        title: "Die SMS"
+        description: "Eine kurze Textnachricht, die über das Mobiltelefon gesendet wird."
+        plural: "Die SMS"
+        related_cards: ["Das Mobiltelefon", "Die Nachricht", "Der Text"]
+        examples: ["Er sendet eine SMS an seinen Freund.", "Die SMS ist sehr kurz.", "Sie erhält viele SMS."]
+      - id: "meinung"
+        title: "Die Meinung"
+        description: "Eine persönliche Ansicht oder Überzeugung."
+        plural: "Die Meinungen"
+        related_cards: ["Der Gedanke", "Das Urteil", "Die Ansicht"]
+        examples: ["Er hat eine klare Meinung.", "Sie äußert ihre Meinung.", "Die Meinungen sind unterschiedlich."]
+      - id: "internet"
+        title: "Das Internet"
+        description: "Ein globales Netzwerk von Computern."
+        plural: "Die Internets"
+        related_cards: ["Der Computer", "Das Netzwerk", "Die Webseite"]
+        examples: ["Er surft im Internet.", "Das Internet ist sehr nützlich.", "Sie findet viele Informationen im Internet."]
+      - id: "zeitschriften"
+        title: "Die Zeitschrift"
+        description: "Ein regelmäßig erscheinendes Druckerzeugnis mit verschiedenen Artikeln."
+        plural: "Die Zeitschriften"
+        related_cards: ["Die Zeitung", "Das Magazin", "Der Artikel"]
+        examples: ["Er liest gerne Zeitschriften.", "Die Zeitschrift erscheint monatlich.", "Sie abonniert eine Zeitschrift."]
+      - id: "radio"
+        title: "Das Radio"
+        description: "Ein Gerät, das Radiowellen empfängt und in Töne umwandelt."
+        plural: "Die Radios"
+        related_cards: ["Der Sender", "Die Musik", "Die Nachrichten"]
+        examples: ["Er hört Radio im Auto.", "Das Radio spielt Musik.", "Sie informiert sich über das Radio."]
+      - id: "tageszeitung"
+        title: "Die Tageszeitung"
+        description: "Eine Zeitung, die täglich erscheint."
+        plural: "Die Tageszeitungen"
+        related_cards: ["Die Zeitung", "Der Artikel", "Die Nachrichten"]
+        examples: ["Er liest die Tageszeitung jeden Morgen.", "Die Tageszeitung berichtet über aktuelle Ereignisse.", "Sie abonniert eine Tageszeitung."]
+      - id: "zeitung"
+        title: "Die Zeitung"
+        description: "Ein regelmäßig erscheinendes Druckerzeugnis mit Nachrichten und Artikeln."
+        plural: "Die Zeitungen"
+        related_cards: ["Die Zeitschrift", "Der Artikel", "Die Nachrichten"]
+        examples: ["Er liest die Zeitung jeden Morgen.", "Die Zeitung berichtet über aktuelle Ereignisse.", "Sie abonniert eine Zeitung."]
+      - id: "buch"
+        title: "Das Buch"
+        description: "Eine Sammlung von bedruckten oder beschriebenen Seiten, die zusammengebunden sind."
+        plural: "Die Bücher"
+        related_cards: ["Die Bibliothek", "Der Autor", "Das Kapitel"]
+        examples: ["Er liest ein Buch.", "Das Buch ist sehr spannend.", "Sie hat viele Bücher in ihrer Sammlung."]
+      - id: "fernsehen"
+        title: "Das Fernsehen"
+        description: "Ein Medium zur Übertragung von bewegten Bildern und Tönen."
+        plural: "Die Fernseher"
+        related_cards: ["Der Fernseher", "Das Fernsehprogramm", "Die Sendung"]
+        examples: ["Das Fernsehen bietet viele Programme.", "Er schaut gerne Fernsehen.", "Das Fernsehen ist eine beliebte Freizeitbeschäftigung."]
+      - id: "nutzer"
+        title: "Der Nutzer"
+        description: "Eine Person, die ein Gerät oder eine Dienstleistung verwendet."
+        plural: "Die Nutzer"
+        related_cards: ["Der Benutzer", "Die Nutzung", "Das Gerät"]
+        examples: ["Der Nutzer hat sich registriert.", "Die Nutzer sind zufrieden mit dem Service.", "Er ist ein aktiver Nutzer des Forums."]
+
+  - name: Verbs
+    value: "Verben"
+    cards:
+      - id: "offnen"
+        title: "öffnen"
+        description: "Etwas zugänglich machen oder aufklappen."
+        konjugation: "ich öffne, du öffnest, er/sie/es öffnet, wir öffnen, ihr öffnet, sie/Sie öffnen"
+        zeiten: "Präsens, Präteritum (öffnete), Perfekt (hat geöffnet)"
+        related_cards: ["Schließen", "Tür", "Fenster"]
+        examples: ["Ich öffne die Tür.", "Er öffnet das Fenster.", "Sie hat das Buch geöffnet."]
+      - id: "speichern"
+        title: "speichern"
+        description: "Daten auf einem Medium ablegen."
+        konjugation: "ich speichere, du speicherst, er/sie/es speichert, wir speichern, ihr speichert, sie/Sie speichern"
+        zeiten: "Präsens, Präteritum (speicherte), Perfekt (hat gespeichert)"
+        related_cards: ["Öffnen", "Datei", "Computer"]
+        examples: ["Ich speichere die Datei.", "Er speichert das Dokument.", "Sie hat die Daten gespeichert."]
+      - id: "drucken"
+        title: "drucken"
+        description: "Etwas auf Papier ausgeben."
+        konjugation: "ich drucke, du druckst, er/sie/es druckt, wir drucken, ihr druckt, sie/Sie drucken"
+        zeiten: "Präsens, Präteritum (druckte), Perfekt (hat gedruckt)"
+        related_cards: ["Drucker", "Papier", "Dokument"]
+        examples: ["Ich drucke das Dokument.", "Er druckt das Bild.", "Sie hat den Bericht gedruckt."]
+      - id: "ausschalten"
+        title: "ausschalten"
+        description: "Ein Gerät oder System deaktivieren."
+        konjugation: "ich schalte aus, du schaltest aus, er/sie/es schaltet aus, wir schalten aus, ihr schaltet aus, sie/Sie schalten aus"
+        zeiten: "Präsens, Präteritum (schaltete aus), Perfekt (hat ausgeschaltet)"
+        related_cards: ["Anschalten", "Computer", "Fernseher"]
+        examples: ["Ich schalte den Computer aus.", "Er schaltet das Licht aus.", "Sie hat das Gerät ausgeschaltet."]
+      - id: "umtauschen"
+        title: "umtauschen"
+        description: "Etwas gegen etwas anderes eintauschen."
+        konjugation: "ich tausche um, du tauschst um, er/sie/es tauscht um, wir tauschen um, ihr tauscht um, sie/Sie tauschen um"
+        zeiten: "Präsens, Präteritum (tauschte um), Perfekt (hat umgetauscht)"
+        related_cards: ["Kaufen", "Verkaufen", "Rückgabe"]
+        examples: ["Ich tausche das Produkt um.", "Er tauscht das Kleid um.", "Sie hat das Gerät umgetauscht."]
+      - id: "verbinden"
+        title: "verbinden"
+        description: "Zwei oder mehr Dinge zusammenfügen."
+        konjugation: "ich verbinde, du verbindest, er/sie/es verbindet, wir verbinden, ihr verbindet, sie/Sie verbinden"
+        zeiten: "Präsens, Präteritum (verband), Perfekt (hat verbunden)"
+        related_cards: ["Kabel", "Netzwerk", "Computer"]
+        examples: ["Ich verbinde den Computer mit dem Internet.", "Er verbindet die Kabel.", "Sie hat die Geräte verbunden."]
+      - id: "horen"
+        title: "hören"
+        description: "Mit den Ohren wahrnehmen."
+        konjugation: "ich höre, du hörst, er/sie/es hört, wir hören, ihr hört, sie/Sie hören"
+        zeiten: "Präsens, Präteritum (hörte), Perfekt (hat gehört)"
+        related_cards: ["Lautsprecher", "Musik", "Ton"]
+        examples: ["Ich höre Musik.", "Er hört ein Geräusch.", "Sie hat das Lied gehört."]
+      - id: "schreiben"
+        title: "schreiben"
+        description: "Mit einem Stift oder auf einer Tastatur Buchstaben und Wörter formen."
+        konjugation: "ich schreibe, du schreibst, er/sie/es schreibt, wir schreiben, ihr schreibt, sie/Sie schreiben"
+        zeiten: "Präsens, Präteritum (schrieb), Perfekt (hat geschrieben)"
+        related_cards: ["Tastatur", "Brief", "Text"]
+        examples: ["Ich schreibe einen Brief.", "Er schreibt auf der Tastatur.", "Sie hat einen Aufsatz geschrieben."]
+      - id: "beantworten"
+        title: "beantworten"
+        description: "Auf eine Frage oder Nachricht reagieren."
+        konjugation: "ich beantworte, du beantwortest, er/sie/es beantwortet, wir beantworten, ihr beantwortet, sie/Sie beantworten"
+        zeiten: "Präsens, Präteritum (beantwortete), Perfekt (hat beantwortet)"
+        related_cards: ["Frage", "Antwort", "Nachricht"]
+        examples: ["Ich beantworte die Frage.", "Er beantwortet die E-Mail.", "Sie hat die Aufgabe beantwortet."]
+      - id: "senden"
+        title: "senden"
+        description: "Etwas an jemanden schicken."
+        konjugation: "ich sende, du sendest, er/sie/es sendet, wir senden, ihr sendet, sie/Sie senden"
+        zeiten: "Präsens, Präteritum (sandte), Perfekt (hat gesandt)"
+        related_cards: ["Nachricht", "E-Mail", "SMS"]
+        examples: ["Ich sende eine E-Mail.", "Er sendet eine Nachricht.", "Sie hat das Paket gesandt."]
+      - id: "surfen"
+        title: "surfen"
+        description: "Im Internet nach Informationen suchen."
+        konjugation: "ich surfe, du surfst, er/sie/es surft, wir surfen, ihr surft, sie/Sie surfen"
+        zeiten: "Präsens, Präteritum (surfte), Perfekt (hat gesurft)"
+        related_cards: ["Internet", "Computer", "Browser"]
+        examples: ["Ich surfe im Internet.", "Er surft auf der Webseite.", "Sie hat nach Informationen gesurft."]
+      - id: "anmachen"
+        title: "anmachen"
+        description: "Ein Gerät oder System aktivieren."
+        konjugation: "ich mache an, du machst an, er/sie/es macht an, wir machen an, ihr macht an, sie/Sie machen an"
+        zeiten: "Präsens, Präteritum (machte an), Perfekt (hat angemacht)"
+        related_cards: ["Ausschalten", "Computer", "Fernseher"]
+        examples: ["Ich mache den Computer an.", "Er macht das Licht an.", "Sie hat das Gerät angemacht."]
+      - id: "arbeiten"
+        title: "arbeiten"
+        description: "Eine Tätigkeit ausüben, um Geld zu verdienen."
+        konjugation: "ich arbeite, du arbeitest, er/sie/es arbeitet, wir arbeiten, ihr arbeitet, sie/Sie arbeiten"
+        zeiten: "Präsens, Präteritum (arbeitete), Perfekt (hat gearbeitet)"
+        related_cards: ["Job", "Beruf", "Projekt"]
+        examples: ["Ich arbeite am Computer.", "Er arbeitet im Büro.", "Sie hat im Garten gearbeitet."]
+      - id: "abschalten"
+        title: "abschalten"
+        description: "Ein Gerät oder System deaktivieren."
+        konjugation: "ich schalte ab, du schaltest ab, er/sie/es schaltet ab, wir schalten ab, ihr schaltet ab, sie/Sie schalten ab"
+        zeiten: "Präsens, Präteritum (schaltete ab), Perfekt (hat abgeschaltet)"
+        related_cards: ["Anschalten", "Computer", "Fernseher"]
+        examples: ["Ich schalte den Computer ab.", "Er schaltet das Licht ab.", "Sie hat das Gerät abgeschaltet."]
+      - id: "reparieren"
+        title: "reparieren"
+        description: "Etwas, das kaputt ist, wieder in Ordnung bringen."
+        konjugation: "ich repariere, du reparierst, er/sie/es repariert, wir reparieren, ihr repariert, sie/Sie reparieren"
+        zeiten: "Präsens, Präteritum (reparierte), Perfekt (hat repariert)"
+        related_cards: ["Werkzeug", "Techniker", "Gerät"]
+        examples: ["Ich repariere den Computer.", "Er repariert das Auto.", "Sie hat das Fahrrad repariert."]
+      - id: "vergleichen"
+        title: "vergleichen"
+        description: "Zwei oder mehr Dinge auf ihre Unterschiede und Gemeinsamkeiten prüfen."
+        konjugation: "ich vergleiche, du vergleichst, er/sie/es vergleicht, wir vergleichen, ihr vergleicht, sie/Sie vergleichen"
+        zeiten: "Präsens, Präteritum (verglich), Perfekt (hat verglichen)"
+        related_cards: ["Der Vergleich", "Die Unterschiede", "Die Gemeinsamkeiten"]
+        examples: ["Ich vergleiche die Preise.", "Er vergleicht die Angebote.", "Sie hat die Produkte verglichen."]
+      - id: "bestellen"
+        title: "bestellen"
+        description: "Etwas zur Lieferung oder Abholung anfordern."
+        konjugation: "ich bestelle, du bestellst, er/sie/es bestellt, wir bestellen, ihr bestellt, sie/Sie bestellen"
+        zeiten: "Präsens, Präteritum (bestellte), Perfekt (hat bestellt)"
+        related_cards: ["Die Bestellung", "Liefern", "Abholen"]
+        examples: ["Ich bestelle ein Buch.", "Er bestellt Essen.", "Sie hat neue Möbel bestellt."]
+      - id: "informieren"
+        title: "informieren"
+        description: "Jemandem Wissen oder Nachrichten mitteilen."
+        konjugation: "ich informiere, du informierst, er/sie/es informiert, wir informieren, ihr informiert, sie/Sie informieren"
+        zeiten: "Präsens, Präteritum (informierte), Perfekt (hat informiert)"
+        related_cards: ["Die Information", "Die Nachricht", "Das Wissen"]
+        examples: ["Ich informiere dich über die Neuigkeiten.", "Er informiert sich über das Thema.", "Sie hat die Mitarbeiter informiert."]
+      - id: "auswählen"
+        title: "auswählen"
+        description: "Eine oder mehrere Optionen aus einer Menge auswählen."
+        konjugation: "ich wähle aus, du wählst aus, er/sie/es wählt aus, wir wählen aus, ihr wählt aus, sie/Sie wählen aus"
+        zeiten: "Präsens, Präteritum (wählte aus), Perfekt (hat ausgewählt)"
+        related_cards: ["Die Auswahl", "Entscheiden", "Option"]
+        examples: ["Ich wähle ein Buch aus.", "Er wählt das beste Angebot aus.", "Sie hat die Teilnehmer ausgewählt."]
+      - id: "benutzen"
+        title: "benutzen"
+        description: "Etwas verwenden, um eine Aufgabe zu erledigen."
+        konjugation: "ich benutze, du benutzt, er/sie/es benutzt, wir benutzen, ihr benutzt, sie/Sie benutzen"
+        zeiten: "Präsens, Präteritum (benutzte), Perfekt (hat benutzt)"
+        related_cards: ["Verwenden", "Nutzen", "Gebrauchen"]
+        examples: ["Ich benutze den Computer.", "Er benutzt das Werkzeug.", "Sie hat das Programm benutzt."]
+      - id: "nutzen"
+        title: "nutzen"
+        description: "Etwas zu einem bestimmten Zweck verwenden."
+        konjugation: "ich nutze, du nutzt, er/sie/es nutzt, wir nutzen, ihr nutzt, sie/Sie nutzen"
+        zeiten: "Präsens, Präteritum (nutzte), Perfekt (hat genutzt)"
+        related_cards: ["Verwenden", "Benutzen", "Gebrauchen"]
+        examples: ["Ich nutze die Gelegenheit.", "Er nutzt das Angebot.", "Sie hat die Ressourcen genutzt."]

@@ -622,3 +622,87 @@ unterstützen:
   description: "किसी को सहायता या समर्थन प्रदान करना।"
 auftrag:
   description: "किसी को दिया गया एक कार्य या आदेश।"  
+fernsehprogramm:
+  description: "टीवी पर प्रसारित होने वाले कार्यक्रम।"
+sendungen:
+  description: "टीवी या रेडियो पर प्रसारित होने वाले कार्यक्रम।"
+krimi:
+  description: "एक अपराध कथा या नाटक।"
+dokumentarfilm:
+  description: "एक फिल्म जो वास्तविक घटनाओं या लोगों पर आधारित होती है।"
+nachrichten:
+  description: "समाचार या जानकारी।"
+serie:
+  description: "एक टीवी शो जो कई एपिसोड में चलता है।"
+talkshow:
+  description: "एक टीवी या रेडियो शो जिसमें मेहमानों के साथ बातचीत होती है।"
+computer:
+  description: "एक इलेक्ट्रॉनिक उपकरण जो डेटा को प्रोसेस करता है।"
+bildschrim:
+  description: "एक उपकरण जो दृश्य जानकारी प्रदर्शित करता है।"
+maus:
+  description: "एक उपकरण जो कंप्यूटर स्क्रीन पर कर्सर को नियंत्रित करता है।"
+tastatur:
+  description: "एक उपकरण जिसमें कुंजियाँ होती हैं और जिसका उपयोग टाइपिंग के लिए किया जाता है।"
+drucker:
+  description: "एक उपकरण जो डिजिटल दस्तावेजों को कागज पर प्रिंट करता है।"
+kabel:
+  description: "एक तार जो विद्युत संकेतों को संचारित करता है।"
+scanner:
+  description: "एक उपकरण जो दस्तावेजों या छवियों को डिजिटल रूप में परिवर्तित करता है।"
+lautsprecher:
+  description: "एक उपकरण जो ध्वनि उत्पन्न करता है।"
+cd-rom-laufwerk:
+  description: "एक उपकरण जो सीडी-रोम डिस्क को पढ़ता है।"
+laufwerk:
+  description: "एक उपकरण जो डेटा को पढ़ता और लिखता है।"
+datei:
+  description: "डिजिटल जानकारी का एक संग्रह।"
+sms:
+  description: "एक छोटी पाठ संदेश सेवा।"
+speichern:
+  description: "डिजिटल जानकारी को संग्रहीत करना।"
+drucken:
+  description: "डिजिटल दस्तावेजों को कागज पर प्रिंट करना।"
+umtauschen:
+  description: "किसी वस्तु को बदलना।"
+verbinden:
+  description: "दो या अधिक चीजों को जोड़ना।"
+hören:
+  description: "ध्वनि को सुनना।"
+beantworten:
+  description: "किसी प्रश्न या संदेश का उत्तर देना।"
+senden:
+  description: "किसी को कुछ भेजना।"
+surfen:
+  description: "इंटरनेट पर ब्राउज़ करना।"
+abschalten:
+  description: "किसी उपकरण को बंद करना।"
+meinung:
+  description: "किसी विषय पर एक व्यक्तिगत दृष्टिकोण।"
+vergleichen:
+  description: "दो या अधिक चीजों की तुलना करना।"
+bestellen:
+  description: "कुछ खरीदने के लिए अनुरोध करना।"
+internet:
+  description: "वैश्विक कंप्यूटर नेटवर्क।"
+informieren:
+  description: "जानकारी प्राप्त करना।"
+radio:
+  description: "एक उपकरण जो रेडियो तरंगों के माध्यम से ध्वनि प्रसारित करता है।"
+tageszeitung:
+  description: "एक दैनिक समाचार पत्र।"
+zeitung:
+  description: "समाचार पत्र।"
+buch:
+  description: "पढ़ने के लिए एक मुद्रित या डिजिटल काम।"
+fernsehen:
+  description: "टीवी देखना।"
+auswählen:
+  description: "किसी चीज़ का चयन करना।"
+benutzen:
+  description: "किसी चीज़ का उपयोग करना।"
+nutzen:
+  description: "किसी चीज़ का लाभ उठाना।"
+nutzer:
+  description: "कोई व्यक्ति जो किसी चीज़ का उपयोग करता है।"
