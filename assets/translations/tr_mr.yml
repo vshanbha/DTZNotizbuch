@@ -706,3 +706,95 @@ nutzen:
   description: "काहीतरी वापरणे."
 nutzer:
   description: "काहीतरी वापरणारी व्यक्ती."
+fahrrad:
+  description: "दोन चाकांचे वाहन जे पेडलद्वारे चालवले जाते."
+straßenbahn:
+  description: "शहरातील रस्त्यावर चालणारी एक रेल्वे."
+u-bahn:
+  description: "शहरातील भूमिगत रेल्वे."
+flugzeug:
+  description: "हवाई प्रवासासाठी एक वाहन."
+motorrad:
+  description: "दोन चाकांचे मोटर वाहन."
+zug:
+  description: "रेल्वे ट्रॅकवर चालणारे वाहन."
+fähre:
+  description: "पाण्यावर वाहतूक करणारे एक मोठे वाहन."
+schiff:
+  description: "समुद्र किंवा नदीवर चालणारे एक मोठे वाहन."
+abfahrt:
+  description: "प्रस्थान करण्याची वेळ."
+ankunft:
+  description: "पोहोचण्याची वेळ."
+haltestelle:
+  description: "बस किंवा ट्राम थांबण्याचे ठिकाण."
+station:
+  description: "रेल्वे किंवा मेट्रो थांबण्याचे ठिकाण."
+bahnhof:
+  description: "रेल्वे स्टेशन."
+verbindung:
+  description: "दोन ठिकाणांमधील वाहतूक सेवा."
+verspätung:
+  description: "उशीर होणे."
+gleis:
+  description: "रेल्वे ट्रॅक."
+benzin:
+  description: "वाहनासाठी इंधन."
+hafen:
+  description: "जहाजांचे बंदर."
+koffer:
+  description: "प्रवासासाठी वापरलेली मोठी बॅग."
+tasche:
+  description: "वस्तू ठेवण्यासाठी एक बॅग."
+beutel:
+  description: "लहान बॅग."
+geldbeutel:
+  description: "पैसे ठेवण्यासाठी एक बॅग."
+tankstelle:
+  description: "इंधन भरण्याचे ठिकाण."
+mobilität:
+  description: "चालण्याची किंवा हलण्याची क्षमता."
+verkehrsmittel:
+  description: "वाहतूक साधन."
+ampel:
+  description: "रस्त्यावरील सिग्नल लाइट."
+einbahnstraße:
+  description: "एकमार्गी रस्ता."
+parkuhr:
+  description: "पार्किंगसाठी वेळ मोजणारे उपकरण."
+stau:
+  description: "वाहतूक कोंडी."
+fußgängerzone:
+  description: "फक्त पादचाऱ्यांसाठी असलेला क्षेत्र."
+geschwindigkeit:
+  description: "गती."
+geschwindigkeitsbeschränkung:
+  description: "गती मर्यादा."
+umleitung:
+  description: "वाहतूक मार्ग बदलणे."
+autobahn:
+  description: "वेगवान वाहतुकीसाठी रस्ता."
+kleingeld:
+  description: "लहान नाणी."
+richtung:
+  description: "दिशा."
+wohngebiet:
+  description: "रहिवासी क्षेत्र."
+parkplatz:
+  description: "वाहने पार्क करण्याचे ठिकाण."
+umsteigen:
+  description: "एक वाहन बदलून दुसरे वाहन घेणे."
+verspätet:
+  description: "उशीर झालेला."
+stornieren:
+  description: "रद्द करणे."
+reisen:
+  description: "प्रवास करणे."
+verreisen:
+  description: "प्रवासासाठी बाहेर जाणे."
+nehmen:
+  description: "काहीतरी घेणे."
+schwimmen:
+  description: "पाण्यात हालचाल करणे."
+plannen:
+  description: "योजना बनवणे."

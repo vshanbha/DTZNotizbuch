@@ -706,3 +706,95 @@ nutzen:
   description: "To make use of something."
 nutzer:
   description: "A person who uses a service or device."
+fahrrad:
+  description: "A two-wheeled vehicle powered by pedaling."
+straßenbahn:
+  description: "A rail vehicle that runs on tracks in the street."
+u-bahn:
+  description: "An underground train system in a city."
+flugzeug:
+  description: "An aircraft that flies in the sky."
+motorrad:
+  description: "A two-wheeled motor vehicle."
+zug:
+  description: "A rail vehicle that runs on tracks."
+fähre:
+  description: "A boat or ship that carries people and vehicles across water."
+schiff:
+  description: "A large vessel that travels on water."
+abfahrt:
+  description: "The departure of a vehicle."
+ankunft:
+  description: "The arrival of a vehicle."
+haltestelle:
+  description: "A place where vehicles stop to pick up or drop off passengers."
+station:
+  description: "A place where trains or buses stop."
+bahnhof:
+  description: "A station where trains stop."
+verbindung:
+  description: "A connection between two places."
+verspätung:
+  description: "A delay in the scheduled time."
+gleis:
+  description: "A track where trains run."
+benzin:
+  description: "Fuel used to power vehicles."
+hafen:
+  description: "A place where ships dock."
+koffer:
+  description: "A suitcase for carrying personal belongings."
+tasche:
+  description: "A bag for carrying items."
+beutel:
+  description: "A small bag for carrying items."
+geldbeutel:
+  description: "A small bag for carrying money."
+tankstelle:
+  description: "A place where vehicles can refuel."
+mobilität:
+  description: "The ability to move or be moved freely."
+verkehrsmittel:
+  description: "Means of transportation."
+ampel:
+  description: "A traffic light that controls vehicle movement."
+einbahnstraße:
+  description: "A street where vehicles can only travel in one direction."
+parkuhr:
+  description: "A device that measures the time a vehicle is parked."
+stau:
+  description: "A traffic jam."
+fußgängerzone:
+  description: "An area where only pedestrians are allowed."
+geschwindigkeit:
+  description: "The speed at which something moves."
+geschwindigkeitsbeschränkung:
+  description: "A limit on the speed at which vehicles can travel."
+umleitung:
+  description: "A detour or alternative route."
+autobahn:
+  description: "A high-speed highway."
+kleingeld:
+  description: "Small coins or change."
+richtung:
+  description: "The course along which something moves."
+wohngebiet:
+  description: "A residential area."
+parkplatz:
+  description: "A place where vehicles can be parked."
+umsteigen:
+  description: "To change from one vehicle to another."
+verspätet:
+  description: "To be delayed."
+stornieren:
+  description: "To cancel something."
+reisen:
+  description: "To travel from one place to another."
+verreisen:
+  description: "To go on a trip."
+nehmen:
+  description: "To take something."
+schwimmen:
+  description: "To move through water."
+planen:
+  description: "To make arrangements for something."
