@@ -1,0 +1,327 @@
+title: Mobilität Flashcards
+topic: mobilität
+categories:
+  - name: Nouns
+    value: "Nomen"
+    cards:
+      - id: "auto"
+        title: "Das Auto"
+        description: "Ein Fahrzeug mit vier Rädern, das von einem Motor angetrieben wird."
+        plural: "Die Autos"
+        related_cards: ["Der Fahrer", "Die Straße", "Der Verkehr"]
+        examples: ["Das Auto fährt schnell.", "Sie hat ein neues Auto gekauft.", "Die Autos stehen im Stau."]
+      - id: "fahrrad"
+        title: "Das Fahrrad"
+        description: "Ein zweirädriges Fahrzeug, das durch Pedale angetrieben wird."
+        plural: "Die Fahrräder"
+        related_cards: ["Der Helm", "Der Radweg", "Die Pedale"]
+        examples: ["Er fährt jeden Tag mit dem Fahrrad zur Arbeit.", "Das Fahrrad ist umweltfreundlich.", "Die Fahrräder sind im Keller."]
+      - id: "straßenbahn"
+        title: "Die Straßenbahn"
+        description: "Ein öffentliches Verkehrsmittel, das auf Schienen fährt."
+        plural: "Die Straßenbahnen"
+        related_cards: ["Die Haltestelle", "Das Ticket", "Der Fahrer"]
+        examples: ["Die Straßenbahn kommt alle zehn Minuten.", "Sie fährt mit der Straßenbahn zur Schule.", "Die Straßenbahnen sind oft pünktlich."]
+      - id: "ubahn"
+        title: "Die U-Bahn"
+        description: "Ein unterirdisches öffentliches Verkehrsmittel."
+        plural: "Die U-Bahnen"
+        related_cards: ["Der Bahnhof", "Das Ticket", "Der Zug"]
+        examples: ["Die U-Bahn ist sehr schnell.", "Er nimmt die U-Bahn zur Arbeit.", "Die U-Bahnen sind oft überfüllt."]
+      - id: "flugzeug"
+        title: "Das Flugzeug"
+        description: "Ein Luftfahrzeug, das Passagiere und Fracht über große Entfernungen transportiert."
+        plural: "Die Flugzeuge"
+        related_cards: ["Der Flughafen", "Der Pilot", "Der Flug"]
+        examples: ["Das Flugzeug startet pünktlich.", "Sie fliegt mit dem Flugzeug nach New York.", "Die Flugzeuge sind sehr modern."]
+      - id: "motorrad"
+        title: "Das Motorrad"
+        description: "Ein zweirädriges Fahrzeug mit einem Motor."
+        plural: "Die Motorräder"
+        related_cards: ["Der Helm", "Die Straße", "Der Fahrer"]
+        examples: ["Er fährt gerne Motorrad.", "Das Motorrad ist sehr laut.", "Die Motorräder stehen in der Garage."]
+      - id: "zug"
+        title: "Der Zug"
+        description: "Ein Schienenfahrzeug, das Passagiere und Fracht transportiert."
+        plural: "Die Züge"
+        related_cards: ["Der Bahnhof", "Das Ticket", "Der Lokführer"]
+        examples: ["Der Zug fährt pünktlich ab.", "Sie reist mit dem Zug nach Berlin.", "Die Züge sind sehr bequem."]
+      - id: "fähre"
+        title: "Die Fähre"
+        description: "Ein Schiff, das Passagiere und Fahrzeuge über Wasser transportiert."
+        plural: "Die Fähren"
+        related_cards: ["Der Hafen", "Das Ticket", "Das Schiff"]
+        examples: ["Die Fähre legt am Hafen an.", "Er fährt mit der Fähre zur Insel.", "Die Fähren sind sehr groß."]
+      - id: "schiff"
+        title: "Das Schiff"
+        description: "Ein großes Wasserfahrzeug, das Passagiere und Fracht transportiert."
+        plural: "Die Schiffe"
+        related_cards: ["Der Hafen", "Das Meer", "Die Fähre"]
+        examples: ["Das Schiff fährt über den Ozean.", "Sie macht eine Kreuzfahrt auf dem Schiff.", "Die Schiffe sind sehr beeindruckend."]
+      - id: "abfahrt"
+        title: "Die Abfahrt"
+        description: "Der Zeitpunkt, an dem ein Fahrzeug seine Reise beginnt."
+        plural: "Die Abfahrten"
+        related_cards: ["Die Ankunft", "Der Zug", "Der Bus"]
+        examples: ["Die Abfahrt des Zuges ist um 10 Uhr.", "Er wartet auf die Abfahrt des Busses.", "Die Abfahrten sind pünktlich."]
+      - id: "ankunft"
+        title: "Die Ankunft"
+        description: "Der Zeitpunkt, an dem ein Fahrzeug sein Ziel erreicht."
+        plural: "Die Ankünfte"
+        related_cards: ["Die Abfahrt", "Der Zug", "Der Bus"]
+        examples: ["Die Ankunft des Flugzeugs ist um 14 Uhr.", "Sie freut sich auf die Ankunft des Zuges.", "Die Ankünfte sind oft verspätet."]
+      - id: "haltestelle"
+        title: "Die Haltestelle"
+        description: "Ein Ort, an dem öffentliche Verkehrsmittel halten."
+        plural: "Die Haltestellen"
+        related_cards: ["Der Bus", "Die Straßenbahn", "Das Ticket"]
+        examples: ["Die Haltestelle ist um die Ecke.", "Er wartet an der Haltestelle.", "Die Haltestellen sind gut beschildert."]
+      - id: "station"
+        title: "Die Station"
+        description: "Ein Ort, an dem Züge oder U-Bahnen halten."
+        plural: "Die Stationen"
+        related_cards: ["Der Bahnhof", "Die U-Bahn", "Das Ticket"]
+        examples: ["Die nächste Station ist Hauptbahnhof.", "Sie steigt an der Station aus.", "Die Stationen sind sauber."]
+      - id: "bahnhof"
+        title: "Der Bahnhof"
+        description: "Ein Ort, an dem Züge abfahren und ankommen."
+        plural: "Die Bahnhöfe"
+        related_cards: ["Der Zug", "Das Ticket", "Die Ankunft"]
+        examples: ["Der Bahnhof ist sehr groß.", "Er kauft ein Ticket am Bahnhof.", "Die Bahnhöfe sind gut vernetzt."]
+      - id: "verbindung"
+        title: "Die Verbindung"
+        description: "Eine Möglichkeit, von einem Ort zum anderen zu gelangen."
+        plural: "Die Verbindungen"
+        related_cards: ["Der Zug", "Der Bus", "Die Strecke"]
+        examples: ["Die Verbindung nach Berlin ist gut.", "Er sucht eine Verbindung nach München.", "Die Verbindungen sind zuverlässig."]
+      - id: "verspätung"
+        title: "Die Verspätung"
+        description: "Eine Verzögerung im Zeitplan."
+        plural: "Die Verspätungen"
+        related_cards: ["Die Ankunft", "Die Abfahrt", "Der Zug"]
+        examples: ["Der Zug hat eine Verspätung von 10 Minuten.", "Sie ärgert sich über die Verspätung.", "Die Verspätungen sind häufig."]
+      - id: "gleis"
+        title: "Das Gleis"
+        description: "Ein Schienenstrang, auf dem Züge fahren."
+        plural: "Die Gleise"
+        related_cards: ["Der Zug", "Der Bahnhof", "Die Schiene"]
+        examples: ["Der Zug fährt von Gleis 5 ab.", "Er wartet am Gleis.", "Die Gleise sind gut gepflegt."]
+      - id: "benzin"
+        title: "Das Benzin"
+        description: "Ein Kraftstoff für Fahrzeuge mit Verbrennungsmotor."
+        plural: "Die Benzine"
+        related_cards: ["Das Auto", "Die Tankstelle", "Der Motor"]
+        examples: ["Das Auto braucht Benzin.", "Er tankt Benzin.", "Die Benzinpreise sind gestiegen."]
+      - id: "hafen"
+        title: "Der Hafen"
+        description: "Ein Ort, an dem Schiffe anlegen."
+        plural: "Die Häfen"
+        related_cards: ["Das Schiff", "Die Fähre", "Das Meer"]
+        examples: ["Der Hafen ist sehr groß.", "Sie arbeitet im Hafen.", "Die Häfen sind gut ausgestattet."]
+      - id: "koffer"
+        title: "Der Koffer"
+        description: "Ein Behälter zum Transport von Kleidung und anderen Gegenständen."
+        plural: "Die Koffer"
+        related_cards: ["Die Tasche", "Das Gepäck", "Der Flughafen"]
+        examples: ["Der Koffer ist schwer.", "Er packt seinen Koffer.", "Die Koffer sind im Auto."]
+      - id: "tasche"
+        title: "Die Tasche"
+        description: "Ein Behälter zum Tragen von Gegenständen."
+        plural: "Die Taschen"
+        related_cards: ["Der Koffer", "Der Rucksack", "Der Beutel"]
+        examples: ["Die Tasche ist voll.", "Sie trägt eine Tasche.", "Die Taschen sind auf dem Tisch."]
+      - id: "beutel"
+        title: "Der Beutel"
+        description: "Ein kleiner Behälter aus flexiblem Material."
+        plural: "Die Beutel"
+        related_cards: ["Die Tasche", "Der Rucksack", "Der Koffer"]
+        examples: ["Der Beutel ist leicht.", "Er hat einen Beutel dabei.", "Die Beutel sind praktisch."]
+      - id: "geldbeutel"
+        title: "Der Geldbeutel"
+        description: "Ein kleiner Behälter für Geld und Karten."
+        plural: "Die Geldbeutel"
+        related_cards: ["Das Geld", "Die Tasche", "Der Beutel"]
+        examples: ["Der Geldbeutel ist verloren.", "Sie sucht ihren Geldbeutel.", "Die Geldbeutel sind aus Leder."]
+      - id: "tankstelle"
+        title: "Die Tankstelle"
+        description: "Ein Ort, an dem Fahrzeuge mit Kraftstoff versorgt werden."
+        plural: "Die Tankstellen"
+        related_cards: ["Das Benzin", "Das Auto", "Der Motor"]
+        examples: ["Die Tankstelle ist in der Nähe.", "Er fährt zur Tankstelle.", "Die Tankstellen sind gut ausgestattet."]
+      - id: "mobilität"
+        title: "Die Mobilität"
+        description: "Die Fähigkeit, sich fortzubewegen."
+        plural: "Die Mobilitäten"
+        related_cards: ["Das Auto", "Das Fahrrad", "Der Zug"]
+        examples: ["Die Mobilität in der Stadt ist gut.", "Er schätzt seine Mobilität.", "Die Mobilitäten sind wichtig."]
+      - id: "verkehrsmittel"
+        title: "Das Verkehrsmittel"
+        description: "Ein Mittel zur Fortbewegung, wie Auto, Bus oder Fahrrad."
+        plural: "Die Verkehrsmittel"
+        related_cards: ["Das Auto", "Der Bus", "Das Fahrrad"]
+        examples: ["Das Verkehrsmittel ist umweltfreundlich.", "Er nutzt verschiedene Verkehrsmittel.", "Die Verkehrsmittel sind gut vernetzt."]
+      - id: "ampel"
+        title: "Die Ampel"
+        description: "Ein Signalgerät zur Regelung des Straßenverkehrs."
+        plural: "Die Ampeln"
+        related_cards: ["Die Straße", "Der Verkehr", "Das Auto"]
+        examples: ["Die Ampel ist rot.", "Er wartet an der Ampel.", "Die Ampeln sind gut sichtbar."]
+      - id: "einbahnstraße"
+        title: "Die Einbahnstraße"
+        description: "Eine Straße, in der der Verkehr nur in eine Richtung fahren darf."
+        plural: "Die Einbahnstraßen"
+        related_cards: ["Die Straße", "Der Verkehr", "Das Auto"]
+        examples: ["Die Einbahnstraße ist eng.", "Er fährt in die Einbahnstraße.", "Die Einbahnstraßen sind gut beschildert."]
+      - id: "parkuhr"
+        title: "Die Parkuhr"
+        description: "Ein Gerät, das die Parkzeit eines Fahrzeugs misst."
+        plural: "Die Parkuhren"
+        related_cards: ["Der Parkplatz", "Das Auto", "Die Straße"]
+        examples: ["Die Parkuhr zeigt die Zeit an.", "Er wirft Münzen in die Parkuhr.", "Die Parkuhren sind überall."]
+      - id: "stau"
+        title: "Der Stau"
+        description: "Eine Ansammlung von Fahrzeugen, die den Verkehr verlangsamt oder stoppt."
+        plural: "Die Staus"
+        related_cards: ["Der Verkehr", "Die Straße", "Das Auto"]
+        examples: ["Der Stau ist lang.", "Er steht im Stau.", "Die Staus sind ärgerlich."]
+      - id: "fußgängerzone"
+        title: "Die Fußgängerzone"
+        description: "Ein Bereich, der nur für Fußgänger zugänglich ist."
+        plural: "Die Fußgängerzonen"
+        related_cards: ["Der Fußgänger", "Die Straße", "Das Geschäft"]
+        examples: ["Die Fußgängerzone ist belebt.", "Er geht durch die Fußgängerzone.", "Die Fußgängerzonen sind sicher."]
+      - id: "geschwindigkeit"
+        title: "Die Geschwindigkeit"
+        description: "Das Maß für die Schnelligkeit einer Bewegung."
+        plural: "Die Geschwindigkeiten"
+        related_cards: ["Das Auto", "Der Verkehr", "Die Straße"]
+        examples: ["Die Geschwindigkeit ist hoch.", "Er misst die Geschwindigkeit.", "Die Geschwindigkeiten variieren."]
+      - id: "geschwindigkeitsbeschränkung"
+        title: "Die Geschwindigkeitsbeschränkung"
+        description: "Eine Regel, die die Höchstgeschwindigkeit festlegt."
+        plural: "Die Geschwindigkeitsbeschränkungen"
+        related_cards: ["Die Geschwindigkeit", "Die Straße", "Das Auto"]
+        examples: ["Die Geschwindigkeitsbeschränkung ist 50 km/h.", "Er hält sich an die Geschwindigkeitsbeschränkung.", "Die Geschwindigkeitsbeschränkungen sind wichtig."]
+      - id: "umleitung"
+        title: "Die Umleitung"
+        description: "Eine alternative Route, die wegen einer Straßensperrung genutzt wird."
+        plural: "Die Umleitungen"
+        related_cards: ["Die Straße", "Der Verkehr", "Das Auto"]
+        examples: ["Die Umleitung ist gut ausgeschildert.", "Er folgt der Umleitung.", "Die Umleitungen sind notwendig."]
+      - id: "autobahn"
+        title: "Die Autobahn"
+        description: "Eine Schnellstraße für den Fernverkehr."
+        plural: "Die Autobahnen"
+        related_cards: ["Das Auto", "Die Straße", "Der Verkehr"]
+        examples: ["Die Autobahn ist frei.", "Er fährt auf der Autobahn.", "Die Autobahnen sind gut ausgebaut."]
+      - id: "kleingeld"
+        title: "Das Kleingeld"
+        description: "Münzen von geringem Wert."
+        plural: "Die Kleingelder"
+        related_cards: ["Das Geld", "Der Geldbeutel", "Die Münze"]
+        examples: ["Das Kleingeld ist nützlich.", "Er hat viel Kleingeld.", "Die Kleingelder sind in der Tasche."]
+      - id: "richtung"
+        title: "Die Richtung"
+        description: "Die Orientierung oder der Weg, den man einschlägt."
+        plural: "Die Richtungen"
+        related_cards: ["Der Weg", "Die Straße", "Das Ziel"]
+        examples: ["Die Richtung ist klar.", "Er ändert die Richtung.", "Die Richtungen sind angegeben."]
+      - id: "wohngebiet"
+        title: "Das Wohngebiet"
+        description: "Ein Bereich, in dem hauptsächlich Wohnhäuser stehen."
+        plural: "Die Wohngebiete"
+        related_cards: ["Das Haus", "Die Straße", "Die Nachbarschaft"]
+        examples: ["Das Wohngebiet ist ruhig.", "Er wohnt in einem Wohngebiet.", "Die Wohngebiete sind gut geplant."]
+      - id: "parkplatz"
+        title: "Der Parkplatz"
+        description: "Ein Bereich, in dem Fahrzeuge abgestellt werden können."
+        plural: "Die Parkplätze"
+        related_cards: ["Das Auto", "Die Straße", "Die Parkuhr"]
+        examples: ["Der Parkplatz ist voll.", "Er sucht einen Parkplatz.", "Die Parkplätze sind knapp."]
+  - name: Verbs
+    value: "Verben"
+    cards:
+      - id: "fahren"
+        title: "fahren"
+        description: "Sich mit einem Fahrzeug fortbewegen."
+        konjugation: "ich fahre, du fährst, er/sie/es fährt, wir fahren, ihr fahrt, sie/Sie fahren"
+        zeiten: "Präsens, Präteritum (fuhr), Perfekt (ist gefahren)"
+        related_cards: ["Auto", "Zug", "Fahrrad"]
+        examples: ["Ich fahre mit dem Auto.", "Er fährt jeden Tag zur Arbeit.", "Sie ist nach Berlin gefahren."]
+      - id: "umsteigen"
+        title: "umsteigen"
+        description: "Von einem Fahrzeug in ein anderes wechseln."
+        konjugation: "ich steige um, du steigst um, er/sie/es steigt um, wir steigen um, ihr steigt um, sie/Sie steigen um"
+        zeiten: "Präsens, Präteritum (stieg um), Perfekt (ist umgestiegen)"
+        related_cards: ["Zug", "Bus", "Haltestelle"]
+        examples: ["Ich steige in Frankfurt um.", "Er muss zweimal umsteigen.", "Sie ist in München umgestiegen."]
+      - id: "zahlen"
+        title: "zahlen"
+        description: "Geld für eine Ware oder Dienstleistung geben."
+        konjugation: "ich zahle, du zahlst, er/sie/es zahlt, wir zahlen, ihr zahlt, sie/Sie zahlen"
+        zeiten: "Präsens, Präteritum (zahlte), Perfekt (hat gezahlt)"
+        related_cards: ["Geld", "Kasse", "Rechnung"]
+        examples: ["Ich zahle die Rechnung.", "Er zahlt mit Karte.", "Sie hat bar gezahlt."]
+      - id: "verspätet"
+        title: "verspätet"
+        description: "Zu spät kommen."
+        konjugation: "ich verspäte mich, du verspätest dich, er/sie/es verspätet sich, wir verspäten uns, ihr verspätet euch, sie/Sie verspäten sich"
+        zeiten: "Präsens, Präteritum (verspätete sich), Perfekt (hat sich verspätet)"
+        related_cards: ["Verspätung", "Ankunft", "Abfahrt"]
+        examples: ["Der Zug ist verspätet.", "Er hat sich verspätet.", "Sie kommt verspätet an."]
+      - id: "stornieren"
+        title: "stornieren"
+        description: "Eine Buchung oder Bestellung rückgängig machen."
+        konjugation: "ich storniere, du stornierst, er/sie/es storniert, wir stornieren, ihr storniert, sie/Sie stornieren"
+        zeiten: "Präsens, Präteritum (stornierte), Perfekt (hat storniert)"
+        related_cards: ["Buchung", "Ticket", "Reservierung"]
+        examples: ["Ich storniere die Buchung.", "Er hat das Ticket storniert.", "Sie storniert die Reservierung."]
+      - id: "kommen"
+        title: "kommen"
+        description: "Sich in Richtung eines Ortes bewegen."
+        konjugation: "ich komme, du kommst, er/sie/es kommt, wir kommen, ihr kommt, sie/Sie kommen"
+        zeiten: "Präsens, Präteritum (kam), Perfekt (ist gekommen)"
+        related_cards: ["Ankunft", "Ort", "Reise"]
+        examples: ["Ich komme morgen.", "Er kommt pünktlich.", "Sie ist nach Hause gekommen."]
+      - id: "verbinden"
+        title: "verbinden"
+        description: "Zwei oder mehr Dinge zusammenfügen."
+        konjugation: "ich verbinde, du verbindest, er/sie/es verbindet, wir verbinden, ihr verbindet, sie/Sie verbinden"
+        zeiten: "Präsens, Präteritum (verband), Perfekt (hat verbunden)"
+        related_cards: ["Verbindung", "Netzwerk", "Kabel"]
+        examples: ["Ich verbinde die Kabel.", "Er verbindet die Geräte.", "Sie hat die Punkte verbunden."]
+      - id: "reisen"
+        title: "reisen"
+        description: "Sich von einem Ort zu einem anderen begeben."
+        konjugation: "ich reise, du reist, er/sie/es reist, wir reisen, ihr reist, sie/Sie reisen"
+        zeiten: "Präsens, Präteritum (reiste), Perfekt (ist gereist)"
+        related_cards: ["Reise", "Urlaub", "Ziel"]
+        examples: ["Ich reise gerne.", "Er reist nach Spanien.", "Sie ist viel gereist."]
+      - id: "verreisen"
+        title: "verreisen"
+        description: "Eine Reise unternehmen."
+        konjugation: "ich verreise, du verreist, er/sie/es verreist, wir verreisen, ihr verreist, sie/Sie verreisen"
+        zeiten: "Präsens, Präteritum (verreiste), Perfekt (ist verreist)"
+        related_cards: ["Reise", "Urlaub", "Abfahrt"]
+        examples: ["Ich verreise morgen.", "Er verreist mit seiner Familie.", "Sie ist für zwei Wochen verreist."]
+      - id: "nehmen"
+        title: "nehmen"
+        description: "Etwas in die Hand oder in Besitz nehmen."
+        konjugation: "ich nehme, du nimmst, er/sie/es nimmt, wir nehmen, ihr nehmt, sie/Sie nehmen"
+        zeiten: "Präsens, Präteritum (nahm), Perfekt (hat genommen)"
+        related_cards: ["Hand", "Besitz", "Gegenstand"]
+        examples: ["Ich nehme das Buch.", "Er nimmt den Zug.", "Sie hat den Schlüssel genommen."]
+      - id: "schwimmen"
+        title: "schwimmen"
+        description: "Sich im Wasser fortbewegen."
+        konjugation: "ich schwimme, du schwimmst, er/sie/es schwimmt, wir schwimmen, ihr schwimmt, sie/Sie schwimmen"
+        zeiten: "Präsens, Präteritum (schwamm), Perfekt (ist geschwommen)"
+        related_cards: ["Wasser", "See", "Schwimmbad"]
+        examples: ["Ich schwimme im See.", "Er schwimmt jeden Morgen.", "Sie ist im Meer geschwommen."]
+      - id: "planen"
+        title: "planen"
+        description: "Etwas vorbereiten oder organisieren."
+        konjugation: "ich plane, du planst, er/sie/es plant, wir planen, ihr plant, sie/Sie planen"
+        zeiten: "Präsens, Präteritum (plante), Perfekt (hat geplant)"
+        related_cards: ["Plan", "Vorbereitung", "Organisation"]
+        examples: ["Ich plane eine Reise.", "Er plant das Event.", "Sie hat alles genau geplant."]
