@@ -706,3 +706,95 @@ nutzen:
   description: "किसी चीज़ का लाभ उठाना।"
 nutzer:
   description: "कोई व्यक्ति जो किसी चीज़ का उपयोग करता है।"
+fahrrad:
+  description: "दो पहियों वाला एक वाहन जिसे पैडल से चलाया जाता है।"
+straßenbahn:
+  description: "एक रेल वाहन जो शहर की सड़कों पर चलता है।"
+u-bahn:
+  description: "एक भूमिगत रेल प्रणाली।"
+flugzeug:
+  description: "एक हवाई वाहन जो उड़ान भरता है।"
+motorrad:
+  description: "दो पहियों वाला एक मोटर चालित वाहन।"
+zug:
+  description: "रेल पटरियों पर चलने वाला एक लंबा वाहन।"
+fähre:
+  description: "एक नाव जो लोगों और वाहनों को एक स्थान से दूसरे स्थान पर ले जाती है।"
+schiff:
+  description: "एक बड़ा जलयान।"
+abfahrt:
+  description: "किसी स्थान से प्रस्थान।"
+ankunft:
+  description: "किसी स्थान पर आगमन।"
+haltestelle:
+  description: "एक स्थान जहां बसें या ट्राम रुकती हैं।"
+station:
+  description: "एक स्थान जहां ट्रेनें रुकती हैं।"
+bahnhof:
+  description: "एक स्थान जहां ट्रेनें आती और जाती हैं।"
+verbindung:
+  description: "दो या अधिक स्थानों के बीच यात्रा का मार्ग।"
+verspätung:
+  description: "निर्धारित समय से देरी।"
+gleis:
+  description: "रेल पटरियों का एक सेट।"
+benzin:
+  description: "एक तरल ईंधन जो वाहनों में उपयोग होता है।"
+hafen:
+  description: "जहां जहाज लंगर डालते हैं।"
+koffer:
+  description: "यात्रा के दौरान सामान रखने के लिए एक बड़ा बैग।"
+tasche:
+  description: "सामान रखने के लिए एक बैग।"
+beutel:
+  description: "एक छोटा बैग।"
+geldbeutel:
+  description: "पैसे रखने के लिए एक छोटा बैग।"
+tankstelle:
+  description: "जहां वाहन ईंधन भरते हैं।"
+mobilität:
+  description: "आसानी से एक स्थान से दूसरे स्थान पर जाने की क्षमता।"
+verkehrsmittel:
+  description: "यात्रा के लिए उपयोग किए जाने वाले वाहन।"
+ampel:
+  description: "सड़क यातायात को नियंत्रित करने के लिए एक संकेत।"
+einbahnstraße:
+  description: "एक सड़क जहां यातायात केवल एक दिशा में चलता है।"
+parkuhr:
+  description: "एक उपकरण जो पार्किंग समय को मापता है।"
+stau:
+  description: "सड़क पर वाहनों की भीड़।"
+fußgängerzone:
+  description: "एक क्षेत्र जहां केवल पैदल यात्री चल सकते हैं।"
+geschwindigkeit:
+  description: "किसी चीज़ की गति।"
+geschwindigkeitsbeschränkung:
+  description: "सड़क पर अधिकतम गति सीमा।"
+umleitung:
+  description: "यातायात के लिए एक वैकल्पिक मार्ग।"
+autobahn:
+  description: "एक उच्च गति वाली सड़क।"
+kleingeld:
+  description: "छोटे मूल्य के सिक्के।"
+richtung:
+  description: "किसी स्थान की ओर जाने का मार्ग।"
+wohngebiet:
+  description: "एक क्षेत्र जहां लोग रहते हैं।"
+parkplatz:
+  description: "जहां वाहन पार्क किए जाते हैं।"
+umsteigen:
+  description: "एक वाहन से दूसरे वाहन में बदलना।"
+verspätet:
+  description: "निर्धारित समय से देरी होना।"
+stornieren:
+  description: "कुछ रद्द करना।"
+reisen:
+  description: "एक स्थान से दूसरे स्थान पर जाना।"
+verreisen:
+  description: "यात्रा पर जाना।"
+nehmen:
+  description: "किसी चीज़ को पकड़ना या प्राप्त करना।"
+schwimmen:
+  description: "पानी में तैरना।"
+plannen:
+  description: "भविष्य के लिए योजना बनाना।"

@@ -2,7 +2,7 @@ title: Mediennutzung Flashcards
 topic: mediennutzung
 categories:
   - name: Nouns
-    value: "Nomen (Medien)"
+    value: "Nomen"
     cards:
       - id: "fernseher"
         title: "Der Fernseher"
@@ -184,7 +184,6 @@ categories:
         plural: "Die Nutzer"
         related_cards: ["Der Benutzer", "Die Nutzung", "Das Gerät"]
         examples: ["Der Nutzer hat sich registriert.", "Die Nutzer sind zufrieden mit dem Service.", "Er ist ein aktiver Nutzer des Forums."]
-
   - name: Verbs
     value: "Verben"
     cards:
