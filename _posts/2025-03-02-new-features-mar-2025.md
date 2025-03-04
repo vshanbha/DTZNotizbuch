@@ -1,7 +1,7 @@
 ---
 title:  "Neue Funktionen Marz 2025"
 date:   2025-03-02 19:30:00 +0100
-categories: 
+categories: [features, releases]
 ---
 ## Neue Funktionen
 

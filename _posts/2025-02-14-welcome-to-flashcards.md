@@ -1,7 +1,7 @@
 ---
 title:  "Einführung von Flashcards"
 date:   2025-02-14 00:22:00 +0100
-categories: 
+categories: [features, about]
 ---
 ## Einführung
 Dies ist ein Online-Notizbuch, das Sie bei der Vorbereitung auf [den Deutsch-Test für Zuwanderer (DTZ) unterstützt](https://www.bamf.de/DE/Themen/Integration/ZugewanderteTeilnehmende/Integrationskurse/Abschlusspruefung/abschlusspruefung-node.html). 

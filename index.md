@@ -1,11 +1,14 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: blog
+layout: page
 author_profile: true
 ---
 ## DTZ Notizbuch
 
-zu den Flashcards
+### zu den Flashcards ###
 {% include_relative flashcards.md  title=title %}
+
+### Spickzettel ###
+1. [Bildbeschreibung Tipps]({% link _pages/bildbeschreibung.md %})
+
+### Blog ###
+Unsere [Blog]({% link blog.md %})
