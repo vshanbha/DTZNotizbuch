@@ -798,3 +798,79 @@ schwimmen:
   description: "पानी में तैरना।"
 plannen:
   description: "भविष्य के लिए योजना बनाना।"
+kopf:
+  description: "शरीर का ऊपरी हिस्सा जिसमें मस्तिष्क, आँखें, कान, नाक और मुँह होते हैं।"
+auge:
+  description: "देखने के लिए उपयोग किया जाने वाला अंग।"
+ohr:
+  description: "सुनने के लिए उपयोग किया जाने वाला अंग।"
+nase:
+  description: "सूंघने और सांस लेने के लिए उपयोग किया जाने वाला अंग।"
+mund:
+  description: "खाने, बोलने और सांस लेने के लिए उपयोग किया जाने वाला अंग।"
+zahn:
+  description: "मुँह में स्थित कठोर संरचना जो खाने के लिए उपयोग होती है।"
+hals:
+  description: "सिर और धड़ को जोड़ने वाला हिस्सा।"
+schulter:
+  description: "बांह और धड़ को जोड़ने वाला हिस्सा।"
+arm:
+  description: "कंधे से हाथ तक का अंग।"
+hand:
+  description: "बांह का अंतिम हिस्सा जिसमें उंगलियाँ होती हैं।"
+finger:
+  description: "हाथ की प्रत्येक अंगुली।"
+brust:
+  description: "धड़ का ऊपरी हिस्सा जिसमें फेफड़े और हृदय होते हैं।"
+bauch:
+  description: "धड़ का मध्य हिस्सा जिसमें पेट और आंतें होती हैं।"
+rücken:
+  description: "धड़ का पिछला हिस्सा।"
+bein:
+  description: "कमर से पैर तक का अंग।"
+knie:
+  description: "पैर का वह हिस्सा जो जांघ और पिंडली को जोड़ता है।"
+fuß:
+  description: "पैर का अंतिम हिस्सा जो जमीन को छूता है।"
+zehe:
+  description: "पैर की प्रत्येक अंगुली।"
+zunge:
+  description: "मुँह में स्थित मांसपेशी जो स्वाद और बोलने में मदद करती है।"
+haut:
+  description: "शरीर की बाहरी परत।"
+haar:
+  description: "सिर पर उगने वाले रेशे।"
+gesicht:
+  description: "सिर का वह हिस्सा जिसमें आँखें, नाक और मुँह होते हैं।"
+lesen:
+  description: "लिखित शब्दों को समझना।"
+essen:
+  description: "भोजन का सेवन करना।"
+riechen:
+  description: "नाक के माध्यम से गंध को पहचानना।"
+joggen:
+  description: "धीमी गति से दौड़ना।"
+springen:
+  description: "पैरों की मदद से जमीन से ऊपर उठना।"
+greifen:
+  description: "किसी चीज़ को पकड़ना।"
+halten:
+  description: "किसी चीज़ को पकड़कर रखना।"
+schlagen:
+  description: "किसी चीज़ पर जोर से मारना।"
+schieben:
+  description: "किसी चीज़ को आगे बढ़ाना।"
+mischen:
+  description: "कई चीजों को एक साथ मिलाना।"
+berühren:
+  description: "किसी चीज़ को छूना।"
+ziehen:
+  description: "किसी चीज़ को अपनी ओर खींचना।"
+rühren:
+  description: "किसी चीज़ को हिलाना।"
+drücken:
+  description: "किसी चीज़ को दबाना।"
+treten:
+  description: "पैर से मारना।"
+tanzen:
+  description: "संगीत की ताल पर शरीर को हिलाना।"
