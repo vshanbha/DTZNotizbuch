@@ -798,3 +798,81 @@ schwimmen:
   description: "To move through water."
 planen:
   description: "To make arrangements for something."
+kopf:
+  description: "The part of the body that contains the brain, eyes, ears, nose, and mouth."
+auge:
+  description: "The organ of sight."
+ohr:
+  description: "The organ of hearing."
+nase:
+  description: "The organ of smell and breathing."
+mund:
+  description: "The opening in the face used for eating and speaking."
+zahn:
+  description: "A hard structure in the mouth used for biting and chewing."
+hals:
+  description: "The part of the body connecting the head to the shoulders."
+schulter:
+  description: "The joint connecting the arm to the torso."
+arm:
+  description: "The limb extending from the shoulder to the hand."
+hand:
+  description: "The part of the arm below the wrist, used for grasping."
+finger:
+  description: "The digits of the hand."
+brust:
+  description: "The front part of the body between the neck and the abdomen."
+bauch:
+  description: "The part of the body containing the digestive organs."
+rücken:
+  description: "The rear part of the body from the neck to the pelvis."
+bein:
+  description: "The limb extending from the hip to the foot."
+knie:
+  description: "The joint between the thigh and the lower leg."
+fuß:
+  description: "The lower extremity of the leg below the ankle."
+zehe:
+  description: "The digits of the foot."
+zunge:
+  description: "The muscular organ in the mouth used for tasting and speaking."
+haut:
+  description: "The outer covering of the body."
+haar:
+  description: "The strands growing from the skin, especially on the head."
+gesicht:
+  description: "The front part of the head, including the eyes, nose, and mouth."
+lesen:
+  description: "To interpret written or printed words."
+sprechen:
+  description: "To communicate using spoken words."
+essen:
+  description: "To consume food."
+riechen:
+  description: "To perceive odors with the nose."
+joggen:
+  description: "To run at a steady, moderate pace."
+springen:
+  description: "To propel oneself into the air using the legs."
+greifen:
+  description: "To take hold of something with the hand."
+halten:
+  description: "To keep something in a particular position."
+schlagen:
+  description: "To hit something with force."
+schieben:
+  description: "To move something by applying force."
+mischen:
+  description: "To combine different substances."
+berühren:
+  description: "To make physical contact with something."
+ziehen:
+  description: "To exert force to move something towards oneself."
+rühren:
+  description: "To mix a substance with a circular motion."
+drücken:
+  description: "To apply pressure to something."
+treten:
+  description: "To strike with the foot."
+tanzen:
+  description: "To move rhythmically to music."

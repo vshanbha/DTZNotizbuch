@@ -1,0 +1,289 @@
+title: Gesundheit Flashcards
+topic: gesundheit
+categories:
+  - name: Nouns
+    value: "Nomen"
+    cards:
+      - id: "kopf"
+        title: "Der Kopf"
+        description: "Der obere Teil des Körpers, der das Gehirn enthält."
+        plural: "Die Köpfe"
+        related_cards: ["Das Gehirn", "Das Gesicht", "Die Haare"]
+        examples: ["Er hat einen großen Kopf.", "Sie schüttelt den Kopf.", "Der Kopf tut weh."]
+      - id: "auge"
+        title: "Das Auge"
+        description: "Ein Organ, das für das Sehen verantwortlich ist."
+        plural: "Die Augen"
+        related_cards: ["Das Sehen", "Die Brille", "Das Gesicht"]
+        examples: ["Sie hat blaue Augen.", "Er zwinkert mit dem Auge.", "Die Augen sind müde."]
+      - id: "ohr"
+        title: "Das Ohr"
+        description: "Ein Organ, das für das Hören verantwortlich ist."
+        plural: "Die Ohren"
+        related_cards: ["Das Hören", "Die Musik", "Der Kopf"]
+        examples: ["Er hat große Ohren.", "Sie hört mit dem Ohr.", "Die Ohren sind empfindlich."]
+      - id: "nase"
+        title: "Die Nase"
+        description: "Ein Organ, das für das Riechen verantwortlich ist."
+        plural: "Die Nasen"
+        related_cards: ["Das Riechen", "Der Geruch", "Das Gesicht"]
+        examples: ["Sie hat eine kleine Nase.", "Er riecht mit der Nase.", "Die Nase läuft."]
+      - id: "mund"
+        title: "Der Mund"
+        description: "Ein Organ, das für das Sprechen und Essen verantwortlich ist."
+        plural: "Die Münder"
+        related_cards: ["Das Sprechen", "Das Essen", "Das Gesicht"]
+        examples: ["Er hat einen großen Mund.", "Sie spricht mit dem Mund.", "Der Mund ist offen."]
+      - id: "zahn"
+        title: "Der Zahn"
+        description: "Ein hartes Gebilde im Mund, das zum Kauen dient."
+        plural: "Die Zähne"
+        related_cards: ["Der Mund", "Das Kauen", "Der Zahnarzt"]
+        examples: ["Er hat weiße Zähne.", "Sie putzt sich die Zähne.", "Der Zahn tut weh."]
+      - id: "hals"
+        title: "Der Hals"
+        description: "Der Teil des Körpers, der Kopf und Rumpf verbindet."
+        plural: "Die Hälse"
+        related_cards: ["Der Kopf", "Der Rumpf", "Der Nacken"]
+        examples: ["Er hat einen langen Hals.", "Sie trägt eine Kette um den Hals.", "Der Hals tut weh."]
+      - id: "schulter"
+        title: "Die Schulter"
+        description: "Der obere Teil des Arms, der den Arm mit dem Rumpf verbindet."
+        plural: "Die Schultern"
+        related_cards: ["Der Arm", "Der Rumpf", "Der Nacken"]
+        examples: ["Er hat breite Schultern.", "Sie zuckt mit den Schultern.", "Die Schulter tut weh."]
+      - id: "arm"
+        title: "Der Arm"
+        description: "Ein Gliedmaß des Körpers, das von der Schulter zur Hand reicht."
+        plural: "Die Arme"
+        related_cards: ["Die Hand", "Die Schulter", "Der Ellbogen"]
+        examples: ["Er hat starke Arme.", "Sie hebt den Arm.", "Der Arm ist gebrochen."]
+      - id: "hand"
+        title: "Die Hand"
+        description: "Ein Körperteil am Ende des Arms, das zum Greifen dient."
+        plural: "Die Hände"
+        related_cards: ["Der Arm", "Die Finger", "Das Greifen"]
+        examples: ["Er hat große Hände.", "Sie wäscht sich die Hände.", "Die Hand tut weh."]
+      - id: "finger"
+        title: "Der Finger"
+        description: "Ein Teil der Hand, der zum Greifen und Tasten dient."
+        plural: "Die Finger"
+        related_cards: ["Die Hand", "Das Greifen", "Das Tasten"]
+        examples: ["Er hat lange Finger.", "Sie zeigt mit dem Finger.", "Der Finger ist verletzt."]
+      - id: "brust"
+        title: "Die Brust"
+        description: "Der vordere Teil des Rumpfes, der die Lunge und das Herz enthält."
+        plural: "Die Brüste"
+        related_cards: ["Der Rumpf", "Das Herz", "Die Lunge"]
+        examples: ["Er hat eine breite Brust.", "Sie atmet tief in die Brust.", "Die Brust tut weh."]
+      - id: "bauch"
+        title: "Der Bauch"
+        description: "Der vordere Teil des Rumpfes, der den Magen und andere Organe enthält."
+        plural: "Die Bäuche"
+        related_cards: ["Der Rumpf", "Der Magen", "Die Verdauung"]
+        examples: ["Er hat einen dicken Bauch.", "Sie hält sich den Bauch.", "Der Bauch tut weh."]
+      - id: "rücken"
+        title: "Der Rücken"
+        description: "Der hintere Teil des Rumpfes, der die Wirbelsäule enthält."
+        plural: "Die Rücken"
+        related_cards: ["Der Rumpf", "Die Wirbelsäule", "Der Nacken"]
+        examples: ["Er hat einen starken Rücken.", "Sie liegt auf dem Rücken.", "Der Rücken tut weh."]
+      - id: "bein"
+        title: "Das Bein"
+        description: "Ein Gliedmaß des Körpers, das zum Gehen und Stehen dient."
+        plural: "Die Beine"
+        related_cards: ["Der Fuß", "Das Gehen", "Das Stehen"]
+        examples: ["Er hat lange Beine.", "Sie steht auf einem Bein.", "Das Bein ist gebrochen."]
+      - id: "knie"
+        title: "Das Knie"
+        description: "Ein Gelenk, das den Oberschenkel mit dem Unterschenkel verbindet."
+        plural: "Die Knie"
+        related_cards: ["Das Bein", "Das Gelenk", "Das Beugen"]
+        examples: ["Er hat ein verletztes Knie.", "Sie kniet auf dem Boden.", "Das Knie tut weh."]
+      - id: "fuß"
+        title: "Der Fuß"
+        description: "Ein Körperteil am Ende des Beins, das zum Gehen und Stehen dient."
+        plural: "Die Füße"
+        related_cards: ["Das Bein", "Das Gehen", "Das Stehen"]
+        examples: ["Er hat große Füße.", "Sie steht auf den Füßen.", "Der Fuß tut weh."]
+      - id: "zehe"
+        title: "Die Zehe"
+        description: "Ein Teil des Fußes, der zum Gleichgewicht und Greifen dient."
+        plural: "Die Zehen"
+        related_cards: ["Der Fuß", "Das Gleichgewicht", "Das Greifen"]
+        examples: ["Er hat lange Zehen.", "Sie zeigt mit der Zehe.", "Die Zehe ist verletzt."]
+      - id: "zunge"
+        title: "Die Zunge"
+        description: "Ein Muskel im Mund, der beim Sprechen und Essen hilft."
+        plural: "Die Zungen"
+        related_cards: ["Der Mund", "Der Geschmack", "Das Sprechen"]
+        examples: ["Die Zunge ist rot.", "Er hat sich auf die Zunge gebissen.", "Mit der Zunge kann man schmecken."]
+      - id: "haut"
+        title: "Die Haut"
+        description: "Das größte Organ des menschlichen Körpers, das ihn schützt."
+        plural: "Die Häute"
+        related_cards: ["Der Körper", "Der Schutz", "Die Berührung"]
+        examples: ["Die Haut ist weich.", "Sie hat empfindliche Haut.", "Die Haut schützt den Körper."]
+      - id: "haar"
+        title: "Das Haar"
+        description: "Ein fadenförmiges Gebilde, das auf der Haut wächst."
+        plural: "Die Haare"
+        related_cards: ["Der Kopf", "Die Frisur", "Der Kamm"]
+        examples: ["Sie hat lange Haare.", "Er kämmt sich die Haare.", "Die Haare sind blond."]
+      - id: "gesicht"
+        title: "Das Gesicht"
+        description: "Der vordere Teil des Kopfes, der Augen, Nase und Mund enthält."
+        plural: "Die Gesichter"
+        related_cards: ["Der Kopf", "Die Augen", "Der Mund"]
+        examples: ["Er hat ein freundliches Gesicht.", "Sie wäscht sich das Gesicht.", "Das Gesicht ist rund."]
+
+  - name: Verbs
+    value: "Verben"
+    cards:
+      - id: "lesen"
+        title: "lesen"
+        description: "Geschriebene oder gedruckte Wörter mit den Augen erfassen und verstehen."
+        konjugation: "ich lese, du liest, er/sie/es liest, wir lesen, ihr lest, sie/Sie lesen"
+        zeiten: "Präsens, Präteritum (las), Perfekt (hat gelesen)"
+        related_cards: ["Das Buch", "Die Zeitung", "Der Text", "Das Auge"]
+        examples: ["Ich lese ein Buch.", "Er liest die Zeitung.", "Sie liest mit den Augen."]
+      - id: "schreiben"
+        title: "schreiben"
+        description: "Wörter oder Sätze mit einem Stift oder auf einer Tastatur erstellen."
+        konjugation: "ich schreibe, du schreibst, er/sie/es schreibt, wir schreiben, ihr schreibt, sie/Sie schreiben"
+        zeiten: "Präsens, Präteritum (schrieb), Perfekt (hat geschrieben)"
+        related_cards: ["Der Stift", "Das Papier", "Die Tastatur", "Die Hand"]
+        examples: ["Ich schreibe einen Brief.", "Er schreibt auf dem Papier.", "Sie schreibt mit der Hand."]
+      - id: "sprechen"
+        title: "sprechen"
+        description: "Wörter oder Sätze mit dem Mund aussprechen."
+        konjugation: "ich spreche, du sprichst, er/sie/es spricht, wir sprechen, ihr sprecht, sie/Sie sprechen"
+        zeiten: "Präsens, Präteritum (sprach), Perfekt (hat gesprochen)"
+        related_cards: ["Der Mund", "Die Zunge", "Die Stimme", "Das Gespräch"]
+        examples: ["Ich spreche Deutsch.", "Er spricht mit dem Lehrer.", "Sie spricht mit dem Mund."]
+      - id: "essen"
+        title: "essen"
+        description: "Nahrung zu sich nehmen."
+        konjugation: "ich esse, du isst, er/sie/es isst, wir essen, ihr esst, sie/Sie essen"
+        zeiten: "Präsens, Präteritum (aß), Perfekt (hat gegessen)"
+        related_cards: ["Das Essen", "Der Mund", "Der Magen", "Die Nahrung"]
+        examples: ["Ich esse einen Apfel.", "Er isst zu Mittag.", "Sie isst mit dem Mund."]
+      - id: "laufen"
+        title: "laufen"
+        description: "Sich zu Fuß fortbewegen."
+        konjugation: "ich laufe, du läufst, er/sie/es läuft, wir laufen, ihr lauft, sie/Sie laufen"
+        zeiten: "Präsens, Präteritum (lief), Perfekt (ist gelaufen)"
+        related_cards: ["Das Bein", "Der Fuß", "Das Gehen", "Das Rennen"]
+        examples: ["Ich laufe im Park.", "Er läuft zur Arbeit.", "Man läuft mit den Beinen."]
+      - id: "riechen"
+        title: "riechen"
+        description: "Gerüche mit der Nase wahrnehmen."
+        konjugation: "ich rieche, du riechst, er/sie/es riecht, wir riechen, ihr riecht, sie/Sie riechen"
+        zeiten: "Präsens, Präteritum (roch), Perfekt (hat gerochen)"
+        related_cards: ["Die Nase", "Der Geruch", "Das Parfüm", "Das Riechen"]
+        examples: ["Ich rieche die Blumen.", "Er riecht das Essen.", "Sie riecht mit der Nase."]
+      - id: "schwimmen"
+        title: "schwimmen"
+        description: "Sich im Wasser fortbewegen."
+        konjugation: "ich schwimme, du schwimmst, er/sie/es schwimmt, wir schwimmen, ihr schwimmt, sie/Sie schwimmen"
+        zeiten: "Präsens, Präteritum (schwamm), Perfekt (ist geschwommen)"
+        related_cards: ["Das Wasser", "Der See", "Das Schwimmbad", "Der Körper"]
+        examples: ["Ich schwimme im See.", "Er schwimmt im Schwimmbad.", "Sie schwimmt mit dem Körper."]
+      - id: "joggen"
+        title: "joggen"
+        description: "Langsam und gleichmäßig laufen, um fit zu bleiben."
+        konjugation: "ich jogge, du joggst, er/sie/es joggt, wir joggen, ihr joggt, sie/Sie joggen"
+        zeiten: "Präsens, Präteritum (joggte), Perfekt (ist gejoggt)"
+        related_cards: ["Das Laufen", "Der Park", "Die Fitness", "Das Bein"]
+        examples: ["Ich jogge jeden Morgen.", "Er joggt im Park.", "Sie joggt mit den Beinen."]
+      - id: "springen"
+        title: "springen"
+        description: "Sich mit einem Satz in die Luft erheben."
+        konjugation: "ich springe, du springst, er/sie/es springt, wir springen, ihr springt, sie/Sie springen"
+        zeiten: "Präsens, Präteritum (sprang), Perfekt (ist gesprungen)"
+        related_cards: ["Das Bein", "Der Sprung", "Die Höhe", "Das Hüpfen"]
+        examples: ["Ich springe hoch.", "Er springt über den Zaun.", "Sie springt mit den Beinen."]
+      - id: "greifen"
+        title: "greifen"
+        description: "Etwas mit der Hand fassen."
+        konjugation: "ich greife, du greifst, er/sie/es greift, wir greifen, ihr greift, sie/Sie greifen"
+        zeiten: "Präsens, Präteritum (griff), Perfekt (hat gegriffen)"
+        related_cards: ["Die Hand", "Das Fassen", "Der Griff", "Das Objekt"]
+        examples: ["Ich greife nach dem Buch.", "Er greift die Flasche.", "Sie greift mit der Hand."]
+      - id: "halten"
+        title: "halten"
+        description: "Etwas in der Hand festhalten."
+        konjugation: "ich halte, du hältst, er/sie/es hält, wir halten, ihr haltet, sie/Sie halten"
+        zeiten: "Präsens, Präteritum (hielt), Perfekt (hat gehalten)"
+        related_cards: ["Die Hand", "Das Festhalten", "Der Griff", "Das Objekt"]
+        examples: ["Ich halte das Seil.", "Er hält die Tasche.", "Sie hält mit der Hand."]
+      - id: "schlagen"
+        title: "schlagen"
+        description: "Mit der Hand oder einem Gegenstand auf etwas treffen."
+        konjugation: "ich schlage, du schlägst, er/sie/es schlägt, wir schlagen, ihr schlagt, sie/Sie schlagen"
+        zeiten: "Präsens, Präteritum (schlug), Perfekt (hat geschlagen)"
+        related_cards: ["Die Hand", "Der Schlag", "Der Kampf", "Das Treffen"]
+        examples: ["Ich schlage den Ball.", "Er schlägt auf den Tisch.", "Sie schlägt mit der Hand."]
+      - id: "schieben"
+        title: "schieben"
+        description: "Etwas mit Kraft in eine Richtung bewegen."
+        konjugation: "ich schiebe, du schiebst, er/sie/es schiebt, wir schieben, ihr schiebt, sie/Sie schieben"
+        zeiten: "Präsens, Präteritum (schob), Perfekt (hat geschoben)"
+        related_cards: ["Die Hand", "Das Bewegen", "Der Druck", "Das Objekt"]
+        examples: ["Ich schiebe den Wagen.", "Er schiebt die Tür.", "Sie schiebt mit der Hand."]
+      - id: "mischen"
+        title: "mischen"
+        description: "Verschiedene Dinge miteinander vermengen."
+        konjugation: "ich mische, du mischst, er/sie/es mischt, wir mischen, ihr mischt, sie/Sie mischen"
+        zeiten: "Präsens, Präteritum (mischte), Perfekt (hat gemischt)"
+        related_cards: ["Die Hand", "Das Vermengen", "Die Mischung", "Das Objekt"]
+        examples: ["Ich mische die Karten.", "Er mischt die Zutaten.", "Sie mischt mit der Hand."]
+      - id: "berühren"
+        title: "berühren"
+        description: "Mit der Hand oder einem anderen Körperteil leicht anfassen."
+        konjugation: "ich berühre, du berührst, er/sie/es berührt, wir berühren, ihr berührt, sie/Sie berühren"
+        zeiten: "Präsens, Präteritum (berührte), Perfekt (hat berührt)"
+        related_cards: ["Die Hand", "Das Anfassen", "Der Kontakt", "Das Objekt"]
+        examples: ["Ich berühre den Bildschirm.", "Er berührt die Wand.", "Sie berührt mit der Hand."]
+      - id: "ziehen"
+        title: "ziehen"
+        description: "Etwas in eine Richtung bewegen, indem man daran zieht."
+        konjugation: "ich ziehe, du ziehst, er/sie/es zieht, wir ziehen, ihr zieht, sie/Sie ziehen"
+        zeiten: "Präsens, Präteritum (zog), Perfekt (hat gezogen)"
+        related_cards: ["Die Hand", "Das Bewegen", "Der Zug", "Das Objekt"]
+        examples: ["Ich ziehe den Karren.", "Er zieht die Tür auf.", "Sie zieht mit der Hand."]
+      - id: "drücken"
+        title: "drücken"
+        description: "Mit Kraft auf etwas pressen."
+        konjugation: "ich drücke, du drückst, er/sie/es drückt, wir drücken, ihr drückt, sie/Sie drücken"
+        zeiten: "Präsens, Präteritum (drückte), Perfekt (hat gedrückt)"
+        related_cards: ["Die Hand", "Der Druck", "Das Pressen", "Das Objekt"]
+        examples: ["Ich drücke den Knopf.", "Er drückt die Tür.", "Sie drückt mit der Hand."]
+      - id: "treten"
+        title: "treten"
+        description: "Mit dem Fuß auf etwas stoßen."
+        konjugation: "ich trete, du trittst, er/sie/es tritt, wir treten, ihr tretet, sie/Sie treten"
+        zeiten: "Präsens, Präteritum (trat), Perfekt (hat getreten)"
+        related_cards: ["Der Fuß", "Das Stoßen", "Der Tritt", "Das Bein"]
+        examples: ["Ich trete den Ball.", "Er tritt gegen die Tür.", "Sie tritt mit dem Fuß."]
+      - id: "stehen"
+        title: "stehen"
+        description: "Aufrecht auf den Füßen sein."
+        konjugation: "ich stehe, du stehst, er/sie/es steht, wir stehen, ihr steht, sie/Sie stehen"
+        zeiten: "Präsens, Präteritum (stand), Perfekt (hat gestanden)"
+        related_cards: ["Der Fuß", "Das Stehen", "Die Beine", "Der Körper"]
+        examples: ["Ich stehe auf dem Boden.", "Er steht an der Wand.", "Sie steht mit den Füßen."]
+      - id: "tanzen"
+        title: "tanzen"
+        description: "Sich rhythmisch zur Musik bewegen."
+        konjugation: "ich tanze, du tanzt, er/sie/es tanzt, wir tanzen, ihr tanzt, sie/Sie tanzen"
+        zeiten: "Präsens, Präteritum (tanzte), Perfekt (hat getanzt)"
+        related_cards: ["Der Fuß", "Die Musik", "Die Bewegung", "Das Bein"]
+        examples: ["Ich tanze auf der Party.", "Er tanzt zur Musik.", "Sie tanzt mit den Füßen."]
+      - id: "rühren"
+        title: "rühren"
+        description: "Eine Flüssigkeit oder eine Masse mit einem Löffel oder einem anderen Werkzeug bewegen."
+        konjugation: "ich rühre, du rührst, er/sie/es rührt, wir rühren, ihr rührt, sie/Sie rühren"
+        zeiten: "Präsens, Präteritum (rührte), Perfekt (hat gerührt)"
+        related_cards: ["Der Löffel", "Die Suppe", "Das Kochen", "Die Bewegung"]
+        examples: ["Ich rühre die Suppe um.", "Er rührt den Teig mit der Hand.", "Sie rührt den Kaffee mit Zucker."]

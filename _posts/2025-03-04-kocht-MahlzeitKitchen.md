@@ -1,5 +1,5 @@
 ---
-title:  "Eine Person kocht eine Mahlzeit in ihrer Küche"
+title:  "Eltern helfen ihren Kindern bei den Hausaufgaben"
 date:   2025-03-04 21:30:00 +0100
 categories: [bildbeschreibung, üben]
 ---

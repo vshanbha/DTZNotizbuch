@@ -798,3 +798,79 @@ schwimmen:
   description: "पाण्यात हालचाल करणे."
 plannen:
   description: "योजना बनवणे."
+kopf:
+  description: "मानव शरीराचा वरचा भाग, ज्यामध्ये मेंदू आणि इंद्रिये असतात."
+auge:
+  description: "दृष्टीसाठी जबाबदार असलेले इंद्रिय."
+ohr:
+  description: "श्रवणासाठी जबाबदार असलेले इंद्रिय."
+nase:
+  description: "श्वास घेण्यासाठी आणि वास घेण्यासाठी जबाबदार असलेले इंद्रिय."
+mund:
+  description: "अन्न खाण्यासाठी आणि बोलण्यासाठी वापरलेले शरीराचे भाग."
+zahn:
+  description: "अन्न चावण्यासाठी आणि चिरण्यासाठी वापरलेले कठोर संरचना."
+hals:
+  description: "डोके आणि धड जोडणारा शरीराचा भाग."
+schulter:
+  description: "बाहू आणि धड जोडणारा शरीराचा भाग."
+arm:
+  description: "खांद्यापासून हातापर्यंतचा शरीराचा भाग."
+hand:
+  description: "बाहूचा शेवटचा भाग, ज्यामध्ये बोटे असतात."
+finger:
+  description: "हाताच्या पाच लांबड्या भागांपैकी एक."
+brust:
+  description: "छातीचा पुढचा भाग, ज्यामध्ये हृदय आणि फुफ्फुसे असतात."
+bauch:
+  description: "पोटाचा भाग, ज्यामध्ये पचनसंस्था असते."
+rücken:
+  description: "शरीराचा मागचा भाग, ज्यामध्ये पाठीचा कणा असतो."
+bein:
+  description: "धडापासून पायापर्यंतचा शरीराचा भाग."
+knie:
+  description: "पायाच्या मध्यभागी असलेला सांधा."
+fuß:
+  description: "पायाचा खालचा भाग, ज्यावर चालतो."
+zehe:
+  description: "पायाच्या पाच लांबड्या भागांपैकी एक."
+zunge:
+  description: "तोंडातील स्नायू, ज्याचा वापर चव घेण्यासाठी आणि बोलण्यासाठी होतो."
+haut:
+  description: "शरीराचे बाह्य आवरण."
+haar:
+  description: "डोक्यावर आणि शरीरावर उगवणारे तंतू."
+gesicht:
+  description: "डोक्याचा पुढचा भाग, ज्यामध्ये डोळे, नाक, तोंड आणि कान असतात."
+lesen:
+  description: "लिखित किंवा मुद्रित मजकूर समजणे."
+essen:
+  description: "अन्नाचे सेवन करणे."
+riechen:
+  description: "वास घेणे."
+joggen:
+  description: "हळूगतीने धावणे."
+springen:
+  description: "जमिनीवरून उडी मारणे."
+greifen:
+  description: "काहीतरी पकडणे."
+halten:
+  description: "काहीतरी धरून ठेवणे."
+schlagen:
+  description: "काहीतरी जोरात मारणे."
+schieben:
+  description: "काहीतरी पुढे ढकलणे."
+mischen:
+  description: "विविध घटक एकत्र करणे."
+berühren:
+  description: "काहीतरी स्पर्श करणे."
+ziehen:
+  description: "काहीतरी खेचणे."
+rühren:
+  description: "काहीतरी हलवणे किंवा ढवळणे."
+drücken:
+  description: "काहीतरी दाबणे."
+treten:
+  description: "पायाने मारणे."
+tanzen:
+  description: "संगीताच्या तालावर हालचाल करणे."
