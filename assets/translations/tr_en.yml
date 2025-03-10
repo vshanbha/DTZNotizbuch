@@ -876,3 +876,215 @@ treten:
   description: "To strike with the foot."
 tanzen:
   description: "To move rhythmically to music."
+drogerie:
+  description: "A store that sells toiletries, cosmetics, and other household items."
+sprechstunde:
+  description: "A scheduled time when a doctor is available to see patients."
+praxis:
+  description: "A place where a doctor or dentist practices."
+termin:
+  description: "An appointment or scheduled meeting."
+grippe:
+  description: "An infectious disease caused by the influenza virus."
+fieber:
+  description: "An elevated body temperature indicating illness."
+operation:
+  description: "A surgical procedure to treat or diagnose a condition."
+temperatur:
+  description: "The degree of heat present in a substance or object."
+erkältung:
+  description: "A common viral infection causing a runny nose, sore throat, and cough."
+schnupfen:
+  description: "A condition characterized by a runny or stuffy nose."
+husten:
+  description: "A reflex action to clear the throat of mucus or irritants."
+krankenhaus:
+  description: "A medical institution where patients receive treatment."
+besuchszeit:
+  description: "The designated time for visitors to see patients in a hospital."
+klinik:
+  description: "A healthcare facility for outpatient treatment."
+pflaster:
+  description: "A small adhesive bandage used to cover minor wounds."
+tablette:
+  description: "A small, solid dose of medication."
+verbandszeug:
+  description: "Materials used for dressing wounds."
+tropfen:
+  description: "A liquid medication administered in small drops."
+pille:
+  description: "A small, round dose of medication taken orally."
+gipsverband:
+  description: "A plaster cast used to immobilize broken bones."
+spritze:
+  description: "A device used to inject medication into the body."
+überweisung:
+  description: "A referral to a specialist or another doctor."
+gesundheitskarte:
+  description: "A card that provides access to healthcare services."
+apotheke:
+  description: "A place where medications are dispensed."
+krankschreibung:
+  description: "A medical certificate indicating that a person is unfit for work."
+krankenkasse:
+  description: "A health insurance provider."
+versicherung:
+  description: "A contract providing financial protection against specific risks."
+hausarzt:
+  description: "A general practitioner who provides primary care."
+medikamente:
+  description: "Substances used to treat or prevent diseases."
+wärme:
+  description: "The quality of being warm or having a high temperature."
+kinderarzt:
+  description: "A doctor who specializes in treating children."
+fehlen:
+  description: "To be absent or missing."
+kartoffel:
+  description: "A starchy tuber used as a vegetable."
+schinken:
+  description: "Cured or smoked pork."
+bananen:
+  description: "A long, curved fruit with a yellow skin."
+salami:
+  description: "A type of cured sausage."
+bier:
+  description: "An alcoholic drink made from fermented grains."
+butter:
+  description: "A dairy product made from churning cream."
+käse:
+  description: "A dairy product made from curdled milk."
+apfel:
+  description: "A round fruit with red, green, or yellow skin."
+apfelsaft:
+  description: "Juice made from apples."
+kuchen:
+  description: "A sweet baked dessert."
+knoblauch:
+  description: "A pungent bulb used as a seasoning."
+salz:
+  description: "A mineral used to season food."
+zwiebeln:
+  description: "A bulb vegetable with a strong flavor."
+wein:
+  description: "An alcoholic drink made from fermented grapes."
+eis:
+  description: "A frozen dessert made from cream or milk."
+birne:
+  description: "A sweet fruit with a rounded base and tapering top."
+brötchen:
+  description: "A small bread roll."
+geflügel:
+  description: "Meat from birds such as chicken or turkey."
+apfelsinzn:
+  description: "A citrus fruit also known as an orange."
+milch:
+  description: "A white liquid produced by mammals."
+zitronen:
+  description: "A sour, yellow citrus fruit."
+karotten:
+  description: "A long, orange root vegetable."
+tomaten:
+  description: "A red, juicy fruit often used as a vegetable."
+sahne:
+  description: "A thick, fatty part of milk."
+hähnchen:
+  description: "Chicken meat."
+rindersteak:
+  description: "A cut of beef."
+pfeffer:
+  description: "A spice made from ground peppercorns."
+brot:
+  description: "A baked food made from flour and water."
+schokolade:
+  description: "A sweet treat made from cocoa."
+mineralwasser:
+  description: "Water containing minerals."
+wasser:
+  description: "A clear, colorless liquid essential for life."
+pudding:
+  description: "A sweet, creamy dessert."
+melonen:
+  description: "Large, juicy fruits with a thick rind."
+obst:
+  description: "Edible fruits."
+gemüse:
+  description: "Edible plants or parts of plants."
+wurst:
+  description: "A type of sausage."
+backward:
+  description: "In reverse direction."
+süßigkeit:
+  description: "A sweet treat or candy."
+getrank:
+  description: "A beverage."
+speiskarte:
+  description: "A menu in a restaurant."
+lebensmittel:
+  description: "Food items."
+mengenangaben:
+  description: "Quantities or measurements."
+glas:
+  description: "A container made of glass."
+flasche:
+  description: "A bottle."
+stück:
+  description: "A piece or portion."
+tafel:
+  description: "A bar or slab, often of chocolate."
+dose:
+  description: "A can or tin."
+kasten:
+  description: "A crate or box."
+päckchen:
+  description: "A small packet."
+zucker:
+  description: "A sweet crystalline substance."
+nachtisch:
+  description: "A dessert."
+salat:
+  description: "A dish of mixed vegetables."
+schnitzel:
+  description: "A breaded and fried meat cutlet."
+gemüsepfanne:
+  description: "A vegetable stir-fry."
+nudel:
+  description: "A type of pasta."
+fisch:
+  description: "A cold-blooded aquatic animal."
+fleisch:
+  description: "Meat from animals."
+erdbeer:
+  description: "A sweet, red fruit."
+pfand:
+  description: "A deposit or pledge."
+hackfleisch:
+  description: "Ground meat."
+haltbarkeitsdatum:
+  description: "The expiration date."
+joghurt:
+  description: "A fermented dairy product."
+kochen:
+  description: "To prepare food by heating."
+braten:
+  description: "To cook by frying or roasting."
+bringen:
+  description: "To bring something."
+mitbringen:
+  description: "To bring something along."
+schmecken:
+  description: "To taste."
+probieren:
+  description: "To try or sample."
+trinken:
+  description: "To consume liquids."
+brauchen:
+  description: "To need something."
+verbrauchen:
+  description: "To use up something."
+geben:
+  description: "To give something."
+zurückgeben:
+  description: "To return something."
+empfehlen:
+  description: "To recommend something."

@@ -136,7 +136,192 @@ categories:
         plural: "Die Gesichter"
         related_cards: ["Der Kopf", "Die Augen", "Der Mund"]
         examples: ["Er hat ein freundliches Gesicht.", "Sie wäscht sich das Gesicht.", "Das Gesicht ist rund."]
-
+      - id: "drogerie"
+        title: "Die Drogerie"
+        description: "Ein Geschäft, das Produkte für Gesundheit und Körperpflege verkauft."
+        plural: "Die Drogerien"
+        related_cards: ["Das Geschäft", "Die Gesundheit", "Die Körperpflege"]
+        examples: ["Ich kaufe Shampoo in der Drogerie.", "Er geht in die Drogerie.", "Sie arbeitet in einer Drogerie."]
+      - id: "sprechstunde"
+        title: "Die Sprechstunde"
+        description: "Eine festgelegte Zeit, in der ein Arzt Patienten empfängt."
+        plural: "Die Sprechstunden"
+        related_cards: ["Der Arzt", "Der Patient", "Die Praxis"]
+        examples: ["Ich habe eine Sprechstunde um 10 Uhr.", "Er geht zur Sprechstunde.", "Sie hat eine Sprechstunde am Nachmittag."]
+      - id: "praxis"
+        title: "Die Praxis"
+        description: "Der Arbeitsort eines Arztes oder Therapeuten."
+        plural: "Die Praxen"
+        related_cards: ["Der Arzt", "Die Sprechstunde", "Der Patient"]
+        examples: ["Ich gehe in die Praxis.", "Er arbeitet in einer Praxis.", "Sie hat eine Praxis in der Stadt."]
+      - id: "termin"
+        title: "Der Termin"
+        description: "Eine festgelegte Zeit für ein Treffen oder eine Besprechung."
+        plural: "Die Termine"
+        related_cards: ["Die Sprechstunde", "Die Praxis", "Der Arzt"]
+        examples: ["Ich habe einen Termin beim Arzt.", "Er vereinbart einen Termin.", "Sie hat einen Termin um 14 Uhr."]
+      - id: "grippe"
+        title: "Die Grippe"
+        description: "Eine ansteckende Viruserkrankung mit Fieber und Gliederschmerzen."
+        plural: "Die Grippen"
+        related_cards: ["Das Fieber", "Die Erkältung", "Der Husten"]
+        examples: ["Ich habe die Grippe.", "Er erholt sich von der Grippe.", "Sie hat Grippesymptome."]
+      - id: "fieber"
+        title: "Das Fieber"
+        description: "Eine erhöhte Körpertemperatur als Reaktion auf eine Infektion."
+        plural: "Die Fieber"
+        related_cards: ["Die Grippe", "Die Erkältung", "Die Temperatur"]
+        examples: ["Ich habe hohes Fieber.", "Er misst sein Fieber.", "Sie hat Fieber."]
+      - id: "operation"
+        title: "Die Operation"
+        description: "Ein chirurgischer Eingriff zur Behandlung von Krankheiten oder Verletzungen."
+        plural: "Die Operationen"
+        related_cards: ["Der Arzt", "Das Krankenhaus", "Die Klinik"]
+        examples: ["Ich habe eine Operation am Knie.", "Er erholt sich von der Operation.", "Sie hat eine Operation geplant."]
+      - id: "temperatur"
+        title: "Die Temperatur"
+        description: "Ein Maß für die Wärme oder Kälte eines Körpers oder der Umgebung."
+        plural: "Die Temperaturen"
+        related_cards: ["Das Fieber", "Die Grippe", "Die Erkältung"]
+        examples: ["Ich messe meine Temperatur.", "Er hat eine hohe Temperatur.", "Sie kontrolliert die Temperatur."]
+      - id: "erkältung"
+        title: "Die Erkältung"
+        description: "Eine leichte Infektion der oberen Atemwege."
+        plural: "Die Erkältungen"
+        related_cards: ["Der Husten", "Der Schnupfen", "Das Fieber"]
+        examples: ["Ich habe eine Erkältung.", "Er erholt sich von der Erkältung.", "Sie hat Erkältungssymptome."]
+      - id: "schnupfen"
+        title: "Der Schnupfen"
+        description: "Eine Entzündung der Nasenschleimhaut mit vermehrter Sekretion."
+        plural: "Die Schnupfen"
+        related_cards: ["Die Erkältung", "Der Husten", "Das Fieber"]
+        examples: ["Ich habe Schnupfen.", "Er leidet unter Schnupfen.", "Sie hat Schnupfensymptome."]
+      - id: "husten"
+        title: "Der Husten"
+        description: "Ein reflexartiges Ausstoßen von Luft aus den Atemwegen."
+        plural: "Die Husten"
+        related_cards: ["Die Erkältung", "Der Schnupfen", "Das Fieber"]
+        examples: ["Ich habe Husten.", "Er hustet stark.", "Sie hat Husten."]
+      - id: "krankenhaus"
+        title: "Das Krankenhaus"
+        description: "Eine Einrichtung zur medizinischen Behandlung und Pflege von Patienten."
+        plural: "Die Krankenhäuser"
+        related_cards: ["Die Klinik", "Die Operation", "Der Arzt"]
+        examples: ["Ich gehe ins Krankenhaus.", "Er arbeitet im Krankenhaus.", "Sie wird im Krankenhaus behandelt."]
+      - id: "besuchszeit"
+        title: "Die Besuchszeit"
+        description: "Die festgelegte Zeit, in der Besucher Patienten im Krankenhaus besuchen dürfen."
+        plural: "Die Besuchszeiten"
+        related_cards: ["Das Krankenhaus", "Die Klinik", "Der Patient"]
+        examples: ["Ich besuche ihn während der Besuchszeit.", "Er fragt nach der Besuchszeit.", "Sie kommt zur Besuchszeit."]
+      - id: "klinik"
+        title: "Die Klinik"
+        description: "Eine medizinische Einrichtung zur Behandlung von Patienten."
+        plural: "Die Kliniken"
+        related_cards: ["Das Krankenhaus", "Die Operation", "Der Arzt"]
+        examples: ["Ich gehe in die Klinik.", "Er arbeitet in einer Klinik.", "Sie wird in der Klinik behandelt."]
+      - id: "pflaster"
+        title: "Das Pflaster"
+        description: "Ein Verbandmaterial zum Abdecken von Wunden."
+        plural: "Die Pflaster"
+        related_cards: ["Die Wunde", "Das Verbandszeug", "Die Verletzung"]
+        examples: ["Ich klebe ein Pflaster auf die Wunde.", "Er braucht ein Pflaster.", "Sie hat ein Pflaster auf dem Finger."]
+      - id: "tablette"
+        title: "Die Tablette"
+        description: "Eine feste Arzneiform zur Einnahme."
+        plural: "Die Tabletten"
+        related_cards: ["Das Medikament", "Die Pille", "Die Tropfen"]
+        examples: ["Ich nehme eine Tablette.", "Er schluckt die Tablette.", "Sie hat Tabletten gegen Kopfschmerzen."]
+      - id: "verbandszeug"
+        title: "Das Verbandszeug"
+        description: "Materialien zur Versorgung von Wunden."
+        plural: "Die Verbandszeuge"
+        related_cards: ["Das Pflaster", "Die Wunde", "Die Verletzung"]
+        examples: ["Ich brauche Verbandszeug.", "Er hat Verbandszeug im Haus.", "Sie benutzt Verbandszeug für die Wunde."]
+      - id: "tropfen"
+        title: "Die Tropfen"
+        description: "Eine flüssige Arzneiform zur Einnahme oder Anwendung."
+        plural: "Die Tropfen"
+        related_cards: ["Das Medikament", "Die Tablette", "Die Pille"]
+        examples: ["Ich nehme Tropfen gegen Husten.", "Er gibt sich Augentropfen.", "Sie hat Tropfen für die Nase."]
+      - id: "pille"
+        title: "Die Pille"
+        description: "Eine kleine, runde Arzneiform zur Einnahme."
+        plural: "Die Pillen"
+        related_cards: ["Die Tablette", "Das Medikament", "Die Tropfen"]
+        examples: ["Ich nehme eine Pille.", "Er schluckt die Pille.", "Sie hat Pillen gegen Schmerzen."]
+      - id: "gipsverband"
+        title: "Der Gipsverband"
+        description: "Ein fester Verband zur Ruhigstellung von Knochenbrüchen."
+        plural: "Die Gipsverbände"
+        related_cards: ["Der Bruch", "Die Verletzung", "Das Krankenhaus"]
+        examples: ["Ich habe einen Gipsverband am Arm.", "Er trägt einen Gipsverband.", "Sie bekommt einen Gipsverband."]
+      - id: "spritze"
+        title: "Die Spritze"
+        description: "Ein Instrument zur Injektion von Flüssigkeiten in den Körper."
+        plural: "Die Spritzen"
+        related_cards: ["Die Injektion", "Das Medikament", "Der Arzt"]
+        examples: ["Ich bekomme eine Spritze.", "Er gibt die Spritze.", "Sie hat Angst vor Spritzen."]
+      - id: "überweisung"
+        title: "Die Überweisung"
+        description: "Ein Dokument, das einen Patienten zu einem Spezialisten überweist."
+        plural: "Die Überweisungen"
+        related_cards: ["Der Arzt", "Die Praxis", "Der Spezialist"]
+        examples: ["Ich habe eine Überweisung zum Orthopäden.", "Er bekommt eine Überweisung.", "Sie bringt die Überweisung zum Arzt."]
+      - id: "gesundheitskarte"
+        title: "Die Gesundheitskarte"
+        description: "Eine Karte, die die Krankenversicherung des Patienten nachweist."
+        plural: "Die Gesundheitskarten"
+        related_cards: ["Die Versicherung", "Der Patient", "Die Praxis"]
+        examples: ["Ich zeige meine Gesundheitskarte.", "Er hat seine Gesundheitskarte verloren.", "Sie braucht die Gesundheitskarte beim Arzt."]
+      - id: "apothem"
+        title: "Das Apothem"
+        description: "Ein Begriff aus der Geometrie, der die Höhe eines gleichseitigen Dreiecks beschreibt."
+        plural: "Die Apotheme"
+        related_cards: ["Das Dreieck", "Die Geometrie", "Die Höhe"]
+        examples: ["Das Apothem eines Dreiecks ist wichtig.", "Er berechnet das Apothem.", "Sie erklärt das Apothem."]
+      - id: "krankschreibung"
+        title: "Die Krankschreibung"
+        description: "Ein Dokument, das die Arbeitsunfähigkeit eines Patienten bescheinigt."
+        plural: "Die Krankschreibungen"
+        related_cards: ["Der Arzt", "Der Patient", "Die Krankheit"]
+        examples: ["Ich habe eine Krankschreibung vom Arzt.", "Er bekommt eine Krankschreibung.", "Sie bringt die Krankschreibung zur Arbeit."]
+      - id: "krankenkasse"
+        title: "Die Krankenkasse"
+        description: "Eine Organisation, die die Gesundheitskosten der Versicherten übernimmt."
+        plural: "Die Krankenkassen"
+        related_cards: ["Die Versicherung", "Der Patient", "Die Gesundheitskarte"]
+        examples: ["Ich bin bei der Krankenkasse versichert.", "Er wechselt die Krankenkasse.", "Sie arbeitet bei einer Krankenkasse."]
+      - id: "versicherung"
+        title: "Die Versicherung"
+        description: "Ein Vertrag, der Schutz gegen finanzielle Verluste bietet."
+        plural: "Die Versicherungen"
+        related_cards: ["Die Krankenkasse", "Der Vertrag", "Der Schutz"]
+        examples: ["Ich habe eine Krankenversicherung.", "Er schließt eine Versicherung ab.", "Sie überprüft ihre Versicherung."]
+      - id: "hausarzt"
+        title: "Der Hausarzt"
+        description: "Ein Arzt, der die allgemeine medizinische Versorgung übernimmt."
+        plural: "Die Hausärzte"
+        related_cards: ["Der Arzt", "Die Praxis", "Der Patient"]
+        examples: ["Ich gehe zum Hausarzt.", "Er ist mein Hausarzt.", "Sie besucht ihren Hausarzt."]
+      - id: "medikamente"
+        title: "Die Medikamente"
+        description: "Substanzen, die zur Heilung oder Linderung von Krankheiten verwendet werden."
+        plural: "Die Medikamente"
+        related_cards: ["Die Tablette", "Die Pille", "Die Tropfen"]
+        examples: ["Ich nehme Medikamente.", "Er braucht Medikamente.", "Sie kauft Medikamente."]
+      - id: "wärme"
+        title: "Die Wärme"
+        description: "Eine Form von Energie, die durch Temperaturunterschiede übertragen wird."
+        plural: "Die Wärmen"
+        related_cards: ["Die Temperatur", "Die Hitze", "Die Kälte"]
+        examples: ["Ich spüre die Wärme.", "Er genießt die Wärme.", "Sie braucht Wärme."]
+      - id: "kinderarzt"
+        title: "Der Kinderarzt"
+        description: "Ein Arzt, der auf die medizinische Versorgung von Kindern spezialisiert ist."
+        plural: "Die Kinderärzte"
+        related_cards: ["Das Kind", "Der Arzt", "Die Praxis"]
+        examples: ["Ich gehe mit meinem Kind zum Kinderarzt.", "Er ist ein guter Kinderarzt.", "Sie arbeitet als Kinderärztin."]
   - name: Verbs
     value: "Verben"
     cards:
@@ -287,3 +472,10 @@ categories:
         zeiten: "Präsens, Präteritum (rührte), Perfekt (hat gerührt)"
         related_cards: ["Der Löffel", "Die Suppe", "Das Kochen", "Die Bewegung"]
         examples: ["Ich rühre die Suppe um.", "Er rührt den Teig mit der Hand.", "Sie rührt den Kaffee mit Zucker."]
+      - id: "fehlen"
+        title: "fehlen"
+        description: "Nicht vorhanden sein oder vermisst werden."
+        konjugation: "ich fehle, du fehlst, er/sie/es fehlt, wir fehlen, ihr fehlt, sie/Sie fehlen"
+        zeiten: "Präsens, Präteritum (fehlte), Perfekt (hat gefehlt)"
+        related_cards: ["Das Fehlen", "Die Abwesenheit", "Das Vermissen"]
+        examples: ["Ich fehle heute in der Schule.", "Er fehlt bei der Besprechung.", "Sie fehlt wegen Krankheit."]
