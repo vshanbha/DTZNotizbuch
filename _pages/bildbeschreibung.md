@@ -2,7 +2,8 @@
 title: "Bildbeschreibung Tipps"
 ---
 
-Auf dieser Seite finden Sie einige Beispielsätze und Notizen, die die Schülerinnen und Schüler bei der Beschreibung von Fotos verwenden und auswendig lernen können. 
+Auf dieser Seite finden Sie einige Beispielsätze und Notizen, die die Schülerinnen und Schüler bei der Beschreibung von Fotos verwenden und auswendig lernen können. [Klicken Sie hier]({% link _posts/2025-03-04-picture-description-theme-examples.md %}) für weitere Praxisbeispiele zur Bildbeschreibung.
+
 ### Tipps zur Bildbeschreibung
 
 1. **Allgemeine Beschreibung**: Was sehen Sie auf dem Bild? Was ist das Hauptthema?
@@ -23,5 +24,3 @@ Auf dieser Seite finden Sie einige Beispielsätze und Notizen, die die Schüleri
 
 Diese Tipps helfen Ihnen, Bilder einfach und klar zu beschreiben.
 Suchen Sie nach Themen, die Sie üben möchten?
-
-[Hier klicken]({% link _posts/2025-03-04-picture-description-theme-examples.md %}) , um mehr über Bildbeschreibung zu erfahren

@@ -8,7 +8,7 @@ categories: [bildbeschreibung, üben]
 1. **Alltagsleben**
    - Eine [Person kocht eine Mahlzeit]({% link _posts/2025-03-04-kocht-MahlzeitKitchen.md %}) in ihrer Küche.
    - Jemand kauft Lebensmittel in einem Supermarkt ein.
-   - Eine Person putzt ihr Haus oder macht Wäsche.
+   - Eine [Person trennt Müll und sorgt]({% link _posts/2025-03-10-RecyclingBins.md %}) für eine umweltfreundliche Entsorgung.
    - Menschen spazieren mit ihren Hunden im Park.
 
 2. **Arbeit und Berufe**
@@ -36,7 +36,7 @@ categories: [bildbeschreibung, üben]
    - Eine belebte Stadtstraße mit Fußgängern und Verkehr.
 
 6. **Kulturelle Veranstaltungen**
-   - Menschen feiern ein traditionelles Fest mit Dekorationen und Kostümen.
+   - Menschen feiern ein traditionelles [Fest mit Dekorationen und Kostümen]({% link _posts/2025-03-09-dreigestirn.md %}).
    - Eine Parade mit Festwagen, Darstellern und Zuschauern.
    - Eine kulturelle Aufführung, wie traditioneller Tanz oder Musik.
    - Eine Kunstausstellung mit Besuchern, die die Kunstwerke bewundern.
