@@ -1,0 +1,488 @@
+title: Essen und Trinken
+topic: essen
+categories:
+  - name: Nouns
+    value: "Nomen"
+    cards:
+      - id: "kartoffel"
+        title: "Kartoffel 🥔"
+        description: "Ein Grundnahrungsmittel."
+        plural: "Kartoffeln"
+        related_cards: ["Gemüse", "Essen"]
+        examples: ["Kartoffeln sind lecker.", "Ich koche Kartoffeln."]
+      - id: "schinken"
+        title: "Schinken"
+        description: "Ein Fleischprodukt."
+        plural: "Schinken"
+        related_cards: ["Fleisch", "Essen"]
+        examples: ["Ich esse Schinken.", "Schinken ist lecker."]
+      - id: "bananen"
+        title: "Bananen 🍌"
+        description: "Gelbe Früchte."
+        plural: "Bananen"
+        related_cards: ["Obst", "Frucht"]
+        examples: ["Ich esse Bananen.", "Bananen sind gesund."]
+      - id: "salami"
+        title: "Salami"
+        description: "Eine Art von Wurst."
+        plural: "Salamis"
+        related_cards: ["Wurst", "Essen"]
+        examples: ["Ich esse Salami.", "Salami ist lecker."]
+      - id: "bier"
+        title: "Bier 🍺"
+        description: "Ein alkoholisches Getränk."
+        plural: "Biere"
+        related_cards: ["Getränk", "Alkohol"]
+        examples: ["Ich trinke Bier.", "Bier ist erfrischend."]
+      - id: "butter"
+        title: "Butter 🧈"
+        description: "Ein Milchprodukt."
+        plural: "Butter"
+        related_cards: ["Milch", "Essen"]
+        examples: ["Ich benutze Butter.", "Butter ist lecker."]
+      - id: "käse"
+        title: "Käse 🧀"
+        description: "Ein Milchprodukt."
+        plural: "Käse"
+        related_cards: ["Milch", "Essen"]
+        examples: ["Ich mag Käse.", "Käse ist lecker."]
+      - id: "apfel"
+        title: "Apfel 🍎"
+        description: "Eine rote Frucht."
+        plural: "Äpfel"
+        related_cards: ["Obst", "Frucht"]
+        examples: ["Ich esse einen Apfel.", "Äpfel sind gesund."]
+      - id: "apfelsaft"
+        title: "Apfelsaft 🧃"
+        description: "Ein Getränk aus Äpfeln."
+        plural: "Apfelsäfte"
+        related_cards: ["Getränk", "Frucht"]
+        examples: ["Ich trinke Apfelsaft.", "Apfelsaft ist lecker."]
+      - id: "kuchen"
+        title: "Kuchen 🍰"
+        description: "Ein süßes Gebäck."
+        plural: "Kuchen"
+        related_cards: ["Gebäck", "Essen"]
+        examples: ["Ich esse Kuchen.", "Kuchen ist lecker."]
+      - id: "knoblauch"
+        title: "Knoblauch 🧄"
+        description: "Eine aromatische Pflanze."
+        plural: "Knoblauch"
+        related_cards: ["Gewürz", "Essen"]
+        examples: ["Ich benutze Knoblauch.", "Knoblauch ist gesund."]
+      - id: "salz"
+        title: "Salz 🧂"
+        description: "Ein Gewürz."
+        plural: "Salze"
+        related_cards: ["Gewürz", "Essen"]
+        examples: ["Ich benutze Salz.", "Salz ist wichtig."]
+      - id: "zwiebeln"
+        title: "Zwiebeln 🧅"
+        description: "Eine aromatische Pflanze."
+        plural: "Zwiebeln"
+        related_cards: ["Gemüse", "Essen"]
+        examples: ["Ich benutze Zwiebeln.", "Zwiebeln sind gesund."]
+      - id: "wein"
+        title: "Wein 🍷"
+        description: "Ein alkoholisches Getränk."
+        plural: "Weine"
+        related_cards: ["Getränk", "Alkohol"]
+        examples: ["Ich trinke Wein.", "Wein ist lecker."]
+      - id: "eis"
+        title: "Eis 🍨"
+        description: "Ein gefrorenes Dessert."
+        plural: "Eis"
+        related_cards: ["Dessert", "Essen"]
+        examples: ["Ich esse Eis.", "Eis ist lecker."]
+      - id: "birne"
+        title: "Birne 🍐"
+        description: "Eine grüne Frucht."
+        plural: "Birnen"
+        related_cards: ["Obst", "Frucht"]
+        examples: ["Ich esse eine Birne.", "Birnen sind gesund."]
+      - id: "brötchen"
+        title: "Brötchen 🥖"
+        description: "Ein kleines Brot."
+        plural: "Brötchen"
+        related_cards: ["Brot", "Essen"]
+        examples: ["Ich esse ein Brötchen.", "Brötchen sind lecker."]
+      - id: "geflügel"
+        title: "Geflügel 🍗"
+        description: "Fleisch von Vögeln."
+        plural: "Geflügel"
+        related_cards: ["Fleisch", "Essen"]
+        examples: ["Ich esse Geflügel.", "Geflügel ist lecker."]
+      - id: "apfelsinen"
+        title: "Apfelsinen 🍊"
+        description: "Orangen."
+        plural: "Apfelsinen"
+        related_cards: ["Obst", "Frucht"]
+        examples: ["Ich esse Apfelsinen.", "Apfelsinen sind gesund."]
+      - id: "milch"
+        title: "Milch 🥛"
+        description: "Ein Getränk von Kühen."
+        plural: "Milch"
+        related_cards: ["Getränk", "Milchprodukt"]
+        examples: ["Ich trinke Milch.", "Milch ist gesund."]
+      - id: "zitronen"
+        title: "Zitronen 🍋"
+        description: "Gelbe Früchte."
+        plural: "Zitronen"
+        related_cards: ["Obst", "Frucht"]
+        examples: ["Ich benutze Zitronen.", "Zitronen sind sauer."]
+      - id: "karotten"
+        title: "Karotten 🥕"
+        description: "Oranges Gemüse."
+        plural: "Karotten"
+        related_cards: ["Gemüse", "Essen"]
+        examples: ["Ich esse Karotten.", "Karotten sind gesund."]
+      - id: "tomaten"
+        title: "Tomaten 🍅"
+        description: "Rotes Gemüse."
+        plural: "Tomaten"
+        related_cards: ["Gemüse", "Essen"]
+        examples: ["Ich esse Tomaten.", "Tomaten sind gesund."]
+      - id: "sahne"
+        title: "Sahne 🥛"
+        description: "Ein Milchprodukt."
+        plural: "Sahne"
+        related_cards: ["Milch", "Essen"]
+        examples: ["Ich benutze Sahne.", "Sahne ist lecker."]
+      - id: "hähnchen"
+        title: "Hähnchen 🍗"
+        description: "Fleisch von Hühnern."
+        plural: "Hähnchen"
+        related_cards: ["Fleisch", "Essen"]
+        examples: ["Ich esse Hähnchen.", "Hähnchen ist lecker."]
+      - id: "rindersteak"
+        title: "Rindersteak 🥩"
+        description: "Ein Stück Fleisch von Rindern."
+        plural: "Rindersteaks"
+        related_cards: ["Fleisch", "Essen"]
+        examples: ["Ich esse Rindersteak.", "Rindersteak ist lecker."]
+      - id: "pfeffer"
+        title: "Pfeffer 🌶️"
+        description: "Ein Gewürz."
+        plural: "Pfeffer"
+        related_cards: ["Gewürz", "Essen"]
+        examples: ["Ich benutze Pfeffer.", "Pfeffer ist scharf."]
+      - id: "brot"
+        title: "Brot 🍞"
+        description: "Ein Grundnahrungsmittel."
+        plural: "Brote"
+        related_cards: ["Essen", "Backwaren"]
+        examples: ["Ich esse Brot.", "Brot ist lecker."]
+      - id: "schokolade"
+        title: "Schokolade 🍫"
+        description: "Ein süßes Dessert."
+        plural: "Schokoladen"
+        related_cards: ["Dessert", "Essen"]
+        examples: ["Ich esse Schokolade.", "Schokolade ist lecker."]
+      - id: "mineralwasser"
+        title: "Mineralwasser 🥤"
+        description: "Ein Getränk."
+        plural: "Mineralwasser"
+        related_cards: ["Getränk", "Wasser"]
+        examples: ["Ich trinke Mineralwasser.", "Mineralwasser ist erfrischend."]
+      - id: "wasser"
+        title: "Wasser 💧"
+        description: "Ein Getränk."
+        plural: "Wasser"
+        related_cards: ["Getränk", "H2O"]
+        examples: ["Ich trinke Wasser.", "Wasser ist lebenswichtig."]
+      - id: "pudding"
+        title: "Pudding 🍮"
+        description: "Ein süßes Dessert."
+        plural: "Puddings"
+        related_cards: ["Dessert", "Essen"]
+        examples: ["Ich esse Pudding.", "Pudding ist lecker."]
+      - id: "melonen"
+        title: "Melonen 🍈"
+        description: "Große Früchte."
+        plural: "Melonen"
+        related_cards: ["Obst", "Frucht"]
+        examples: ["Ich esse Melonen.", "Melonen sind erfrischend."]
+      - id: "obst"
+        title: "Obst 🍇"
+        description: "Früchte."
+        plural: "Obst"
+        related_cards: ["Frucht", "Essen"]
+        examples: ["Ich esse Obst.", "Obst ist gesund."]
+      - id: "gemüse"
+        title: "Gemüse 🥦"
+        description: "Pflanzliche Nahrung."
+        plural: "Gemüse"
+        related_cards: ["Essen", "Pflanze"]
+        examples: ["Ich esse Gemüse.", "Gemüse ist gesund."]
+      - id: "wurst"
+        title: "Wurst 🌭"
+        description: "Ein Fleischprodukt."
+        plural: "Würste"
+        related_cards: ["Fleisch", "Essen"]
+        examples: ["Ich esse Wurst.", "Wurst ist lecker."]
+      - id: "süßigkeit"
+        title: "Süßigkeit 🍬"
+        description: "Ein süßes Lebensmittel."
+        plural: "Süßigkeiten"
+        related_cards: ["Dessert", "Essen"]
+        examples: ["Ich esse Süßigkeiten.", "Süßigkeiten sind lecker."]
+      - id: "getränk"
+        title: "Getränk 🥤"
+        description: "Eine Flüssigkeit zum Trinken."
+        plural: "Getränke"
+        related_cards: ["Essen", "Flüssigkeit"]
+        examples: ["Ich trinke ein Getränk.", "Getränke sind erfrischend."]
+      - id: "speiskarte"
+        title: "Speisekarte"
+        description: "Eine Liste von Gerichten in einem Restaurant."
+        plural: "Speisekarten"
+        related_cards: ["Restaurant", "Essen"]
+        examples: ["Ich lese die Speisekarte.", "Die Speisekarte ist umfangreich."]
+      - id: "lebensmittel"
+        title: "Lebensmittel"
+        description: "Nahrungsmittel, die man zum Leben braucht."
+        plural: "Lebensmittel"
+        related_cards: ["Essen", "Nahrung"]
+        examples: ["Ich kaufe Lebensmittel.", "Lebensmittel sind wichtig."]
+      - id: "mengenangaben"
+        title: "Mengenangaben"
+        description: "Angaben zur Menge von etwas."
+        plural: "Mengenangaben"
+        related_cards: ["Maßeinheit", "Essen"]
+        examples: ["Ich brauche Mengenangaben.", "Die Mengenangaben sind genau."]
+      - id: "glas"
+        title: "Glas"
+        description: "Ein Behälter aus Glas."
+        plural: "Gläser"
+        related_cards: ["Behälter", "Getränk"]
+        examples: ["Ich trinke aus einem Glas.", "Das Glas ist voll."]
+      - id: "flasche"
+        title: "Flasche"
+        description: "Ein Behälter für Flüssigkeiten."
+        plural: "Flaschen"
+        related_cards: ["Behälter", "Getränk"]
+        examples: ["Ich kaufe eine Flasche Wasser.", "Die Flasche ist leer."]
+      - id: "stück"
+        title: "Stück"
+        description: "Ein Teil von etwas."
+        plural: "Stücke"
+        related_cards: ["Mengenangaben", "Essen"]
+        examples: ["Ich nehme ein Stück Kuchen.", "Das Stück ist groß."]
+      - id: "tafel"
+        title: "Tafel"
+        description: "Eine flache Platte, oft aus Schokolade."
+        plural: "Tafeln"
+        related_cards: ["Schokolade", "Essen"]
+        examples: ["Ich esse eine Tafel Schokolade.", "Die Tafel ist lecker."]
+      - id: "dose"
+        title: "Dose"
+        description: "Ein Behälter aus Metall."
+        plural: "Dosen"
+        related_cards: ["Behälter", "Essen"]
+        examples: ["Ich öffne eine Dose.", "Die Dose ist voll."]
+      - id: "kasten"
+        title: "Kasten"
+        description: "Ein Behälter für Flaschen."
+        plural: "Kästen"
+        related_cards: ["Behälter", "Getränk"]
+        examples: ["Ich kaufe einen Kasten Bier.", "Der Kasten ist schwer."]
+      - id: "päckchen"
+        title: "Päckchen"
+        description: "Ein kleines Paket."
+        plural: "Päckchen"
+        related_cards: ["Behälter", "Essen"]
+        examples: ["Ich öffne ein Päckchen Zucker.", "Das Päckchen ist klein."]
+      - id: "zucker"
+        title: "Zucker"
+        description: "Ein süßes Lebensmittel."
+        plural: "Zucker"
+        related_cards: ["Süßigkeit", "Essen"]
+        examples: ["Ich benutze Zucker.", "Zucker ist süß."]
+      - id: "nachtisch"
+        title: "Nachtisch"
+        description: "Ein süßes Gericht nach dem Essen."
+        plural: "Nachtische"
+        related_cards: ["Dessert", "Essen"]
+        examples: ["Ich esse Nachtisch.", "Der Nachtisch ist lecker."]
+      - id: "salat"
+        title: "Salat"
+        description: "Ein Gericht aus rohem Gemüse."
+        plural: "Salate"
+        related_cards: ["Gemüse", "Essen"]
+        examples: ["Ich esse Salat.", "Der Salat ist frisch."]
+      - id: "schnitzel"
+        title: "Schnitzel"
+        description: "Ein paniertes und gebratenes Stück Fleisch."
+        plural: "Schnitzel"
+        related_cards: ["Fleisch", "Essen"]
+        examples: ["Ich esse Schnitzel.", "Das Schnitzel ist knusprig."]
+      - id: "gemüsepfanne"
+        title: "Gemüsepfanne"
+        description: "Ein Gericht aus gebratenem Gemüse."
+        plural: "Gemüsepfannen"
+        related_cards: ["Gemüse", "Essen"]
+        examples: ["Ich koche eine Gemüsepfanne.", "Die Gemüsepfanne ist gesund."]
+      - id: "nudel"
+        title: "Nudel"
+        description: "Ein Teigwarenprodukt."
+        plural: "Nudeln"
+        related_cards: ["Teigwaren", "Essen"]
+        examples: ["Ich koche Nudeln.", "Die Nudeln sind al dente."]
+      - id: "fisch"
+        title: "Fisch"
+        description: "Ein Wasserlebewesen, das gegessen wird."
+        plural: "Fische"
+        related_cards: ["Meer", "Essen"]
+        examples: ["Ich esse Fisch.", "Der Fisch ist frisch."]
+      - id: "fleisch"
+        title: "Fleisch"
+        description: "Das essbare Gewebe von Tieren."
+        plural: "Fleisch"
+        related_cards: ["Essen", "Protein"]
+        examples: ["Ich esse Fleisch.", "Fleisch ist nahrhaft."]
+      - id: "erdbeer"
+        title: "Erdbeere"
+        description: "Eine rote Frucht."
+        plural: "Erdbeeren"
+        related_cards: ["Obst", "Frucht"]
+        examples: ["Ich esse Erdbeeren.", "Erdbeeren sind süß."]
+      - id: "pfand"
+        title: "Pfand"
+        description: "Ein Betrag, der für eine Flasche oder Dose zurückgegeben wird."
+        plural: "Pfand"
+        related_cards: ["Flasche", "Getränk"]
+        examples: ["Ich gebe das Pfand zurück.", "Das Pfand ist 25 Cent."]
+      - id: "hackfleisch"
+        title: "Hackfleisch"
+        description: "Klein gehacktes Fleisch."
+        plural: "Hackfleisch"
+        related_cards: ["Fleisch", "Essen"]
+        examples: ["Ich koche Hackfleisch.", "Hackfleisch ist vielseitig."]
+      - id: "haltbarkeitsdatum"
+        title: "Haltbarkeitsdatum"
+        description: "Das Datum, bis zu dem ein Lebensmittel haltbar ist."
+        plural: "Haltbarkeitsdaten"
+        related_cards: ["Lebensmittel", "Datum"]
+        examples: ["Ich überprüfe das Haltbarkeitsdatum.", "Das Haltbarkeitsdatum ist abgelaufen."]
+      - id: "joghurt"
+        title: "Joghurt"
+        description: "Ein Milchprodukt."
+        plural: "Joghurts"
+        related_cards: ["Milch", "Essen"]
+        examples: ["Ich esse Joghurt.", "Joghurt ist gesund."]
+        
+  - name: Verbs
+    value: "Verben"
+    cards:
+      - id: "kochen"
+        title: "kochen"
+        description: "Essen zubereiten durch Erhitzen."
+        konjugation: "ich koche, du kochst, er/sie/es kocht, wir kochen, ihr kocht, sie/Sie kochen"
+        zeiten: "Präsens, Präteritum (kochte), Perfekt (hat gekocht)"
+        related_cards: ["Das Essen", "Der Koch", "Die Küche"]
+        examples: ["Ich koche eine Suppe.", "Kochst du heute Abend?", "Sie kocht gerne."]
+      - id: "braten"
+        title: "braten"
+        description: "Essen in einer Pfanne oder im Ofen zubereiten."
+        konjugation: "ich brate, du brätst, er/sie/es brät, wir braten, ihr bratet, sie/Sie braten"
+        zeiten: "Präsens, Präteritum (briet), Perfekt (hat gebraten)"
+        related_cards: ["Das Essen", "Der Braten", "Die Pfanne"]
+        examples: ["Ich brate ein Steak.", "Brätst du das Fleisch?", "Er brät die Kartoffeln."]
+      - id: "bestellen"
+        title: "bestellen"
+        description: "Etwas anfordern oder reservieren."
+        konjugation: "ich bestelle, du bestellst, er/sie/es bestellt, wir bestellen, ihr bestellt, sie/Sie bestellen"
+        zeiten: "Präsens, Präteritum (bestellte), Perfekt (hat bestellt)"
+        related_cards: ["Die Bestellung", "Das Restaurant", "Der Kellner"]
+        examples: ["Ich bestelle eine Pizza.", "Bestellst du das Essen?", "Sie hat Getränke bestellt."]
+      - id: "bringen"
+        title: "bringen"
+        description: "Etwas zu jemandem tragen."
+        konjugation: "ich bringe, du bringst, er/sie/es bringt, wir bringen, ihr bringt, sie/Sie bringen"
+        zeiten: "Präsens, Präteritum (brachte), Perfekt (hat gebracht)"
+        related_cards: ["Der Kellner", "Das Essen", "Die Lieferung"]
+        examples: ["Ich bringe dir das Essen.", "Bringst du das Wasser?", "Er hat das Buch gebracht."]
+      - id: "mitbringen"
+        title: "mitbringen"
+        description: "Etwas zu einem Ort oder zu einer Person bringen."
+        konjugation: "ich bringe mit, du bringst mit, er/sie/es bringt mit, wir bringen mit, ihr bringt mit, sie/Sie bringen mit"
+        zeiten: "Präsens, Präteritum (brachte mit), Perfekt (hat mitgebracht)"
+        related_cards: ["Das Geschenk", "Die Party", "Der Freund"]
+        examples: ["Ich bringe einen Kuchen mit.", "Bringst du Getränke mit?", "Sie hat Blumen mitgebracht."]
+      - id: "probieren"
+        title: "probieren"
+        description: "Etwas kosten oder testen."
+        konjugation: "ich probiere, du probierst, er/sie/es probiert, wir probieren, ihr probiert, sie/Sie probieren"
+        zeiten: "Präsens, Präteritum (probierte), Perfekt (hat probiert)"
+        related_cards: ["Das Essen", "Der Geschmack", "Die Probe"]
+        examples: ["Ich probiere den Kuchen.", "Probierst du das neue Gericht?", "Sie hat den Wein probiert."]
+      - id: "essen"
+        title: "essen"
+        description: "Nahrung zu sich nehmen."
+        konjugation: "ich esse, du isst, er/sie/es isst, wir essen, ihr esst, sie/Sie essen"
+        zeiten: "Präsens, Präteritum (aß), Perfekt (hat gegessen)"
+        related_cards: ["Das Essen", "Der Hunger", "Die Mahlzeit"]
+        examples: ["Ich esse einen Apfel.", "Isst du gerne Pizza?", "Er hat das Frühstück gegessen."]
+      - id: "trinken"
+        title: "trinken"
+        description: "Flüssigkeit zu sich nehmen."
+        konjugation: "ich trinke, du trinkst, er/sie/es trinkt, wir trinken, ihr trinkt, sie/Sie trinken"
+        zeiten: "Präsens, Präteritum (trank), Perfekt (hat getrunken)"
+        related_cards: ["Das Getränk", "Der Durst", "Die Flasche"]
+        examples: ["Ich trinke Wasser.", "Trinkst du Kaffee?", "Sie hat den Saft getrunken."]
+      - id: "brauchen"
+        title: "brauchen"
+        description: "Etwas notwendig haben."
+        konjugation: "ich brauche, du brauchst, er/sie/es braucht, wir brauchen, ihr braucht, sie/Sie brauchen"
+        zeiten: "Präsens, Präteritum (brauchte), Perfekt (hat gebraucht)"
+        related_cards: ["Die Notwendigkeit", "Das Bedürfnis", "Der Bedarf"]
+        examples: ["Ich brauche Hilfe.", "Brauchst du das Buch?", "Er hat mehr Zeit gebraucht."]
+      - id: "verbrauchen"
+        title: "verbrauchen"
+        description: "Etwas vollständig aufbrauchen."
+        konjugation: "ich verbrauche, du verbrauchst, er/sie/es verbraucht, wir verbrauchen, ihr verbraucht, sie/Sie verbrauchen"
+        zeiten: "Präsens, Präteritum (verbrauchte), Perfekt (hat verbraucht)"
+        related_cards: ["Der Verbrauch", "Die Ressource", "Die Energie"]
+        examples: ["Ich verbrauche viel Strom.", "Verbrauchst du das ganze Papier?", "Sie hat das Benzin verbraucht."]
+      - id: "geben"
+        title: "geben"
+        description: "Etwas an jemanden überreichen."
+        konjugation: "ich gebe, du gibst, er/sie/es gibt, wir geben, ihr gebt, sie/Sie geben"
+        zeiten: "Präsens, Präteritum (gab), Perfekt (hat gegeben)"
+        related_cards: ["Das Geschenk", "Die Hilfe", "Die Spende"]
+        examples: ["Ich gebe dir das Buch.", "Gibst du mir die Hand?", "Er hat ihr einen Kuss gegeben."]
+      - id: "zurückgeben"
+        title: "zurückgeben"
+        description: "Etwas an den ursprünglichen Besitzer zurückgeben."
+        konjugation: "ich gebe zurück, du gibst zurück, er/sie/es gibt zurück, wir geben zurück, ihr gebt zurück, sie/Sie geben zurück"
+        zeiten: "Präsens, Präteritum (gab zurück), Perfekt (hat zurückgegeben)"
+        related_cards: ["Die Rückgabe", "Das Eigentum", "Der Besitzer"]
+        examples: ["Ich gebe das Buch zurück.", "Gibst du mir mein Geld zurück?", "Sie hat den Schlüssel zurückgegeben."]
+      - id: "bekommen"
+        title: "bekommen"
+        description: "Etwas erhalten."
+        konjugation: "ich bekomme, du bekommst, er/sie/es bekommt, wir bekommen, ihr bekommt, sie/Sie bekommen"
+        zeiten: "Präsens, Präteritum (bekam), Perfekt (hat bekommen)"
+        related_cards: ["Das Geschenk", "Die Lieferung", "Der Empfang"]
+        examples: ["Ich bekomme ein Geschenk.", "Bekommst du Post?", "Er hat eine Nachricht bekommen."]
+      - id: "empfehlen"
+        title: "empfehlen"
+        description: "Jemandem etwas raten oder vorschlagen."
+        konjugation: "ich empfehle, du empfiehlst, er/sie/es empfiehlt, wir empfehlen, ihr empfehlt, sie/Sie empfehlen"
+        zeiten: "Präsens, Präteritum (empfahl), Perfekt (hat empfohlen)"
+        related_cards: ["Der Rat", "Der Vorschlag", "Die Empfehlung"]
+        examples: ["Ich empfehle dir dieses Buch.", "Empfiehlst du mir ein Restaurant?", "Sie hat den Film empfohlen."]
+      - id: "kaufen"
+        title: "kaufen"
+        description: "Etwas gegen Geld erwerben."
+        konjugation: "ich kaufe, du kaufst, er/sie/es kauft, wir kaufen, ihr kauft, sie/Sie kaufen"
+        zeiten: "Präsens, Präteritum (kaufte), Perfekt (hat gekauft)"
+        related_cards: ["Der Kauf", "Das Geschäft", "Der Preis"]
+        examples: ["Ich kaufe ein Auto.", "Kaufst du Brot?", "Er hat ein neues Handy gekauft."]
+      - id: "schmecken"
+        title: "schmecken"
+        description: "Einen bestimmten Geschmack haben."
+        konjugation: "ich schmecke, du schmeckst, er/sie/es schmeckt, wir schmecken, ihr schmeckt, sie/Sie schmecken"
+        zeiten: "Präsens, Präteritum (schmeckte), Perfekt (hat geschmeckt)"
+        related_cards: ["Der Geschmack", "Das Essen", "Die Zunge"]
+        examples: ["Das Essen schmeckt gut.", "Schmeckt dir der Kuchen?", "Der Wein hat gut geschmeckt."]

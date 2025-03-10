@@ -874,3 +874,215 @@ treten:
   description: "पैर से मारना।"
 tanzen:
   description: "संगीत की ताल पर शरीर को हिलाना।"
+drogerie:
+  description: "एक दुकान जहां दवाएं और स्वास्थ्य उत्पाद बेचे जाते हैं।"
+sprechstunde:
+  description: "डॉक्टर से मिलने का निर्धारित समय।"
+praxis:
+  description: "डॉक्टर का कार्यालय या क्लिनिक।"
+termin:
+  description: "डॉक्टर से मिलने का समय।"
+grippe:
+  description: "एक वायरल संक्रमण जो बुखार, ठंड और खांसी का कारण बनता है।"
+fieber:
+  description: "शरीर का उच्च तापमान।"
+operation:
+  description: "शल्य चिकित्सा प्रक्रिया।"
+temperatur:
+  description: "शरीर का तापमान।"
+erkältung:
+  description: "सामान्य सर्दी।"
+schnupfen:
+  description: "नाक बहना।"
+husten:
+  description: "खांसी।"
+krankenhaus:
+  description: "एक इमारत जहां बीमार लोगों का इलाज किया जाता है।"
+besuchszeit:
+  description: "अस्पताल में मरीजों से मिलने का समय।"
+klinik:
+  description: "एक चिकित्सा सुविधा।"
+pflaster:
+  description: "एक चिपकने वाला पट्टी जो छोटे घावों को ढकता है।"
+tablette:
+  description: "दवा की एक छोटी गोल गोली।"
+verbandszeug:
+  description: "घावों को ढकने के लिए सामग्री।"
+tropfen:
+  description: "तरल दवा की छोटी बूंदें।"
+pille:
+  description: "दवा की एक छोटी गोली।"
+gipsverband:
+  description: "एक कठोर पट्टी जो टूटी हड्डियों को स्थिर करती है।"
+spritze:
+  description: "दवा देने के लिए एक उपकरण।"
+überweisung:
+  description: "एक डॉक्टर द्वारा दूसरे डॉक्टर के पास भेजा जाना।"
+gesundheitskarte:
+  description: "स्वास्थ्य बीमा कार्ड।"
+apotheke:
+  description: "दवाएं बेचने वाली दुकान।"
+krankschreibung:
+  description: "डॉक्टर द्वारा जारी किया गया बीमार होने का प्रमाण पत्र।"
+krankenkasse:
+  description: "स्वास्थ्य बीमा कंपनी।"
+versicherung:
+  description: "बीमा।"
+hausarzt:
+  description: "एक सामान्य चिकित्सक।"
+medikamente:
+  description: "दवाएं।"
+wärme:
+  description: "गर्मी।"
+kinderarzt:
+  description: "बच्चों का डॉक्टर।"
+fehlen:
+  description: "अनुपस्थित होना।"
+kartoffel:
+  description: "एक प्रकार की सब्जी जो जमीन के नीचे उगती है।"
+schinken:
+  description: "सूअर के मांस का एक प्रकार।"
+bananen:
+  description: "एक लंबा, पीला फल।"
+salami:
+  description: "सूखे और मसालेदार मांस का एक प्रकार।"
+bier:
+  description: "एक मादक पेय जो जौ से बनाया जाता है।"
+butter:
+  description: "दूध से बना एक चिकना पदार्थ।"
+käse:
+  description: "दूध से बना एक ठोस पदार्थ।"
+apfel:
+  description: "एक गोल, मीठा फल।"
+apfelsaft:
+  description: "सेब से बना रस।"
+kuchen:
+  description: "एक मीठा बेक किया हुआ व्यंजन।"
+knoblauch:
+  description: "एक तीखी गंध वाली सब्जी।"
+salz:
+  description: "खाने में स्वाद बढ़ाने के लिए उपयोग किया जाने वाला पदार्थ।"
+zwiebeln:
+  description: "एक तीखी गंध वाली सब्जी।"
+wein:
+  description: "अंगूर से बना मादक पेय।"
+eis:
+  description: "जमे हुए मीठे दूध का व्यंजन।"
+birne:
+  description: "एक रसदार फल।"
+brötchen:
+  description: "छोटी रोटी।"
+geflügel:
+  description: "पक्षियों का मांस।"
+apfelsinzn:
+  description: "एक प्रकार का खट्टा फल।"
+milch:
+  description: "गाय से प्राप्त सफेद तरल।"
+zitronen:
+  description: "एक खट्टा पीला फल।"
+karotten:
+  description: "एक लंबी, नारंगी सब्जी।"
+tomaten:
+  description: "एक लाल, रसदार फल।"
+sahne:
+  description: "दूध से बना गाढ़ा पदार्थ।"
+hähnchen:
+  description: "मुर्गे का मांस।"
+rindersteak:
+  description: "गाय के मांस का एक टुकड़ा।"
+pfeffer:
+  description: "एक मसालेदार पदार्थ।"
+brot:
+  description: "आटे से बना एक खाद्य पदार्थ।"
+schokolade:
+  description: "कोको से बना मीठा पदार्थ।"
+mineralwasser:
+  description: "खनिज युक्त पानी।"
+wasser:
+  description: "पेय के लिए एक तरल।"
+pudding:
+  description: "एक मीठा, गाढ़ा व्यंजन।"
+melonen:
+  description: "एक बड़ा, रसदार फल।"
+obst:
+  description: "फल।"
+gemüse:
+  description: "सब्जियां।"
+wurst:
+  description: "मांस से बना एक खाद्य पदार्थ।"
+backward:
+  description: "पीछे की ओर।"
+süßigkeit:
+  description: "मीठा खाद्य पदार्थ।"
+getrank:
+  description: "पेय।"
+speiskarte:
+  description: "खाने के लिए मेनू।"
+lebensmittel:
+  description: "खाद्य पदार्थ।"
+mengenangaben:
+  description: "मात्रा के संकेत।"
+glas:
+  description: "एक पारदर्शी कंटेनर।"
+flasche:
+  description: "एक लंबा, संकीर्ण कंटेनर।"
+stück:
+  description: "एक टुकड़ा।"
+tafel:
+  description: "एक प्लेट या बोर्ड।"
+dose:
+  description: "एक धातु का कंटेनर।"
+kasten:
+  description: "एक बॉक्स।"
+päckchen:
+  description: "एक छोटा पैकेट।"
+zucker:
+  description: "मीठा पदार्थ।"
+nachtisch:
+  description: "खाने के बाद मीठा व्यंजन।"
+salat:
+  description: "कच्ची सब्जियों का मिश्रण।"
+schnitzel:
+  description: "तला हुआ मांस का टुकड़ा।"
+gemüsepfanne:
+  description: "तली हुई सब्जियों का मिश्रण।"
+nudel:
+  description: "आटे से बनी पतली स्ट्रिप्स।"
+fisch:
+  description: "पानी में रहने वाला जीव।"
+fleisch:
+  description: "जानवरों का मांस।"
+erdbeer:
+  description: "एक छोटा, लाल फल।"
+pfand:
+  description: "जमानत राशि।"
+hackfleisch:
+  description: "कटा हुआ मांस।"
+haltbarkeitsdatum:
+  description: "समाप्ति तिथि।"
+joghurt:
+  description: "दूध से बना एक गाढ़ा पदार्थ।"
+kochen:
+  description: "खाना बनाना।"
+braten:
+  description: "तलना।"
+bringen:
+  description: "कुछ लाना।"
+mitbringen:
+  description: "साथ में लाना।"
+schmecken:
+  description: "स्वाद लेना।"
+probieren:
+  description: "कुछ चखना।"
+trinken:
+  description: "पेय का सेवन करना।"
+brauchen:
+  description: "किसी चीज़ की आवश्यकता होना।"
+verbrauchen:
+  description: "किसी चीज़ का उपयोग करना।"
+geben:
+  description: "कुछ देना।"
+zurückgeben:
+  description: "कुछ वापस देना।"
+empfehlen:
+  description: "कुछ सुझाना।"

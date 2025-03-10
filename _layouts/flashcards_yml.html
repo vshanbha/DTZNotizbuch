@@ -47,6 +47,7 @@ layout: multilingual_page
       border-radius: 12px;
       box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
       padding: 10px;
+      overflow-y: auto;
     }
 
     .card-front {
@@ -237,8 +238,7 @@ layout: multilingual_page
               <span class="sound" onclick="speakText('${card.id}',event)">🔊</span>
             </div>
             <div class="card-back">
-              <p><strong>Beschreibung:</strong> ${description}</p>
-              <p><strong>z.B.:</strong> ${card.examples?.join('<br>') || 'N/A'}</p>
+              <p><div><center><strong>${card.title}</strong></center></div><strong>Beschreibung:</strong> ${description}<br/><strong>z.B.:</strong> ${card.examples?.join('<br>') || 'N/A'}</p>
             </div>
           </div>
         </div>`;

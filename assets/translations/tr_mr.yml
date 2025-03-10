@@ -874,3 +874,215 @@ treten:
   description: "पायाने मारणे."
 tanzen:
   description: "संगीताच्या तालावर हालचाल करणे."
+drogerie:
+  description: "एक दुकान जे वैयक्तिक काळजी उत्पादने आणि औषधे विकते."
+sprechstunde:
+  description: "डॉक्टर किंवा व्यावसायिकांसाठी नियुक्तीची वेळ."
+praxis:
+  description: "डॉक्टर किंवा व्यावसायिकांचे कार्यालय."
+termin:
+  description: "नियुक्ती किंवा भेट."
+grippe:
+  description: "फ्लू, एक संसर्गजन्य रोग."
+fieber:
+  description: "शरीराचे तापमान वाढणे."
+operation:
+  description: "शल्यक्रिया."
+temperatur:
+  description: "तापमान."
+erkältung:
+  description: "सामान्य सर्दी."
+schnupfen:
+  description: "नाक वाहणे."
+husten:
+  description: "खोकला."
+krankenhaus:
+  description: "रुग्णालय."
+besuchszeit:
+  description: "भेट देण्याची वेळ."
+klinik:
+  description: "क्लिनिक."
+pflaster:
+  description: "बँडेज."
+tablette:
+  description: "गोळी."
+verbandszeug:
+  description: "बँडेज सामग्री."
+tropfen:
+  description: "थेंब."
+pille:
+  description: "गोळी."
+gipsverband:
+  description: "प्लास्टर कास्ट."
+spritze:
+  description: "इंजेक्शन."
+überweisung:
+  description: "रेफरल."
+gesundheitskarte:
+  description: "आरोग्य कार्ड."
+apotheke:
+  description: "औषधालय."
+krankschreibung:
+  description: "रुग्णाच्या आजाराचे प्रमाणपत्र."
+krankenkasse:
+  description: "आरोग्य विमा."
+versicherung:
+  description: "विमा."
+hausarzt:
+  description: "फॅमिली डॉक्टर."
+medikamente:
+  description: "औषधे."
+wärme:
+  description: "उष्णता."
+kinderarzt:
+  description: "बालरोगतज्ञ."
+fehlen:
+  description: "गहाळ असणे."
+kartoffel:
+  description: "एक प्रकारचा कंदमुळाचा भाजीपाला."
+schinken:
+  description: "डुकराच्या मांसाचा एक प्रकार."
+bananen:
+  description: "एक लांब, पिवळा फळ."
+salami:
+  description: "एक प्रकारचा सॉसेज."
+bier:
+  description: "एक प्रकारचे मद्य."
+butter:
+  description: "दुधापासून बनवलेले एक खाद्यपदार्थ."
+käse:
+  description: "दुधापासून बनवलेले एक खाद्यपदार्थ."
+apfel:
+  description: "एक गोल, गोड फळ."
+apfelsaft:
+  description: "सफरचंदाचा रस."
+kuchen:
+  description: "एक प्रकारचा गोड केक."
+knoblauch:
+  description: "एक प्रकारचा मसाला."
+salz:
+  description: "एक प्रकारचे खारट पदार्थ."
+zwiebeln:
+  description: "एक प्रकारचा मसाला."
+wein:
+  description: "एक प्रकारचे मद्य."
+eis:
+  description: "एक गोड, थंड खाद्यपदार्थ."
+birne:
+  description: "एक प्रकारचे फळ."
+brötchen:
+  description: "एक प्रकारचे लहान ब्रेड."
+geflügel:
+  description: "पक्ष्यांचे मांस."
+apfelsinzn:
+  description: "संत्र्याचे एक प्रकार."
+milch:
+  description: "गाईचे दूध."
+zitronen:
+  description: "एक प्रकारचे आंबट फळ."
+karotten:
+  description: "एक प्रकारचा गाजर."
+tomaten:
+  description: "एक प्रकारचे लाल फळ."
+sahne:
+  description: "दुधापासून बनवलेले एक खाद्यपदार्थ."
+hähnchen:
+  description: "कोंबडीचे मांस."
+rindersteak:
+  description: "गाईचे मांस."
+pfeffer:
+  description: "एक प्रकारचा मसाला."
+brot:
+  description: "गव्हापासून बनवलेले खाद्यपदार्थ."
+schokolade:
+  description: "कोकोपासून बनवलेले गोड खाद्यपदार्थ."
+mineralwasser:
+  description: "खनिजयुक्त पाणी."
+wasser:
+  description: "पेयजल."
+pudding:
+  description: "एक प्रकारचा गोड खाद्यपदार्थ."
+melonen:
+  description: "एक प्रकारचे मोठे फळ."
+obst:
+  description: "फळे."
+gemüse:
+  description: "भाज्या."
+wurst:
+  description: "एक प्रकारचा सॉसेज."
+backward:
+  description: "मागे."
+süßigkeit:
+  description: "गोड खाद्यपदार्थ."
+getrank:
+  description: "पेय."
+speiskarte:
+  description: "मेनू."
+lebensmittel:
+  description: "खाद्यपदार्थ."
+mengenangaben:
+  description: "मात्रा."
+glas:
+  description: "काच."
+flasche:
+  description: "बॉटल."
+stück:
+  description: "तुकडा."
+tafel:
+  description: "फळा."
+dose:
+  description: "कॅन."
+kasten:
+  description: "बॉक्स."
+päckchen:
+  description: "पॅकेट."
+zucker:
+  description: "साखर."
+nachtisch:
+  description: "डेजर्ट."
+salat:
+  description: "सॅलड."
+schnitzel:
+  description: "एक प्रकारचे मांस."
+gemüsepfanne:
+  description: "भाज्यांचे मिश्रण."
+nudel:
+  description: "पास्ता."
+fisch:
+  description: "मासे."
+fleisch:
+  description: "मांस."
+erdbeer:
+  description: "स्ट्रॉबेरी."
+pfand:
+  description: "डिपॉझिट."
+hackfleisch:
+  description: "किमामांस."
+haltbarkeitsdatum:
+  description: "शेल्फ लाइफ."
+joghurt:
+  description: "दही."
+kochen:
+  description: "स्वयंपाक करणे."
+braten:
+  description: "तळणे."
+bringen:
+  description: "आणणे."
+mitbringen:
+  description: "सोबत आणणे."
+schmecken:
+  description: "चव घेणे."
+probieren:
+  description: "प्रयत्न करणे."
+trinken:
+  description: "पिणे."
+brauchen:
+  description: "गरज असणे."
+verbrauchen:
+  description: "वापरणे."
+geben:
+  description: "देणे."
+zurückgeben:
+  description: "परत देणे."
+empfehlen:
+  description: "शिफारस करणे."
