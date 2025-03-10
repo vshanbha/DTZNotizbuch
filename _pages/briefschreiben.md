@@ -2,7 +2,7 @@
 title: "das Briefschreiben Tipps"
 ---
 
-Hier sind einige Tipps und Tricks, wie Sie einen Brief schreiben können. Diese Tipps helfen Ihnen, einen Brief klar und freundlich zu verfassen.
+Hier sind einige Tipps und Tricks, wie Sie einen Brief schreiben können. Diese Tipps helfen Ihnen, einen Brief klar und freundlich zu verfassen. [Klicken Sie hier]({% link _posts/2025-03-10-example-letters.md %}) für weitere Übungen zum Schreiben von Briefen.
 
 ## 1. Der Briefanfang
 
@@ -45,8 +45,9 @@ Hier sind einige Tipps und Tricks, wie Sie einen Brief schreiben können. Diese 
   - "Viele Grüße"
 
 ### Beispiel für einen Abschluss
-
+  -  Falls Sie weitere Fragen haben, stehe ich Ihnen gerne zur Verfügung.
   - Ich freue mich auf Ihre Antwort. Mit freundlichen Grüßen, [Ihr Name]
+
 
 ## 4. Weitere Tipps
 
