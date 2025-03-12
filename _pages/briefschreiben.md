@@ -23,9 +23,12 @@ Hier sind einige Tipps und Tricks, wie Sie einen Brief schreiben können. Diese 
 ## 2. Der Hauptteil
 
 ### Tipps für den Text
-- Schreiben Sie kurze Sätze.
+- Schreiben Sie kurze Sätze, aber auch ein paar Sätze mit Konjunktionen wie „weil“, „dass“, „wenn“, „ob", usw.
 - Erklären Sie, was Sie sagen möchten.
 - Nutzen Sie relevante Wörter basierend auf dem Kontext.
+- Fügen Sie nach Möglichkeit ein oder zwei Sätze ein, die mit Wörtern wie „leider“, „außerdem“, „auf diesem Grund“ beginnen.
+- **Höflichkeit:** Seien Sie freundlich und höflich. Verwenden Sie Modalverben wie können, möchten, müssen, dürfen, sollen, wollen. z. B. „Ich mache gerne einen Programmierkurs“ ist gut, aber „Ich möchte gerne einen Programmierkurs machen“ klingt viel besser. 
+- Indirekte Fragen sind besser, weil sie helfen, die Sätze zu verlängern.
 
 ### Beispiel-Sätze im Hauptteil
 - "Ich möchte Ihnen von meinem Urlaub erzählen."
@@ -45,7 +48,7 @@ Hier sind einige Tipps und Tricks, wie Sie einen Brief schreiben können. Diese 
   - "Viele Grüße"
 
 ### Beispiel für einen Abschluss
-  -  Falls Sie weitere Fragen haben, stehe ich Ihnen gerne zur Verfügung.
+  - Falls Sie weitere Fragen haben, stehe ich Ihnen gerne zur Verfügung.
   - Ich freue mich auf Ihre Antwort. Mit freundlichen Grüßen, [Ihr Name]
 
 
@@ -54,5 +57,4 @@ Hier sind einige Tipps und Tricks, wie Sie einen Brief schreiben können. Diese 
 - **Datum:** Schreiben Sie oben rechts das Datum.
 - **Empfänger:** Schreiben Sie den Namen und die Adresse des Empfängers.
 - **Struktur:** Nutzen Sie Absätze, um den Text klar zu gliedern.
-- **Höflichkeit:** Seien Sie freundlich und höflich.
 - **Rechtschreibung:** Überprüfen Sie Ihren Brief vor dem Absenden.
