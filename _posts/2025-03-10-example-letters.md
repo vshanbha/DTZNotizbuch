@@ -28,7 +28,7 @@ Teilnehmende müssen eine Beschwerde an eine Firma oder eine Person formulieren,
 In dieser Aufgabe müssen Fragen zu einem bestimmten Thema gestellt werden, z. B. zu Kursen, Preisen oder Dienstleistungen.  
 
 **Beispiel:**  
-**"Sie möchten einen [Erste-Hilfe-Kurs machen]({% link _posts/2024-03-10-informieren-erste-hilfe-kurs.md %}). Schreiben Sie eine E-Mail und fragen Sie nach den Terminen und Kosten."**  
+**"Sie möchten einen Erste-Hilfe-Kurs machen. [Schreiben Sie eine E-Mail]({% link _posts/2025-03-10-informieren-erste-hilfe-kurs.md %}) und fragen Sie nach den Terminen und Kosten."**  
 
 ## 5. Glückwünsche schreiben  
 Teilnehmende müssen einen kurzen Brief oder eine E-Mail schreiben, um jemandem zu gratulieren.  
@@ -40,13 +40,13 @@ Teilnehmende müssen einen kurzen Brief oder eine E-Mail schreiben, um jemandem 
 Es kann erforderlich sein, eine Anfrage an einen Vermieter zu schreiben oder ein Problem mit der Wohnung zu melden.  
 
 **Beispiel:**  
-**"Sie suchen eine neue Wohnung und haben eine Anzeige gesehen. Schreiben Sie an den Vermieter und fragen Sie nach einem Besichtigungstermin."**  
+**"Sie suchen eine neue Wohnung und haben eine Anzeige gesehen. [Schreiben Sie an den Vermieter]({% link _posts/2025-03-12-Wohnungssuche-interesse.md %}) und fragen Sie nach einem Besichtigungstermin."**  
 
 ## 7. Entschuldigung schreiben  
 Die Aufgabe kann beinhalten, sich für eine Verspätung, ein Missverständnis oder ein anderes Problem zu entschuldigen.  
 
 **Beispiel:**  
-**"Sie konnten einen wichtigen Termin nicht wahrnehmen. Schreiben Sie eine Entschuldigung an die zuständige Person."**  
+**"Sie konnten einen wichtigen Termin nicht wahrnehmen. [Schreiben Sie eine Entschuldigung]({% link _posts/2025-03-12-Entschuldigung-unterricht-email.md %}) an die zuständige Person."**  
 
 ## 8. Einladung zu einer Veranstaltung schreiben  
 Eine Einladung kann formell oder informell sein, z. B. für eine Feier oder ein Treffen.  
