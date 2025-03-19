@@ -1086,3 +1086,143 @@ zurückgeben:
   description: "परत देणे."
 empfehlen:
   description: "शिफारस करणे."
+prüfung:
+  description: "एक प्रक्रिया ज्यामध्ये ज्ञान किंवा कौशल्यांची चाचणी घेतली जाते."
+lehre:
+  description: "शिक्षण किंवा प्रशिक्षणाचा एक प्रकार."
+zeugnis:
+  description: "शैक्षणिक किंवा व्यावसायिक कामगिरीचे प्रमाणपत्र."
+praktikum:
+  description: "कामाचा अनुभव मिळवण्यासाठी केलेले व्यावसायिक प्रशिक्षण."
+universität:
+  description: "उच्च शिक्षणासाठी एक संस्था."
+berufsschule:
+  description: "व्यावसायिक शिक्षणासाठी एक शाळा."
+auszubildende (azubi):
+  description: "व्यावसायिक प्रशिक्षण घेत असलेली व्यक्ती."
+hauptabschluss:
+  description: "शाळेच्या शिक्षणाचा प्राथमिक प्रमाणपत्र."
+studium:
+  description: "उच्च शिक्षणासाठी अभ्यासक्रम."
+weiterbildung:
+  description: "कौशल्ये सुधारण्यासाठी घेतलेले अतिरिक्त शिक्षण."
+erfahrung:
+  description: "एखाद्या गोष्टीतून मिळवलेले ज्ञान किंवा कौशल्य."
+pflegedienst:
+  description: "आरोग्यसेवा किंवा काळजी घेण्याची सेवा."
+helferin:
+  description: "मदत करणारी महिला."
+nachhilfe:
+  description: "अतिरिक्त शिक्षण किंवा शिकवणी."
+berufswünsche:
+  description: "व्यक्तीच्या इच्छित करिअरचे विचार."
+berufsberater:
+  description: "व्यावसायिक मार्गदर्शन करणारी व्यक्ती."
+unterlagen:
+  description: "दस्तऐवज किंवा कागदपत्रे."
+gastronomie:
+  description: "अन्न आणि पेय सेवा उद्योग."
+fortbildung:
+  description: "व्यावसायिक कौशल्ये सुधारण्यासाठी घेतलेले शिक्षण."
+tatigkeit:
+  description: "काम किंवा क्रियाकलाप."
+umschulung:
+  description: "नवीन कौशल्ये शिकण्यासाठी घेतलेले प्रशिक्षण."
+teilzeitkurse:
+  description: "अर्धवेळ अभ्यासक्रम."
+vollzeitkurse:
+  description: "पूर्णवेळ अभ्यासक्रम."
+arbeitsagentur:
+  description: "रोजगार सेवा संस्था."
+deutschkenntnisse:
+  description: "जर्मन भाषेचे ज्ञान."
+gymnasium:
+  description: "उच्च माध्यमिक शिक्षणासाठी एक शाळा."
+abitur:
+  description: "जर्मनीतील उच्च माध्यमिक शिक्षणाचे प्रमाणपत्र."
+realschule:
+  description: "माध्यमिक शिक्षणासाठी एक प्रकारची शाळा."
+unterricht:
+  description: "शिक्षण किंवा शिकवण्याची प्रक्रिया."
+lieblingsfach:
+  description: "सर्वात आवडता विषय."
+hausaufgabe:
+  description: "शाळेच्या अभ्यासासाठी दिलेले गृहपाठ."
+note:
+  description: "शैक्षणिक कामगिरीचे ग्रेड."
+biologie:
+  description: "जीवशास्त्राचा अभ्यास."
+chemie:
+  description: "रसायनशास्त्राचा अभ्यास."
+erdkunde:
+  description: "भूगोलाचा अभ्यास."
+geschichte:
+  description: "इतिहासाचा अभ्यास."
+mathematik:
+  description: "गणिताचा अभ्यास."
+musik:
+  description: "संगीताचा अभ्यास."
+physik:
+  description: "भौतिकशास्त्राचा अभ्यास."
+ordner:
+  description: "दस्तऐवज साठवण्यासाठी एक फोल्डर."
+heft:
+  description: "लिहिण्यासाठी एक वही."
+marker:
+  description: "हायलाइट करण्यासाठी वापरलेले लेखन साधन."
+schwamm:
+  description: "फळा स्वच्छ करण्यासाठी वापरलेले साधन."
+kugelschreiber:
+  description: "लिहिण्यासाठी एक बॉलपॉइंट पेन."
+bleistift:
+  description: "लिहिण्यासाठी एक पेन्सिल."
+radiergummi:
+  description: "लिहिलेले मिटवण्यासाठी एक साधन."
+rucksack:
+  description: "पाठीवर वाहून नेण्यासाठी एक बॅग."
+kindergarten:
+  description: "लहान मुलांसाठी एक शाळा."
+spielplatz:
+  description: "मुलांसाठी खेळण्याचे ठिकाण."
+elternabend:
+  description: "पालकांसाठी आयोजित केलेली बैठक."
+elternarbeit:
+  description: "पालकांनी केलेले योगदान."
+tagesmutter:
+  description: "लहान मुलांची काळजी घेणारी महिला."
+grundschule:
+  description: "प्राथमिक शिक्षणासाठी एक शाळा."
+gesamtschulen:
+  description: "सर्व प्रकारच्या विद्यार्थ्यांसाठी एक शाळा."
+ganztagschulen:
+  description: "संपूर्ण दिवस चालणारी शाळा."
+übersetzen:
+  description: "एका भाषेतून दुसऱ्या भाषेत भाषांतर करणे."
+gründen:
+  description: "काहीतरी सुरू करणे किंवा स्थापन करणे."
+dauern:
+  description: "किती वेळ लागतो ते दर्शवणे."
+passen:
+  description: "योग्य किंवा अनुकूल असणे."
+förderen:
+  description: "प्रोत्साहन देणे किंवा समर्थन करणे."
+vorschlagen:
+  description: "सूचना करणे."
+erhalten:
+  description: "काहीतरी प्राप्त करणे."
+suchen:
+  description: "काहीतरी शोधणे."
+verbessern:
+  description: "काहीतरी सुधारणा करणे."
+verändern:
+  description: "काहीतरी बदलणे."
+beenden:
+  description: "काहीतरी समाप्त करणे."
+teilnehmen:
+  description: "काहीतरीत सहभागी होणे."
+betreuen:
+  description: "काळजी घेणे किंवा देखरेख करणे."
+spielen:
+  description: "खेळणे किंवा मनोरंजन करणे."
+schulabschluss:
+  description: "शाळेचे शिक्षण पूर्ण केल्याचे प्रमाणपत्र."
