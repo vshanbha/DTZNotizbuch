@@ -1,0 +1,517 @@
+title: Essen und Trinken
+topic: essen
+categories:
+  - name: Nouns
+    value: "Nomen"
+    cards:
+      - id: "schulabschluss"
+        title: "der Schulabschluss"
+        description: "Der Abschluss einer schulischen Ausbildung."
+        plural: "Schulabschlüsse"
+        related_cards: ["Prüfung", "Zeugnis"]
+        examples: ["Mein Schulabschluss war 2010.", "Er hat einen guten Schulabschluss."]
+      - id: "prüfung"
+        title: "die Prüfung"
+        description: "Ein Test, um Wissen oder Fähigkeiten zu bewerten."
+        plural: "Prüfungen"
+        related_cards: ["Schulabschluss", "Zeugnis"]
+        examples: ["Die Prüfung war schwer.", "Ich habe die Prüfung bestanden."]
+      - id: "lehre"
+        title: "die Lehre"
+        description: "Eine berufliche Ausbildung in einem Betrieb."
+        plural: "Lehren"
+        related_cards: ["Ausbildung", "Berufsschule"]
+        examples: ["Er macht eine Lehre als Mechaniker.", "Die Lehre dauert drei Jahre."]
+      - id: "zeugnis"
+        title: "das Zeugnis"
+        description: "Ein Dokument, das Leistungen bescheinigt."
+        plural: "Zeugnisse"
+        related_cards: ["Prüfung", "Schulabschluss"]
+        examples: ["Ich habe mein Zeugnis bekommen.", "Das Zeugnis ist sehr gut."]
+      - id: "praktikum"
+        title: "das Praktikum"
+        description: "Eine praktische Tätigkeit zur Berufserfahrung."
+        plural: "Praktika"
+        related_cards: ["Berufserfahrung", "Ausbildung"]
+        examples: ["Ich mache ein Praktikum im Krankenhaus.", "Das Praktikum dauert drei Monate."]
+      - id: "universität"
+        title: "die Universität"
+        description: "Eine Hochschule für akademische Bildung."
+        plural: "Universitäten"
+        related_cards: ["Studium", "Weiterbildung"]
+        examples: ["Ich studiere an der Universität.", "Die Universität ist sehr groß."]
+      - id: "berufsschule"
+        title: "die Berufsschule"
+        description: "Eine Schule für berufliche Ausbildung."
+        plural: "Berufsschulen"
+        related_cards: ["Lehre", "Ausbildung"]
+        examples: ["Ich gehe zur Berufsschule.", "Die Berufsschule ist wichtig für die Ausbildung."]
+      - id: "auszubildende"
+        title: "der/die Auszubildende (Azubi)"
+        description: "Eine Person, die eine Ausbildung macht."
+        plural: "Auszubildende"
+        related_cards: ["Ausbildung", "Berufsschule"]
+        examples: ["Die Auszubildende lernt schnell.", "Er ist ein Auszubildender im ersten Jahr."]
+      - id: "hauptabschluss"
+        title: "der Hauptabschluss"
+        description: "Ein Schulabschluss auf Hauptschulniveau."
+        plural: "Hauptabschlüsse"
+        related_cards: ["Schulabschluss", "Zeugnis"]
+        examples: ["Der Hauptabschluss ist wichtig für viele Berufe.", "Sie hat ihren Hauptabschluss gemacht."]
+      - id: "studium"
+        title: "das Studium"
+        description: "Ein akademisches Studium an einer Hochschule."
+        plural: "Studien"
+        related_cards: ["Universität", "Weiterbildung"]
+        examples: ["Ich beginne mein Studium im Herbst.", "Das Studium dauert drei Jahre."]
+      - id: "weiterbildung"
+        title: "die Weiterbildung"
+        description: "Eine zusätzliche Ausbildung zur Vertiefung von Wissen."
+        plural: "Weiterbildungen"
+        related_cards: ["Studium", "Fortbildung"]
+        examples: ["Ich mache eine Weiterbildung im IT-Bereich.", "Die Weiterbildung hilft mir im Beruf."]
+      - id: "ausbildung"
+        title: "die Ausbildung"
+        description: "Eine berufliche Qualifikation durch Lernen und Praxis."
+        plural: "Ausbildungen"
+        related_cards: ["Lehre", "Berufsschule"]
+        examples: ["Die Ausbildung dauert drei Jahre.", "Ich mache eine Ausbildung als Elektriker."]
+      - id: "erfahrung"
+        title: "die Erfahrung"
+        description: "Das Wissen oder Können, das man durch Praxis erwirbt."
+        plural: "Erfahrungen"
+        related_cards: ["Praktikum", "Beruf"]
+        examples: ["Ich habe viel Erfahrung in diesem Bereich.", "Die Erfahrung ist wichtig für den Job."]
+      - id: "pflegedienst"
+        title: "der Pflegedienst"
+        description: "Ein Dienst, der Pflegeleistungen anbietet."
+        plural: "Pflegedienste"
+        related_cards: ["Helferin", "Beruf"]
+        examples: ["Der Pflegedienst kommt jeden Tag.", "Ich arbeite im Pflegedienst."]
+      - id: "helferin"
+        title: "die Helferin"
+        description: "Eine Person, die hilft, oft in sozialen Berufen."
+        plural: "Helferinnen"
+        related_cards: ["Pflegedienst", "Beruf"]
+        examples: ["Die Helferin unterstützt die Patienten.", "Ich arbeite als Helferin."]
+      - id: "nachhilfe"
+        title: "die Nachhilfe"
+        description: "Zusätzlicher Unterricht zur Unterstützung beim Lernen."
+        plural: "Nachhilfen"
+        related_cards: ["Schule", "Unterricht"]
+        examples: ["Ich gebe Nachhilfe in Mathematik.", "Die Nachhilfe hat mir geholfen."]
+      - id: "berufswünsche"
+        title: "die Berufswünsche"
+        description: "Die Wünsche einer Person für ihren zukünftigen Beruf."
+        plural: "Berufswünsche"
+        related_cards: ["Berufsberater", "Beruf"]
+        examples: ["Meine Berufswünsche haben sich geändert.", "Er hat klare Berufswünsche."]
+      - id: "berufsberater"
+        title: "der Berufsberater"
+        description: "Eine Person, die bei der Berufswahl hilft."
+        plural: "Berufsberater"
+        related_cards: ["Berufswünsche", "Beruf"]
+        examples: ["Der Berufsberater hat mir geholfen.", "Ich habe einen Termin beim Berufsberater."]
+      - id: "unterlagen"
+        title: "die Unterlagen"
+        description: "Dokumente, die für Bewerbungen oder Anträge benötigt werden."
+        plural: "Unterlagen"
+        related_cards: ["Bewerbung", "Beruf"]
+        examples: ["Ich habe alle Unterlagen vorbereitet.", "Die Unterlagen sind vollständig."]
+      - id: "bereich"
+        title: "der Bereich"
+        description: "Ein bestimmtes Gebiet oder Fachgebiet."
+        plural: "Bereiche"
+        related_cards: ["Beruf", "Tätigkeit"]
+        examples: ["Ich arbeite im technischen Bereich.", "Der Bereich ist sehr interessant."]
+      - id: "gastronomie"
+        title: "die Gastronomie"
+        description: "Der Bereich der Verpflegung und Bewirtung."
+        plural: "Gastronomien"
+        related_cards: ["Beruf", "Tätigkeit"]
+        examples: ["Ich arbeite in der Gastronomie.", "Die Gastronomie ist ein spannender Bereich."]
+      - id: "fortbildung"
+        title: "die Fortbildung"
+        description: "Eine Weiterbildung zur Vertiefung von Wissen."
+        plural: "Fortbildungen"
+        related_cards: ["Weiterbildung", "Beruf"]
+        examples: ["Ich mache eine Fortbildung im IT-Bereich.", "Die Fortbildung dauert zwei Wochen."]
+      - id: "tatigkeit"
+        title: "die Tätigkeit"
+        description: "Eine Aufgabe oder Arbeit, die man ausführt."
+        plural: "Tätigkeiten"
+        related_cards: ["Beruf", "Bereich"]
+        examples: ["Meine Tätigkeit umfasst viele Aufgaben.", "Die Tätigkeit ist sehr abwechslungsreich."]
+      - id: "umschulung"
+        title: "die Umschulung"
+        description: "Eine Ausbildung für einen neuen Beruf."
+        plural: "Umschulungen"
+        related_cards: ["Beruf", "Weiterbildung"]
+        examples: ["Ich mache eine Umschulung zur Krankenschwester.", "Die Umschulung dauert zwei Jahre."]
+      - id: "teilzeitkurse"
+        title: "die Teilzeitkurse"
+        description: "Kurse, die in Teilzeit angeboten werden."
+        plural: "Teilzeitkurse"
+        related_cards: ["Weiterbildung", "Fortbildung"]
+        examples: ["Ich besuche Teilzeitkurse am Abend.", "Die Teilzeitkurse sind flexibel."]
+      - id: "vollzeitkurse"
+        title: "die Vollzeitkurse"
+        description: "Kurse, die in Vollzeit angeboten werden."
+        plural: "Vollzeitkurse"
+        related_cards: ["Weiterbildung", "Fortbildung"]
+        examples: ["Die Vollzeitkurse dauern drei Monate.", "Ich mache Vollzeitkurse in der IT."]
+      - id: "arbeitsagentur"
+        title: "die Arbeitsagentur"
+        description: "Eine Behörde, die bei der Arbeitssuche hilft."
+        plural: "Arbeitsagenturen"
+        related_cards: ["Beruf", "Unterlagen"]
+        examples: ["Die Arbeitsagentur hat mir geholfen.", "Ich habe einen Termin bei der Arbeitsagentur."]
+      - id: "deutschkenntnisse"
+        title: "die Deutschkenntnisse"
+        description: "Die Fähigkeit, die deutsche Sprache zu verstehen und zu sprechen."
+        plural: "Deutschkenntnisse"
+        related_cards: ["Sprache", "Kurs"]
+        examples: ["Meine Deutschkenntnisse sind gut.", "Ich verbessere meine Deutschkenntnisse."]
+      - id: "gymnasium"
+        title: "das Gymnasium"
+        description: "Eine weiterführende Schule, die zum Abitur führt."
+        plural: "Gymnasien"
+        related_cards: ["Abitur", "Realschule"]
+        examples: ["Ich gehe auf ein Gymnasium.", "Das Gymnasium dauert acht Jahre."]
+      - id: "abitur"
+        title: "das Abitur"
+        description: "Der höchste Schulabschluss in Deutschland."
+        plural: "Abiture"
+        related_cards: ["Gymnasium", "Studium"]
+        examples: ["Ich habe mein Abitur gemacht.", "Das Abitur ist Voraussetzung für die Universität."]
+      - id: "realschule"
+        title: "die Realschule"
+        description: "Eine weiterführende Schule mit mittlerem Abschluss."
+        plural: "Realschulen"
+        related_cards: ["Gymnasium", "Hauptschule"]
+        examples: ["Ich besuche die Realschule.", "Die Realschule bietet viele Möglichkeiten."]
+      - id: "unterricht"
+        title: "der Unterricht"
+        description: "Die Zeit, in der Schüler lernen."
+        plural: "Unterrichte"
+        related_cards: ["Schule", "Lehrer"]
+        examples: ["Der Unterricht beginnt um 8 Uhr.", "Ich habe heute Mathe-Unterricht."]
+      - id: "lieblingsfach"
+        title: "das Lieblingsfach"
+        description: "Das Fach, das man am liebsten mag."
+        plural: "Lieblingsfächer"
+        related_cards: ["Schule", "Unterricht"]
+        examples: ["Mein Lieblingsfach ist Biologie.", "Was ist dein Lieblingsfach?"]
+      - id: "hausaufgabe"
+        title: "die Hausaufgabe"
+        description: "Eine Aufgabe, die Schüler zu Hause erledigen."
+        plural: "Hausaufgaben"
+        related_cards: ["Schule", "Unterricht"]
+        examples: ["Ich mache meine Hausaufgaben.", "Die Hausaufgaben sind schwer."]
+      - id: "note"
+        title: "die Note"
+        description: "Eine Bewertung der schulischen Leistung."
+        plural: "Noten"
+        related_cards: ["Schule", "Zeugnis"]
+        examples: ["Ich habe eine gute Note in Mathe.", "Die Note ist wichtig für das Zeugnis."]
+      - id: "biologie"
+        title: "die Biologie"
+        description: "Ein Schulfach, das sich mit Lebewesen beschäftigt."
+        plural: "Biologien"
+        related_cards: ["Schule", "Naturwissenschaften"]
+        examples: ["Ich mag Biologie.", "Biologie ist mein Lieblingsfach."]
+      - id: "chemie"
+        title: "die Chemie"
+        description: "Ein Schulfach, das sich mit Stoffen und ihren Reaktionen beschäftigt."
+        plural: "Chemien"
+        related_cards: ["Schule", "Naturwissenschaften"]
+        examples: ["Chemie ist interessant.", "Wir haben heute Chemie-Unterricht."]
+      - id: "erdkunde"
+        title: "die Erdkunde"
+        description: "Ein Schulfach, das sich mit der Erde beschäftigt."
+        plural: "Erdkunden"
+        related_cards: ["Schule", "Geografie"]
+        examples: ["Ich lerne Erdkunde.", "Erdkunde ist spannend."]
+      - id: "geschichte"
+        title: "die Geschichte"
+        description: "Ein Schulfach, das sich mit der Vergangenheit beschäftigt."
+        plural: "Geschichten"
+        related_cards: ["Schule", "Historie"]
+        examples: ["Geschichte ist mein Lieblingsfach.", "Wir lernen über die Römer in Geschichte."]
+      - id: "mathematik"
+        title: "die Mathematik"
+        description: "Ein Schulfach, das sich mit Zahlen und Formeln beschäftigt."
+        plural: "Mathematiken"
+        related_cards: ["Schule", "Rechnen"]
+        examples: ["Mathematik ist wichtig.", "Ich habe eine gute Note in Mathematik."]
+      - id: "musik"
+        title: "die Musik"
+        description: "Ein Schulfach, das sich mit Klängen und Instrumenten beschäftigt."
+        plural: "Musiken"
+        related_cards: ["Schule", "Kunst"]
+        examples: ["Ich spiele Gitarre im Musikunterricht.", "Musik macht Spaß."]
+      - id: "physik"
+        title: "die Physik"
+        description: "Ein Schulfach, das sich mit Naturgesetzen beschäftigt."
+        plural: "Physiken"
+        related_cards: ["Schule", "Naturwissenschaften"]
+        examples: ["Physik ist schwierig.", "Wir lernen über Elektrizität in Physik."]
+      - id: "ordner"
+        title: "der Ordner"
+        description: "Ein Behälter für Dokumente oder Blätter."
+        plural: "Ordner"
+        related_cards: ["Schule", "Unterlagen"]
+        examples: ["Ich habe meine Blätter im Ordner.", "Der Ordner ist voll."]
+      - id: "heft"
+        title: "das Heft"
+        description: "Ein kleines Buch für Notizen."
+        plural: "Hefte"
+        related_cards: ["Schule", "Schreiben"]
+        examples: ["Ich schreibe in mein Heft.", "Das Heft ist neu."]
+      - id: "marker"
+        title: "der Marker"
+        description: "Ein Stift zum Hervorheben von Text."
+        plural: "Marker"
+        related_cards: ["Schule", "Schreiben"]
+        examples: ["Ich benutze einen Marker für wichtige Wörter.", "Der Marker ist gelb."]
+      - id: "schwamm"
+        title: "der Schwamm"
+        description: "Ein Werkzeug zum Reinigen der Tafel."
+        plural: "Schwämme"
+        related_cards: ["Schule", "Tafel"]
+        examples: ["Ich wische die Tafel mit dem Schwamm ab.", "Der Schwamm ist nass."]
+      - id: "kugelschreiber"
+        title: "der Kugelschreiber"
+        description: "Ein Stift zum Schreiben."
+        plural: "Kugelschreiber"
+        related_cards: ["Schule", "Schreiben"]
+        examples: ["Ich schreibe mit einem Kugelschreiber.", "Der Kugelschreiber ist blau."]
+      - id: "bleistift"
+        title: "der Bleistift"
+        description: "Ein Stift zum Schreiben oder Zeichnen."
+        plural: "Bleistifte"
+        related_cards: ["Schule", "Schreiben"]
+        examples: ["Ich benutze einen Bleistift.", "Der Bleistift ist spitz."]
+      - id: "radiergummi"
+        title: "der Radiergummi"
+        description: "Ein Werkzeug zum Entfernen von Bleistiftstrichen."
+        plural: "Radiergummis"
+        related_cards: ["Schule", "Schreiben"]
+        examples: ["Ich brauche einen Radiergummi.", "Der Radiergummi ist klein."]
+      - id: "rucksack"
+        title: "der Rucksack"
+        description: "Eine Tasche, die man auf dem Rücken trägt."
+        plural: "Rucksäcke"
+        related_cards: ["Schule", "Tasche"]
+        examples: ["Ich trage meinen Rucksack zur Schule.", "Der Rucksack ist schwer."]
+      - id: "buch"
+        title: "das Buch"
+        description: "Ein gebundenes Werk mit Text oder Bildern."
+        plural: "Bücher"
+        related_cards: ["Schule", "Lesen"]
+        examples: ["Ich lese ein Buch.", "Das Buch ist interessant."]
+      - id: "kindergarten"
+        title: "der Kindergarten"
+        description: "Eine Einrichtung für kleine Kinder vor der Schule."
+        plural: "Kindergärten"
+        related_cards: ["Kinder", "Schule"]
+        examples: ["Mein Kind geht in den Kindergarten.", "Der Kindergarten ist in der Nähe."]
+      - id: "spielplatz"
+        title: "der Spielplatz"
+        description: "Ein Ort, an dem Kinder spielen können."
+        plural: "Spielplätze"
+        related_cards: ["Kinder", "Freizeit"]
+        examples: ["Die Kinder spielen auf dem Spielplatz.", "Der Spielplatz ist groß."]
+      - id: "elternabend"
+        title: "der Elternabend"
+        description: "Ein Treffen der Eltern mit den Lehrern."
+        plural: "Elternabende"
+        related_cards: ["Schule", "Eltern"]
+        examples: ["Heute ist Elternabend in der Schule.", "Der Elternabend beginnt um 18 Uhr."]
+      - id: "elternarbeit"
+        title: "die Elternarbeit"
+        description: "Die Mitarbeit der Eltern in der Schule oder im Kindergarten."
+        plural: "Elternarbeiten"
+        related_cards: ["Schule", "Eltern"]
+        examples: ["Elternarbeit ist wichtig für die Schule.", "Wir organisieren Elternarbeit."]
+      - id: "tagesmutter"
+        title: "die Tagesmutter"
+        description: "Eine Person, die Kinder tagsüber betreut."
+        plural: "Tagesmütter"
+        related_cards: ["Kinder", "Betreuung"]
+        examples: ["Meine Tochter ist bei einer Tagesmutter.", "Die Tagesmutter ist sehr nett."]
+      - id: "grundschule"
+        title: "die Grundschule"
+        description: "Die Schule für Kinder der ersten bis vierten Klasse."
+        plural: "Grundschulen"
+        related_cards: ["Schule", "Kinder"]
+        examples: ["Mein Sohn geht in die Grundschule.", "Die Grundschule ist in der Nähe."]
+      - id: "gesamtschulen"
+        title: "die Gesamtschule"
+        description: "Eine Schule, die alle Schulformen vereint."
+        plural: "Gesamtschulen"
+        related_cards: ["Schule", "Bildung"]
+        examples: ["Ich gehe auf eine Gesamtschule.", "Die Gesamtschule bietet viele Möglichkeiten."]
+      - id: "ganztagsschulen"
+        title: "die Ganztagsschule"
+        description: "Eine Schule, die den ganzen Tag Unterricht anbietet."
+        plural: "Ganztagsschulen"
+        related_cards: ["Schule", "Bildung"]
+        examples: ["Mein Kind besucht eine Ganztagsschule.", "Die Ganztagsschule endet um 16 Uhr."]        
+  - name: Verbs
+    value: "Verben"
+    cards:
+      - id: "lernen"
+        title: "lernen"
+        description: "Sich Wissen oder Fähigkeiten aneignen."
+        konjugation: "ich lerne, du lernst, er/sie/es lernt, wir lernen, ihr lernt, sie/Sie lernen"
+        zeiten: "Präsens, Präteritum (lernte), Perfekt (hat gelernt)"
+        related_cards: ["Schule", "Ausbildung", "Nachhilfe"]
+        examples: ["Ich lerne Deutsch.", "Er lernt für die Prüfung.", "Wir lernen jeden Tag."]
+      - id: "helfen"
+        title: "helfen"
+        description: "Jemandem Unterstützung geben."
+        konjugation: "ich helfe, du hilfst, er/sie/es hilft, wir helfen, ihr helft, sie/Sie helfen"
+        zeiten: "Präsens, Präteritum (half), Perfekt (hat geholfen)"
+        related_cards: ["Helferin", "Pflegedienst"]
+        examples: ["Ich helfe meiner Schwester.", "Kannst du mir helfen?", "Er hat mir sehr geholfen."]
+      - id: "übersetzen"
+        title: "übersetzen"
+        description: "Einen Text von einer Sprache in eine andere übertragen."
+        konjugation: "ich übersetze, du übersetzt, er/sie/es übersetzt, wir übersetzen, ihr übersetzt, sie/Sie übersetzen"
+        zeiten: "Präsens, Präteritum (übersetzte), Perfekt (hat übersetzt)"
+        related_cards: ["Sprache", "Deutschkenntnisse"]
+        examples: ["Ich übersetze den Text ins Deutsche.", "Kannst du das übersetzen?", "Er hat das Buch übersetzt."]
+      - id: "gründen"
+        title: "gründen"
+        description: "Etwas Neues ins Leben rufen, z. B. eine Firma."
+        konjugation: "ich gründe, du gründest, er/sie/es gründet, wir gründen, ihr gründet, sie/Sie gründen"
+        zeiten: "Präsens, Präteritum (gründete), Perfekt (hat gegründet)"
+        related_cards: ["Unternehmen", "Beruf"]
+        examples: ["Ich gründe eine Firma.", "Sie hat ein Start-up gegründet.", "Wir gründen eine Organisation."]
+      - id: "dauern"
+        title: "dauern"
+        description: "Eine bestimmte Zeit in Anspruch nehmen."
+        konjugation: "ich dauere, du dauerst, er/sie/es dauert, wir dauern, ihr dauert, sie/Sie dauern"
+        zeiten: "Präsens, Präteritum (dauerte), Perfekt (hat gedauert)"
+        related_cards: ["Zeit", "Ausbildung"]
+        examples: ["Die Ausbildung dauert drei Jahre.", "Wie lange dauert das?", "Es hat lange gedauert."]
+      - id: "passen"
+        title: "passen"
+        description: "Zu etwas geeignet sein oder harmonieren."
+        konjugation: "ich passe, du passt, er/sie/es passt, wir passen, ihr passt, sie/Sie passen"
+        zeiten: "Präsens, Präteritum (passte), Perfekt (hat gepasst)"
+        related_cards: ["Kleidung", "Situation"]
+        examples: ["Das Kleid passt perfekt.", "Passt dir der Termin?", "Es hat gut gepasst."]
+      - id: "fördern"
+        title: "fördern"
+        description: "Jemanden oder etwas unterstützen."
+        konjugation: "ich fördere, du förderst, er/sie/es fördert, wir fördern, ihr fördert, sie/Sie fördern"
+        zeiten: "Präsens, Präteritum (förderte), Perfekt (hat gefördert)"
+        related_cards: ["Unterstützung", "Weiterbildung"]
+        examples: ["Die Schule fördert begabte Schüler.", "Wir fördern das Projekt.", "Er wurde gefördert."]
+      - id: "informieren"
+        title: "informieren"
+        description: "Jemandem Informationen geben."
+        konjugation: "ich informiere, du informierst, er/sie/es informiert, wir informieren, ihr informiert, sie/Sie informieren"
+        zeiten: "Präsens, Präteritum (informierte), Perfekt (hat informiert)"
+        related_cards: ["Nachrichten", "Beratung"]
+        examples: ["Ich informiere dich später.", "Er hat mich informiert.", "Wir informieren die Teilnehmer."]
+      - id: "vorschlagen"
+        title: "vorschlagen"
+        description: "Einen Vorschlag machen."
+        konjugation: "ich schlage vor, du schlägst vor, er/sie/es schlägt vor, wir schlagen vor, ihr schlagt vor, sie/Sie schlagen vor"
+        zeiten: "Präsens, Präteritum (schlug vor), Perfekt (hat vorgeschlagen)"
+        related_cards: ["Idee", "Plan"]
+        examples: ["Ich schlage vor, dass wir uns treffen.", "Er hat einen guten Plan vorgeschlagen.", "Was schlägst du vor?"]
+      - id: "erhalten"
+        title: "erhalten"
+        description: "Etwas bekommen oder empfangen."
+        konjugation: "ich erhalte, du erhältst, er/sie/es erhält, wir erhalten, ihr erhaltet, sie/Sie erhalten"
+        zeiten: "Präsens, Präteritum (erhielt), Perfekt (hat erhalten)"
+        related_cards: ["Post", "Unterlagen"]
+        examples: ["Ich habe die Nachricht erhalten.", "Er erhält ein Geschenk.", "Wir haben die Dokumente erhalten."]
+      - id: "finden"
+        title: "finden"
+        description: "Etwas entdecken oder wahrnehmen."
+        konjugation: "ich finde, du findest, er/sie/es findet, wir finden, ihr findet, sie/Sie finden"
+        zeiten: "Präsens, Präteritum (fand), Perfekt (hat gefunden)"
+        related_cards: ["Suchen", "Erfolg"]
+        examples: ["Ich finde den Schlüssel nicht.", "Hast du die Lösung gefunden?", "Er findet das interessant."]
+      - id: "suchen"
+        title: "suchen"
+        description: "Versuchen, etwas zu finden."
+        konjugation: "ich suche, du suchst, er/sie/es sucht, wir suchen, ihr sucht, sie/Sie suchen"
+        zeiten: "Präsens, Präteritum (suchte), Perfekt (hat gesucht)"
+        related_cards: ["Finden", "Arbeit"]
+        examples: ["Ich suche meine Brille.", "Er sucht eine neue Wohnung.", "Wir suchen nach einer Lösung."]
+      - id: "verbessern"
+        title: "verbessern"
+        description: "Etwas besser machen."
+        konjugation: "ich verbessere, du verbesserst, er/sie/es verbessert, wir verbessern, ihr verbessert, sie/Sie verbessern"
+        zeiten: "Präsens, Präteritum (verbesserte), Perfekt (hat verbessert)"
+        related_cards: ["Lernen", "Fortbildung"]
+        examples: ["Ich möchte meine Deutschkenntnisse verbessern.", "Er hat seine Leistung verbessert.", "Wir verbessern den Prozess."]
+      - id: "verändern"
+        title: "verändern"
+        description: "Etwas anders machen oder gestalten."
+        konjugation: "ich verändere, du veränderst, er/sie/es verändert, wir verändern, ihr verändert, sie/Sie verändern"
+        zeiten: "Präsens, Präteritum (veränderte), Perfekt (hat verändert)"
+        related_cards: ["Änderung", "Entwicklung"]
+        examples: ["Ich möchte mein Leben verändern.", "Er hat die Pläne verändert.", "Wir verändern die Strategie."]
+      - id: "bekommen"
+        title: "bekommen"
+        description: "Etwas erhalten."
+        konjugation: "ich bekomme, du bekommst, er/sie/es bekommt, wir bekommen, ihr bekommt, sie/Sie bekommen"
+        zeiten: "Präsens, Präteritum (bekam), Perfekt (hat bekommen)"
+        related_cards: ["Erhalten", "Geschenk"]
+        examples: ["Ich bekomme ein Geschenk.", "Hast du die Nachricht bekommen?", "Er hat eine Einladung bekommen."]
+      - id: "beenden"
+        title: "beenden"
+        description: "Etwas abschließen oder zu Ende bringen."
+        konjugation: "ich beende, du beendest, er/sie/es beendet, wir beenden, ihr beendet, sie/Sie beenden"
+        zeiten: "Präsens, Präteritum (beendete), Perfekt (hat beendet)"
+        related_cards: ["Abschluss", "Aufhören"]
+        examples: ["Ich beende meine Ausbildung.", "Er hat das Projekt beendet.", "Wann beendest du die Arbeit?"]
+      - id: "besuchen"
+        title: "besuchen"
+        description: "Zu einem Ort oder einer Person gehen."
+        konjugation: "ich besuche, du besuchst, er/sie/es besucht, wir besuchen, ihr besucht, sie/Sie besuchen"
+        zeiten: "Präsens, Präteritum (besuchte), Perfekt (hat besucht)"
+        related_cards: ["Schule", "Freunde"]
+        examples: ["Ich besuche eine Sprachschule.", "Er hat seine Großeltern besucht.", "Wir besuchen heute ein Museum."]
+      - id: "mitbringen"
+        title: "mitbringen"
+        description: "Etwas oder jemanden an einen Ort bringen."
+        konjugation: "ich bringe mit, du bringst mit, er/sie/es bringt mit, wir bringen mit, ihr bringt mit, sie/Sie bringen mit"
+        zeiten: "Präsens, Präteritum (brachte mit), Perfekt (hat mitgebracht)"
+        related_cards: ["Gegenstände", "Geschenke"]
+        examples: ["Ich bringe einen Kuchen mit.", "Er hat ein Geschenk mitgebracht.", "Kannst du deine Bücher mitbringen?"]
+      - id: "teilnehmen"
+        title: "teilnehmen"
+        description: "Bei etwas mitmachen oder dabei sein."
+        konjugation: "ich nehme teil, du nimmst teil, er/sie/es nimmt teil, wir nehmen teil, ihr nehmt teil, sie/Sie nehmen teil"
+        zeiten: "Präsens, Präteritum (nahm teil), Perfekt (hat teilgenommen)"
+        related_cards: ["Kurs", "Veranstaltung"]
+        examples: ["Ich nehme an einem Workshop teil.", "Er hat an der Diskussion teilgenommen.", "Wir nehmen an der Konferenz teil."]
+      - id: "betreuen"
+        title: "betreuen"
+        description: "Sich um jemanden oder etwas kümmern."
+        konjugation: "ich betreue, du betreust, er/sie/es betreut, wir betreuen, ihr betreut, sie/Sie betreuen"
+        zeiten: "Präsens, Präteritum (betreute), Perfekt (hat betreut)"
+        related_cards: ["Kinder", "Pflege"]
+        examples: ["Ich betreue die Kinder im Kindergarten.", "Er hat die Patienten betreut.", "Wer betreut das Projekt?"]
+      - id: "spielen"
+        title: "spielen"
+        description: "Eine Aktivität ausführen, die Spaß macht oder ein Spiel ist."
+        konjugation: "ich spiele, du spielst, er/sie/es spielt, wir spielen, ihr spielt, sie/Sie spielen"
+        zeiten: "Präsens, Präteritum (spielte), Perfekt (hat gespielt)"
+        related_cards: ["Freizeit", "Kinder"]
+        examples: ["Ich spiele Fußball.", "Die Kinder haben im Garten gespielt.", "Wir spielen ein Brettspiel."]
+      - id: "anbieten"
+        title: "anbieten"
+        description: "Etwas zur Verfügung stellen oder vorschlagen."
+        konjugation: "ich biete an, du bietest an, er/sie/es bietet an, wir bieten an, ihr bietet an, sie/Sie bieten an"
+        zeiten: "Präsens, Präteritum (bot an), Perfekt (hat angeboten)"
+        related_cards: ["Service", "Hilfe"]
+        examples: ["Ich biete meine Hilfe an.", "Er hat mir einen Kaffee angeboten.", "Die Firma bietet viele Kurse an."]        

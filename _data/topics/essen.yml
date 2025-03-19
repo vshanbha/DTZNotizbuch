@@ -5,367 +5,366 @@ categories:
     value: "Nomen"
     cards:
       - id: "kartoffel"
-        title: "Kartoffel 🥔"
+        title: "Die Kartoffel 🥔"
         description: "Ein Grundnahrungsmittel."
         plural: "Kartoffeln"
         related_cards: ["Gemüse", "Essen"]
         examples: ["Kartoffeln sind lecker.", "Ich koche Kartoffeln."]
       - id: "schinken"
-        title: "Schinken"
+        title: "Der Schinken"
         description: "Ein Fleischprodukt."
         plural: "Schinken"
         related_cards: ["Fleisch", "Essen"]
         examples: ["Ich esse Schinken.", "Schinken ist lecker."]
       - id: "bananen"
-        title: "Bananen 🍌"
+        title: "Die Bananen 🍌"
         description: "Gelbe Früchte."
         plural: "Bananen"
         related_cards: ["Obst", "Frucht"]
         examples: ["Ich esse Bananen.", "Bananen sind gesund."]
       - id: "salami"
-        title: "Salami"
+        title: "Die Salami"
         description: "Eine Art von Wurst."
         plural: "Salamis"
         related_cards: ["Wurst", "Essen"]
         examples: ["Ich esse Salami.", "Salami ist lecker."]
       - id: "bier"
-        title: "Bier 🍺"
+        title: "Das Bier 🍺"
         description: "Ein alkoholisches Getränk."
         plural: "Biere"
         related_cards: ["Getränk", "Alkohol"]
         examples: ["Ich trinke Bier.", "Bier ist erfrischend."]
       - id: "butter"
-        title: "Butter 🧈"
+        title: "Die Butter 🧈"
         description: "Ein Milchprodukt."
         plural: "Butter"
         related_cards: ["Milch", "Essen"]
         examples: ["Ich benutze Butter.", "Butter ist lecker."]
       - id: "käse"
-        title: "Käse 🧀"
+        title: "Der Käse 🧀"
         description: "Ein Milchprodukt."
         plural: "Käse"
         related_cards: ["Milch", "Essen"]
         examples: ["Ich mag Käse.", "Käse ist lecker."]
       - id: "apfel"
-        title: "Apfel 🍎"
+        title: "Der Apfel 🍎"
         description: "Eine rote Frucht."
         plural: "Äpfel"
         related_cards: ["Obst", "Frucht"]
         examples: ["Ich esse einen Apfel.", "Äpfel sind gesund."]
       - id: "apfelsaft"
-        title: "Apfelsaft 🧃"
+        title: "Der Apfelsaft 🧃"
         description: "Ein Getränk aus Äpfeln."
         plural: "Apfelsäfte"
         related_cards: ["Getränk", "Frucht"]
         examples: ["Ich trinke Apfelsaft.", "Apfelsaft ist lecker."]
       - id: "kuchen"
-        title: "Kuchen 🍰"
+        title: "Der Kuchen 🍰"
         description: "Ein süßes Gebäck."
         plural: "Kuchen"
         related_cards: ["Gebäck", "Essen"]
-        examples: ["Ich esse Kuchen.", "Kuchen ist lecker."]
       - id: "knoblauch"
-        title: "Knoblauch 🧄"
+        title: "Der Knoblauch 🧄"
         description: "Eine aromatische Pflanze."
         plural: "Knoblauch"
         related_cards: ["Gewürz", "Essen"]
         examples: ["Ich benutze Knoblauch.", "Knoblauch ist gesund."]
       - id: "salz"
-        title: "Salz 🧂"
+        title: "Das Salz 🧂"
         description: "Ein Gewürz."
         plural: "Salze"
         related_cards: ["Gewürz", "Essen"]
         examples: ["Ich benutze Salz.", "Salz ist wichtig."]
       - id: "zwiebeln"
-        title: "Zwiebeln 🧅"
+        title: "Die Zwiebeln 🧅"
         description: "Eine aromatische Pflanze."
         plural: "Zwiebeln"
         related_cards: ["Gemüse", "Essen"]
         examples: ["Ich benutze Zwiebeln.", "Zwiebeln sind gesund."]
       - id: "wein"
-        title: "Wein 🍷"
+        title: "Der Wein 🍷"
         description: "Ein alkoholisches Getränk."
         plural: "Weine"
         related_cards: ["Getränk", "Alkohol"]
         examples: ["Ich trinke Wein.", "Wein ist lecker."]
       - id: "eis"
-        title: "Eis 🍨"
+        title: "Das Eis 🍨"
         description: "Ein gefrorenes Dessert."
         plural: "Eis"
         related_cards: ["Dessert", "Essen"]
         examples: ["Ich esse Eis.", "Eis ist lecker."]
       - id: "birne"
-        title: "Birne 🍐"
+        title: "Die Birne 🍐"
         description: "Eine grüne Frucht."
         plural: "Birnen"
         related_cards: ["Obst", "Frucht"]
         examples: ["Ich esse eine Birne.", "Birnen sind gesund."]
       - id: "brötchen"
-        title: "Brötchen 🥖"
+        title: "Das Brötchen 🥖"
         description: "Ein kleines Brot."
         plural: "Brötchen"
         related_cards: ["Brot", "Essen"]
         examples: ["Ich esse ein Brötchen.", "Brötchen sind lecker."]
       - id: "geflügel"
-        title: "Geflügel 🍗"
+        title: "Das Geflügel 🍗"
         description: "Fleisch von Vögeln."
         plural: "Geflügel"
         related_cards: ["Fleisch", "Essen"]
         examples: ["Ich esse Geflügel.", "Geflügel ist lecker."]
       - id: "apfelsinen"
-        title: "Apfelsinen 🍊"
+        title: "Die Apfelsinen 🍊"
         description: "Orangen."
         plural: "Apfelsinen"
         related_cards: ["Obst", "Frucht"]
         examples: ["Ich esse Apfelsinen.", "Apfelsinen sind gesund."]
       - id: "milch"
-        title: "Milch 🥛"
+        title: "Die Milch 🥛"
         description: "Ein Getränk von Kühen."
         plural: "Milch"
         related_cards: ["Getränk", "Milchprodukt"]
         examples: ["Ich trinke Milch.", "Milch ist gesund."]
       - id: "zitronen"
-        title: "Zitronen 🍋"
+        title: "Die Zitronen 🍋"
         description: "Gelbe Früchte."
         plural: "Zitronen"
         related_cards: ["Obst", "Frucht"]
         examples: ["Ich benutze Zitronen.", "Zitronen sind sauer."]
       - id: "karotten"
-        title: "Karotten 🥕"
+        title: "Die Karotten 🥕"
         description: "Oranges Gemüse."
         plural: "Karotten"
         related_cards: ["Gemüse", "Essen"]
         examples: ["Ich esse Karotten.", "Karotten sind gesund."]
       - id: "tomaten"
-        title: "Tomaten 🍅"
+        title: "Die Tomaten 🍅"
         description: "Rotes Gemüse."
         plural: "Tomaten"
         related_cards: ["Gemüse", "Essen"]
         examples: ["Ich esse Tomaten.", "Tomaten sind gesund."]
       - id: "sahne"
-        title: "Sahne 🥛"
+        title: "Die Sahne 🥛"
         description: "Ein Milchprodukt."
         plural: "Sahne"
         related_cards: ["Milch", "Essen"]
         examples: ["Ich benutze Sahne.", "Sahne ist lecker."]
       - id: "hähnchen"
-        title: "Hähnchen 🍗"
+        title: "Das Hähnchen 🍗"
         description: "Fleisch von Hühnern."
         plural: "Hähnchen"
         related_cards: ["Fleisch", "Essen"]
         examples: ["Ich esse Hähnchen.", "Hähnchen ist lecker."]
       - id: "rindersteak"
-        title: "Rindersteak 🥩"
+        title: "Das Rindersteak 🥩"
         description: "Ein Stück Fleisch von Rindern."
         plural: "Rindersteaks"
         related_cards: ["Fleisch", "Essen"]
         examples: ["Ich esse Rindersteak.", "Rindersteak ist lecker."]
       - id: "pfeffer"
-        title: "Pfeffer 🌶️"
+        title: "Der Pfeffer 🌶️"
         description: "Ein Gewürz."
         plural: "Pfeffer"
         related_cards: ["Gewürz", "Essen"]
         examples: ["Ich benutze Pfeffer.", "Pfeffer ist scharf."]
       - id: "brot"
-        title: "Brot 🍞"
+        title: "Das Brot 🍞"
         description: "Ein Grundnahrungsmittel."
         plural: "Brote"
         related_cards: ["Essen", "Backwaren"]
         examples: ["Ich esse Brot.", "Brot ist lecker."]
       - id: "schokolade"
-        title: "Schokolade 🍫"
+        title: "Die Schokolade 🍫"
         description: "Ein süßes Dessert."
         plural: "Schokoladen"
         related_cards: ["Dessert", "Essen"]
         examples: ["Ich esse Schokolade.", "Schokolade ist lecker."]
       - id: "mineralwasser"
-        title: "Mineralwasser 🥤"
+        title: "Das Mineralwasser 🥤"
         description: "Ein Getränk."
         plural: "Mineralwasser"
         related_cards: ["Getränk", "Wasser"]
         examples: ["Ich trinke Mineralwasser.", "Mineralwasser ist erfrischend."]
       - id: "wasser"
-        title: "Wasser 💧"
+        title: "Das Wasser 💧"
         description: "Ein Getränk."
         plural: "Wasser"
         related_cards: ["Getränk", "H2O"]
         examples: ["Ich trinke Wasser.", "Wasser ist lebenswichtig."]
       - id: "pudding"
-        title: "Pudding 🍮"
+        title: "Der Pudding 🍮"
         description: "Ein süßes Dessert."
         plural: "Puddings"
         related_cards: ["Dessert", "Essen"]
         examples: ["Ich esse Pudding.", "Pudding ist lecker."]
       - id: "melonen"
-        title: "Melonen 🍈"
+        title: "Die Melonen 🍈"
         description: "Große Früchte."
         plural: "Melonen"
         related_cards: ["Obst", "Frucht"]
         examples: ["Ich esse Melonen.", "Melonen sind erfrischend."]
       - id: "obst"
-        title: "Obst 🍇"
+        title: "Das Obst 🍇"
         description: "Früchte."
         plural: "Obst"
         related_cards: ["Frucht", "Essen"]
         examples: ["Ich esse Obst.", "Obst ist gesund."]
       - id: "gemüse"
-        title: "Gemüse 🥦"
+        title: "Das Gemüse 🥦"
         description: "Pflanzliche Nahrung."
         plural: "Gemüse"
         related_cards: ["Essen", "Pflanze"]
         examples: ["Ich esse Gemüse.", "Gemüse ist gesund."]
       - id: "wurst"
-        title: "Wurst 🌭"
+        title: "Die Wurst 🌭"
         description: "Ein Fleischprodukt."
         plural: "Würste"
         related_cards: ["Fleisch", "Essen"]
         examples: ["Ich esse Wurst.", "Wurst ist lecker."]
       - id: "süßigkeit"
-        title: "Süßigkeit 🍬"
+        title: "Die Süßigkeit 🍬"
         description: "Ein süßes Lebensmittel."
         plural: "Süßigkeiten"
         related_cards: ["Dessert", "Essen"]
         examples: ["Ich esse Süßigkeiten.", "Süßigkeiten sind lecker."]
       - id: "getränk"
-        title: "Getränk 🥤"
+        title: "Das Getränk 🥤"
         description: "Eine Flüssigkeit zum Trinken."
         plural: "Getränke"
         related_cards: ["Essen", "Flüssigkeit"]
         examples: ["Ich trinke ein Getränk.", "Getränke sind erfrischend."]
       - id: "speiskarte"
-        title: "Speisekarte"
+        title: "Die Speisekarte"
         description: "Eine Liste von Gerichten in einem Restaurant."
         plural: "Speisekarten"
         related_cards: ["Restaurant", "Essen"]
         examples: ["Ich lese die Speisekarte.", "Die Speisekarte ist umfangreich."]
       - id: "lebensmittel"
-        title: "Lebensmittel"
+        title: "Die Lebensmittel"
         description: "Nahrungsmittel, die man zum Leben braucht."
         plural: "Lebensmittel"
         related_cards: ["Essen", "Nahrung"]
         examples: ["Ich kaufe Lebensmittel.", "Lebensmittel sind wichtig."]
       - id: "mengenangaben"
-        title: "Mengenangaben"
+        title: "Die Mengenangaben"
         description: "Angaben zur Menge von etwas."
         plural: "Mengenangaben"
         related_cards: ["Maßeinheit", "Essen"]
         examples: ["Ich brauche Mengenangaben.", "Die Mengenangaben sind genau."]
       - id: "glas"
-        title: "Glas"
+        title: "Das Glas"
         description: "Ein Behälter aus Glas."
         plural: "Gläser"
         related_cards: ["Behälter", "Getränk"]
         examples: ["Ich trinke aus einem Glas.", "Das Glas ist voll."]
       - id: "flasche"
-        title: "Flasche"
+        title: "Die Flasche"
         description: "Ein Behälter für Flüssigkeiten."
         plural: "Flaschen"
         related_cards: ["Behälter", "Getränk"]
         examples: ["Ich kaufe eine Flasche Wasser.", "Die Flasche ist leer."]
       - id: "stück"
-        title: "Stück"
+        title: "Das Stück"
         description: "Ein Teil von etwas."
         plural: "Stücke"
         related_cards: ["Mengenangaben", "Essen"]
         examples: ["Ich nehme ein Stück Kuchen.", "Das Stück ist groß."]
       - id: "tafel"
-        title: "Tafel"
+        title: "Die Tafel"
         description: "Eine flache Platte, oft aus Schokolade."
         plural: "Tafeln"
         related_cards: ["Schokolade", "Essen"]
         examples: ["Ich esse eine Tafel Schokolade.", "Die Tafel ist lecker."]
       - id: "dose"
-        title: "Dose"
+        title: "Die Dose"
         description: "Ein Behälter aus Metall."
         plural: "Dosen"
         related_cards: ["Behälter", "Essen"]
         examples: ["Ich öffne eine Dose.", "Die Dose ist voll."]
       - id: "kasten"
-        title: "Kasten"
+        title: "Der Kasten"
         description: "Ein Behälter für Flaschen."
         plural: "Kästen"
         related_cards: ["Behälter", "Getränk"]
         examples: ["Ich kaufe einen Kasten Bier.", "Der Kasten ist schwer."]
       - id: "päckchen"
-        title: "Päckchen"
+        title: "Das Päckchen"
         description: "Ein kleines Paket."
         plural: "Päckchen"
         related_cards: ["Behälter", "Essen"]
         examples: ["Ich öffne ein Päckchen Zucker.", "Das Päckchen ist klein."]
       - id: "zucker"
-        title: "Zucker"
+        title: "Der Zucker"
         description: "Ein süßes Lebensmittel."
         plural: "Zucker"
         related_cards: ["Süßigkeit", "Essen"]
         examples: ["Ich benutze Zucker.", "Zucker ist süß."]
       - id: "nachtisch"
-        title: "Nachtisch"
+        title: "Der Nachtisch"
         description: "Ein süßes Gericht nach dem Essen."
         plural: "Nachtische"
         related_cards: ["Dessert", "Essen"]
         examples: ["Ich esse Nachtisch.", "Der Nachtisch ist lecker."]
       - id: "salat"
-        title: "Salat"
+        title: "Der Salat"
         description: "Ein Gericht aus rohem Gemüse."
         plural: "Salate"
         related_cards: ["Gemüse", "Essen"]
         examples: ["Ich esse Salat.", "Der Salat ist frisch."]
       - id: "schnitzel"
-        title: "Schnitzel"
+        title: "Das Schnitzel"
         description: "Ein paniertes und gebratenes Stück Fleisch."
         plural: "Schnitzel"
         related_cards: ["Fleisch", "Essen"]
         examples: ["Ich esse Schnitzel.", "Das Schnitzel ist knusprig."]
       - id: "gemüsepfanne"
-        title: "Gemüsepfanne"
+        title: "Die Gemüsepfanne"
         description: "Ein Gericht aus gebratenem Gemüse."
         plural: "Gemüsepfannen"
         related_cards: ["Gemüse", "Essen"]
         examples: ["Ich koche eine Gemüsepfanne.", "Die Gemüsepfanne ist gesund."]
       - id: "nudel"
-        title: "Nudel"
+        title: "Die Nudel"
         description: "Ein Teigwarenprodukt."
         plural: "Nudeln"
         related_cards: ["Teigwaren", "Essen"]
         examples: ["Ich koche Nudeln.", "Die Nudeln sind al dente."]
       - id: "fisch"
-        title: "Fisch"
+        title: "Der Fisch"
         description: "Ein Wasserlebewesen, das gegessen wird."
         plural: "Fische"
         related_cards: ["Meer", "Essen"]
         examples: ["Ich esse Fisch.", "Der Fisch ist frisch."]
       - id: "fleisch"
-        title: "Fleisch"
+        title: "Das Fleisch"
         description: "Das essbare Gewebe von Tieren."
         plural: "Fleisch"
         related_cards: ["Essen", "Protein"]
         examples: ["Ich esse Fleisch.", "Fleisch ist nahrhaft."]
       - id: "erdbeer"
-        title: "Erdbeere"
+        title: "Die Erdbeere"
         description: "Eine rote Frucht."
         plural: "Erdbeeren"
         related_cards: ["Obst", "Frucht"]
         examples: ["Ich esse Erdbeeren.", "Erdbeeren sind süß."]
       - id: "pfand"
-        title: "Pfand"
+        title: "Das Pfand"
         description: "Ein Betrag, der für eine Flasche oder Dose zurückgegeben wird."
         plural: "Pfand"
         related_cards: ["Flasche", "Getränk"]
         examples: ["Ich gebe das Pfand zurück.", "Das Pfand ist 25 Cent."]
       - id: "hackfleisch"
-        title: "Hackfleisch"
+        title: "Das Hackfleisch"
         description: "Klein gehacktes Fleisch."
         plural: "Hackfleisch"
         related_cards: ["Fleisch", "Essen"]
         examples: ["Ich koche Hackfleisch.", "Hackfleisch ist vielseitig."]
       - id: "haltbarkeitsdatum"
-        title: "Haltbarkeitsdatum"
+        title: "Das Haltbarkeitsdatum"
         description: "Das Datum, bis zu dem ein Lebensmittel haltbar ist."
         plural: "Haltbarkeitsdaten"
         related_cards: ["Lebensmittel", "Datum"]
         examples: ["Ich überprüfe das Haltbarkeitsdatum.", "Das Haltbarkeitsdatum ist abgelaufen."]
       - id: "joghurt"
-        title: "Joghurt"
+        title: "Der Joghurt"
         description: "Ein Milchprodukt."
         plural: "Joghurts"
         related_cards: ["Milch", "Essen"]

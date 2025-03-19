@@ -1088,3 +1088,144 @@ zurückgeben:
   description: "To return something."
 empfehlen:
   description: "To recommend something."
+
+prüfung:
+  description: "An assessment or test to evaluate knowledge or skills."
+lehre:
+  description: "An apprenticeship or vocational training."
+zeugnis:
+  description: "A certificate or report card showing academic or professional achievements."
+praktikum:
+  description: "An internship or practical training in a workplace."
+universität:
+  description: "An institution of higher education and research."
+berufsschule:
+  description: "A vocational school for professional training."
+auszubildende:
+  description: "A person undergoing vocational training."
+hauptabschluss:
+  description: "A basic school-leaving certificate in Germany."
+studium:
+  description: "The pursuit of higher education at a university."
+weiterbildung:
+  description: "Further education or professional development."
+erfahrung:
+  description: "Knowledge or skills gained through practice or exposure."
+pflegedienst:
+  description: "A service providing care for the elderly or sick."
+helferin:
+  description: "A female assistant or helper."
+berufswünsche:
+  description: "Career aspirations or job preferences."
+berufsberater:
+  description: "A career counselor or advisor."
+unterlagen:
+  description: "Documents or materials required for a specific purpose."
+gastronomie:
+  description: "The art or business of preparing and serving food."
+fortbildung:
+  description: "Advanced training or continuing education."
+tatigkeit:
+  description: "An activity or task performed as part of a job."
+umschulung:
+  description: "Retraining for a new profession."
+teilzeitkurse:
+  description: "Courses offered on a part-time basis."
+vollzeitkurse:
+  description: "Courses offered on a full-time basis."
+arbeitsagentur:
+  description: "An employment agency or job center."
+deutschkenntnisse:
+  description: "Knowledge or proficiency in the German language."
+gymnasium:
+  description: "A secondary school preparing students for university."
+abitur:
+  description: "The final exam and qualification from a German gymnasium."
+realschule:
+  description: "A type of secondary school in Germany."
+unterricht:
+  description: "Lessons or instruction in a subject."
+lieblingsfach:
+  description: "A favorite school subject."
+hausaufgabe:
+  description: "Homework assigned to students."
+note:
+  description: "A grade or mark given for academic performance."
+biologie:
+  description: "The study of living organisms."
+chemie:
+  description: "The study of substances and their interactions."
+erdkunde:
+  description: "The study of geography."
+geschichte:
+  description: "The study of history."
+mathematik:
+  description: "The study of numbers, shapes, and patterns."
+musik:
+  description: "The art of creating or performing music."
+physik:
+  description: "The study of matter, energy, and their interactions."
+ordner:
+  description: "A folder or binder for organizing documents."
+heft:
+  description: "A notebook for writing."
+marker:
+  description: "A pen used for highlighting text."
+schwamm:
+  description: "A sponge used for cleaning or erasing."
+kugelschreiber:
+  description: "A ballpoint pen for writing."
+bleistift:
+  description: "A pencil used for drawing or writing."
+radiergummi:
+  description: "An eraser used to remove pencil marks."
+rucksack:
+  description: "A backpack for carrying items."
+kindergarten:
+  description: "A preschool for young children."
+spielplatz:
+  description: "A playground for children to play."
+elternabend:
+  description: "A meeting for parents at a school or kindergarten."
+elternarbeit:
+  description: "Parental involvement in school or childcare activities."
+tagesmutter:
+  description: "A childminder providing daycare services."
+grundschule:
+  description: "A primary school for young children."
+gesamtschulen:
+  description: "Comprehensive schools offering various educational tracks."
+ganztagschulen:
+  description: "Schools offering full-day education and activities."
+übersetzen:
+  description: "To translate text or speech into another language."
+gründen:
+  description: "To establish or start something new."
+dauern:
+  description: "To last for a certain period of time."
+passen:
+  description: "To fit or be suitable."
+förderen:
+  description: "To promote or support something."
+vorschlagen:
+  description: "To propose or suggest something."
+erhalten:
+  description: "To receive or obtain something."
+suchen:
+  description: "To look for or try to find something."
+verbessern:
+  description: "To improve or make something better."
+verändern:
+  description: "To change or modify something."
+beenden:
+  description: "To finish or conclude something."
+teilnehmen:
+  description: "To participate in an activity or event."
+betreuen:
+  description: "To care for or supervise someone."
+spielen:
+  description: "To engage in an activity for enjoyment."
+schulabschluss:
+  description: "The completion of a level of schooling, such as primary or secondary education."
+nachhilfe:
+  description: "Additional tutoring or lessons to help improve understanding of a subject."
