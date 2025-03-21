@@ -30,6 +30,7 @@ Wir möchten so schnell wie möglich einziehen und können auch nächsten Monat 
 Ich danke Ihnen im Voraus und warte auf Ihre Antwort.
 
 Mit freundlichen Grüßen
+
 [Ihr Name]
 
 

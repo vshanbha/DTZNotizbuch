@@ -29,4 +29,5 @@ Ich werde mit dem Prüfungstraining-Buch lernen und auch meine Mitschüler anruf
 Vielen Dank für Ihr Verständnis.
 
 Mit freundlichen Grüßen
+
 [Ihr Name]
