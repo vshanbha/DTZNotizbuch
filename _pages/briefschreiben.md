@@ -12,6 +12,7 @@ Hier sind einige Tipps und Tricks, wie Sie einen Brief schreiben können. Diese 
   - "Sehr geehrte Frau Müller,"  
   - "Sehr geehrter Herr Schmidt,"
 - **Informell:**  
+
   - "Liebe Anna,"  
   - "Lieber Peter,"
 
@@ -27,7 +28,10 @@ Hier sind einige Tipps und Tricks, wie Sie einen Brief schreiben können. Diese 
 - Erklären Sie, was Sie sagen möchten.
 - Nutzen Sie relevante Wörter basierend auf dem Kontext.
 - Fügen Sie nach Möglichkeit ein oder zwei Sätze ein, die mit Wörtern wie „leider“, „außerdem“, „auf diesem Grund“ beginnen.
-- **Höflichkeit:** Seien Sie freundlich und höflich. Verwenden Sie Modalverben wie können, möchten, müssen, dürfen, sollen, wollen. z. B. „Ich mache gerne einen Programmierkurs“ ist gut, aber „Ich möchte gerne einen Programmierkurs machen“ klingt viel besser. 
+- **Höflichkeit:** Seien Sie freundlich und höflich. Konjunktiv 2 öfter verwenden. Verwenden Sie Modalverben wie können, möchten, müssen, dürfen, sollen, wollen.
+z.B. 
+  - „Ich mache gerne einen Programmierkurs“ ist gut, aber „Ich möchte gerne einen Programmierkurs machen“ klingt viel besser.
+  - „Können Sie mir helfen?" ist höflich aber „Könnten Sie mir helfen?" ist besser.
 - Indirekte Fragen sind besser, weil sie helfen, die Sätze zu verlängern.
 
 ### Beispiel-Sätze im Hauptteil
