@@ -1,5 +1,5 @@
 ---
-title:  "Eine Beschwerde schreiben - Bestellung"
+title:  "Einladung Ablehnen"
 date:   2025-03-13 22:00:00 +0100
 categories: [briefschreiben, üben]
 ---
@@ -32,4 +32,5 @@ Außerdem habe ich eine Spezial-Edition-CD von Pink Floyd für Sie gekauft, weil
 Ich hoffe, Sie haben eine tolle Geburtstagsfeier. 
 
 Mir freundlichen Grüßen
-**[Vor Nachname]**
+
+[Ihr Name]

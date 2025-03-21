@@ -32,4 +32,4 @@ Wenn Sie auf meine Reklamation nicht antworten, werde ich eine negative Bewertun
 Ich freue mich auf eine baldige Antwort.
 Mit freundlichen Grüßen
 
-***Vor Nachname***
+[Ihr Name]

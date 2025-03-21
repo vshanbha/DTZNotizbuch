@@ -33,6 +33,5 @@ Außerdem möchte ich wissen, wie viel ich für den Kurs bezahlen muss. Haben Si
 Ich bedanke mich bei Ihnen im Voraus und warte auf Ihre Antwort.
 
 Mit freundlichen Grüßen
-[Ihr Name]
 
-***Vor-Nachname***
+[Ihr Name]
