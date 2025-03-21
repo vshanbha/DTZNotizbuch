@@ -6,7 +6,7 @@ categories: [briefschreiben, üben]
 
 ## Die Frage
 
-Sie haben vor einer Woche bei Amazon einen Fernseher bestell. Der Fernseher ist bei Ihnen angekommen. Beim Auspacken haben Sie festgestellt, dass der Bildschrim zerkrazt ist und die Fernbedienung keine Batterien hat. Schreiben Sie an den Kundenservice von Amazon. 
+Sie haben vor einer Woche bei Amazon einen Fernseher bestellt. Der Fernseher ist bei Ihnen angekommen. Beim Auspacken haben Sie festgestellt, dass der Bildschrim zerkrazt ist und die Fernbedienung keine Batterien hat. Schreiben Sie an den Kundenservice von Amazon. 
 
 
 ### Schreiben Sie zu folgenden Punkten.
