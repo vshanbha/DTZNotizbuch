@@ -14,6 +14,7 @@ Es kann erforderlich sein, eine Anfrage an einen Vermieter zu schreiben oder ein
 
 - In Ihrer Wohnung haben Sie [ein Problem mit der Heizung]({% link _posts/2025-03-18-WohnungHeizung-email.md %}). Schreiben Sie an den Vermieter eine Email.
 
+- Sie suchen für Ihre Bekannte eine neue Wohnung. [Schreiben Sie an eine Immobilienfirma eine E-Mail]({% link _posts/2025-03-14-Wohnungssuche-Bekannte.md %}).
 ## 2. Einladung schreiben oder beantworten  
 Einladungsschreiben sind oft informell. Die Aufgabe kann das Schreiben einer Einladung oder eine Antwort auf eine Einladung erfordern.  
 
@@ -21,17 +22,18 @@ Einladungsschreiben sind oft informell. Die Aufgabe kann das Schreiben einer Ein
 - Eine Kollegin hat Sie zu [seiner Geburtstagsfeier eingeladen]({% link _posts/2025-03-13-EinladungAblehnen.md %}). Schreiben Sie eine Antwort.  
 
 ## 3. Beschwerde schreiben  
-Teilnehmende müssen eine Beschwerde an eine Firma oder eine Person formulieren, um ein Problem darzustellen.  
+Teilnehmende müssen eine Beschwerde (auch bekannt als Reklamation) an eine Firma oder eine Person formulieren, um ein Problem darzustellen.  
 
 **Beispiel:**  
 - Sie haben ein Produkt online bestellt, aber es funktioniert nicht. [Schreiben Sie an den Kundenservice]({% link _posts/2025-03-10-beschweren-bestellung.md %}).  
 - Sie möchten sich bei der [Deutschen Bahn über die Verspätung Ihres Zuges beschweren]({% link _posts/2025-03-11-ZugVerspaetung-beschweren.md %}).
 
-## 4. Informationen erfragen  
-In dieser Aufgabe müssen Fragen zu einem bestimmten Thema gestellt werden, z. B. zu Kursen, Preisen oder Dienstleistungen.  
+## 4. Verträge kündigen und Probleme mit Dienstleistungen melden
+Die Aufgabe kann beinhalten, einen Vertrag zu kündigen oder sich über eine nicht zufriedenstellende Dienstleistung zu beschweren.
 
-**Beispiel:**  
-- Sie möchten einen Erste-Hilfe-Kurs machen. [Schreiben Sie eine E-Mail]({% link _posts/2025-03-10-informieren-erste-hilfe-kurs.md %}) und fragen Sie nach den Terminen und Kosten.  
+**Beispiel:**
+- Sie haben seit einiger Zeit einen Vertrag mit einem bekannten Unternehmen. Seit einiger Zeit funktioniert Ihr Dienst nicht mehr gut. [Sie schreiben deshalb eine E-Mail]({% link _posts/2025-03-23-InternetReparatur.md %}). 
+- Sie haben bereits seit zwei Jahren einen Handyvertrag und möchten diesen nun zum nächstmöglichen Zeitpunkt kündigen. [Schreiben Sie eine E-Mail an das Unternehmen]({% link _posts/2025-03-22-HandyVertrag.md %}).
 
 ## 5. Nachbarn oder Freunde um Hilfe bitten  
 Die Aufgabe kann beinhalten, eine höfliche Bitte um Unterstützung zu schreiben.  
@@ -46,29 +48,29 @@ Die Aufgabe kann beinhalten, sich für eine Verspätung, ein Missverständnis od
 **Beispiel:**  
 - Sie konnten einen wichtigen Termin nicht wahrnehmen. [Schreiben Sie eine Entschuldigung]({% link _posts/2025-03-12-Entschuldigung-unterricht-email.md %}) an die zuständige Person. 
 
-## 7. Termin absagen oder verschieben  
+## 7. Informationen erfragen  
+In dieser Aufgabe müssen Fragen zu einem bestimmten Thema gestellt werden, z. B. zu Kursen, Preisen oder Dienstleistungen.  
+
+**Beispiel:**  
+- Sie möchten einen Erste-Hilfe-Kurs machen. [Schreiben Sie eine E-Mail]({% link _posts/2025-03-10-informieren-erste-hilfe-kurs.md %}) und fragen Sie nach den Terminen und Kosten.  
+
+## 8. Termin absagen oder verschieben  
 Die Aufgabe kann beinhalten, einen Termin bei einem Arzt, einer Behörde oder einem anderen Dienstleister abzusagen oder zu verschieben.  
 
 **Beispiel:**  
 - Schreiben Sie eine E-Mail an eine Arztpraxis und bitten Sie um einen neuen Termin.
 
-## 8. Einladung zu einer Veranstaltung schreiben  
+## 9. Einladung zu einer Veranstaltung schreiben  
 Eine Einladung kann formell oder informell sein, z. B. für eine Feier oder ein Treffen.  
 
 **Beispiel:**  
 - Sie organisieren eine Party und möchten Ihre Freunde einladen. Schreiben Sie eine Einladung. 
 
-## 9. Arbeitsplatz oder Bewerbung  
+## 10. Arbeitsplatz oder Bewerbung  
 Teilnehmende müssen eine Bewerbung für eine Arbeitsstelle schreiben oder sich nach einer offenen Stelle erkundigen.  
 
 **Beispiel:**  
 - Sie haben eine Stellenanzeige gelesen und möchten sich bewerben. Schreiben Sie eine Bewerbung per E-Mail.  
-
-## 10. Glückwünsche schreiben  
-Teilnehmende müssen einen kurzen Brief oder eine E-Mail schreiben, um jemandem zu gratulieren.  
-
-**Beispiel:**  
-- Ihr Kollege hat eine neue Arbeitsstelle. Schreiben Sie ihm eine E-Mail mit Glückwünschen. 
 
 ## Fazit  
 Diese Themen sind häufig im DTZ-Test. Die Aufgaben können formelle oder informelle Briefe erfordern. Eine klare Struktur, höfliche Formulierungen und korrekte Rechtschreibung sind wichtig.  
