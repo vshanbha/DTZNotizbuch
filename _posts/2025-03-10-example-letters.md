@@ -15,6 +15,7 @@ Es kann erforderlich sein, eine Anfrage an einen Vermieter zu schreiben oder ein
 - In Ihrer Wohnung haben Sie [ein Problem mit der Heizung]({% link _posts/2025-03-18-WohnungHeizung-email.md %}). Schreiben Sie an den Vermieter eine Email.
 
 - Sie suchen für Ihre Bekannte eine neue Wohnung. [Schreiben Sie an eine Immobilienfirma eine E-Mail]({% link _posts/2025-03-14-Wohnungssuche-Bekannte.md %}).
+
 ## 2. Einladung schreiben oder beantworten  
 Einladungsschreiben sind oft informell. Die Aufgabe kann das Schreiben einer Einladung oder eine Antwort auf eine Einladung erfordern.  
 
