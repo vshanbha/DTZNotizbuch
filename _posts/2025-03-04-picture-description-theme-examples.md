@@ -12,7 +12,7 @@ categories: [bildbeschreibung, üben]
    - Menschen spazieren mit ihren Hunden im Park.
 
 2. **Arbeit und Berufe**
-   - Ein Arzt untersucht einen Patienten in einer Klinik.
+   - [Ein Arzt untersucht einen Patienten]({% link _posts/2025-03-15-EinArztuntersuchtPatienten.md %}) in einer Klinik.
    - Ein Lehrer unterrichtet Schüler in einem Klassenzimmer.
    - Bauarbeiter bauen ein Haus.
    - [Ein Büroangestellter]({% link _posts/2025-03-06-buro-worker-typing.md %}) tippt auf einem Computer.
