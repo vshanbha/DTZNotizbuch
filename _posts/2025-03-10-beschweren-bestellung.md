@@ -27,9 +27,8 @@ Außerdem waren die Batterien für die Fernbedienung leer und die funktioniert n
 
 Ich war mit Ihrem Service zufrieden und bis jetzt war ein treuer Kunde. Daher bitte ich Sie, den Fernseher umzutauschen oder mir den Kaufpreis zurückzuzahlen. 
 
-Wenn Sie auf meine Reklamation nicht antworten, werde ich eine negative Bewertung für den gekauften Fernseher hinterlassen.
+Wenn Sie auf meine Reklamation nicht antworten, werde ich eine negative Bewertung für den gekauften Fernseher hinterlassen. Ich freue mich auf eine baldige Antwort.
 
-Ich freue mich auf eine baldige Antwort.
 Mit freundlichen Grüßen
 
 [Ihr Name]

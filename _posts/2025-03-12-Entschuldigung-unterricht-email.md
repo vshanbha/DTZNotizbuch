@@ -19,13 +19,13 @@ Betreff: Entschuldigung für den Unterricht
 
 Sehr geehrte Frau Schulz,
 
-ich schreibe diesen Brief, weil ich nächste Woche nicht zum Unterricht kommen kann. Leider muss ich wegen meiner Arbeit verreisen.
+ich schreibe diesen Brief, weil ich diese Woche nicht zum Unterricht kommen kann. Leider muss ich wegen meiner Arbeit verreisen.
 
 Es gibt eine wichtige Veranstaltung, und viele aus unserer Branche kommen zu dieser Veranstaltung. Während dieser Veranstaltung muss ich meine Firma repräsentieren.
 
-Ich verreise vom 17. März bis zum 19. März und kann am 20. März wieder zum Unterricht kommen. Ich möchte jedoch den Modelltest machen und bitte Sie, ob ich den Test zu einer anderen Zeit machen darf. 
+Ich verreise vom 13. März bis zum 19. März und kann am 20. März wieder zum Unterricht kommen. Ich möchte jedoch den Modelltest machen und möchte Sie fragen, ob ich trotz meiner Abwesenheit den Test machen darf. 
 
-Ich werde mit dem Prüfungstraining-Buch lernen und auch meine Mitschüler anrufen, damit ich über die Hausaufgaben auf dem Laufenden bleibe. Ich hoffe, dass ich trotz meiner Abwesenheit den Lernstoff gut nachholen kann.
+Ich werde mit dem Prüfungstrainingsbuch lernen und auch meine Mitschüler anrufen, um mit den Hausaufgaben aus dem Unterricht Schritt zu halten. Ich hoffe, dass ich trotz meiner Abwesenheit den Lernstoff gut nachholen kann.
 Vielen Dank für Ihr Verständnis.
 
 Mit freundlichen Grüßen
