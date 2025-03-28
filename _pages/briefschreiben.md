@@ -41,6 +41,12 @@ z.B.
 
 ## 3. Der Briefabschluss
 
+### Beispiel sätze für einen Abschluss
+  - Falls Sie weitere Fragen haben, stehe ich Ihnen gerne zur Verfügung.
+  - Ich danke Ihnen im Voraus und warte auf Ihre Antwort.
+  - Ich freue mich auf Ihre Antwort.
+  - Ich freue mich über eine baldige Antwort und wäre Ihnen sehr dankbar.
+
 ### Schlussformeln
 - **Formell:**  
   - "Mit freundlichen Grüßen"  
@@ -50,11 +56,6 @@ z.B.
 - **Informell:**  
   - "Liebe Grüße"  
   - "Viele Grüße"
-
-### Beispiel für einen Abschluss
-  - Falls Sie weitere Fragen haben, stehe ich Ihnen gerne zur Verfügung.
-  - Ich freue mich auf Ihre Antwort. Mit freundlichen Grüßen, [Ihr Name]
-
 
 ## 4. Weitere Tipps
 

@@ -6,7 +6,7 @@ categories: [briefschreiben, üben]
 
 ## Die Frage
 
-In Ihrer Wohnung haben Sie ein Problem mit der Heizung. Sie können Ihre Vermieter telefonisch nicht erreiche, deshalb schreiben Sie eine E-mail. 
+In Ihrer Wohnung haben Sie ein Problem mit der Heizung. Sie können Ihre Vermieter telefonisch nicht erreichen, deshalb schreiben Sie eine E-mail. 
 Gehen Sie dabei auf die folgenden Punkte ein.
 
 ### Schreiben Sie zu folgenden Punkten

@@ -16,6 +16,8 @@ Es kann erforderlich sein, eine Anfrage an einen Vermieter zu schreiben oder ein
 
 - Sie suchen für Ihre Bekannte eine neue Wohnung. [Schreiben Sie an eine Immobilienfirma eine E-Mail]({% link _posts/2025-03-14-Wohnungssuche-Bekannte.md %}).
 
+- Sie wohnen in einem Miethaus. Das Treppenhaus is immer schmutzig. [Schreiben Sie Ihrem Vermieter eine E-Mail]({% link _posts/2025-03-24-MiethausTreppenhaus.md %}).
+
 ## 2. Einladung schreiben oder beantworten  
 Einladungsschreiben sind oft informell. Die Aufgabe kann das Schreiben einer Einladung oder eine Antwort auf eine Einladung erfordern.  
 
@@ -59,7 +61,7 @@ In dieser Aufgabe müssen Fragen zu einem bestimmten Thema gestellt werden, z. B
 Die Aufgabe kann beinhalten, einen Termin bei einem Arzt, einer Behörde oder einem anderen Dienstleister abzusagen oder zu verschieben.  
 
 **Beispiel:**  
-- Schreiben Sie eine E-Mail an eine Arztpraxis und bitten Sie um einen neuen Termin.
+- [Schreiben Sie eine E-Mail an eine Arztpraxis]({% link _posts/2025-03-27-Termin-anderen.md %}) und bitten Sie um einen neuen Termin.
 
 ## 9. Einladung zu einer Veranstaltung schreiben  
 Eine Einladung kann formell oder informell sein, z. B. für eine Feier oder ein Treffen.  
