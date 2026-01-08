@@ -27,8 +27,9 @@ bundle install
 ```
 - Jekyll local server: Running the site on local machine requires running the local server from the root directory of the newly created project.
 ```bash
-bundle exec jekyll serve
+jekyll serve
 ```
+At the point the application should be up and running on [http://127.0.0.1:4000/DTZNotizbuch/](http://127.0.0.1:4000/DTZNotizbuch/)
 ## Customization
 After creating a new repository there are some very simple and basic customization steps to be done and then the newly created GitHub repository would be ready to use as a blog or website. 
 - Configuration: Jekyll offers a lot of finegrained [configuration options](https://jekyllrb.com/docs/configuration/){:target="_blank"}. The file `_config.yml` in the root folder has the bare bones configuration in place. 
